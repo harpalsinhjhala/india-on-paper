@@ -2,6 +2,8 @@
 
 *A portfolio project by Harpal Sinh Jhala.*
 
+**Live dashboard:** https://harpalsinhjhala13.github.io/india-on-paper/
+
 A dashboard built on ten years of India's public income-tax return statistics (AY 2014-15 to AY 2023-24,
 the latest CBDT has published), answering:
 
@@ -13,7 +15,7 @@ the latest CBDT has published), answering:
 6. Average vs median income
 7. Top cities / states driving collections
 
-Open `dashboard/index.html` in a browser. It is a single self-contained file.
+Open the live link above, or open `docs/index.html` in a browser. It is a single self-contained file.
 
 ## Folder layout
 
@@ -28,7 +30,8 @@ data/processed/
 dashboard/
   template.html   dashboard source
   data.json       computed insights
-  index.html      built, self-contained dashboard
+  index.html      built dashboard (page body, used for the Claude artifact)
+docs/index.html   standalone copy served by GitHub Pages
 scripts/          pipeline (below)
 ```
 
@@ -41,7 +44,7 @@ scripts/          pipeline (below)
 | 3 | `scripts/parse_itr_tables.py` | Parses every "Range of …" table and validates each against its printed Total row |
 | 4 | `scripts/build_timeseries.py` | Macro + state series transcribed from the Time Series PDF |
 | 5 | `scripts/compute_insights.py` | Percentiles, top shares, Gini, bunching, population/GDP ratios → `dashboard/data.json` |
-| 6 | `scripts/build_dashboard.py` | Inlines the data into `dashboard/index.html` |
+| 6 | `scripts/build_dashboard.py` | Inlines the data into `dashboard/index.html` and `docs/index.html` (GitHub Pages) |
 
 ```bash
 python scripts/parse_itr_tables.py && python scripts/build_timeseries.py && python scripts/compute_insights.py && python scripts/build_dashboard.py
