@@ -1,0 +1,1051 @@
+<title>India on Paper</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+/* Layout: a filing-ledger dashboard. Sticky year bar + section index, then one section per question,
+   each opening with a verdict line, evidence figures, and charts drawn on plain ruled surfaces. */
+:root {
+  --bg: #f3f5f7;
+  --surface: #ffffff;
+  --ink: #111720;
+  --ink-2: #4a5262;
+  --muted: #747c8c;
+  --line: #dde1e7;
+  --accent: #2c3a92;          /* ITR-form indigo: links, active state, highlights */
+  --accent-soft: #e6e9f7;
+  --s1: #2a78d6;              /* salary / median / series 1 */
+  --s2: #eb6834;              /* business / mean / series 2 */
+  --s3: #1baf7a;              /* series 3 */
+  --s4: #eda100;              /* series 4 */
+  --good: #0ca30c; --warn: #fab219; --crit: #d03b3b;
+  --q1: #86b6ef; --q2: #3987e5; --q3: #1c5cab; --q4: #0d366b;
+  --font-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Public Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+  --r: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1116; --surface: #161a21; --ink: #eceef2; --ink-2: #b6bcc8; --muted: #8b92a1; --line: #2a3039;
+    --accent: #a3adff; --accent-soft: #232a4d;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
+    --q1: #184f95; --q2: #256abf; --q3: #5598e7; --q4: #9ec5f4;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1116; --surface: #161a21; --ink: #eceef2; --ink-2: #b6bcc8; --muted: #8b92a1; --line: #2a3039;
+  --accent: #a3adff; --accent-soft: #232a4d;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
+  --q1: #184f95; --q2: #256abf; --q3: #5598e7; --q4: #9ec5f4;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 15px; line-height: 1.55; }
+.wrap { max-width: 1180px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; letter-spacing: -0.01em; }
+h1 { font-size: clamp(2rem, 5vw, 3.4rem); font-weight: 800; line-height: 1.02; }
+h2 { font-size: clamp(1.45rem, 3vw, 2rem); font-weight: 700; line-height: 1.12; }
+h3 { font-size: 1.02rem; font-weight: 700; }
+p { margin: 0; }
+.num, .mono { font-family: var(--font-data); font-variant-numeric: tabular-nums; }
+.eyebrow { font-family: var(--font-data); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+a { color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* header: title block left, portfolio card right */
+header.top { padding-block: 44px 28px; }
+.hero { display: grid; gap: 28px; grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr); align-items: end; }
+@media (max-width: 880px) { .hero { grid-template-columns: minmax(0, 1fr); } }
+.hero-main { display: grid; gap: 16px; min-width: 0; }
+.lede { font-size: 1.08rem; color: var(--ink-2); max-width: 64ch; }
+.lede b { color: var(--ink); }
+.stamp { display: inline-flex; gap: 8px; flex-wrap: wrap; align-items: center; font-family: var(--font-data); font-size: 0.72rem; color: var(--ink-2); }
+.stamp span { border: 1px solid var(--line); background: var(--surface); padding: 3px 8px; border-radius: 4px; }
+
+.pcard { position: relative; border: 1px solid var(--line); border-radius: 16px; background: var(--surface); padding: 20px; display: grid; gap: 16px; overflow: hidden; }
+.pcard::before { content: ""; position: absolute; inset: 0 0 auto 0; height: 4px; background: linear-gradient(90deg, var(--s1), var(--s3), var(--s4), var(--s2)); }
+.pcard .who-row { display: flex; gap: 14px; align-items: center; }
+.pcard .mono { width: 52px; height: 52px; flex: none; border-radius: 14px; display: grid; place-items: center; background: var(--accent); color: var(--surface); font-family: var(--font-display); font-weight: 800; font-size: 1.15rem; letter-spacing: 0.02em; }
+.pcard .who { display: grid; gap: 2px; min-width: 0; }
+.pcard .who strong { font-family: var(--font-display); font-size: 1.35rem; font-weight: 800; line-height: 1.1; letter-spacing: -0.01em; }
+.pcard .who small { font-size: 0.85rem; color: var(--ink-2); }
+.pcard dl { margin: 0; display: grid; gap: 0; border-top: 1px solid var(--line); }
+.pcard dl div { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 12px; padding: 9px 0; border-bottom: 1px dashed var(--line); }
+.pcard dl div:last-child { border-bottom: 0; padding-bottom: 0; }
+.pcard dt { font-family: var(--font-data); font-size: 0.66rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); padding-top: 2px; }
+.pcard dd { margin: 0; font-size: 0.86rem; color: var(--ink); }
+.chipset { display: flex; flex-wrap: wrap; gap: 5px; }
+.chipset span { font-family: var(--font-data); font-size: 0.7rem; padding: 2px 7px; border-radius: 4px; background: var(--accent-soft); color: var(--accent); }
+
+/* sticky control bar (v8 design) */
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+.bar .wrap { display: flex; gap: 14px; align-items: center; padding-block: 10px; flex-wrap: wrap; }
+.bar label { font-size: 0.8rem; color: var(--ink-2); display: flex; gap: 8px; align-items: center; }
+select, input[type="number"] { font: inherit; font-family: var(--font-data); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; }
+.bar .wrap { padding-right: calc(max(16px, env(safe-area-inset-right, 0px)) + 50px); }   /* keep the bar clear of the corner toggle */
+.yearpick { display: inline-flex; align-items: stretch; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); overflow: hidden; flex: none; }
+.yearpick span { font-family: var(--font-data); font-size: 0.66rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); padding: 0 10px; display: flex; align-items: center; border-right: 1px solid var(--line); background: var(--bg); }
+.yearpick select { border: 0; border-radius: 0; background: var(--surface); color: var(--ink); font-weight: 600; padding: 7px 10px; cursor: pointer; }
+.yearpick select:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+select option { background: var(--surface); color: var(--ink); }
+select option:checked { background: var(--accent); color: var(--surface); }
+/* section index: one segmented rail; numbers follow the page order */
+nav.index { display: flex; flex-wrap: wrap; gap: 2px; flex: 1 1 400px; min-width: 0; padding: 3px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
+nav.index a { white-space: nowrap; font-size: 0.8rem; font-weight: 500; text-decoration: none; color: var(--ink-2); padding: 6px 10px; border-radius: 9px; display: inline-flex; gap: 6px; align-items: baseline; transition: background-color .15s, color .15s; }
+nav.index a b { font-family: var(--font-data); font-size: 0.66rem; font-weight: 500; color: var(--muted); }
+nav.index a:hover { background: var(--bg); color: var(--ink); }
+nav.index a.active { background: var(--accent); color: var(--surface); }
+nav.index a.active b { color: inherit; opacity: 0.75; }
+@media (max-width: 1000px) {
+  nav.index { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: thin; scrollbar-color: var(--line) transparent; flex-basis: 100%; }
+}
+/* author card */
+.brand { display: inline-flex; align-items: center; gap: 9px; text-decoration: none; color: var(--ink); flex: none; padding-right: 14px; border-right: 1px solid var(--line); }
+.brand .mono { width: 32px; height: 32px; border-radius: 50%; display: grid; place-items: center; background: var(--accent); color: var(--surface); font-family: var(--font-display); font-weight: 800; font-size: 0.8rem; }
+.brand .who { display: grid; line-height: 1.15; }
+.brand strong { font-family: var(--font-display); font-weight: 800; font-size: 0.98rem; letter-spacing: -0.01em; }
+.brand small { font-family: var(--font-data); font-size: 0.66rem; letter-spacing: 0.05em; color: var(--muted); }
+@media (max-width: 560px) { .brand { border-right: 0; padding-right: 0; } }
+.bar { position: sticky; }
+.progress { position: absolute; left: 0; bottom: -1px; height: 2px; width: 100%; background: var(--accent); transform-origin: 0 50%; transform: scaleX(0); }
+
+.theme-btn { position: fixed; z-index: 40; top: calc(env(safe-area-inset-top, 0px) + 9px); right: max(16px, calc(env(safe-area-inset-right, 0px) + 16px));
+  width: 38px; height: 38px; padding: 0; display: grid; place-items: center; cursor: pointer; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 50%; box-shadow: 0 1px 4px rgb(0 0 0 / 0.12); transition: transform .2s; }
+.theme-btn svg { width: 18px; height: 18px; }
+.theme-btn:active { transform: scale(0.92); }
+.theme-btn:hover { border-color: var(--accent); color: var(--accent); }
+#theme-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.tag { display: inline-block; font-family: var(--font-data); font-size: 0.68rem; padding: 2px 7px; border-radius: 4px; background: var(--accent-soft); color: var(--accent); white-space: nowrap; }
+td.wrap, th.wrap { white-space: normal; min-width: 220px; text-align: left; font-family: var(--font-body); }
+
+/* KPI strip */
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: var(--r); overflow: hidden; margin-block: 22px 8px; }
+.kpi { background: var(--surface); padding: 16px 18px; display: grid; gap: 4px; align-content: start; }
+.kpi .v { font-family: var(--font-display); font-size: 1.9rem; font-weight: 700; line-height: 1.05; font-variant-numeric: tabular-nums; }
+.kpi .l { font-size: 0.82rem; color: var(--ink-2); }
+.kpi .s { font-family: var(--font-data); font-size: 0.72rem; color: var(--muted); }
+
+/* sections */
+section.q { padding-block: 44px 8px; border-top: 1px solid var(--line); margin-top: 36px; scroll-margin-top: 64px; }
+.q-head { display: grid; gap: 10px; margin-bottom: 20px; max-width: 78ch; }
+.q-head .qno { font-family: var(--font-data); font-size: 0.75rem; color: var(--accent); letter-spacing: 0.06em; }
+.verdict { display: flex; flex-wrap: wrap; gap: 8px 10px; align-items: flex-start; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 12px 14px; max-width: 78ch; }
+.pill { flex: none; font-family: var(--font-data); font-size: 0.68rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 8px; border-radius: 999px; border: 1px solid currentColor; display: inline-flex; gap: 5px; align-items: center; }
+.pill::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+.pill.crit { color: var(--crit); } .pill.warn { color: #b77d00; } .pill.info { color: var(--accent); }
+:root:not([data-theme="light"]) .pill.warn { color: var(--warn); }
+@media (prefers-color-scheme: light) { :root:not([data-theme="dark"]) .pill.warn { color: #9a6a00; } }
+:root[data-theme="light"] .pill.warn { color: #9a6a00; }
+.verdict p { font-size: 0.98rem; flex: 1 1 280px; min-width: 0; }
+.grid2 { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 440px), 1fr)); }
+.grid3 { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 16px 16px 12px; display: grid; gap: 10px; min-width: 0; }
+.panel .cap { font-size: 0.8rem; color: var(--muted); }
+.chart { position: relative; height: 300px; }
+.chart.tall { height: 380px; }
+.chart.short { height: 230px; }
+.facts { display: grid; gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: var(--r); overflow: hidden; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); margin-top: 16px; }
+.fact { background: var(--surface); padding: 14px 16px; display: grid; gap: 4px; align-content: start; }
+.fact .v { font-family: var(--font-display); font-size: 1.45rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+.fact .t { font-size: 0.86rem; color: var(--ink-2); }
+.fact .src { font-family: var(--font-data); font-size: 0.68rem; color: var(--muted); }
+.notes { margin-top: 14px; font-size: 0.86rem; color: var(--ink-2); max-width: 80ch; display: grid; gap: 6px; }
+.notes b { color: var(--ink); }
+.key { display: inline-block; width: 14px; height: 3px; border-radius: 2px; vertical-align: middle; margin-right: 4px; }
+
+/* calculator */
+.calc { display: grid; gap: 16px; grid-template-columns: minmax(0, 340px) minmax(0, 1fr); }
+@media (max-width: 820px) { .calc { grid-template-columns: minmax(0, 1fr); } }
+.calc-in { display: grid; gap: 14px; align-content: start; }
+.field { display: grid; gap: 6px; }
+.field > span { font-size: 0.8rem; color: var(--ink-2); }
+.field input { font-size: 1.25rem; padding: 10px 12px; width: 100%; }
+.chips { display: flex; gap: 6px; flex-wrap: wrap; }
+.chips button, .seg button { font: inherit; font-size: 0.8rem; font-family: var(--font-data); cursor: pointer; border: 1px solid var(--line); background: var(--surface); color: var(--ink-2); border-radius: 6px; padding: 5px 9px; }
+.chips button:hover { border-color: var(--accent); color: var(--accent); }
+.seg { display: grid; grid-template-columns: repeat(3, 1fr); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.seg button { border: 0; border-radius: 0; padding: 8px 6px; font-family: var(--font-body); font-size: 0.8rem; }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--surface); }
+.result { display: grid; gap: 4px; padding: 14px; border-radius: 8px; background: var(--accent-soft); }
+.result .big { font-family: var(--font-display); font-size: 2.6rem; font-weight: 800; line-height: 1; color: var(--accent); }
+.result .sub { font-size: 0.88rem; color: var(--ink-2); }
+.rows { display: grid; gap: 0; font-size: 0.86rem; }
+.rows div { display: flex; justify-content: space-between; gap: 12px; padding: 7px 0; border-bottom: 1px dashed var(--line); }
+.rows div span:last-child { font-family: var(--font-data); font-variant-numeric: tabular-nums; color: var(--ink); }
+
+/* table */
+.tablewrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); }
+table { border-collapse: collapse; width: 100%; font-size: 0.82rem; }
+th, td { padding: 8px 10px; text-align: right; border-bottom: 1px solid var(--line); white-space: nowrap; font-variant-numeric: tabular-nums; }
+th:first-child, td:first-child { text-align: left; position: sticky; left: 0; background: var(--surface); }
+thead th { font-family: var(--font-data); font-weight: 500; font-size: 0.72rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+td { font-family: var(--font-data); }
+footer { padding-block: 40px 60px; color: var(--muted); font-size: 0.8rem; }
+details summary { cursor: pointer; color: var(--accent); font-size: 0.86rem; margin-top: 8px; }
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+</style>
+
+<button type="button" id="theme" class="theme-btn" aria-pressed="false">
+  <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path id="theme-icon" fill="currentColor" d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9z"/></svg>
+  <span id="theme-label">Dark mode</span>
+</button>
+<header class="top">
+  <div class="wrap hero">
+    <div class="hero-main">
+      <div class="eyebrow">India · Individual income-tax returns · CBDT data</div>
+      <h1>India on Paper</h1>
+      <p class="lede" id="lede">What ten years of income-tax returns say about who earns what in India, and what the returns leave out.</p>
+      <div class="stamp"><span id="stamp-years">AY 2014-15 → AY 2023-24</span><span>10 assessment years</span><span id="stamp-returns">—</span><span>Source: Income Tax Department (CBDT)</span></div>
+    </div>
+    <aside class="pcard" aria-label="About this project">
+      <div class="eyebrow">Portfolio project</div>
+      <div class="who-row">
+        <span class="mono" aria-hidden="true">HJ</span>
+        <span class="who"><strong>Harpal Sinh Jhala</strong><small>Data analytics &amp; visualisation</small></span>
+      </div>
+      <dl>
+        <div><dt>Data</dt><dd>11 official CBDT reports · 14,040 table rows parsed and checked against printed totals</dd></div>
+        <div><dt>Methods</dt><dd>Pareto interpolation, bunching analysis, survey vs tax-return cross-check</dd></div>
+        <div><dt>Built with</dt><dd class="chipset"><span>Python</span><span>pandas</span><span>pdf.js</span><span>Chart.js</span><span>HTML/CSS</span></dd></div>
+      </dl>
+    </aside>
+  </div>
+</header>
+
+<div class="bar">
+  <div class="wrap">
+    <a class="brand" href="#" aria-label="India on Paper, by Harpal Sinh Jhala, back to top">
+      <span class="mono" aria-hidden="true">HJ</span>
+      <span class="who"><strong>India on Paper</strong><small>by Harpal Sinh Jhala</small></span>
+    </a>
+    <label class="yearpick" for="year"><span>Year</span><select id="year"></select></label>
+    <nav class="index" aria-label="Sections">
+      <a href="#standing"><b>01</b>Percentile</a>
+      <a href="#jobs-vs-business"><b>02</b>Jobs vs business</a>
+      <a href="#filers"><b>03</b>Filers</a>
+      <a href="#top1"><b>04</b>Top 1%</a>
+      <a href="#black-money"><b>05</b>Black money</a>
+      <a href="#paper"><b>06</b>Feel vs paper</a>
+      <a href="#households"><b>07</b>Households</a>
+      <a href="#avg-median"><b>08</b>Avg vs median</a>
+      <a href="#cities"><b>09</b>Cities</a>
+      <a href="#method"><b>10</b>Method</a>
+    </nav>
+  </div>
+  <div class="progress" id="progress" aria-hidden="true"></div>
+</div>
+
+<main class="wrap">
+  <div class="kpis" id="kpis"></div>
+  <p class="notes" id="year-note"></p>
+
+  <!-- 1. Where do you stand -->
+  <section class="q" id="standing">
+    <div class="q-head">
+      <span class="qno">Q1 · PERCENTILE</span>
+      <h2>Where does your income stand?</h2>
+      <p class="lede">Enter an annual income and see how many people you're ahead of: among salaried filers, business filers, all filers and all Indians, using that year's actual return distribution.</p>
+    </div>
+    <div class="calc">
+      <div class="calc-in panel">
+        <label class="field" for="inc"><span>Annual income (₹)</span>
+          <input id="inc" type="number" min="0" step="10000" value="1200000" inputmode="numeric"></label>
+        <div class="chips" id="chips"></div>
+        <div class="field"><span>Compare as</span>
+          <div class="seg" id="kind" role="group" aria-label="Income type">
+            <button type="button" data-k="salary" aria-pressed="true">Salary</button>
+            <button type="button" data-k="business" aria-pressed="false">Business</button>
+            <button type="button" data-k="gti" aria-pressed="false">Total income</button>
+          </div>
+        </div>
+        <div class="result" aria-live="polite">
+          <span class="eyebrow" id="res-label">Among salaried filers</span>
+          <span class="big num" id="res-big">—</span>
+          <span class="sub" id="res-sub">—</span>
+        </div>
+        <div class="rows" id="res-rows"></div>
+      </div>
+      <div class="panel">
+        <h3>How many people each income is ahead of</h3>
+        <p class="cap">Share of filers earning less (y) at each annual income (x, log scale). Your entry is the ringed dot. Lines are the selected year's salary and business-income distributions.</p>
+        <div class="chart tall"><canvas id="chCurve" role="img" aria-label="Percentile curves for salary and business income"></canvas></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 2. Jobs vs business -->
+  <section class="q" id="jobs-vs-business">
+    <div class="q-head">
+      <span class="qno">Q2 · JOB-GOERS VS BUSINESS OWNERS</span>
+      <h2>On paper, the salaried out-earn the business owners at every rung</h2>
+    </div>
+    <div class="verdict"><span class="pill warn">Finding</span><p id="v-jobs">—</p></div>
+    <div class="grid2" style="margin-top:16px">
+      <div class="panel">
+        <h3>Percentile ladder: salary vs business income</h3>
+        <p class="cap">Income at each percentile among people who report that kind of income. Log scale, selected year.</p>
+        <div class="chart"><canvas id="chLadder" role="img" aria-label="Salary and business income by percentile"></canvas></div>
+      </div>
+      <div class="panel">
+        <h3>Median declared income over ten years</h3>
+        <p class="cap">The median salary earner vs the median business earner, ₹ lakh per year.</p>
+        <div class="chart"><canvas id="chMedians" role="img" aria-label="Median salary and business income by year"></canvas></div>
+      </div>
+    </div>
+    <div class="facts" id="f-jobs"></div>
+  </section>
+
+  <!-- 2b. Filer counts -->
+  <section class="q" id="filers">
+    <div class="q-head">
+      <span class="qno">Q2b · BUSINESS FILERS VS JOB FILERS</span>
+      <h2>Almost as many business filers as salaried ones, but half the income on paper</h2>
+    </div>
+    <div class="verdict"><span class="pill warn">Finding</span><p id="v-filers">—</p></div>
+    <div class="facts" id="f-filers"></div>
+    <div class="grid2" style="margin-top:16px">
+      <div class="panel">
+        <h3>Number of filers, ten years</h3>
+        <p class="cap">Returns reporting salary income vs returns reporting business or professional income. One return can report both.</p>
+        <div class="chart"><canvas id="chFilers" role="img" aria-label="Salary and business filers by year"></canvas></div>
+      </div>
+      <div class="panel">
+        <h3>Share of filers vs share of income</h3>
+        <p class="cap">Of everyone reporting salary or business income in the selected year: who they are, and who declares the money.</p>
+        <div class="chart"><canvas id="chShare" role="img" aria-label="Share of filers and share of income, salary vs business"></canvas></div>
+      </div>
+      <div class="panel">
+        <h3>Where each group sits on the income ladder</h3>
+        <p class="cap">Percent of each group's filers in each band of that income, selected year.</p>
+        <div class="chart"><canvas id="chBands" role="img" aria-label="Income band distribution, salary vs business filers"></canvas></div>
+      </div>
+      <div class="panel">
+        <h3>Returns by ITR form, AY 2024-25</h3>
+        <p class="cap">7.28 crore returns filed up to 31 July 2024 (PIB). ITR-1 is the salaried form; ITR-3 and ITR-4 are the business forms.</p>
+        <div class="chart"><canvas id="chForms" role="img" aria-label="Returns by ITR form"></canvas></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3. Top 1% -->
+  <section class="q" id="top1">
+    <div class="q-head">
+      <span class="qno">Q3 · THE TOP 1%</span>
+      <h2>Who is in the top 1%, and how much do they hold?</h2>
+    </div>
+    <div class="verdict"><span class="pill info">Finding</span><p id="v-top">—</p></div>
+    <div class="facts" id="f-top"></div>
+    <div class="grid2" style="margin-top:16px">
+      <div class="panel">
+        <h3>Share of all declared income held at the top</h3>
+        <p class="cap">Top 10%, 1% and 0.1% of individual filers, by gross total income. Percent of the total.</p>
+        <div class="chart"><canvas id="chTopShare" role="img" aria-label="Top income shares by year"></canvas></div>
+      </div>
+      <div class="panel">
+        <h3>₹1 crore+ declarers, by source of income</h3>
+        <p class="cap">Returns declaring over ₹1 crore of gross total income, salary, or business income in the year.</p>
+        <div class="chart"><canvas id="chCrore" role="img" aria-label="Crorepati returns by year"></canvas></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. Black money -->
+  <section class="q" id="black-money">
+    <div class="q-head">
+      <span class="qno">Q4 · BLACK MONEY IN THE DATA?</span>
+      <h2>Returns pile up just below the ₹5 lakh tax-free line, and only where income is self-reported</h2>
+    </div>
+    <div class="verdict"><span class="pill crit">Strong signal</span><p id="v-black">—</p></div>
+    <div class="grid2" style="margin-top:16px">
+      <div class="panel">
+        <h3>The ₹5 lakh cliff</h3>
+        <p class="cap">Returns per ₹50,000 of income band around ₹5 lakh, selected year. Wider CBDT slabs are divided by their width so bars compare fairly.</p>
+        <div class="chart"><canvas id="chCliff" role="img" aria-label="Returns per 50 thousand rupee band around 5 lakh"></canvas></div>
+      </div>
+      <div class="panel">
+        <h3>Pile-up ratio over time</h3>
+        <p class="cap">Returns in ₹4.5–5L divided by returns in ₹5–5.5L. A smooth distribution gives about 1. The dashed line marks the AY 2020-21 rebate increase that made income up to ₹5 lakh fully tax-free.</p>
+        <div class="chart"><canvas id="chBunch" role="img" aria-label="Bunching ratio by year"></canvas></div>
+      </div>
+    </div>
+    <div class="facts" id="f-black"></div>
+    <div class="notes" id="n-black"></div>
+  </section>
+
+  <!-- 5. Rich on feel, poor on paper -->
+  <section class="q" id="paper">
+    <div class="q-head">
+      <span class="qno">Q5 · RICH ON FEEL, POOR ON PAPER</span>
+      <h2>Malls and car showrooms feel rich. The tax return of a typical Indian does not.</h2>
+    </div>
+    <div class="verdict"><span class="pill warn">Finding</span><p id="v-paper">—</p></div>
+    <div class="facts" id="f-paper"></div>
+    <div class="grid2" style="margin-top:16px">
+      <div class="panel">
+        <h3>Share of Indians who file a return</h3>
+        <p class="cap">Individual returns as a percent of population, by assessment year.</p>
+        <div class="chart short"><canvas id="chCoverage" role="img" aria-label="Filers as share of population"></canvas></div>
+      </div>
+      <div class="panel">
+        <h3>Declared individual income as a share of GDP</h3>
+        <p class="cap">Gross total income on individual returns ÷ GDP of the year the income was earned.</p>
+        <div class="chart short"><canvas id="chGdp" role="img" aria-label="Declared income as share of GDP"></canvas></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5b. Households -->
+  <section class="q" id="households">
+    <div class="q-head">
+      <span class="qno">Q5b · HOUSEHOLD INCOME</span>
+      <h2>A typical Indian household earns ₹3.2 lakh a year</h2>
+      <p class="lede">Tax returns are filed by individuals, so household income comes from PRICE's ICE 360 survey of about 40,000 households (2021 round, 2020-21 prices).</p>
+    </div>
+    <div class="verdict"><span class="pill crit">Gap</span><p id="v-hh">—</p></div>
+    <div class="facts" id="f-hh"></div>
+    <div class="grid2" style="margin-top:16px">
+      <div class="panel">
+        <h3>India's households by income class</h3>
+        <p class="cap">Share of households. Destitute under ₹1.25L a year, Aspirers ₹1.25–5L, Middle class ₹5–30L, Rich above ₹30L. 2030-31 and 2046-47 are PRICE projections.</p>
+        <div class="chart"><canvas id="chHH" role="img" aria-label="Households by income class over time"></canvas></div>
+      </div>
+      <div class="panel">
+        <h3>Households that earn it vs individuals who declare it</h3>
+        <p class="cap">Households above each income (PRICE, 2020-21) vs individual returns declaring that much gross income for the same year (AY 2021-22). Log scale.</p>
+        <div class="chart"><canvas id="chHHvsITR" role="img" aria-label="Households vs individual returns above income thresholds"></canvas></div>
+      </div>
+    </div>
+    <div class="notes">
+      <p><b>Reading the gap fairly.</b> A household can pool several earners, so two ₹15 lakh salaries make one ₹30 lakh household. Survey income also includes agricultural income, which is tax-exempt and never appears on a return. PRICE adjusts reported incomes toward national-accounts totals. Even so, the gap widens at every step up: about 10× at ₹30 lakh and over 40× at ₹2 crore.</p>
+    </div>
+  </section>
+
+  <!-- 6. Average vs median -->
+  <section class="q" id="avg-median">
+    <div class="q-head">
+      <span class="qno">Q6 · AVERAGE VS MEDIAN</span>
+      <h2>The average filer is a statistical fiction</h2>
+    </div>
+    <div class="verdict"><span class="pill info">Finding</span><p id="v-avg">—</p></div>
+    <div class="grid2" style="margin-top:16px">
+      <div class="panel">
+        <h3>Mean vs median gross total income</h3>
+        <p class="cap">₹ lakh per year, all individual filers.</p>
+        <div class="chart"><canvas id="chMeanMed" role="img" aria-label="Mean and median income by year"></canvas></div>
+      </div>
+      <div class="panel">
+        <h3>How the returns spread across income slabs</h3>
+        <p class="cap">Number of returns in each CBDT slab of gross total income, selected year. The slab holding the median is dark; the slab holding the mean is outlined.</p>
+        <div class="chart"><canvas id="chHist" role="img" aria-label="Returns by income slab"></canvas></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 7. Cities -->
+  <section class="q" id="cities">
+    <div class="q-head">
+      <span class="qno">Q7 · TOP CITIES</span>
+      <h2>Top 10 cities by median household income</h2>
+      <p class="lede">City medians are computed from PRICE's household survey of India's ten richest cities (2020-21 prices). Tax collections by state come from CBDT; millionaire counts from Hurun 2025.</p>
+    </div>
+    <div class="verdict"><span class="pill info">Finding</span><p id="v-citymed">—</p></div>
+    <div class="grid2" style="margin-top:16px">
+      <div class="panel">
+        <h3>Median household income, top 10 cities</h3>
+        <p class="cap">₹ lakh a year, 2020-21 prices. Dashed lines: India's median household (₹3.2L) and the urban median (₹4.9L).</p>
+        <div class="chart tall"><canvas id="chCityMed" role="img" aria-label="Median household income by city"></canvas></div>
+      </div>
+      <div class="panel">
+        <h3>Rich households and millionaire households</h3>
+        <p class="cap">Households earning ₹30L+ a year (PRICE 2020-21), and households worth ₹8.5 crore+ (Hurun 2025). Thousands.</p>
+        <div class="chart tall"><canvas id="chCityRich" role="img" aria-label="Rich and millionaire households by city"></canvas></div>
+      </div>
+    </div>
+    <h3 style="margin-top:22px">City scorecard and opportunities</h3>
+    <p class="cap" style="color:var(--muted);font-size:.8rem;margin-block:6px 10px">Sorted by median household income. "Middle class+" is the share of households above ₹5L a year; "Rich" is above ₹30L. Per-capita income is each district's official estimate, with year and measure in the tooltip.</p>
+    <div class="tablewrap"><table id="tblCity"></table></div>
+    <div class="verdict" style="margin-top:26px"><span class="pill info">Finding</span><p id="v-cities">—</p></div>
+    <div class="grid2" style="margin-top:16px">
+      <div class="panel">
+        <h3>Direct tax collected by state, FY 2024-25</h3>
+        <p class="cap">₹ thousand crore. Label shows the metro that dominates each state's collections.</p>
+        <div class="chart tall"><canvas id="chStates" role="img" aria-label="Direct tax collection by state"></canvas></div>
+      </div>
+      <div class="panel">
+        <h3>The big four, FY 2018-19 to 2024-25</h3>
+        <p class="cap">₹ thousand crore of direct tax collected per year.</p>
+        <div class="chart tall"><canvas id="chStateTrend" role="img" aria-label="Direct tax by state over time"></canvas></div>
+      </div>
+    </div>
+    <div class="notes">
+      <p><b>Where city numbers come from.</b> CBDT does not publish return statistics by city. City medians come from PRICE's ICE 360 household survey, which reports household counts by income class for India's ten richest cities. Hyderabad and Gurugram are not on that list, so they appear only in the Hurun counts. Tax collections are published by state and attributed by the taxpayer's communication address, so company head offices inflate Mumbai, Bengaluru and Delhi.</p>
+      <p><b>Bengaluru.</b> Its 2020-21 survey median sits below Chennai's and Pune's. That was the first pandemic year, and Bengaluru's official per-capita income (₹7.8 lakh) is the highest on the list, so treat its survey median with care.</p>
+      <p><b>Telangana vs Andhra Pradesh:</b> from FY 2023-24 Telangana's collections jump and Andhra Pradesh's halve. This looks like a re-mapping of addresses after the state split, not a real change in incomes.</p>
+    </div>
+  </section>
+
+  <!-- Method -->
+  <section class="q" id="method">
+    <div class="q-head">
+      <span class="qno">METHOD &amp; SOURCES</span>
+      <h2>How these numbers were built</h2>
+    </div>
+    <div class="notes">
+      <p><b>Data.</b> CBDT "Income Tax Return Statistics" for AY 2014-15 through AY 2023-24, the ten latest years published. Each report tabulates individual returns by income slab, with the count, total and average for gross total income, salary, business income, capital gains, returned income and tax payable. Macro series come from CBDT "Time Series Data, FY 2000-01 to 2024-25" (Nov 2025). An assessment year (AY) reports income earned in the previous financial year: AY 2023-24 covers FY 2022-23.</p>
+      <p><b>Percentiles.</b> Inside each CBDT slab the shape is fitted with a truncated Pareto curve that reproduces the slab's published count and average exactly. Percentiles, top-income shares and the calculator read from that curve. The top 1% figures are among <i>filers</i>. The "top 1% of all Indians" line assumes everyone who does not file earns less than the filers who do.</p>
+      <p><b>Salary vs business.</b> One return can report both. "Salary earners" are returns with salary income above zero, and "business earners" are returns with business income above zero.</p>
+      <p><b>External context</b> (not from CBDT, marked where used): World Bank population; PRICE ICE 360 Surveys 2014/2016/2021 ("The Rise of India's Middle Class"), the source of every household and city-median figure; Mercedes-Benz Hurun India Wealth Report 2025 (8.71 lakh households with net worth ≥ ₹8.5 crore); official district per-capita income from the Maharashtra, Delhi, Tamil Nadu and Karnataka statistics departments (Ahmedabad, Surat and Kolkata from secondary or older estimates); PIB's AY 2024-25 form-wise ITR count; luxury car sales in calendar 2024 (~51,200 units, Autocar Pro).</p>
+      <p><b>City medians.</b> PRICE gives household counts in eight income classes per city. The median is read off the cumulative count, assuming incomes spread geometrically inside each class.</p>
+      <p><b>Limits.</b> These are the incomes people <i>declare</i>, after CBDT's consistency checks (about 0.1% of returns dropped). Agricultural income is exempt and absent. Wealth is not income, so the Hurun comparison is directional only.</p>
+    </div>
+    <h3 style="margin-top:22px">Headline metrics by year</h3>
+    <p class="cap" style="color:var(--muted);font-size:.8rem;margin-block:6px 10px">Every charted value, in one table. ₹ in lakh unless noted.</p>
+    <div class="tablewrap"><table id="tbl"></table></div>
+  </section>
+</main>
+<footer class="wrap">
+  <p><b style="color:var(--ink)">India on Paper</b> is a portfolio project by Harpal Sinh Jhala: data collection, PDF parsing, statistical modelling and dashboard design, end to end.</p>
+  <p>Built from public CBDT publications. Pipeline and CSVs live in the <span class="mono">ITR analytics</span> project folder. Data built <span id="built"></span>.</p>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script>
+const DATA = /*__DATA__*/null;
+const Y = Object.fromEntries(DATA.years.map(r => [r.ay, r]));
+const YEARS = DATA.years.map(r => r.ay);
+const P = DATA.meta.curve_p;
+let cur = DATA.meta.latest;
+let kind = "salary";
+const charts = {};
+
+// ---------- formatting (Indian conventions)
+const inr = x => "₹" + x.toLocaleString("en-IN", { maximumFractionDigits: 0 });
+function lakhs(l, d) {               // value in lakh -> "₹5.14 L" / "₹1.97 Cr"
+  if (l == null || isNaN(l)) return "—";
+  if (Math.abs(l) >= 100) return "₹" + (l / 100).toLocaleString("en-IN", { maximumFractionDigits: d ?? 2 }) + " Cr";
+  return "₹" + l.toLocaleString("en-IN", { maximumFractionDigits: d ?? 2 }) + " L";
+}
+function count(n, d) {               // 75461286 -> "7.55 cr"
+  if (n >= 1e7) return (n / 1e7).toFixed(d ?? 2) + " cr";
+  if (n >= 1e5) return (n / 1e5).toFixed(d ?? 2) + " lakh";
+  return Math.round(n).toLocaleString("en-IN");
+}
+const pct = (x, d = 1) => x.toFixed(d) + "%";
+function ord(p) {
+  if (p >= 99.995) return "top 0.01%";
+  if (p >= 99) return "top " + (100 - p).toFixed(p >= 99.9 ? 2 : 1) + "%";
+  return "P" + Math.floor(p);
+}
+const el = id => document.getElementById(id);
+function setText(id, s) { el(id).textContent = s; }
+
+// ---------- theme tokens for charts
+function tok() {
+  const s = getComputedStyle(document.documentElement), g = n => s.getPropertyValue(n).trim();
+  return { ink: g("--ink"), ink2: g("--ink-2"), muted: g("--muted"), line: g("--line"), surface: g("--surface"),
+           s1: g("--s1"), s2: g("--s2"), s3: g("--s3"), s4: g("--s4"), accent: g("--accent"), crit: g("--crit"),
+           q1: g("--q1"), q2: g("--q2"), q3: g("--q3"), q4: g("--q4") };
+}
+function base(c, extra = {}) {
+  return Object.assign({
+    responsive: true, maintainAspectRatio: false, animation: { duration: 250 },
+    interaction: { mode: "index", intersect: false },
+    plugins: {
+      legend: { position: "top", align: "start", labels: { usePointStyle: true, pointStyle: "line", boxWidth: 16, color: c.ink2, font: { size: 12 } } },
+      tooltip: { backgroundColor: c.surface, titleColor: c.ink, bodyColor: c.ink, borderColor: c.line, borderWidth: 1, padding: 10,
+                 titleFont: { family: "IBM Plex Mono", size: 11 }, bodyFont: { family: "IBM Plex Mono", size: 12, weight: "600" }, usePointStyle: true, boxPadding: 4 }
+    }
+  }, extra);
+}
+function axis(c, o = {}) {
+  return Object.assign({ grid: { color: c.line, drawTicks: false }, border: { display: false }, ticks: { color: c.muted, padding: 6, font: { family: "IBM Plex Mono", size: 11 } } }, o);
+}
+function mk(id, cfg) { if (charts[id]) charts[id].destroy(); charts[id] = new Chart(el(id), cfg); }
+const lastDot = n => ctx => (ctx.dataIndex === n - 1 ? 4 : 0);
+function line(label, data, color, extra = {}) {
+  return Object.assign({ label, data, borderColor: color, backgroundColor: color, borderWidth: 2, tension: 0.25,
+    pointRadius: lastDot(data.length), pointHoverRadius: 5, pointBackgroundColor: color, pointBorderColor: color }, extra);
+}
+// draws reference lines (horizontal y value / vertical category index) behind the data
+const refLines = {
+  id: "refLines",
+  beforeDatasetsDraw(chart, _a, opts) {
+    const { ctx, chartArea: a, scales } = chart; if (!opts || !opts.lines) return;
+    ctx.save();
+    for (const l of opts.lines) {
+      ctx.strokeStyle = l.color; ctx.lineWidth = 1.5; ctx.setLineDash(l.dash || [5, 4]); ctx.beginPath();
+      if (l.y != null) { const y = scales.y.getPixelForValue(l.y); ctx.moveTo(a.left, y); ctx.lineTo(a.right, y); }
+      if (l.x != null) { const x = scales.x.getPixelForValue(l.x); ctx.moveTo(x, a.top); ctx.lineTo(x, a.bottom); }
+      ctx.stroke(); ctx.setLineDash([]);
+      if (l.label) { ctx.fillStyle = l.textColor; ctx.font = "11px 'IBM Plex Mono', monospace";
+        if (l.x != null) { const x = scales.x.getPixelForValue(l.x); ctx.textAlign = "left"; ctx.fillText(l.label, x + 6, a.top + 12); }
+        else { const y = scales.y.getPixelForValue(l.y); ctx.textAlign = "right"; ctx.fillText(l.label, a.right - 4, y - 6); } }
+    }
+    ctx.restore();
+  }
+};
+Chart.register(refLines);
+
+// ---------- percentile lookup from a quantile curve (values in lakh at percentiles P)
+function pctOf(curve, x) {
+  if (x <= 0) return 0;
+  if (x < curve[0]) return P[0] * x / curve[0];
+  for (let i = 0; i < curve.length - 1; i++) {
+    const a = curve[i], b = curve[i + 1];
+    if (x < b) {
+      const t = a > 0 ? Math.log(x / a) / Math.log(b / a) : (x - a) / (b - a);
+      return P[i] + t * (P[i + 1] - P[i]);
+    }
+  }
+  return 99.9995;
+}
+
+// ---------- year-dependent parts
+function renderKPIs() {
+  const r = Y[cur];
+  const k = [
+    [count(r.filers), "individual returns", `${pct(r.filers_pct_population)} of India's population`],
+    [lakhs(r.gti_median_l), "median declared income", `mean is ${lakhs(r.gti_mean_l)}`],
+    [pct(r.zero_tax_pct), "of filers owe zero tax", `${count(r.zero_tax_returns)} returns`],
+    [lakhs(r.gti_pcts_l["99"], 1), "entry to the filers' top 1%", `top 0.1% starts at ${lakhs(r.gti_pcts_l["99.9"], 1)}`],
+    [count(r.crorepati_gti, 2), "declare ₹1 crore+", `${Math.round(r.crorepati_gti / Y[DATA.meta.first].crorepati_gti * 10) / 10}× since AY ${DATA.meta.first}`]
+  ];
+  const box = el("kpis"); box.replaceChildren();
+  for (const [v, l, s] of k) {
+    const d = document.createElement("div"); d.className = "kpi";
+    for (const [cls, t] of [["v", v], ["l", l], ["s", s]]) { const e = document.createElement("span"); e.className = cls; e.textContent = t; d.append(e); }
+    box.append(d);
+  }
+  setText("year-note", `Showing AY ${cur}, which reports income earned in FY ${+cur.slice(0, 4) - 1}-${cur.slice(2, 4)}. Charts over time always show all ten years.`);
+  setText("stamp-returns", `${count(Y[DATA.meta.latest].filers)} individual returns in AY ${DATA.meta.latest}`);
+}
+
+function fillFacts(id, items) {
+  const box = el(id); box.replaceChildren();
+  for (const [v, t, src] of items) {
+    const d = document.createElement("div"); d.className = "fact";
+    const a = document.createElement("span"); a.className = "v"; a.textContent = v;
+    const b = document.createElement("span"); b.className = "t"; b.textContent = t;
+    d.append(a, b);
+    if (src) { const s = document.createElement("span"); s.className = "src"; s.textContent = src; d.append(s); }
+    box.append(d);
+  }
+}
+
+const LOGTICKS = { 1: "₹1L", 3: "₹3L", 10: "₹10L", 30: "₹30L", 100: "₹1Cr", 1000: "₹10Cr" };
+function renderCalc(c) {
+  const r = Y[cur];
+  const inc = Math.max(0, +el("inc").value || 0), x = inc / 1e5;
+  const curve = kind === "salary" ? r.salary.curve : kind === "business" ? r.business.curve : r.gti_curve;
+  const p = pctOf(curve, x);
+  const pAll = pctOf(r.gti_curve, x);
+  const pPop = 100 - (100 - pAll) * r.filers / r.population;
+  const group = { salary: ["salaried filers", r.salary.n], business: ["filers with business income", r.business.n], gti: ["individual filers", r.filers] }[kind];
+  setText("res-label", `You earn more than · AY ${cur}`);
+  const ahead = v => (v >= 99.95 ? "99.9%+" : v >= 99 ? v.toFixed(1) + "%" : Math.floor(v) + "%");
+  setText("res-big", inc === 0 ? "—" : ahead(p));
+  const behind = Math.round(p / 100 * group[1]);
+  setText("res-sub", inc === 0 ? "Enter an income above zero." :
+    `of ${group[0]}. That's about ${count(behind)} people behind you` + (p >= 99 ? `, putting you in the ${ord(p)}.` : "."));
+  const rows = [
+    ["salaried filers", pctOf(r.salary.curve, x), r.salary.n],
+    ["business-income filers", pctOf(r.business.curve, x), r.business.n],
+    ["all filers (total income)", pAll, r.filers],
+    ["all " + count(r.population, 1).replace(" cr", " crore") + " Indians", pPop, r.population]
+  ];
+  const box = el("res-rows"); box.replaceChildren();
+  const head = document.createElement("div"); const h1 = document.createElement("span"); h1.textContent = "You're ahead of";
+  const h2 = document.createElement("span"); h2.textContent = "people behind you"; head.style.color = "var(--muted)"; head.append(h1, h2); box.append(head);
+  for (const [k, v, n] of rows) {
+    const d = document.createElement("div"); const a = document.createElement("span"); a.textContent = `${ahead(v)} of ${k}`;
+    const b = document.createElement("span"); b.textContent = count(Math.round(v / 100 * n)); d.append(a, b); box.append(d);
+  }
+  const pts = cv => cv.map((v, i) => ({ x: Math.max(v, 0.5), y: P[i] })).filter(p => p.x > 0.5 || p.y > 50);
+  const meCurve = kind === "business" ? c.s2 : kind === "gti" ? c.s3 : c.s1;
+  const ds = [
+    line("Salary", pts(r.salary.curve), c.s1, { pointRadius: 0, tension: 0 }),
+    line("Business income", pts(r.business.curve), c.s2, { pointRadius: 0, tension: 0 }),
+    { type: "scatter", label: "You", data: x > 0 ? [{ x: Math.min(Math.max(x, 0.5), 5000), y: Math.min(p, 99.999) }] : [], pointRadius: 7, pointHoverRadius: 8,
+      backgroundColor: meCurve, borderColor: c.surface, borderWidth: 3 }
+  ];
+  mk("chCurve", { type: "line", data: { datasets: ds }, options: base(c, {
+    interaction: { mode: "nearest", intersect: false, axis: "x" },
+    scales: {
+      x: axis(c, { type: "logarithmic", min: 0.5, max: 5000, title: { display: true, text: "annual income (log scale)", color: c.muted, font: { size: 11 } },
+        grid: { color: ctx => (LOGTICKS[ctx.tick && ctx.tick.value] ? c.line : "transparent"), drawTicks: false },
+        ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, autoSkip: false, maxRotation: 0, callback: v => LOGTICKS[v] || "" } }),
+      y: axis(c, { min: 0, max: 100, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, stepSize: 25, callback: v => v + "%" } })
+    },
+    plugins: Object.assign(base(c).plugins, {
+      tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { title: it => lakhs(it[0].parsed.x), label: it => `ahead of ${it.parsed.y >= 99 ? it.parsed.y.toFixed(1) : it.parsed.y.toFixed(0)}%  ${it.dataset.label}` } })
+    })
+  }) });
+}
+
+function renderJobs(c) {
+  const r = Y[cur], s = r.salary, b = r.business;
+  const keys = ["10", "25", "50", "75", "90", "99", "99.9"], lab = ["P10", "P25", "Median", "P75", "P90", "P99", "P99.9"];
+  mk("chLadder", { type: "bar", data: { labels: lab, datasets: [
+      { label: "Salary", data: keys.map(k => s.pcts_l[k]), backgroundColor: c.s1, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.7, barPercentage: 0.9, borderColor: c.surface, borderWidth: { right: 2 } },
+      { label: "Business income", data: keys.map(k => b.pcts_l[k]), backgroundColor: c.s2, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.7, barPercentage: 0.9 }
+    ] }, options: base(c, {
+      scales: { x: axis(c, { grid: { display: false } }), y: axis(c, { type: "logarithmic", min: 1, grid: { color: ctx => ([1, 3, 10, 30, 100, 300].includes(ctx.tick && ctx.tick.value) ? c.line : "transparent"), drawTicks: false }, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => ({ 1: "₹1L", 3: "₹3L", 10: "₹10L", 30: "₹30L", 100: "₹1Cr", 300: "₹3Cr" })[v] || "" } }) },
+      plugins: Object.assign(base(c).plugins, { legend: Object.assign(base(c).plugins.legend, { labels: Object.assign(base(c).plugins.legend.labels, { pointStyle: "rect" }) }),
+        tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${lakhs(it.parsed.y)}  ${it.dataset.label}` } }) })
+    }) });
+  mk("chMedians", { type: "line", data: { labels: YEARS, datasets: [
+      line("Median salary", DATA.years.map(r => r.salary.pcts_l["50"]), c.s1),
+      line("Median business income", DATA.years.map(r => r.business.pcts_l["50"]), c.s2)
+    ] }, options: base(c, { scales: { x: axis(c, { grid: { display: false } }), y: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => "₹" + v + "L" } }) },
+      plugins: Object.assign(base(c).plugins, { tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${lakhs(it.parsed.y)}  ${it.dataset.label}` } }) }) }) });
+  const gap = (1 - b.pcts_l["50"] / s.pcts_l["50"]) * 100;
+  setText("v-jobs", `In AY ${cur} the median salary earner declared ${lakhs(s.pcts_l["50"])} and the median business earner ${lakhs(b.pcts_l["50"])}, ${gap.toFixed(0)}% less. Salaried people also lead at P90 (${lakhs(s.pcts_l["90"])} vs ${lakhs(b.pcts_l["90"])}) and P99 (${lakhs(s.pcts_l["99"])} vs ${lakhs(b.pcts_l["99"])}). Salaries are reported by employers through TDS, so they are hard to understate. Business income is self-declared.`);
+  fillFacts("f-jobs", [
+    [count(s.n), "returns with salary income", `total salary ₹${(s.total_cr / 1e5).toFixed(1)} lakh crore`],
+    [count(b.n), "returns with business income", `total business income ₹${(b.total_cr / 1e5).toFixed(1)} lakh crore`],
+    [count(r.crorepati_salary, 2), "declare ₹1 crore+ salary", `vs ${count(r.crorepati_business, 2)} with ₹1 crore+ business income`],
+    [lakhs(s.mean_l) + " vs " + lakhs(b.mean_l), "mean salary vs mean business income", "per earner, AY " + cur]
+  ]);
+}
+
+function renderTop(c) {
+  const r = Y[cur], f = Y[DATA.meta.first];
+  mk("chTopShare", { type: "line", data: { labels: YEARS, datasets: [
+      line("Top 10%", DATA.years.map(r => r.top_share.top10), c.s1),
+      line("Top 1%", DATA.years.map(r => r.top_share.top1), c.s2),
+      line("Top 0.1%", DATA.years.map(r => r.top_share.top0_1), c.s3)
+    ] }, options: base(c, { scales: { x: axis(c, { grid: { display: false } }), y: axis(c, { min: 0, max: 50, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => v + "%" } }) },
+      plugins: Object.assign(base(c).plugins, { tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${it.parsed.y.toFixed(1)}%  ${it.dataset.label}` } }) }) }) });
+  mk("chCrore", { type: "bar", data: { labels: YEARS, datasets: [
+      { label: "₹1 Cr+ total income", data: DATA.years.map(r => r.crorepati_gti), backgroundColor: c.s3, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.8, barPercentage: 0.92 },
+      { label: "₹1 Cr+ salary", data: DATA.years.map(r => r.crorepati_salary), backgroundColor: c.s1, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.8, barPercentage: 0.92 },
+      { label: "₹1 Cr+ business income", data: DATA.years.map(r => r.crorepati_business), backgroundColor: c.s2, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.8, barPercentage: 0.92 }
+    ] }, options: base(c, { scales: { x: axis(c, { grid: { display: false } }), y: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => v >= 1e5 ? (v / 1e5) + "L" : (v / 1e3) + "k" } }) },
+      plugins: Object.assign(base(c).plugins, { legend: Object.assign(base(c).plugins.legend, { labels: Object.assign(base(c).plugins.legend.labels, { pointStyle: "rect" }) }),
+        tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${it.parsed.y.toLocaleString("en-IN")}  ${it.dataset.label}` } }) }) }) });
+  const top1n = Math.round(r.filers / 100);
+  setText("v-top", `The top 1% of filers in AY ${cur} is about ${count(top1n, 1)} people, each declaring at least ${lakhs(r.gti_pcts_l["99"], 1)} a year. Together they declared ${pct(r.top_share.top1)} of all individual income and owed ${pct(r.tax_top1_share)} of all individual tax. That is far below the 22–23% top-1% share that national-accounts studies estimate, which is itself a hint that top incomes are under-declared.`);
+  fillFacts("f-top", [
+    [lakhs(r.gti_pcts_l["99"], 1), "income needed for the filers' top 1%", "AY " + cur],
+    [lakhs(r.gti_pcts_l["99.9"], 1), "income needed for the top 0.1%", "about " + count(r.filers / 1000, 1) + " people"],
+    [pct(r.tax_top1_share), "of individual tax owed by the top 1%", `${pct(r.top_share.top1)} of declared income`],
+    [count(r.crorepati_gti, 2), "returns above ₹1 crore", `${(r.crorepati_gti / f.crorepati_gti).toFixed(1)}× AY ${f.ay} (${count(f.crorepati_gti, 2)})`],
+    [r.above_100cr_gti.toLocaleString("en-IN"), "individuals declaring ₹100 crore+", `AY ${f.ay}: ${f.above_100cr_gti}`]
+  ]);
+}
+
+function renderBlack(c) {
+  const r = Y[cur], bn = DATA.bunching.find(b => b.ay === cur), s = DATA.slabs[cur];
+  // density per 50k band between 2.5L and 10L
+  const bands = [[250000, "2.5–3.5L"], [350000, "3.5–4L"], [400000, "4–4.5L"], [450000, "4.5–5L"], [500000, "5–5.5L"], [550000, "5.5–9.5L"], [950000, "9.5–10L"]];
+  const dens = m => bands.map(([lo]) => { const row = s[m].find(z => z.lo === lo); return row ? row.n / ((row.hi - row.lo) / 50000) : 0; });
+  const ds = (lab, m, col) => ({ label: lab, data: dens(m), backgroundColor: col, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.78, barPercentage: 0.92 });
+  mk("chCliff", { type: "bar", data: { labels: bands.map(b => b[1]), datasets: [
+      ds("Salary", "salary", c.s1), ds("Business income", "business", c.s2), ds("Taxable (returned) income", "returned_income", c.s3)
+    ] }, options: base(c, { scales: { x: axis(c, { grid: { display: false } }), y: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => v >= 1e7 ? (v / 1e7) + "cr" : (v / 1e5) + "L" } }) },
+      plugins: Object.assign(base(c).plugins, { legend: Object.assign(base(c).plugins.legend, { labels: Object.assign(base(c).plugins.legend.labels, { pointStyle: "rect" }) }),
+        refLines: { lines: [{ x: 3.5, color: c.crit, label: "₹5L", textColor: c.crit }] },
+        tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${count(it.parsed.y)} per ₹50k  ${it.dataset.label}` } }) }) }) });
+  const i2021 = YEARS.indexOf("2020-21");
+  mk("chBunch", { type: "line", data: { labels: YEARS, datasets: [
+      line("Salary", DATA.bunching.map(b => b.salary.ratio), c.s1),
+      line("Business income", DATA.bunching.map(b => b.business.ratio), c.s2),
+      line("Taxable (returned) income", DATA.bunching.map(b => b.returned_income.ratio), c.s3)
+    ] }, options: base(c, { scales: { x: axis(c, { grid: { display: false } }), y: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => v + "×" } }) },
+      plugins: Object.assign(base(c).plugins, {
+        refLines: { lines: [{ y: 1, color: c.muted, label: "no pile-up = 1×", textColor: c.muted, dash: [2, 3] }, { x: i2021, color: c.crit, label: "₹12,500 rebate", textColor: c.crit }] },
+        tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${it.parsed.y.toFixed(2)}×  ${it.dataset.label}` } }) }) }) });
+  const pre = DATA.bunching.find(b => b.ay === "2019-20");
+  setText("v-black", `In AY ${cur}, ${count(bn.returned_income.r450)} returns reported taxable income of ₹4.5–5 lakh, against ${count(bn.returned_income.r500)} at ₹5–5.5 lakh, a ${bn.returned_income.ratio}× pile-up just under the line where tax drops to zero. Business income piles up ${bn.business.ratio}× at the same line. Salary, which employers report, shows ${bn.salary.ratio}×, no pile-up at all. Before the AY 2020-21 rebate increase the ratios were ${pre.returned_income.ratio}× and ${pre.business.ratio}×. The data does not measure how much income is hidden, but it shows clearly where income is being shaped to fit the rules.`);
+  const hurun = 871700;
+  fillFacts("f-black", [
+    [bn.returned_income.ratio + "×", "pile-up of taxable income just under ₹5 lakh", `AY ${cur} · salary alone: ${bn.salary.ratio}×`],
+    [count(r.tds_non_filers, 2), "people had tax deducted (TDS) but filed no return", `CBDT taxpayers ${count(r.taxpayers_individual)} vs returns ${count(r.filers)}`],
+    [(r.crorepati_salary / r.crorepati_business).toFixed(1) + " : 1", "salaried to business crorepatis", `${count(r.crorepati_salary, 2)} vs ${count(r.crorepati_business, 2)}, though about as many people report business income as salary`],
+    [count(hurun, 2) + " vs " + count(Y[DATA.meta.latest].crorepati_gti, 2), "millionaire households vs ₹1 crore+ income declarers", "Hurun India Wealth Report 2025 (net worth ≥ ₹8.5 Cr) · external"]
+  ]);
+  const nb = el("n-black"); nb.replaceChildren();
+  for (const t of [
+    ["Reading this fairly. ", "Part of the taxable-income pile-up is legal: people use deductions such as 80C to bring taxable income under ₹5 lakh. Business income is measured before those deductions, so its pile-up is harder to explain away. Presumptive schemes (Sec 44AD/44ADA) let small businesses declare a fixed share of turnover, which also shapes these numbers."],
+    ["What the data cannot show. ", "Cash income that is never declared leaves no trace in return statistics. These signals show behaviour at the margin. They do not size the black economy."]
+  ]) { const p = document.createElement("p"); const b = document.createElement("b"); b.textContent = t[0]; p.append(b, t[1]); nb.append(p); }
+}
+
+function renderPaper(c) {
+  const r = Y[cur];
+  mk("chCoverage", { type: "line", data: { labels: YEARS, datasets: [line("Filers, % of population", DATA.years.map(r => r.filers_pct_population), c.s1, { fill: { target: "origin" }, backgroundColor: c.s1 + "22" })] },
+    options: base(c, { scales: { x: axis(c, { grid: { display: false } }), y: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => v + "%" } }) },
+      plugins: Object.assign(base(c).plugins, { legend: { display: false }, tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${it.parsed.y.toFixed(2)}% of population` } }) }) }) });
+  mk("chGdp", { type: "line", data: { labels: YEARS, datasets: [line("Declared income, % of GDP", DATA.years.map(r => r.gti_pct_gdp), c.s2, { fill: { target: "origin" }, backgroundColor: c.s2 + "22" })] },
+    options: base(c, { scales: { x: axis(c, { grid: { display: false } }), y: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => v + "%" } }) },
+      plugins: Object.assign(base(c).plugins, { legend: { display: false }, tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${it.parsed.y.toFixed(1)}% of GDP` } }) }) }) });
+  setText("v-paper", `Only ${pct(r.filers_pct_population)} of Indians filed an individual return for AY ${cur}, and ${pct(r.zero_tax_pct)} of those owed no tax. On paper, a total income of ${lakhs(r.pop_top1_threshold_l)} a year puts you in the top 1% of all Indians. All income declared by individuals adds up to ${pct(r.gti_pct_gdp)} of GDP. The spending you see in cities is real, but most of the income behind it is not on a tax return.`);
+  fillFacts("f-paper", [
+    [pct(r.filers_pct_population), "of Indians file an individual return", `${count(r.filers)} of ${count(r.population, 1)}`],
+    [lakhs(r.pop_top1_threshold_l), "declared income for the top 1% of all Indians", "assumes non-filers earn less than filers"],
+    [lakhs(r.gdp_per_capita_l), "GDP per person", `median filer declares ${lakhs(r.gti_median_l)}`],
+    [pct(r.gti_pct_gdp), "of GDP shows up as declared individual income", `${pct(DATA.years[0].gti_pct_gdp)} in AY ${DATA.meta.first}`],
+    ["~51,200", "luxury cars sold in India in 2024", "Autocar Pro industry estimate · external"]
+  ]);
+}
+
+function renderAvg(c) {
+  const r = Y[cur], s = DATA.slabs[cur].gross_total_income;
+  mk("chMeanMed", { type: "line", data: { labels: YEARS, datasets: [
+      line("Mean", DATA.years.map(r => r.gti_mean_l), c.s2),
+      line("Median", DATA.years.map(r => r.gti_median_l), c.s1)
+    ] }, options: base(c, { scales: { x: axis(c, { grid: { display: false } }), y: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => "₹" + v + "L" } }) },
+      plugins: Object.assign(base(c).plugins, { tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${lakhs(it.parsed.y)}  ${it.dataset.label}` } }) }) }) });
+  // slabs: =0, then each slab up to 1 Cr, then 1 Cr+ combined
+  const rows = s.filter(z => z.slab !== "<0");
+  const out = [];
+  for (const z of rows) {
+    if (z.lo != null && z.lo >= 10000000) { const last = out[out.length - 1]; if (last.key === "1cr") { last.n += z.n; continue; } out.push({ key: "1cr", label: "₹1Cr+", lo: z.lo, hi: null, n: z.n }); continue; }
+    const f = v => v >= 1e7 ? (v / 1e7) + "Cr" : (v / 1e5) + "L";
+    out.push({ key: z.slab, label: z.slab === "=0" ? "Zero" : `${f(z.lo)}–${f(z.hi)}`.replace("0L–", "0–"), lo: z.lo, hi: z.hi, n: z.n });
+  }
+  const med = r.gti_median_l * 1e5, mean = r.gti_mean_l * 1e5;
+  const inSlab = (o, v) => o.lo != null && v > o.lo && (o.hi == null || v <= o.hi);
+  mk("chHist", { type: "bar", data: { labels: out.map(o => o.label), datasets: [{ label: "Returns", data: out.map(o => o.n),
+      backgroundColor: out.map(o => inSlab(o, med) ? c.s1 : c.s1 + "66"),
+      borderColor: out.map(o => inSlab(o, mean) ? c.s2 : "transparent"), borderWidth: out.map(o => inSlab(o, mean) ? 2 : 0),
+      borderRadius: 4, borderSkipped: false, categoryPercentage: 0.9, barPercentage: 0.95 }] },
+    options: base(c, { scales: { x: axis(c, { grid: { display: false }, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 10 }, maxRotation: 60, minRotation: 45 } }),
+      y: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => v >= 1e7 ? (v / 1e7) + "cr" : (v / 1e5) + "L" } }) },
+      plugins: Object.assign(base(c).plugins, { legend: { display: false }, tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: {
+        label: it => `${count(it.parsed.y)} returns`, afterLabel: it => { const o = out[it.dataIndex]; return [inSlab(o, med) ? "contains the median" : "", inSlab(o, mean) ? "contains the mean" : ""].filter(Boolean).join(" · "); } } }) }) }) });
+  const f = Y[DATA.meta.first];
+  const belowMean = pctOf(r.gti_curve, r.gti_mean_l);
+  setText("v-avg", `In AY ${cur} the average individual filer declared ${lakhs(r.gti_mean_l)} and the median filer ${lakhs(r.gti_median_l)}. The mean is ${(r.gti_mean_l / r.gti_median_l).toFixed(2)}× the median, and about ${Math.round(belowMean)}% of filers declare less than the average. Since AY ${f.ay} the median grew ${(r.gti_median_l / f.gti_median_l).toFixed(2)}× and the mean ${(r.gti_mean_l / f.gti_mean_l).toFixed(2)}×. The bottom half of filers declares ${pct(r.bottom50_share)} of all income, and the Gini coefficient among filers is ${r.gini}.`);
+}
+
+function renderCities(c) {
+  const fy = "2024-25", rows = DATA.states.filter(s => s.fy === fy).sort((a, b) => b.direct_tax_cr - a.direct_tax_cr);
+  mk("chStates", { type: "bar", data: { labels: rows.map(r => `${r.state} · ${r.metro.split(" · ")[0]}`), datasets: [{ label: "Direct tax, FY 2024-25", data: rows.map(r => r.direct_tax_cr / 1000),
+      backgroundColor: rows.map((r, i) => i < 3 ? c.s1 : c.s1 + "77"), borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.85, barPercentage: 0.9 }] },
+    options: base(c, { indexAxis: "y", interaction: { mode: "nearest", intersect: true, axis: "y" },
+      scales: { x: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => "₹" + v + "k" } }), y: axis(c, { grid: { display: false }, ticks: { color: c.ink2, font: { size: 11 }, autoSkip: false } }) },
+      plugins: Object.assign(base(c).plugins, { legend: { display: false }, tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: {
+        label: it => `₹${Math.round(rows[it.dataIndex].direct_tax_cr).toLocaleString("en-IN")} crore`, afterLabel: it => `${rows[it.dataIndex].share_pct.toFixed(1)}% of India · ${rows[it.dataIndex].metro}` } }) }) }) });
+  const big = ["Maharashtra", "Karnataka", "Delhi", "Tamil Nadu"], cols = [c.s1, c.s2, c.s3, c.s4];
+  const fys = [...new Set(DATA.states.map(s => s.fy))];
+  mk("chStateTrend", { type: "line", data: { labels: fys, datasets: big.map((st, i) => line(st, fys.map(f => DATA.states.find(s => s.fy === f && s.state === st).direct_tax_cr / 1000), cols[i])) },
+    options: base(c, { scales: { x: axis(c, { grid: { display: false } }), y: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => "₹" + v + "k" } }) },
+      plugins: Object.assign(base(c).plugins, { tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `₹${Math.round(it.parsed.y * 1000).toLocaleString("en-IN")} cr  ${it.dataset.label}` } }) }) }) });
+  const top3 = rows.slice(0, 3).reduce((a, r) => a + r.share_pct, 0);
+  const mh = rows[0], mh0 = DATA.states.find(s => s.fy === "2018-19" && s.state === "Maharashtra");
+  setText("v-cities", `In FY 2024-25 Maharashtra (Mumbai, Pune) alone accounted for ${mh.share_pct.toFixed(1)}% of India's direct tax collection. Maharashtra, Karnataka (Bengaluru) and Delhi together accounted for ${top3.toFixed(0)}%. Maharashtra's collections grew ${(mh.direct_tax_cr / mh0.direct_tax_cr).toFixed(1)}× since FY 2018-19. Gujarat, Haryana (Gurugram) and Uttar Pradesh (Noida) are the fastest risers among the large states.`);
+}
+
+
+function renderFilers(c) {
+  const r = Y[cur], s = r.salary, b = r.business, f = Y[DATA.meta.first];
+  mk("chFilers", { type: "bar", data: { labels: YEARS, datasets: [
+      { label: "Salary filers", data: DATA.years.map(r => r.salary.n), backgroundColor: c.s1, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.75, barPercentage: 0.92 },
+      { label: "Business filers", data: DATA.years.map(r => r.business.n), backgroundColor: c.s2, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.75, barPercentage: 0.92 }
+    ] }, options: base(c, { scales: { x: axis(c, { grid: { display: false } }), y: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => (v / 1e7) + " cr" } }) },
+      plugins: Object.assign(base(c).plugins, { legend: Object.assign(base(c).plugins.legend, { labels: Object.assign(base(c).plugins.legend.labels, { pointStyle: "rect" }) }),
+        tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${count(it.parsed.y)}  ${it.dataset.label}` } }) }) }) });
+  const nTot = s.n + b.n, iTot = s.total_cr + b.total_cr;
+  const shares = { s: [100 * s.n / nTot, 100 * s.total_cr / iTot], b: [100 * b.n / nTot, 100 * b.total_cr / iTot] };
+  mk("chShare", { type: "bar", data: { labels: ["Share of filers", "Share of declared income"], datasets: [
+      { label: "Salary", data: shares.s, backgroundColor: c.s1, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.6, barPercentage: 0.92 },
+      { label: "Business income", data: shares.b, backgroundColor: c.s2, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.6, barPercentage: 0.92 }
+    ] }, options: base(c, { scales: { x: axis(c, { grid: { display: false } }), y: axis(c, { min: 0, max: 100, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => v + "%" } }) },
+      plugins: Object.assign(base(c).plugins, { legend: Object.assign(base(c).plugins.legend, { labels: Object.assign(base(c).plugins.legend.labels, { pointStyle: "rect" }) }),
+        tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${it.parsed.y.toFixed(1)}%  ${it.dataset.label}` } }) }) }) });
+  const eb = DATA.earner_bands[cur];
+  const pctOfGroup = m => { const t = eb[m].reduce((a, z) => a + z.n, 0); return eb[m].map(z => 100 * z.n / t); };
+  mk("chBands", { type: "bar", data: { labels: eb.salary.map(z => z.band), datasets: [
+      { label: "Salary filers", data: pctOfGroup("salary"), backgroundColor: c.s1, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.75, barPercentage: 0.92 },
+      { label: "Business filers", data: pctOfGroup("business"), backgroundColor: c.s2, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.75, barPercentage: 0.92 }
+    ] }, options: base(c, { scales: { x: axis(c, { grid: { display: false }, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 10 }, maxRotation: 0, autoSkip: false } }), y: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => v + "%" } }) },
+      plugins: Object.assign(base(c).plugins, { legend: Object.assign(base(c).plugins.legend, { labels: Object.assign(base(c).plugins.legend.labels, { pointStyle: "rect" }) }),
+        tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => { const m = it.datasetIndex ? "business" : "salary"; const z = eb[m][it.dataIndex]; return `${it.parsed.y.toFixed(1)}% · ${count(z.n)} filers · ₹${(z.income_cr / 1e5).toFixed(2)} lakh cr  ${it.dataset.label}`; } } }) }) }) });
+  const forms = Object.entries(DATA.external.itr_forms_ay2024_25);
+  const formTotal = forms.reduce((a, [, v]) => a + v, 0);
+  const fcol = forms.map(([k]) => /ITR-1|ITR-2/.test(k) ? c.s1 : /ITR-3|ITR-4/.test(k) ? c.s2 : c.muted);
+  mk("chForms", { type: "bar", data: { labels: forms.map(([k]) => k.split(" (")[0]), datasets: [{ label: "Returns", data: forms.map(([, v]) => v), backgroundColor: fcol, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.8, barPercentage: 0.9 }] },
+    options: base(c, { indexAxis: "y", interaction: { mode: "nearest", intersect: true, axis: "y" },
+      scales: { x: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => (v / 1e7) + " cr" } }), y: axis(c, { grid: { display: false }, ticks: { color: c.ink2, font: { size: 11 } } }) },
+      plugins: Object.assign(base(c).plugins, { legend: { display: false }, tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: {
+        label: it => `${count(it.parsed.x)} returns · ${(100 * it.parsed.x / formTotal).toFixed(1)}%`, afterLabel: it => forms[it.dataIndex][0].split(" (")[1].replace(")", "") } }) }) }) });
+  const busLow = eb.business[1].n, busTot = eb.business.reduce((a, z) => a + z.n, 0);
+  setText("v-filers", `In AY ${cur}, ${count(s.n)} returns reported salary and ${count(b.n)} reported business income. Business filers are ${shares.b[0].toFixed(0)}% of these earners but declare only ${shares.b[1].toFixed(0)}% of the money. ${(100 * busLow / busTot).toFixed(0)}% of business filers declare ₹2.5–5 lakh, right under the tax-free line. The average salary earner declares ${lakhs(s.mean_l)}, the average business earner ${lakhs(b.mean_l)}.`);
+  fillFacts("f-filers", [
+    [count(s.n), "salary filers", `₹${(s.total_cr / 1e5).toFixed(1)} lakh crore declared · ${(s.n / f.salary.n).toFixed(2)}× filers since AY ${f.ay}`],
+    [count(b.n), "business filers", `₹${(b.total_cr / 1e5).toFixed(1)} lakh crore declared · ${(b.n / f.business.n).toFixed(2)}× filers since AY ${f.ay}`],
+    [lakhs(s.mean_l) + " vs " + lakhs(b.mean_l), "average declared income per filer", `salary vs business · AY ${cur}`],
+    [(s.total_cr / f.salary.total_cr).toFixed(1) + "× vs " + (b.total_cr / f.business.total_cr).toFixed(1) + "×", "growth in total declared income since AY " + f.ay, "salary vs business"],
+    ["2.79 cr vs 3.34 cr", "business forms (ITR-3 + ITR-4) vs salaried ITR-1, AY 2024-25", "PIB, returns filed up to 31 July 2024"]
+  ]);
+}
+
+function renderHH(c) {
+  const E = DATA.external, yrs = Object.keys(E.india), grp = ["Destitute", "Aspirers", "Middle class", "Rich"], cols = [c.q1, c.q2, c.q3, c.q4];
+  mk("chHH", { type: "bar", data: { labels: yrs.map(y => y.replace(" (projected)", "*")), datasets: grp.map((g, i) => ({ label: g, data: yrs.map(y => 100 * E.india[y].groups_k[g] / E.india[y].households_k),
+      backgroundColor: cols[i], borderColor: c.surface, borderWidth: { top: 2 }, borderSkipped: "start", categoryPercentage: 0.7, barPercentage: 0.9 })) },
+    options: base(c, { scales: { x: axis(c, { stacked: true, grid: { display: false } }), y: axis(c, { stacked: true, min: 0, max: 100, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => v + "%" } }) },
+      plugins: Object.assign(base(c).plugins, { legend: Object.assign(base(c).plugins.legend, { labels: Object.assign(base(c).plugins.legend.labels, { pointStyle: "rect" }) }),
+        tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${it.parsed.y.toFixed(1)}% · ${(E.india[yrs[it.dataIndex]].groups_k[it.dataset.label] / 1e4).toFixed(2)} cr households  ${it.dataset.label}` } }) }) }) });
+  const hv = DATA.households_vs_returns;
+  mk("chHHvsITR", { type: "bar", data: { labels: hv.map(z => z.label), datasets: [
+      { label: "Households earning it (PRICE)", data: hv.map(z => z.households), backgroundColor: c.s3, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.7, barPercentage: 0.92 },
+      { label: "Individuals declaring it (ITR)", data: hv.map(z => z.individuals), backgroundColor: c.s1, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.7, barPercentage: 0.92 }
+    ] }, options: base(c, { scales: { x: axis(c, { grid: { display: false } }), y: axis(c, { type: "logarithmic", min: 10000, grid: { color: ctx => ([1e4, 1e5, 1e6, 1e7].includes(ctx.tick && ctx.tick.value) ? c.line : "transparent"), drawTicks: false },
+        ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => ({ 10000: "10k", 100000: "1 lakh", 1000000: "10 lakh", 10000000: "1 cr" })[v] || "" } }) },
+      plugins: Object.assign(base(c).plugins, { legend: Object.assign(base(c).plugins.legend, { labels: Object.assign(base(c).plugins.legend.labels, { pointStyle: "rect" }) }),
+        tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${count(it.parsed.y)}  ${it.dataset.label}`, footer: it => `${(hv[it[0].dataIndex].households / hv[it[0].dataIndex].individuals).toFixed(0)} households per declarer` } }) }) }) });
+  const I = E.india["2020-21"], U = E.rural_urban.Urban, R = E.rural_urban.Rural, p30 = hv[0], p2 = hv[3];
+  setText("v-hh", `PRICE counts ${count(p30.households)} households earning over ₹30 lakh a year in 2020-21. That year only ${count(p30.individuals)} individuals declared more than ₹30 lakh on their returns. At ₹2 crore+ it is ${count(p2.households)} households against ${count(p2.individuals)} declarers. Meanwhile the median household earns ${lakhs(I.median_l)}: ${lakhs(U.median_l)} in cities, ${lakhs(R.median_l)} in villages.`);
+  const P47 = E.india["2046-47 (projected)"];
+  fillFacts("f-hh", [
+    [lakhs(I.median_l), "median household income, India", `${(I.households_k / 1e4).toFixed(1)} crore households · 2020-21 prices`],
+    [lakhs(U.median_l) + " vs " + lakhs(R.median_l), "urban vs rural median household", `${(U.households_k / 1e4).toFixed(1)} cr urban · ${(R.households_k / 1e4).toFixed(1)} cr rural households`],
+    [pct(100 * I.groups_k["Middle class"] / I.households_k), "of households are middle class (₹5–30L)", `${pct(100 * I.groups_k.Rich / I.households_k)} are rich (₹30L+)`],
+    [count(I.super_rich_k * 1000), "households earn over ₹2 crore a year", "PRICE 'Super Rich', up from 10.6 lakh in 2015-16"],
+    [pct(100 * P47.groups_k["Middle class"] / P47.households_k, 0), "projected middle-class share by 2046-47", "PRICE projection"]
+  ]);
+}
+
+function renderCityMed(c) {
+  const E = DATA.external, cities = Object.entries(E.cities).sort((a, b) => b[1].median_l - a[1].median_l);
+  const India = E.india["2020-21"].median_l, Urban = E.rural_urban.Urban.median_l;
+  mk("chCityMed", { type: "bar", data: { labels: cities.map(([k]) => k), datasets: [{ label: "Median household income", data: cities.map(([, v]) => v.median_l),
+      backgroundColor: cities.map((_, i) => i < 3 ? c.s1 : c.s1 + "88"), borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.85, barPercentage: 0.9 }] },
+    options: base(c, { indexAxis: "y", interaction: { mode: "nearest", intersect: true, axis: "y" },
+      scales: { x: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => "₹" + v + "L" } }), y: axis(c, { grid: { display: false }, ticks: { color: c.ink2, font: { size: 12 }, autoSkip: false } }) },
+      plugins: Object.assign(base(c).plugins, { legend: { display: false },
+        refLines: { lines: [{ x: India, color: c.muted, label: "India", textColor: c.muted }, { x: Urban, color: c.s2, label: "Urban", textColor: c.ink2 }] },
+        tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => `${lakhs(it.parsed.x)} median`, afterLabel: it => { const v = cities[it.dataIndex][1]; return `middle half: ${lakhs(v.p25_l)} – ${lakhs(v.p75_l)} · top 10% above ${lakhs(v.p90_l)}`; } } }) }) }) });
+  const names = [...new Set([...cities.map(([k]) => k), ...Object.keys(E.hurun_2025)])];
+  names.sort((a, b) => Math.max((E.cities[b] || {}).rich_k || 0, (E.hurun_2025[b] || 0) / 1000) - Math.max((E.cities[a] || {}).rich_k || 0, (E.hurun_2025[a] || 0) / 1000));
+  mk("chCityRich", { type: "bar", data: { labels: names, datasets: [
+      { label: "₹30L+ income households (PRICE)", data: names.map(k => E.cities[k] ? E.cities[k].rich_k : null), backgroundColor: c.s3, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.8, barPercentage: 0.92 },
+      { label: "₹8.5Cr+ net worth households (Hurun)", data: names.map(k => E.hurun_2025[k] ? E.hurun_2025[k] / 1000 : null), backgroundColor: c.s4, borderRadius: 4, borderSkipped: "start", categoryPercentage: 0.8, barPercentage: 0.92 }
+    ] }, options: base(c, { indexAxis: "y", interaction: { mode: "index", intersect: false, axis: "y" },
+      scales: { x: axis(c, { min: 0, ticks: { color: c.muted, font: { family: "IBM Plex Mono", size: 11 }, callback: v => v + "k" } }), y: axis(c, { grid: { display: false }, ticks: { color: c.ink2, font: { size: 12 }, autoSkip: false } }) },
+      plugins: Object.assign(base(c).plugins, { legend: Object.assign(base(c).plugins.legend, { labels: Object.assign(base(c).plugins.legend.labels, { pointStyle: "rect" }) }),
+        tooltip: Object.assign(base(c).plugins.tooltip, { callbacks: { label: it => it.raw == null ? `not covered  ${it.dataset.label}` : `${(Math.round(it.parsed.x * 10) / 10).toLocaleString("en-IN")}k  ${it.dataset.label}` } }) }) }) });
+  const opp = v => {
+    if (v.share_rich >= 17 && v.households_k < 1000) return ["Tier-2 premium", "Rich share rivals the metros, but brands and wealth managers are thin on the ground."];
+    if (v.share_rich >= 17) return ["Premium & wealth", "Deepest pool of high earners: wealth management, luxury, premium housing, private schooling."];
+    if (v.share_middle_plus >= 65) return ["Mass-premium", "Large, secure middle class with fewer super-rich: upgrade brands, consumer credit, insurance, education."];
+    if (v.share_middle_plus >= 55) return ["Aspirational growth", "Middle class just over half of households: housing, first cars, fintech and upskilling."];
+    return ["Value & credit-led", "Half of households still under ₹5L: affordable housing, value retail, small-ticket loans."];
+  };
+  const cols = [["City", (k, v) => `${k} · ${v.state}`], ["Median HH income", (k, v) => lakhs(v.median_l)], ["Middle half", (k, v) => `${lakhs(v.p25_l, 1)}–${lakhs(v.p75_l, 1)}`],
+    ["Middle class+", (k, v) => pct(v.share_middle_plus)], ["Rich (₹30L+)", (k, v) => pct(v.share_rich)], ["Rich households", (k, v) => count(v.rich_k * 1000)],
+    ["Millionaire HH (Hurun)", (k, v) => v.hurun_2025 ? v.hurun_2025.toLocaleString("en-IN") : "—"],
+    ["Per-capita income", (k, v) => v.per_capita ? `${lakhs(v.per_capita.value / 1e5, 2)} (${v.per_capita.year})` : "—"],
+    ["State's share of direct tax", (k, v) => { const st = DATA.states.find(s => s.fy === "2024-25" && s.state === v.state); return st ? pct(st.share_pct) : "—"; }],
+    ["Opportunity", (k, v) => opp(v)]];
+  const t = el("tblCity"); t.replaceChildren();
+  const th = document.createElement("thead"), tr = document.createElement("tr");
+  cols.forEach(([h], i) => { const e = document.createElement("th"); e.textContent = h; if (i === cols.length - 1) e.className = "wrap"; tr.append(e); });
+  th.append(tr); t.append(th);
+  const tb = document.createElement("tbody");
+  for (const [k, v] of cities) {
+    const row = document.createElement("tr");
+    for (const [h, f] of cols) {
+      const d = document.createElement("td"); const val = f(k, v);
+      if (Array.isArray(val)) { d.className = "wrap"; const tg = document.createElement("span"); tg.className = "tag"; tg.textContent = val[0]; d.append(tg, document.createTextNode(" " + val[1])); }
+      else d.textContent = val;
+      if (h === "Per-capita income" && v.per_capita) d.title = v.per_capita.source;
+      row.append(d);
+    }
+    tb.append(row);
+  }
+  t.append(tb);
+  const [a, b2, c3] = cities;
+  setText("v-citymed", `${a[0]} has the highest median household income at ${lakhs(a[1].median_l)} a year, ahead of ${b2[0]} (${lakhs(b2[1].median_l)}) and ${c3[0]} (${lakhs(c3[1].median_l)}). India as a whole is ${lakhs(India)}. Mumbai has the most rich households (${count(E.cities.Mumbai.rich_k * 1000)}) and ${count(E.hurun_2025.Mumbai)} millionaire households, more than the next three cities combined. Nagpur and Nashik are the surprise: about 1 in 5 households earn ₹30L+, the same density as Mumbai.`);
+}
+
+
+function renderTable() {
+  const cols = [["AY", r => r.ay], ["Returns", r => count(r.filers)], ["% pop.", r => r.filers_pct_population.toFixed(2)], ["Median", r => r.gti_median_l.toFixed(2)], ["Mean", r => r.gti_mean_l.toFixed(2)],
+    ["P90", r => r.gti_pcts_l["90"].toFixed(1)], ["P99", r => r.gti_pcts_l["99"].toFixed(1)], ["P99.9", r => r.gti_pcts_l["99.9"].toFixed(0)], ["Top 10%", r => r.top_share.top10.toFixed(1) + "%"], ["Top 1%", r => r.top_share.top1.toFixed(1) + "%"], ["Top 0.1%", r => r.top_share.top0_1.toFixed(1) + "%"],
+    ["Gini", r => r.gini.toFixed(3)], ["Zero tax", r => r.zero_tax_pct.toFixed(1) + "%"], ["Med. salary", r => r.salary.pcts_l["50"].toFixed(2)], ["Med. business", r => r.business.pcts_l["50"].toFixed(2)],
+    ["₹1Cr+ (all)", r => r.crorepati_gti.toLocaleString("en-IN")], ["₹1Cr+ salary", r => r.crorepati_salary.toLocaleString("en-IN")], ["₹1Cr+ business", r => r.crorepati_business.toLocaleString("en-IN")],
+    ["Pile-up (taxable)", r => DATA.bunching.find(b => b.ay === r.ay).returned_income.ratio + "×"], ["% of GDP", r => r.gti_pct_gdp.toFixed(1)]];
+  const t = el("tbl"); t.replaceChildren();
+  const th = document.createElement("thead"), tr = document.createElement("tr");
+  for (const [h] of cols) { const e = document.createElement("th"); e.textContent = h; tr.append(e); }
+  th.append(tr); t.append(th);
+  const tb = document.createElement("tbody");
+  for (const r of DATA.years) { const row = document.createElement("tr"); for (const [, f] of cols) { const d = document.createElement("td"); d.textContent = f(r); row.append(d); } tb.append(row); }
+  t.append(tb);
+}
+
+function renderAll() {
+  const c = tok();
+  Chart.defaults.font.family = "'Public Sans', system-ui, sans-serif";
+  Chart.defaults.color = c.ink2;
+  Chart.defaults.borderColor = c.line;
+  renderKPIs(); renderCalc(c); renderJobs(c); renderFilers(c); renderTop(c); renderBlack(c); renderPaper(c); renderHH(c); renderAvg(c); renderCityMed(c); renderCities(c);
+}
+
+// ---------- controls
+(function init() {
+  const sel = el("year");
+  for (const y of YEARS.slice().reverse()) { const o = document.createElement("option"); o.value = y; o.textContent = "AY " + y; sel.append(o); }
+  try { const saved = localStorage.getItem("itr-year"); if (saved && Y[saved]) cur = saved; } catch (e) {}
+  sel.value = cur;
+  sel.addEventListener("change", () => { cur = sel.value; try { localStorage.setItem("itr-year", cur); } catch (e) {} renderAll(); });
+  const chips = el("chips");
+  for (const [v, l] of [[300000, "₹3L"], [600000, "₹6L"], [1200000, "₹12L"], [2500000, "₹25L"], [5000000, "₹50L"], [10000000, "₹1Cr"]]) {
+    const b = document.createElement("button"); b.type = "button"; b.textContent = l;
+    b.addEventListener("click", () => { el("inc").value = v; renderCalc(tok()); }); chips.append(b);
+  }
+  el("inc").addEventListener("input", () => renderCalc(tok()));
+  for (const b of el("kind").querySelectorAll("button")) b.addEventListener("click", () => {
+    kind = b.dataset.k; for (const x of el("kind").querySelectorAll("button")) x.setAttribute("aria-pressed", String(x === b)); renderCalc(tok());
+  });
+  setText("built", DATA.meta.built);
+  setText("stamp-years", `AY ${DATA.meta.first} → AY ${DATA.meta.latest}`);
+  const L = Y[DATA.meta.latest];
+  el("lede").textContent = `Ten years of income-tax returns, AY ${DATA.meta.first} to AY ${DATA.meta.latest}. In the latest year ${count(L.filers)} individuals filed, ${pct(L.zero_tax_pct)} of them owed no tax, and half declared less than ${lakhs(L.gti_median_l)} a year.`;
+  // light / dark switch: an explicit choice on <html data-theme>, remembered per viewer
+  const root = document.documentElement, tbtn = el("theme");
+  const effective = () => root.getAttribute("data-theme") || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  const SUN = "M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10zm-1-6h2v3h-2zm0 19h2v3h-2zM1 11h3v2H1zm19 0h3v2h-3zM4.2 5.6l1.4-1.4 2.1 2.1-1.4 1.4zm12.1 12.1 1.4-1.4 2.1 2.1-1.4 1.4zM4.2 18.4l2.1-2.1 1.4 1.4-2.1 2.1zM16.3 6.3l2.1-2.1 1.4 1.4-2.1 2.1z";
+  const MOON = "M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9z";
+  const syncBtn = () => {
+    const dark = effective() === "dark";
+    setText("theme-label", dark ? "Switch to light mode" : "Switch to dark mode");
+    tbtn.title = dark ? "Switch to light mode" : "Switch to dark mode";
+    tbtn.setAttribute("aria-pressed", String(dark));
+    el("theme-icon").setAttribute("d", dark ? SUN : MOON);
+  };
+  try { const t = localStorage.getItem("itr-theme"); if (t === "dark" || t === "light") root.setAttribute("data-theme", t); } catch (e) {}
+  tbtn.addEventListener("click", () => {
+    const next = effective() === "dark" ? "light" : "dark";
+    root.setAttribute("data-theme", next);
+    try { localStorage.setItem("itr-theme", next); } catch (e) {}
+    syncBtn();
+  });
+  syncBtn();
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", syncBtn);
+  // highlight the section currently on screen
+  const navLinks = [...document.querySelectorAll("nav.index a")];
+  const spy = new IntersectionObserver(es => {
+    for (const e of es) if (e.isIntersecting) navLinks.forEach(a => {
+      const on = a.getAttribute("href") === "#" + e.target.id; a.classList.toggle("active", on);
+      if (on) { const n = a.parentElement; n.scrollTo({ left: a.offsetLeft - n.clientWidth / 2 + a.clientWidth / 2, behavior: "smooth" }); }
+    });
+  }, { rootMargin: "-30% 0px -60% 0px" });
+  navLinks.forEach(a => { const t = document.querySelector(a.getAttribute("href")); if (t) spy.observe(t); });
+  const prog = el("progress");
+  const onScroll = () => { const h = document.scrollingElement || document.documentElement; prog.style.transform = `scaleX(${Math.min(1, (window.scrollY || h.scrollTop) / Math.max(1, h.scrollHeight - innerHeight))})`; };
+  addEventListener("scroll", onScroll, { passive: true }); onScroll();
+  renderTable(); renderAll();
+  // re-colour charts when the viewer switches theme
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", renderAll);
+  new MutationObserver(renderAll).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(renderAll);
+})();
+</script>

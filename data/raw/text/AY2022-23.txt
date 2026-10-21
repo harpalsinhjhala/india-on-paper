@@ -1,0 +1,4079 @@
+
+===== PAGE 1 =====
+Income Tax Department
+Income Tax Return Statistics
+Assessment Year 2022-23
+Version 1
+September 2023
+
+===== PAGE 2 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Document Version Control
+Version Month | Remarks
+1.0 | September
+The statistics were generated from e-filed returns (digitally signed, e-
+2023
+Verified or where ITRV has been received) captured in system up to
+st
+31 August 2023.
+1
+
+===== PAGE 3 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Table of Contents
+Overview.............................................................................................................................4
+Objective ........................................................................................................................4
+Methodology Adopted ....................................................................................................4
+Consistency Rules..........................................................................................................4
+Status wise distribution of returns and key values ..........................................................5
+Limitations ......................................................................................................................6
+Disclaimer ......................................................................................................................6
+1. | Income Tax Returns - All Taxpayers ............................................................................7
+1.1 | All Taxpayers – Gross Total Income (AY 2022-23)..............................................8
+1.2 | All Taxpayers - Range of Salary Income (AY 2022-23) .......................................9
+1.3 | All Taxpayers - Range of House Property Income (AY 2022-23) .......................10
+1.4 | All Taxpayers - Range of Business Income (AY 2022-23) .................................11
+1.5 | All Taxpayers - Range of Long Term Capital Gains (AY 2022-23).....................12
+1.6 | All Taxpayers - Range of Short-Term Capital Gains (AY 2022-23) ....................13
+1.7 | All Taxpayers - Range of Other Sources Income (AY 2022-23).........................14
+1.8 | All Taxpayers - Range of Interest Income (AY 2022-23)....................................15
+1.9 | All Taxpayers- Range of Total Loss Set off (AY 2022-23)..................................16
+1.10 All Taxpayers - Range of Returned Income (AY 2022-23) .................................17
+1.11 All Taxpayers - Range of Tax Payable (AY 2022-23) ........................................18
+2. | Income Tax Returns – Individuals .............................................................................19
+2.1 | Individual– Range of Gross Total Income (AY 2022-23) ....................................20
+2.2 | Individual- Range of Salary Income (AY 2022-23) .............................................21
+2.3 | Individual-Range of House Property Income (AY 2022-23) ...............................22
+2.4 | Individual-Range of Business Income (AY 2022-23)..........................................23
+2.5 | Individual- Range of Long Term Capital Gains (AY 2022-23) ............................24
+2.6 | Individual-Range of Short Term Capital Gains (AY 2022-23).............................25
+2.7 | Individual- Range of Other Sources Income (AY 2022-23) ................................26
+2.8 | Individual- Range of Interest Income (AY 2022-23) ...........................................27
+2.9 | Individual-Range of Total Loss Set off (AY 2022-23) .........................................28
+2.10 Individual- Range of Returned Income (AY 2022-23) ........................................29
+2.11 Individual- Range of Tax Payable (AY 2022-23)................................................30
+3. | Income Tax Returns - HUF ........................................................................................31
+3.1 | HUF– Gross Total Income (AY 2022-23)...........................................................32
+3.2 | HUF- Range of House Property Income (AY 2022-23) ......................................33
+3.3 | HUF- Range of Business Income (AY 2022-23) ................................................34
+3.4 | HUF- Range of Long Term Capital Gains (AY 2022-23) ....................................35
+3.5 | HUF- Range of Short Term Capital Gains (AY 2022-23) ...................................36
+3.6 | HUF- Range of Other Sources Income (AY 2022-23)........................................37
+3.7 | HUF- Range of Interest Income (AY 2022-23)...................................................38
+3.8 | HUF- Range of Total Loss Set off (AY 2022-23)................................................39
+3.9 | HUF- Range of Returned Income (AY 2022-23) ................................................40
+3.10 HUF- Range of Tax Payable (AY 2022-23)........................................................41
+4. | Income Tax Returns - Firms ......................................................................................42
+2
+
+===== PAGE 4 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+4.1 | Firm – Gross Total Income (AY 2022-23) ..........................................................43
+4.2 | Firm- Range of House Property Income (AY 2022-23) ......................................44
+4.3 | Firm – Range of Business Income (AY 2022-23)...............................................45
+4.4 | Firm – Range of Long Term Capital Gains (AY 2022-23) ..................................46
+4.5 | Firm – Range of Short Term Capital Gains (AY 2022-23)..................................47
+4.6 | Firm – Range of Other Sources Income (AY 2022-23) ......................................48
+4.7 | Firm – Range of Interest Income (AY 2022-23) .................................................49
+4.8 | Firm – Range of Total Loss Set off (AY 2022-23) ..............................................51
+4.9 | Firm – Range of Returned Income (AY 2022-23) ..............................................52
+4.10 Firm – Range of Tax Payable (AY 2022-23) ......................................................53
+5. | Income Tax Returns - AOP/BOI .................................................................................54
+5.1 | AOP/BOI – Gross Total Income (AY 2022-23)...................................................55
+5.2 | AOP/BOI- Range of House Property Income (AY 2022-23)...............................56
+5.3 | AOP/BOI – Range of Business Income (AY 2022-23) .......................................57
+5.4 | AOP/BOI – Range of Long Term Capital Gains (AY 2022-23) ...........................58
+5.5 | AOP/BOI – Range of Short Term Capital Gains (AY 2022-23) ..........................59
+5.6 | AOP/BOI – Range of Other Sources Income (AY 2022-23)...............................60
+5.7 | AOP/BOI – Range of Interest Income (AY 2022-23)..........................................61
+5.8 | AOP/BOI- Range of Total Loss Set off (AY 2022-23) ........................................62
+5.9 | AOP/BOI- Range of Returned Income (AY 2022-23).........................................63
+5.10 AOP/BOI- Range of Tax Payable (AY 2022-23) ................................................64
+6. | Income Tax Returns - Company ................................................................................65
+6.1 | Company – Gross Total Income (AY 2022-23) ..................................................66
+6.2 | Company- Range of House Property Income (AY 2022-23) ..............................67
+6.3 | Company – Range of Business Income (AY 2022-23).......................................68
+6.4 | Company – Range of Long Term Capital Gains (AY 2022-23) ..........................69
+6.5 | Company – Range of Short Term Capital Gains (AY 2022-23)..........................70
+6.6 | Company – Range of Other Sources Income (AY 2022-23) ..............................71
+6.7 | Company – Range of Interest Income (AY 2022-23) .........................................72
+6.8 | Company – Range of Total Loss Set off (AY 2022-23) ......................................73
+6.9 | Company – Range of Returned Income (AY 2022-23) ......................................74
+6.10 Company – Range of Tax Payable (AY 2022-23) ..............................................75
+7. | Type of Business .......................................................................................................76
+7.1 | Type of Business –Corporate and Non- corporate Taxpayers (AY 2022-23) .....77
+3
+
+===== PAGE 5 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Overview
+Objective
+The objective of publishing these statistics is to encourage wider use and analysis of Income-tax
+data by Departmental personnel and academicians.
+Methodology Adopted
+The methodology adopted is as under:
+i. | The template for statistics was prepared on the basis of previous statistics published by
+the Department and assessment of information available in various databases of the
+Income Tax Department.
+ii. | The statistics have been generated from e-filed returns (digitally signed, e-verified or
+where ITRV has been received) and paper returns captured in system.
+iii. | In cases where more than one return is submitted, the values in the latest return have
+been considered.
+iv. | Consistency Rules were defined (given below) to eliminate returns with inconsistent data.
+7,25,83,019 e-returns were checked against consistency rules and 7,25,78,080 returns
+meeting the consistency rules were used for statistical analysis
+v. | Certain statistics have been mentioned in lakh (100 thousand) and crore (10 million).
+vi. | Various terms used in the statistics have been defined below respective tables.
+Consistency Rules
+i. | Rule 1: Total Capital Gains in Part B TI = STCG (including negative) + LTCG (zero and
+positive only)
+ii. | Rule 2: Salary income is shown by Individual category of assesses.
+iii. | Rule 3: Gross Total Income (GTI)>=0
+iv. | Rule 4: Gross Total Income (GTI) = Salary + Income from House Property + Non-
+negative total income from Business/Profession + Non-negative total Capital Gain + Non-
+negative income from Other Sources - (Brought forward loss setoff + Current year loss
+setoff)
+v. | Rule 5: Return Income = Gross Total Income (GTI) - Deduction u/s Chapter VIA –
+Deduction u/s 10A or 10AA (wherever applicable)
+vi. | Rule 6: Tax Payable >=0
+4
+
+===== PAGE 6 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Status wise distribution of returns and key values
+The status wise distribution of 7,25,78,080 returns selected (after applying consistency rules) for
+statistical analysis is as under:
+6,85,44,147
+Individual
+12,31,205
+HUF
+14,83,050
+Firm
+1,16,950
+AOP/BOI
+10,21,520
+Companies
+1,81,208
+Others
+7,25,78,080
+Total
+Note: Others include Trusts, Cooperative Society, LLP, Local Authority and Artificial Juridical Person.
+The status wise distribution of key values (In INR Crore) is as under:
+Individual | HUF | Firm | AOP/BOI | Companies | Others | Total
+Salary Income | 29,59,016.86 | - | - | - | - | - | 29,59,016.86
+House
+Property | 56,758.01 | 5,490.42 | 7,092.85 | 484.35 | 17,324.45 | 636.91 | 87,786.98
+Income
+Business
+14,84,351.26 | 23,356.82 | 2,12,984.02 | 23,628.70 | 24,35,385.97 | 27,951.87 | 42,07,658.63
+Income
+Long | Term
+2,49,512.64 | 7,124.49 | 30,325.04 | 73,025.22 | 3,53,815.31 | 1,05,958.53 | 8,19,761.24
+Capital Gains
+Short | Term
+79,839.40 | 3,378.64 | 6,948.33 | 16,695.26 | 93,875.53 | 22,213.25 | 2,22,950.40
+Capital Gains
+Other Sources
+6,02,332.28 | 27,551.87 | 12,000.88 | 14,767.82 | 4,70,099.83 | 30,577.23 | 11,57,329.90
+Income
+Total (Addition
+54,31,810.44 | 66,902.25 | 2,69,351.11 | 1,28,601.34 | 33,70,501.08 | 1,87,337.79 | 94,54,504.01
+of above)
+Total | Loss
+-61,821.99 | -1,708.86 | -15,733.70 | -17,383.07 | -3,68,415.96 | -36,768.46 | -5,01,832.05
+Setoff
+Gross | Total
+53,69,988.45 | 65,193.39 | 2,53,617.42 | 1,11,218.27 | 30,02,085.12 | 1,50,569.33 | 89,52,671.97
+Income
+Return Income | 47,78,353.95 | 61,409.01 | 2,43,497.66 | 1,09,338.81 | 27,50,993.70 | 1,37,593.71 | 80,81,186.85
+Aggregate Tax
+5,71,307.25 | 6,583.17 | 79,421.60 | 19,598.07 | 6,26,674.39 | 23,569.43 | 13,27,153.91
+Liability
+Note: The difference in Gross Total Income from calculated amount is on account of difference in
+representation of setoff of losses. Minor difference is also on account of rounding off of values.
+5
+
+===== PAGE 7 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Limitations
+The statistics relating to sources of income have been prepared on the basis of values
+mentioned in e-filed returns and values captured from paper returns and the same may contain
+data entry errors on the part of the taxpayers/ return filers. Therefore, the accuracy of the
+statistics is limited by the accuracy of returns.
+Disclaimer
+Whilst the Income Tax Statistics have been prepared in good faith, it is not and does not purport
+to be comprehensive. Neither Income Tax Department, nor any of its officers or employees
+accept any liability or responsibility for the accuracy, reasonableness or completeness of, or for
+any errors, omissions or misstatements, negligent or otherwise, relating to the data or any
+representation or warranty, express or implied, with respect to the information contained in this
+Income Tax Statistics or on the data on which this Statistics is based and liability therefore is
+hereby expressly disclaimed.
+6
+
+===== PAGE 8 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+1. Income Tax Returns - All Taxpayers
+7
+
+===== PAGE 9 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+1.1 All Taxpayers – Gross Total Income (AY 2022-23)
+Average
+Sum of Gross
+No. of | Gross Total
+Range | Total Income
+Returns | Income
+(in Crore INR)
+(in Lakh INR)
+< 0 | - | - | -
+= 0 | 14,40,519 | - | -
+>0 and <=1,50,000 | 36,65,059 | 25,824.48 | 0.70
+>150,000 and <= 2,00,000 | 14,92,803 | 26,370.58 | 1.77
+35,52,175 | 83,304.27 | 2.35
+>2,00,000 and <=2,50,000
+62,43,204 | 1,89,522.01 | 3.04
+>2,50,000 and <= 3,50,000
+44,65,929 | 1,67,744.09 | 3.76
+>3,50,000 and <= 4,00,000
+62,78,270 | 2,67,153.88 | 4.26
+>4,00,000 and <= 4,50,000
+1,03,65,168 | 4,96,611.15 | 4.79
+>4,50,000 and <= 5,00,000
+51,70,463 | 2,70,320.87 | 5.23
+>5,00,000 and <= 5,50,000
+>5,50,000 and <= 9,50,000 | 1,82,92,350 | 12,76,062.50 | 6.98
+>9,50,000 and <= 10,00,000 | 9,66,002 | 94,141.82 | 9.75
+>10,00,000 and <=15,00,000 | 52,98,300 | 6,37,093.49 | 12.02
+>15,00,000 and <= 20,00,000 | 19,90,742 | 3,41,570.26 | 17.16
+>20,00,000 and <= 25,00,000 | 9,81,742 | 2,18,670.74 | 22.27
+15,87,117 | 5,37,118.60 | 33.84
+>25,00,000 and <= 50,00,000
+4,84,073 | 3,30,181.60 | 68.21
+>50,00,000 and <= 1,00,00,000
+2,51,587 | 4,82,187.08 | 191.66
+>1,00,00,000 and <=5,00,00,000
+23,632 | 1,64,476.26 | 695.99
+>5,00,00,000 and <=10,00,00,000
+15,239 | 2,36,150.72 | 1,549.65
+>10,00,00,000 and <=25,00,00,000
+5,940 | 2,06,926.87 | 3,483.62
+>25,00,00,000 and <=50,00,00,000
+>50,00,00,000 and <=100,00,00,000 | 3,452 | 2,38,858.00 | 6,919.41
+>100,00,00,000 and <=500,00,00,000 | 3,410 | 7,04,128.03 | 20,648.92
+>500,00,00,000 | 904 | 19,58,254.67 | 2,16,621.09
+Total | 7,25,78,080 | 89,52,671.97
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within the
+value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+4. Apart from the number of taxpayers who filed return of income as above, approximately
+1.9 crore taxpayers paid taxes but did not file return for AY 2022-23.
+8
+
+===== PAGE 10 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+1.2 All Taxpayers - Range of Salary Income (AY 2022-23)
+Average
+Sum of Salary
+Salary
+Range (in INR) | No. of Returns Income
+Income
+(in Crore INR)
+(in Lakh INR)
+< 0 | - | - | -
+= 0 | 3,85,48,513 | - | -
+23,90,497 | 21,762.64 | 0.91
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 14,25,323 | 25,608.69 | 1.80
+>2,00,000 and <=2,50,000 | 16,22,756 | 37,413.09 | 2.31
+30,03,622 | 90,938.91 | 3.03
+>2,50,000 and <= 3,50,000
+>3,50,000 and <= 4,00,000 | 15,88,359 | 59,588.12 | 3.75
+>4,00,000 and <= 4,50,000 | 17,01,512 | 72,514.80 | 4.26
+>4,50,000 and <= 5,00,000 | 15,63,444 | 74,487.21 | 4.76
+>5,00,000 and <= 5,50,000 | 15,78,778 | 83,160.57 | 5.27
+>5,50,000 and <= 9,50,000 | 1,07,44,735 | 7,75,778.24 | 7.22
+>9,50,000 and <= 10,00,000 | 7,58,748 | 73,935.03 | 9.74
+40,76,332 | 4,89,003.20 | 12.00
+>10,00,000 and <=15,00,000
+>15,00,000 and <= 20,00,000 | 14,57,638 | 2,50,000.53 | 17.15
+>20,00,000 and <= 25,00,000 | 6,98,144 | 1,55,673.81 | 22.30
+10,71,147 | 3,57,143.02 | 33.34
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 2,52,046 | 1,69,066.93 | 67.08
+>1,00,00,000 and <=5,00,00,000 | 91,425 | 1,59,215.25 | 174.15
+>5,00,00,000 and <=10,00,00,000 | 3,405 | 23,195.37 | 681.21
+>10,00,00,000 and <=25,00,00,000 | 1,264 | 18,714.61 | 1,480.59
+>25,00,00,000 and <=50,00,00,000 | 271 | 9,464.26 | 3,492.35
+>50,00,00,000 and <=100,00,00,000 | 89 | 5,987.68 | 6,727.73
+32 | 6,364.91 | 19,890.36
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 7,25,78,080 | 29,59,016.86
+Notes
+1. Salary Income is the income under the head “Salaries” as computed in the return of income
+2. The “Sum of Salary Income” is the sum of Salary Income of all returns within the value range
+slab.
+3. The “Average Salary Income” is the average Salary Income within the value range slab
+i.e. “Sum of Salary Income” divided by total number of returns within the value range slab
+9
+
+===== PAGE 11 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+1.3 All Taxpayers - Range of House Property Income (AY 2022-23)
+Average
+Sum of House | House
+Range (in INR) | No. of Returns Property Income Property
+(In Crore INR) | Income
+(in Lakh INR)
+< 0 | 53,21,331 | -64,078.48 | -1.20
+= 0 | 6,24,98,980 | - | -
+>0 and <=1,50,000 | 23,95,217 | 18,508.92 | 0.77
+5,55,201 | 9,550.81 | 1.72
+>150,000 and <= 2,00,000
+>2,00,000 and <=2,50,000 | 3,81,843 | 8,483.63 | 2.22
+>2,50,000 and <= 3,50,000 | 5,18,804 | 15,248.13 | 2.94
+1,48,008 | 5,540.47 | 3.74
+>3,50,000 and <= 4,00,000
+>4,00,000 and <= 4,50,000 | 1,32,622 | 5,608.81 | 4.23
+>4,50,000 and <= 5,00,000 | 1,02,087 | 4,845.63 | 4.75
+>5,00,000 and <= 5,50,000 | 74,678 | 3,903.99 | 5.23
+>5,50,000 and <= 9,50,000 | 2,53,336 | 17,823.63 | 7.04
+14,073 | 1,371.65 | 9.75
+>9,50,000 and <= 10,00,000
+>10,00,000 and <=15,00,000 | 84,180 | 10,122.91 | 12.03
+>15,00,000 and <= 20,00,000 | 29,903 | 5,151.56 | 17.23
+>20,00,000 and <= 25,00,000 | 16,993 | 3,787.19 | 22.29
+>25,00,000 and <= 50,00,000 | 30,956 | 10,618.84 | 34.30
+12,511 | 8,546.18 | 68.31
+>50,00,000 and <= 1,00,00,000
+>1,00,00,000 and <=5,00,00,000 | 6,713 | 12,309.64 | 183.37
+>5,00,00,000 and <=10,00,00,000 | 391 | 2,692.72 | 688.68
+181 | 2,577.30 | 1,423.92
+>10,00,00,000 and <=25,00,00,000
+>25,00,00,000 and <=50,00,00,000 | 42 | 1,437.01 | 3,421.46
+>50,00,00,000 and <=100,00,00,000 | 20 | 1,266.49 | 6,332.44
+>100,00,00,000 and <=500,00,00,000 | 8 | 1,043.76 | 13,046.95
+>500,00,00,000 | 2 | 1,426.20 | 71,309.86
+7,25,78,080 | 87,786.98
+Total
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income.
+2. Loss under the head “Income from house property” is also included in the House Property
+Income (for ITR-1 and ITR-4). For other ITRs the same may be adjusted in Current Year
+Loss Adjustment or carried forward to future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e., “Sum of House Property Income” divided by total number of returns
+within the value range slab.
+10
+
+===== PAGE 12 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+1.4 All Taxpayers - Range of Business Income (AY 2022-23)
+Sum of | Average
+Business
+No. of | Business
+Range (in INR)
+Returns | Income | Income
+(in Lakh INR)
+(in Crore INR)
+- | -
+< 0
+4,03,53,472 | - | -
+= 0
+36,25,388 | 24,815.91 | 0.68
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 12,33,350 | 21,708.62 | 1.76
+>2,00,000 and <=2,50,000 | 24,73,983 | 57,536.63 | 2.33
+>2,50,000 and <= 3,50,000 | 40,15,079 | 1,22,064.08 | 3.04
+>3,50,000 and <= 4,00,000 | 28,44,903 | 1,06,899.21 | 3.76
+>4,00,000 and <= 4,50,000 | 38,79,888 | 1,64,854.14 | 4.25
+>4,50,000 and <= 5,00,000 | 61,77,295 | 2,95,589.00 | 4.79
+>5,00,000 and <= 5,50,000 | 19,42,042 | 1,01,627.47 | 5.23
+>5,50,000 and <= 9,50,000 | 41,96,374 | 2,81,642.20 | 6.71
+>9,50,000 and <= 10,00,000 | 1,51,837 | 14,812.33 | 9.76
+>10,00,000 and <=15,00,000 | 7,25,468 | 87,330.65 | 12.04
+>15,00,000 and <= 20,00,000 | 2,86,371 | 49,231.75 | 17.19
+>20,00,000 and <= 25,00,000 | 1,54,954 | 34,612.63 | 22.34
+>25,00,000 and <= 50,00,000 | 2,67,904 | 93,214.14 | 34.79
+>50,00,000 and <= 1,00,00,000 | 1,23,510 | 86,961.85 | 70.41
+>1,00,00,000 and <=5,00,00,000 | 93,716 | 1,94,571.77 | 207.62
+>5,00,00,000 and <=10,00,00,000 | 13,748 | 96,391.48 | 701.13
+>10,00,00,000 and <=25,00,00,000 | 9,984 | 1,55,564.24 | 1,558.14
+>25,00,00,000 and <=50,00,00,000 | 3,948 | 1,37,633.60 | 3,486.16
+>50,00,00,000 and <=100,00,00,000 | 2,239 | 1,55,189.78 | 6,931.21
+>100,00,00,000 and <=500,00,00,000 | 2,035 | 4,21,482.89 | 20,711.69
+>500,00,00,000 | 592 | 15,03,924.26 | 2,54,041.26
+Total | 7,25,78,080 | 42,07,658.63
+Notes
+1. Business Income is the income under the head “Profits and gains of business or profession”
+as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the value
+range slab.
+3. The “Average Business Income” is the average Business Income within the value range slab
+i.e. “Sum of Business Income” divided by total number of returns within the value range slab.
+11
+
+===== PAGE 13 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+1.5 All Taxpayers - Range of Long Term Capital Gains (AY 2022-23)
+Average
+Sum of Long
+Long Term
+No. of | Term Capital
+Capital Gains
+Range (in INR)
+Returns | Gains Income
+Income
+(in Crore INR)
+(in Lakh INR)
+< 0 | - | - | -
+= 0 | 6,89,31,463 | - | -
+>0 and <=1,50,000 | 25,11,974 | 10,367.22 | 0.41
+>150,000 and <= 2,00,000 | 1,79,274 | 3,109.35 | 1.73
+>2,00,000 and <=2,50,000 | 1,28,899 | 2,886.17 | 2.24
+>2,50,000 and <= 3,50,000 | 1,74,323 | 5,158.34 | 2.96
+>3,50,000 and <= 4,00,000 | 60,511 | 2,262.51 | 3.74
+>4,00,000 and <= 4,50,000 | 48,622 | 2,062.92 | 4.24
+>4,50,000 and <= 5,00,000 | 40,517 | 1,922.62 | 4.75
+>5,00,000 and <= 5,50,000 | 33,748 | 1,769.48 | 5.24
+>5,50,000 and <= 9,50,000 | 1,59,998 | 11,526.87 | 7.20
+>9,50,000 and <= 10,00,000 | 12,466 | 1,215.33 | 9.75
+>10,00,000 and <=15,00,000 | 84,038 | 10,272.94 | 12.22
+>15,00,000 and <= 20,00,000 | 46,856 | 8,103.78 | 17.30
+>20,00,000 and <= 25,00,000 | 29,921 | 6,683.18 | 22.34
+>25,00,000 and <= 50,00,000 | 64,894 | 22,672.79 | 34.94
+>50,00,000 and <= 1,00,00,000 | 33,946 | 23,659.13 | 69.70
+>1,00,00,000 and <=5,00,00,000 | 27,463 | 55,644.24 | 202.62
+>5,00,00,000 and <=10,00,00,000 | 3,553 | 24,836.70 | 699.03
+>10,00,00,000 and <=25,00,00,000 | 2,592 | 40,208.07 | 1,551.24
+>25,00,00,000 and <=50,00,00,000 | 1,161 | 40,859.37 | 3,519.33
+>50,00,00,000 and <=100,00,00,000 | 743 | 52,647.03 | 7,085.74
+>100,00,00,000 and <=500,00,00,000 | 897 | 1,91,788.39 | 21,381.09
+>500,00,00,000 | 221 | 3,00,104.80 | 1,35,794.03
+Total | 7,25,78,080 | 8,19,761.24
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s)as computed in the return of income under the head “Capital Gains”.
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e., “Sum of Long Term Capital Gains Income” divided by
+total number of returns within the value range slab.
+12
+
+===== PAGE 14 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+1.6 All Taxpayers - Range of Short-Term Capital Gains (AY 2022-23)
+Sum of Short | Average Short
+No. of | Term Capital | Term Capital
+Range (in INR)
+Returns | Gains Income | Gains Income
+(in Lakh INR)
+(in Crore INR)
+< 0 | - | - | -
+= 0 | 6,74,39,828 | - | -
+>0 and <=1,50,000 | 43,67,811 | 11,654.79 | 0.27
+>150,000 and <= 2,00,000 | 1,54,051 | 2,670.59 | 1.73
+>2,00,000 and <=2,50,000 | 1,05,001 | 2,348.90 | 2.24
+>2,50,000 and <= 3,50,000 | 1,33,251 | 3,938.75 | 2.96
+>3,50,000 and <= 4,00,000 | 44,409 | 1,661.23 | 3.74
+>4,00,000 and <= 4,50,000 | 35,241 | 1,494.96 | 4.24
+>4,50,000 and <= 5,00,000 | 29,441 | 1,397.02 | 4.75
+>5,00,000 and <= 5,50,000 | 23,448 | 1,229.32 | 5.24
+>5,50,000 and <= 9,50,000 | 1,02,951 | 7,363.92 | 7.15
+>9,50,000 and <= 10,00,000 | 7,306 | 712.08 | 9.75
+>10,00,000 and <=15,00,000 | 45,677 | 5,551.20 | 12.15
+>15,00,000 and <= 20,00,000 | 22,838 | 3,940.33 | 17.25
+>20,00,000 and <= 25,00,000 | 13,676 | 3,050.02 | 22.30
+>25,00,000 and <= 50,00,000 | 26,544 | 9,184.20 | 34.60
+>50,00,000 and <= 1,00,00,000 | 12,778 | 8,883.08 | 69.52
+>1,00,00,000 and <=5,00,00,000 | 10,258 | 20,864.12 | 203.39
+>5,00,00,000 and <=10,00,00,000 | 1,579 | 11,015.85 | 697.65
+>10,00,00,000 and <=25,00,00,000 | 1,030 | 15,867.79 | 1,540.56
+>25,00,00,000 and <=50,00,00,000 | 442 | 15,503.83 | 3,507.65
+>50,00,00,000 and <=100,00,00,000 | 267 | 18,447.25 | 6,909.08
+>100,00,00,000 and <=500,00,00,000 | 223 | 41,212.31 | 18,480.85
+>500,00,00,000 | 30 | 34,958.88 | 1,16,529.61
+Total | 7,25,78,080 | 2,22,950.40
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”.
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital Gains
+Income within the value range slab i.e., “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab.
+13
+
+===== PAGE 15 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+1.7 All Taxpayers - Range of Other Sources Income (AY 2022-23)
+Average Other
+Sum of Other
+Sources
+Range (in INR) | No. of Returns Sources Income
+Income
+(in Crore INR)
+(in Lakh INR)
+< 0 | - | - | -
+= 0
+2,01,73,458 | - | -
+>0 and <=1,50,000 | 4,04,59,673 | 1,17,117.39 | 0.29
+>150,000 and <= 2,00,000 | 23,91,824 | 41,611.45 | 1.74
+>2,00,000 and <=2,50,000 | 20,84,700 | 47,221.50 | 2.27
+>2,50,000 and <= 3,50,000 | 26,86,304 | 79,471.31 | 2.96
+>3,50,000 and <= 4,00,000 | 9,85,650 | 36,870.99 | 3.74
+>4,00,000 and <= 4,50,000 | 8,29,305 | 35,170.21 | 4.24
+>4,50,000 and <= 5,00,000
+8,66,722 | 41,320.27 | 4.77
+>5,00,000 and <= 5,50,000 | 4,07,512 | 21,294.38 | 5.23
+>5,50,000 and <= 9,50,000 | 10,78,176 | 74,556.88 | 6.92
+>9,50,000 and <= 10,00,000
+52,316 | 5,098.62 | 9.75
+>10,00,000 and <=15,00,000 | 2,76,024 | 33,167.07 | 12.02
+>15,00,000 and <= 20,00,000 | 1,01,710 | 17,464.92 | 17.17
+>20,00,000 and <= 25,00,000
+49,475 | 10,997.72 | 22.23
+>25,00,000 and <= 50,00,000 | 76,664 | 26,041.99 | 33.97
+>50,00,000 and <= 1,00,00,000 | 28,449 | 19,555.54 | 68.74
+>1,00,00,000 and <=5,00,00,000 | 21,269 | 43,352.09 | 203.83
+>5,00,00,000 and <=10,00,00,000 | 3,410 | 23,987.18 | 703.44
+>10,00,00,000 and <=25,00,00,000 | 2,717 | 42,440.65 | 1,562.04
+>25,00,00,000 and <=50,00,00,000 | 1,150 | 40,437.82 | 3,516.33
+>50,00,00,000 and <=100,00,00,000
+729 | 50,959.66 | 6,990.35
+>100,00,00,000 and <=500,00,00,000 | 705 | 1,40,421.10 | 19,917.89
+>500,00,00,000 | 138 | 2,08,771.17 | 1,51,283.46
+Total
+7,25,78,080 | 11,57,329.90
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income.
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab.
+14
+
+===== PAGE 16 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+1.8 All Taxpayers - Range of Interest Income (AY 2022-23)
+Average
+Sum of Interest
+No. of | Interest
+Range (in INR)
+Income
+Returns | Income
+(in Crore INR)
+(in Lakh INR)
+< 0 | - | - | -
+= 0 | 5,62,61,892 | - | -
+>0 and <=1,50,000 | 1,30,09,838 | 36,881.75 | 0.28
+>150,000 and <= 2,00,000 | 6,64,904 | 11,544.24 | 1.74
+>2,00,000 and <=2,50,000 | 5,10,812 | 11,477.88 | 2.25
+>2,50,000 and <= 3,50,000 | 6,60,823 | 19,522.27 | 2.95
+>3,50,000 and <= 4,00,000 | 2,26,262 | 8,463.20 | 3.74
+>4,00,000 and <= 4,50,000 | 1,80,836 | 7,668.77 | 4.24
+>4,50,000 and <= 5,00,000 | 1,49,329 | 7,085.48 | 4.74
+>5,00,000 and <= 5,50,000 | 1,15,296 | 6,041.18 | 5.24
+>5,50,000 and <= 9,50,000 | 4,41,093 | 31,173.06 | 7.07
+>9,50,000 and <= 10,00,000 | 26,656 | 2,597.66 | 9.75
+>10,00,000 and <=15,00,000 | 1,51,108 | 18,237.27 | 12.07
+>15,00,000 and <= 20,00,000 | 60,528 | 10,406.75 | 17.19
+>20,00,000 and <= 25,00,000 | 31,639 | 7,047.44 | 22.27
+>25,00,000 and <= 50,00,000 | 51,654 | 17,620.97 | 34.11
+>50,00,000 and <= 1,00,00,000 | 19,929 | 13,648.54 | 68.49
+>1,00,00,000 and <=5,00,00,000 | 12,479 | 24,561.96 | 196.83
+>5,00,00,000 and <=10,00,00,000 | 1,472 | 10,236.14 | 695.39
+>10,00,00,000 and <=25,00,00,000 | 910 | 13,890.79 | 1,526.46
+>25,00,00,000 and <=50,00,00,000 | 313 | 10,809.32 | 3,453.46
+>50,00,00,000 and <=100,00,00,000 | 181 | 12,723.70 | 7,029.67
+>100,00,00,000 and <=500,00,00,000 | 113 | 22,696.91 | 20,085.76
+>500,00,00,000 | 13 | 10,623.99 | 81,723.04
+Total | 7,25,78,080 | 3,14,959.28
+Notes
+1. The Interest Income is already included in the Income from Other sources.
+2. Interest Income is the Gross Interest Income in the “Income from Other Sources” Schedule
+of Return of Income. Interest Income data is compiled only for those returns where it is
+explicitly stated in the Return of Income.
+3. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+4. The “Average Interest Income” is the average Interest Income within the value range slab
+i.e. “Sum of Interest Income” divided by total number of returns within the value range slab.
+15
+
+===== PAGE 17 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+1.9 All Taxpayers- Range of Total Loss Set off (AY 2022-23)
+Sum of Total | Average Total
+Range (in INR) | No. of Returns | Loss Set Off
+Loss Set off
+(in Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 6,90,64,549 | - | -
+>0 and <=1,50,000 | 21,69,789 | 12,270.34 | 0.57
+>150,000 and <= 2,00,000 | 8,67,422 | 16,504.49 | 1.90
+>2,00,000 and <=2,50,000 | 80,682 | 1,779.97 | 2.21
+>2,50,000 and <= 3,50,000 | 82,045 | 2,422.90 | 2.95
+>3,50,000 and <= 4,00,000 | 28,032 | 1,048.94 | 3.74
+>4,00,000 and <= 4,50,000 | 23,365 | 991.27 | 4.24
+>4,50,000 and <= 5,00,000 | 19,734 | 936.29 | 4.74
+>5,00,000 and <= 5,50,000 | 16,388 | 859.01 | 5.24
+>5,50,000 and <= 9,50,000 | 77,366 | 5,572.11 | 7.20
+>9,50,000 and <= 10,00,000 | 6,088 | 593.66 | 9.75
+>10,00,000 and <=15,00,000 | 39,322 | 4,801.99 | 12.21
+>15,00,000 and <= 20,00,000 | 21,776 | 3,769.49 | 17.31
+>20,00,000 and <= 25,00,000 | 13,758 | 3,071.24 | 22.32
+>25,00,000 and <= 50,00,000 | 29,149 | 10,172.82 | 34.90
+>50,00,000 and <= 1,00,00,000 | 16,551 | 11,551.99 | 69.80
+>1,00,00,000 and <=5,00,00,000 | 15,567 | 32,958.39 | 211.72
+>5,00,00,000 and <=10,00,00,000 | 2,568 | 18,031.26 | 702.15
+>10,00,00,000 and <=25,00,00,000 | 2,009 | 31,461.47 | 1,566.03
+>25,00,00,000 and <=50,00,00,000 | 825 | 28,783.70 | 3,488.93
+>50,00,00,000 and <=100,00,00,000 | 510 | 36,060.85 | 7,070.75
+>100,00,00,000 and <=500,00,00,000 | 471 | 95,958.36 | 20,373.32
+>500,00,00,000 | 114 | 1,82,231.52 | 1,59,852.21
+Total | 7,25,78,080 | 5,01,832.05
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses set off
+against current year’s income in the “Computation of total income” Schedule of return of
+income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value range
+slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the value range
+slab.
+16
+
+===== PAGE 18 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+1.10 All Taxpayers - Range of Returned Income (AY 2022-23)
+Sum of | Average
+Returned
+No. of | Returned
+Range (in INR)
+Returns | Income | Income
+(in Lakh INR)
+(in Crore INR)
+- | - | -
+< 0
+17,55,569 | - | -
+= 0
+39,45,495 | 29,135.34 | 0.74
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 17,88,423 | 31,621.32 | 1.77
+>2,00,000 and <=2,50,000 | 40,35,407 | 94,072.05 | 2.33
+>2,50,000 and <= 3,50,000 | 77,26,888 | 2,35,426.57 | 3.05
+>3,50,000 and <= 4,00,000 | 56,90,035 | 2,13,813.24 | 3.76
+>4,00,000 and <= 4,50,000 | 82,88,014 | 3,53,066.96 | 4.26
+>4,50,000 and <= 5,00,000 | 1,93,29,926 | 9,32,325.39 | 4.82
+>5,00,000 and <= 5,50,000 | 22,08,976 | 1,15,707.32 | 5.24
+>5,50,000 and <= 9,50,000 | 91,28,449 | 6,52,745.33 | 7.15
+>9,50,000 and <= 10,00,000 | 6,63,946 | 64,738.40 | 9.75
+>10,00,000 and <=15,00,000 | 35,21,147 | 4,25,677.08 | 12.09
+>15,00,000 and <= 20,00,000 | 15,49,747 | 2,66,416.46 | 17.19
+>20,00,000 and <= 25,00,000 | 8,27,201 | 1,84,397.61 | 22.29
+>25,00,000 and <= 50,00,000 | 13,92,489 | 4,75,390.91 | 34.14
+>50,00,000 and <= 1,00,00,000 | 4,34,850 | 3,00,958.82 | 69.21
+>1,00,00,000 and <=5,00,00,000 | 2,40,430 | 4,64,992.55 | 193.40
+>5,00,00,000 and <=10,00,00,000 | 22,982 | 1,60,175.87 | 696.96
+>10,00,00,000 and <=25,00,00,000 | 14,858 | 2,30,333.56 | 1,550.23
+>25,00,00,000 and <=50,00,00,000 | 5,791 | 2,01,372.91 | 3,477.34
+>50,00,00,000 and <=100,00,00,000 | 3,328 | 2,29,686.44 | 6,901.64
+>100,00,00,000 and <=500,00,00,000 | 3,277 | 6,76,873.89 | 20,655.29
+>500,00,00,000 | 852 | 17,42,258.82 | 2,04,490.47
+Total | 7,25,78,080 | 80,81,186.85
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income” schedule
+of return of income.
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the value
+range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range slab
+i.e., “Sum of Returned Income” divided by total number of returns within the value range slab.
+17
+
+===== PAGE 19 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+1.11 All Taxpayers - Range of Tax Payable (AY 2022-23)
+Sum of Tax | Average Tax
+Range (in INR) | No. of Returns | Payable | Payable
+(in Crore INR) (in Lakh INR)
+< 0 | - | - | -
+= 0 | 4,39,01,814 | - | -
+>0 and <=1,50,000 | 2,18,73,275 | 83,585.61 | 0.38
+>150,000 and <= 2,00,000 | 12,91,224 | 22,392.11 | 1.73
+>2,00,000 and <=2,50,000 | 8,91,902 | 19,950.45 | 2.24
+>2,50,000 and <= 3,50,000 | 11,82,540 | 34,966.69 | 2.96
+>3,50,000 and <= 4,00,000 | 4,06,235 | 15,197.17 | 3.74
+>4,00,000 and <= 4,50,000 | 3,31,003 | 14,042.77 | 4.24
+>4,50,000 and <= 5,00,000 | 2,80,353 | 13,300.92 | 4.74
+>5,00,000 and <= 5,50,000 | 2,38,214 | 12,490.28 | 5.24
+>5,50,000 and <= 9,50,000 | 10,49,199 | 75,085.66 | 7.16
+>9,50,000 and <= 10,00,000 | 70,495 | 6,869.20 | 9.74
+>10,00,000 and <=15,00,000 | 3,92,552 | 46,845.87 | 11.93
+>15,00,000 and <= 20,00,000 | 1,80,623 | 31,515.30 | 17.45
+>20,00,000 and <= 25,00,000 | 1,15,875 | 25,826.55 | 22.29
+>25,00,000 and <= 50,00,000 | 2,03,562 | 69,780.99 | 34.28
+>50,00,000 and <= 1,00,00,000 | 87,995 | 60,116.01 | 68.32
+>1,00,00,000 and <=5,00,00,000 | 64,145 | 1,26,543.23 | 197.28
+>5,00,00,000 and <=10,00,00,000 | 8,089 | 56,098.11 | 693.51
+>10,00,00,000 and <=25,00,00,000 | 5,217 | 80,027.51 | 1,533.98
+>25,00,00,000 and <=50,00,00,000 | 1,881 | 65,340.75 | 3,473.72
+>50,00,00,000 and <=100,00,00,000 | 977 | 67,439.23 | 6,902.68
+>100,00,00,000 and <=500,00,00,000 | 780 | 1,56,117.91 | 20,015.12
+>500,00,00,000 | 130 | 2,43,621.59 | 1,87,401.22
+Total | 7,25,78,080 | 13,27,153.91
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability on
+total income” schedule of return of income. Tax, surcharge, cess & interest after giving credit
+u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for taxes paid
+(Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e. “Sum
+of Tax Payable” divided by total number of returns within the value range slab.
+18
+
+===== PAGE 20 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+2. Income Tax Returns – Individuals
+19
+
+===== PAGE 21 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+2.1 Individual– Range of Gross Total Income (AY 2022-23)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns Total Income | Total Income
+(in Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 2,49,567 | - | -
+>0 and <=1,50,000 | 27,58,957 | 21,441.99 | 0.78
+>150,000 and <= 2,00,000 | 13,56,845 | 23,992.50 | 1.77
+>2,00,000 and <=2,50,000 | 31,89,012 | 74,734.62 | 2.34
+59,55,691 | 1,81,166.05 | 3.04
+>2,50,000 and <= 3,50,000
+>3,50,000 and <= 4,00,000 | 43,68,294 | 1,64,078.02 | 3.76
+>4,00,000 and <= 4,50,000 | 61,91,073 | 2,63,458.22 | 4.26
+>4,50,000 and <= 5,00,000 | 1,02,80,041 | 4,92,549.21 | 4.79
+>5,00,000 and <= 5,50,000 | 51,07,054 | 2,67,005.91 | 5.23
+>5,50,000 and <= 9,50,000 | 1,80,18,368 | 12,56,416.31 | 6.97
+9,43,662 | 91,962.36 | 9.75
+>9,50,000 and <= 10,00,000
+>10,00,000 and <=15,00,000 | 51,61,244 | 6,20,448.18 | 12.02
+>15,00,000 and <= 20,00,000 | 19,22,247 | 3,29,748.83 | 17.15
+>20,00,000 and <= 25,00,000 | 9,39,484 | 2,09,231.82 | 22.27
+>25,00,000 and <= 50,00,000 | 14,88,968 | 5,02,434.93 | 33.74
+4,17,641 | 2,82,418.36 | 67.62
+>50,00,000 and <= 1,00,00,000
+>1,00,00,000 and <=5,00,00,000 | 1,80,817 | 3,26,413.97 | 180.52
+>5,00,00,000 and <=10,00,00,000 | 9,348 | 63,691.57 | 681.34
+>10,00,00,000 and <=25,00,00,000 | 4,022 | 60,026.28 | 1,492.45
+>25,00,00,000 and <=50,00,00,000 | 1,089 | 37,352.58 | 3,429.99
+>50,00,00,000 and <=100,00,00,000 | 425 | 28,869.77 | 6,792.89
+274 | 51,977.61 | 18,969.93
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 24 | 20,569.35 | 85,705.61
+Total | 6,85,44,147 | 53,69,988.45
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+20
+
+===== PAGE 22 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+2.2 Individual- Range of Salary Income (AY 2022-23)
+Sum of Salary | Average Salary
+No. of
+Range (in INR) | Income | Income
+Returns
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+3,45,14,580 | - | -
+= 0
+23,90,497 | 21,762.64 | 0.91
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 14,25,323 | 25,608.69 | 1.80
+>2,00,000 and <=2,50,000 | 16,22,756 | 37,413.09 | 2.31
+>2,50,000 and <= 3,50,000 | 30,03,622 | 90,938.91 | 3.03
+>3,50,000 and <= 4,00,000 | 15,88,359 | 59,588.12 | 3.75
+>4,00,000 and <= 4,50,000 | 17,01,512 | 72,514.80 | 4.26
+>4,50,000 and <= 5,00,000 | 15,63,444 | 74,487.21 | 4.76
+15,78,778 | 83,160.57 | 5.27
+>5,00,000 and <= 5,50,000
+>5,50,000 and <= 9,50,000 | 1,07,44,735 | 7,75,778.24 | 7.22
+>9,50,000 and <= 10,00,000 | 7,58,748 | 73,935.03 | 9.74
+>10,00,000 and <=15,00,000 | 40,76,332 | 4,89,003.20 | 12.00
+>15,00,000 and <= 20,00,000 | 14,57,638 | 2,50,000.53 | 17.15
+>20,00,000 and <= 25,00,000 | 6,98,144 | 1,55,673.81 | 22.30
+>25,00,000 and <= 50,00,000 | 10,71,147 | 3,57,143.02 | 33.34
+2,52,046 | 1,69,066.93 | 67.08
+>50,00,000 and <= 1,00,00,000
+91,425 | 1,59,215.25 | 174.15
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 3,405 | 23,195.37 | 681.21
+>10,00,00,000 and <=25,00,00,000 | 1,264 | 18,714.61 | 1,480.59
+>25,00,00,000 and <=50,00,00,000 | 271 | 9,464.26 | 3,492.35
+>50,00,00,000 and <=100,00,00,000 | 89 | 5,987.68 | 6,727.73
+>100,00,00,000 and <=500,00,00,000 | 32 | 6,364.91 | 19,890.36
+>500,00,00,000 | - | - | -
+6,85,44,147 | 29,59,016.86
+Total
+Notes
+1. Salary Income is the income under the head “Salaries” as computed in the return of income
+2. The “Sum of Salary Income” is the sum of Salary Income of all returns within the value range
+slab.
+3. The “Average Salary Income” is the average Salary Income within the value range slab i.e.,
+“Sum of Salary Income” divided by total number of returns within the value range slab.
+21
+
+===== PAGE 23 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+2.3 Individual-Range of House Property Income (AY 2022-23)
+Sum of House | Average House
+No. of | Property | Property
+Range (in INR)
+Returns | Income | Income
+(in Crore INR) | (in Lakh INR)
+53,20,848 | -64,071.91 | -1.20
+< 0
+= 0 | 5,86,94,046 | - | -
+>0 and <=1,50,000 | 23,20,072 | 17,922.55 | 0.77
+>150,000 and <= 2,00,000 | 5,33,838 | 9,182.35 | 1.72
+>2,00,000 and <=2,50,000 | 3,62,320 | 8,043.83 | 2.22
+>2,50,000 and <= 3,50,000 | 4,94,914 | 14,541.10 | 2.94
+>3,50,000 and <= 4,00,000 | 1,39,909 | 5,236.69 | 3.74
+1,24,887 | 5,281.53 | 4.23
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 96,393 | 4,575.64 | 4.75
+>5,00,000 and <= 5,50,000 | 69,595 | 3,638.10 | 5.23
+>5,50,000 and <= 9,50,000 | 2,29,732 | 16,124.69 | 7.02
+>9,50,000 and <= 10,00,000 | 12,506 | 1,218.87 | 9.75
+>10,00,000 and <=15,00,000 | 72,788 | 8,742.70 | 12.01
+>15,00,000 and <= 20,00,000 | 24,925 | 4,290.03 | 17.21
+13,609 | 3,032.65 | 22.28
+>20,00,000 and <= 25,00,000
+22,906 | 7,795.30 | 34.03
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 7,743 | 5,232.58 | 67.58
+>1,00,00,000 and <=5,00,00,000 | 3,013 | 5,020.62 | 166.63
+>5,00,00,000 and <=10,00,00,000 | 72 | 480.36 | 667.17
+>10,00,00,000 and <=25,00,00,000 | 29 | 410.49 | 1,415.48
+>25,00,00,000 and <=50,00,00,000 | 2 | 59.84 | 2,991.75
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+- | - | -
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 6,85,44,147 | 56,758.01
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House Property
+Income (for ITR-1 & ITR-4). For other ITRs the same may be adjusted in Current Year
+Loss Adjustment or carried forward for future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e., “Sum of House Property Income” divided by total number of returns
+within the value range slab
+22
+
+===== PAGE 24 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+2.4 | Individual-Range of Business Income (AY 2022-23)
+Sum of | Average
+No. of | Business | Business
+Range (in INR)
+Returns | Income | Income
+(in Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 3,84,73,575 | - | -
+>0 and <=1,50,000 | 27,85,997 | 20,711.49 | 0.74
+>150,000 and <= 2,00,000 | 11,09,501 | 19,543.77 | 1.76
+>2,00,000 and <=2,50,000 | 22,48,626 | 52,297.51 | 2.33
+>2,50,000 and <= 3,50,000 | 38,53,837 | 1,17,294.53 | 3.04
+>3,50,000 and <= 4,00,000 | 27,84,265 | 1,04,625.07 | 3.76
+38,28,431 | 1,62,669.33 | 4.25
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 61,28,130 | 2,93,247.09 | 4.79
+>5,00,000 and <= 5,50,000 | 19,06,179 | 99,749.40 | 5.23
+>5,50,000 and <= 9,50,000 | 40,26,170 | 2,69,352.13 | 6.69
+>9,50,000 and <= 10,00,000 | 1,37,079 | 13,372.96 | 9.76
+>10,00,000 and <=15,00,000 | 6,32,449 | 75,980.91 | 12.01
+>15,00,000 and <= 20,00,000 | 2,33,177 | 40,030.36 | 17.17
+1,20,169 | 26,833.78 | 22.33
+>20,00,000 and <= 25,00,000
+1,82,140 | 62,859.21 | 34.51
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 62,755 | 43,341.31 | 69.06
+>1,00,00,000 and <=5,00,00,000 | 29,568 | 53,528.86 | 181.04
+>5,00,00,000 and <=10,00,00,000 | 1,349 | 9,142.05 | 677.69
+>10,00,00,000 and <=25,00,00,000 | 566 | 8,429.85 | 1,489.37
+>25,00,00,000 and <=50,00,00,000 | 125 | 4,362.23 | 3,489.78
+>50,00,00,000 and <=100,00,00,000 | 39 | 2,609.34 | 6,690.62
+19 | 3,784.29 | 19,917.33
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 1 | 585.78 | 58,578.11
+Total | 6,85,44,147 | 14,84,351.26
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income.
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab.
+23
+
+===== PAGE 25 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+2.5 Individual- Range of Long Term Capital Gains (AY 2022-23)
+Sum of Long Average Long
+Term Capital Term Capital
+Range (in INR) | No. of Returns
+Gains Income Gains Income
+(in Crore INR) (in Lakh INR)
+- | - | -
+< 0
+= 0 | 6,50,45,146 | - | -
+>0 and <=1,50,000 | 24,36,994 | 9,996.39 | 0.41
+>150,000 and <= 2,00,000 | 1,71,827 | 2,980.08 | 1.73
+>2,00,000 and <=2,50,000 | 1,23,318 | 2,761.03 | 2.24
+>2,50,000 and <= 3,50,000 | 1,66,690 | 4,932.32 | 2.96
+>3,50,000 and <= 4,00,000 | 57,789 | 2,160.67 | 3.74
+46,301 | 1,964.41 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 38,518 | 1,827.85 | 4.75
+>5,00,000 and <= 5,50,000 | 32,052 | 1,680.56 | 5.24
+>5,50,000 and <= 9,50,000 | 1,51,014 | 10,875.31 | 7.20
+>9,50,000 and <= 10,00,000 | 11,700 | 1,140.62 | 9.75
+>10,00,000 and <=15,00,000 | 78,492 | 9,591.49 | 12.22
+>15,00,000 and <= 20,00,000 | 43,445 | 7,513.28 | 17.29
+27,485 | 6,138.48 | 22.33
+>20,00,000 and <= 25,00,000
+58,664 | 20,466.50 | 34.89
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 29,320 | 20,378.81 | 69.50
+>1,00,00,000 and <=5,00,00,000 | 21,417 | 42,126.22 | 196.70
+>5,00,00,000 and <=10,00,00,000 | 2,040 | 14,071.55 | 689.78
+>10,00,00,000 and <=25,00,00,000 | 1,195 | 18,139.67 | 1,517.96
+>25,00,00,000 and <=50,00,00,000 | 388 | 13,349.40 | 3,440.57
+>50,00,00,000 and <=100,00,00,000 | 182 | 12,447.31 | 6,839.18
+153 | 29,007.25 | 18,958.99
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 17 | 15,963.44 | 93,902.56
+Total | 6,85,44,147 | 2,49,512.64
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income” divided
+by total number of returns within the value range slab
+24
+
+===== PAGE 26 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+2.6 Individual-Range of Short Term Capital Gains (AY 2022-23)
+Sum of Short | Average Short
+No. of | Term Capital | Term Capital
+Range (in INR)
+Returns | Gains Income | Gains Income
+(in Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 6,35,87,356 | - | -
+>0 and <=1,50,000 | 42,50,034 | 11,239.69 | 0.26
+>150,000 and <= 2,00,000 | 1,46,352 | 2,536.87 | 1.73
+>2,00,000 and <=2,50,000 | 99,141 | 2,217.29 | 2.24
+>2,50,000 and <= 3,50,000 | 1,25,734 | 3,716.26 | 2.96
+>3,50,000 and <= 4,00,000 | 41,608 | 1,556.34 | 3.74
+32,891 | 1,395.26 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 27,504 | 1,305.11 | 4.75
+>5,00,000 and <= 5,50,000 | 21,757 | 1,140.69 | 5.24
+>5,50,000 and <= 9,50,000 | 94,645 | 6,761.29 | 7.14
+>9,50,000 and <= 10,00,000 | 6,636 | 646.79 | 9.75
+>10,00,000 and <=15,00,000 | 40,863 | 4,962.42 | 12.14
+>15,00,000 and <= 20,00,000 | 20,008 | 3,449.67 | 17.24
+11,726 | 2,614.12 | 22.29
+>20,00,000 and <= 25,00,000
+21,842 | 7,515.98 | 34.41
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 9,432 | 6,504.30 | 68.96
+>1,00,00,000 and <=5,00,00,000 | 5,796 | 10,999.71 | 189.78
+>5,00,00,000 and <=10,00,00,000 | 517 | 3,533.75 | 683.51
+>10,00,00,000 and <=25,00,00,000 | 221 | 3,182.35 | 1,439.98
+>25,00,00,000 and <=50,00,00,000 | 60 | 1,968.72 | 3,281.19
+>50,00,00,000 and <=100,00,00,000 | 13 | 886.14 | 6,816.49
+11 | 1,706.65 | 15,514.99
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 6,85,44,147 | 79,839.40
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital Gains
+Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab
+25
+
+===== PAGE 27 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+2.7 Individual- Range of Other Sources Income (AY 2022-23)
+Sum of Other | Average Other
+No. of | Sources | Sources
+Range (in INR)
+Returns | Income | Income
+(in Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 1,77,47,540 | - | -
+>0 and <=1,50,000 | 3,95,86,633 | 1,13,777.09 | 0.29
+>150,000 and <= 2,00,000 | 22,96,611 | 39,947.59 | 1.74
+>2,00,000 and <=2,50,000 | 19,26,628 | 43,548.01 | 2.26
+>2,50,000 and <= 3,50,000 | 25,55,226 | 75,640.09 | 2.96
+>3,50,000 and <= 4,00,000 | 9,41,329 | 35,209.54 | 3.74
+7,92,635 | 33,616.11 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 8,33,158 | 39,721.81 | 4.77
+>5,00,000 and <= 5,50,000 | 3,82,531 | 19,987.71 | 5.23
+>5,50,000 and <= 9,50,000 | 9,81,127 | 67,669.91 | 6.90
+>9,50,000 and <= 10,00,000 | 45,412 | 4,425.31 | 9.74
+>10,00,000 and <=15,00,000 | 2,37,779 | 28,551.20 | 12.01
+>15,00,000 and <= 20,00,000 | 85,770 | 14,720.10 | 17.16
+40,964 | 9,101.31 | 22.22
+>20,00,000 and <= 25,00,000
+60,413 | 20,372.12 | 33.72
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 19,016 | 12,924.22 | 67.96
+>1,00,00,000 and <=5,00,00,000 | 10,026 | 18,410.27 | 183.63
+>5,00,00,000 and <=10,00,00,000 | 763 | 5,209.12 | 682.72
+>10,00,00,000 and <=25,00,00,000 | 385 | 5,699.69 | 1,480.44
+>25,00,00,000 and <=50,00,00,000 | 113 | 3,840.33 | 3,398.52
+>50,00,00,000 and <=100,00,00,000 | 52 | 3,457.74 | 6,649.50
+35 | 5,965.21 | 17,043.46
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 1 | 537.81 | 53,781.00
+Total | 6,85,44,147 | 6,02,332.29
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab
+26
+
+===== PAGE 28 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+2.8 Individual- Range of Interest Income (AY 2022-23)
+Sum of | Average
+No. of | Interest | Interest
+Range (in INR)
+Returns | Income | Income
+(in Crore INR) (in Lakh INR)
+- | - | -
+< 0
+= 0 | 5,34,96,887 | - | -
+>0 and <=1,50,000 | 1,22,48,398 | 34,174.44 | 0.28
+>150,000 and <= 2,00,000 | 5,92,552 | 10,281.19 | 1.74
+>2,00,000 and <=2,50,000 | 4,27,535 | 9,573.06 | 2.24
+>2,50,000 and <= 3,50,000 | 5,68,697 | 16,805.30 | 2.96
+>3,50,000 and <= 4,00,000 | 1,93,652 | 7,242.34 | 3.74
+1,54,131 | 6,535.93 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 1,26,362 | 5,994.74 | 4.74
+>5,00,000 and <= 5,50,000 | 97,369 | 5,101.91 | 5.24
+>5,50,000 and <= 9,50,000 | 3,67,246 | 25,918.78 | 7.06
+>9,50,000 and <= 10,00,000 | 21,521 | 2,097.16 | 9.74
+>10,00,000 and <=15,00,000 | 1,21,358 | 14,638.02 | 12.06
+>15,00,000 and <= 20,00,000 | 47,642 | 8,187.61 | 17.19
+24,521 | 5,460.77 | 22.27
+>20,00,000 and <= 25,00,000
+38,033 | 12,880.96 | 33.87
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 12,559 | 8,501.21 | 67.69
+>1,00,00,000 and <=5,00,00,000 | 5,318 | 9,396.34 | 176.69
+>5,00,00,000 and <=10,00,00,000 | 268 | 1,836.98 | 685.44
+>10,00,00,000 and <=25,00,00,000 | 81 | 1,159.71 | 1,431.74
+>25,00,00,000 and <=50,00,00,000 | 9 | 296.18 | 3,290.84
+>50,00,00,000 and <=100,00,00,000 | 7 | 498.44 | 7,120.51
+1 | 136.05 | 13,604.63
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | -
+Total | 6,85,44,147 | 1,86,717.12
+Notes
+1. The Interest Income is already included in the Income from other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+4. The “Average Interest Income” is the average Interest Income within the value range slab
+i.e., “Sum of Interest Income” divided by total number of returns within the value range
+slab.
+27
+
+===== PAGE 29 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+2.9 Individual-Range of Total Loss Set off (AY 2022-23)
+Average
+Sum of Total
+No. of | Total Loss
+Range (in INR) | Loss Set Off
+Returns | Set off
+(in Crore INR)
+(in Lakh INR)
+- | - | -
+< 0
+= 0 | 6,54,90,305 | - | -
+>0 and <=1,50,000 | 19,13,290 | 11,278.77 | 0.59
+>150,000 and <= 2,00,000 | 8,46,109 | 16,132.73 | 1.91
+>2,00,000 and <=2,50,000 | 65,209 | 1,433.47 | 2.20
+>2,50,000 and <= 3,50,000 | 59,131 | 1,742.85 | 2.95
+>3,50,000 and <= 4,00,000 | 19,342 | 723.39 | 3.74
+15,800 | 670.13 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 13,243 | 628.14 | 4.74
+>5,00,000 and <= 5,50,000 | 10,697 | 560.62 | 5.24
+>5,50,000 and <= 9,50,000 | 47,686 | 3,420.05 | 7.17
+>9,50,000 and <= 10,00,000 | 3,519 | 343.17 | 9.75
+>10,00,000 and <=15,00,000 | 21,616 | 2,630.21 | 12.17
+>15,00,000 and <= 20,00,000 | 10,954 | 1,893.73 | 17.29
+6,487 | 1,446.99 | 22.31
+>20,00,000 and <= 25,00,000
+12,036 | 4,157.46 | 34.54
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 5,178 | 3,562.46 | 68.80
+>1,00,00,000 and <=5,00,00,000 | 3,148 | 5,893.42 | 187.21
+>5,00,00,000 and <=10,00,00,000 | 247 | 1,664.70 | 673.97
+>10,00,00,000 and <=25,00,00,000 | 111 | 1,665.44 | 1,500.40
+>25,00,00,000 and <=50,00,00,000 | 26 | 866.67 | 3,333.35
+>50,00,00,000 and <=100,00,00,000 | 10 | 607.80 | 6,078.02
+3 | 499.80 | 16,659.92
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 6,85,44,147 | 61,821.99
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses set
+off against current year’s income in the “Computation of total income” Schedule of return
+of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value range
+slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the value
+range slab
+28
+
+===== PAGE 30 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+2.10 Individual- Range of Returned Income (AY 2022-23)
+Sum of | Average
+Returned | Returned
+Range (in INR) | No. of Returns
+Income | Income
+(in Crore INR) (in Lakh INR)
+- | - | -
+< 0
+= 0 | 4,64,290 | - | -
+>0 and <=1,50,000 | 30,83,440 | 24,795.99 | 0.80
+>150,000 and <= 2,00,000 | 16,48,576 | 29,171.03 | 1.77
+>2,00,000 and <=2,50,000 | 36,04,391 | 83,868.10 | 2.33
+>2,50,000 and <= 3,50,000 | 74,71,594 | 2,27,901.44 | 3.05
+>3,50,000 and <= 4,00,000 | 56,04,567 | 2,10,615.02 | 3.76
+82,07,842 | 3,49,659.96 | 4.26
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 1,92,40,132 | 9,28,027.13 | 4.82
+>5,00,000 and <= 5,50,000 | 21,52,761 | 1,12,766.47 | 5.24
+>5,50,000 and <= 9,50,000 | 88,96,845 | 6,36,058.09 | 7.15
+>9,50,000 and <= 10,00,000 | 6,42,941 | 62,688.33 | 9.75
+>10,00,000 and <=15,00,000 | 33,97,129 | 4,10,592.12 | 12.09
+>15,00,000 and <= 20,00,000 | 14,85,482 | 2,55,323.68 | 17.19
+7,87,187 | 1,75,459.98 | 22.29
+>20,00,000 and <= 25,00,000
+12,98,741 | 4,42,215.74 | 34.05
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 3,71,082 | 2,55,003.31 | 68.72
+>1,00,00,000 and <=5,00,00,000 | 1,72,221 | 3,14,587.40 | 182.66
+>5,00,00,000 and <=10,00,00,000 | 9,152 | 62,531.28 | 683.25
+>10,00,00,000 and <=25,00,00,000 | 3,976 | 59,328.51 | 1,492.17
+>25,00,00,000 and <=50,00,00,000 | 1,078 | 36,925.88 | 3,425.41
+>50,00,00,000 and <=100,00,00,000 | 423 | 28,727.39 | 6,791.34
+273 | 51,580.24 | 18,893.86
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 24 | 20,526.84 | 85,528.49
+Total | 6,85,44,147 | 47,78,353.95
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income” schedule of
+return of income.
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the value range
+slab.
+3. The “Average Returned Income” is the average Returned Income within the value range slab i.e.
+“Sum of Returned Income” divided by total number of returns within the value range slab.
+29
+
+===== PAGE 31 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+2.11 Individual- Range of Tax Payable (AY 2022-23)
+Sum of Tax | Average Tax
+No. of
+Range (in INR) | Payable | Payable
+Returns
+(In Crore INR) (in Lakh INR)
+< 0 | - | - | -
+4,21,49,330 | - | -
+= 0
+>0 and <=1,50,000 | 2,02,07,285 | 78,726.35 | 0.39
+>150,000 and <= 2,00,000 | 12,10,816 | 20,996.44 | 1.73
+>2,00,000 and <=2,50,000 | 8,33,542 | 18,645.07 | 2.24
+>2,50,000 and <= 3,50,000 | 11,01,131 | 32,553.62 | 2.96
+>3,50,000 and <= 4,00,000 | 3,77,239 | 14,111.91 | 3.74
+3,07,110 | 13,029.45 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 2,59,709 | 12,320.98 | 4.74
+>5,00,000 and <= 5,50,000 | 2,20,505 | 11,561.72 | 5.24
+>5,50,000 and <= 9,50,000 | 9,64,038 | 68,932.37 | 7.15
+>9,50,000 and <= 10,00,000 | 63,639 | 6,200.97 | 9.74
+>10,00,000 and <=15,00,000 | 3,44,211 | 40,931.95 | 11.89
+>15,00,000 and <= 20,00,000 | 1,53,001 | 26,732.30 | 17.47
+96,697 | 21,538.74 | 22.27
+>20,00,000 and <= 25,00,000
+1,60,741 | 54,865.50 | 34.13
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 59,340 | 39,979.09 | 67.37
+>1,00,00,000 and <=5,00,00,000 | 32,246 | 58,093.01 | 180.16
+>5,00,00,000 and <=10,00,00,000 | 2,182 | 14,904.83 | 683.08
+>10,00,00,000 and <=25,00,00,000 | 1,002 | 14,882.81 | 1,485.31
+>25,00,00,000 and <=50,00,00,000 | 243 | 8,244.42 | 3,392.77
+>50,00,00,000 and <=100,00,00,000 | 97 | 6,556.26 | 6,759.03
+42 | 6,944.23 | 16,533.88
+>100,00,00,000 and <=500,00,00,000
+1 | 555.22 | 55,522.19
+>500,00,00,000
+Total | 6,85,44,147 | 5,71,307.25
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability on total
+income” schedule of return of income. Tax, surcharge, cess & interest after giving credit u/s 115JAA
+and relief u/s 89/90/90A/91 but before giving credit for taxes paid (advance tax/TDS/TCS/Self-
+Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e., “Sum of Tax
+Payable” divided by total number of returns within the value range slab.
+30
+
+===== PAGE 32 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+3. Income Tax Returns - HUF
+31
+
+===== PAGE 33 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+3.1 HUF– Gross Total Income (AY 2022-23)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns Total Income | Total Income
+(in Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 14,675 | - | -
+>0 and <=1,50,000 | 1,65,352 | 1,032.37 | 0.62
+>150,000 and <= 2,00,000 | 59,793 | 1,055.03 | 1.76
+>2,00,000 and <=2,50,000 | 2,99,038 | 7,126.10 | 2.38
+1,98,020 | 5,705.02 | 2.88
+>2,50,000 and <= 3,50,000
+>3,50,000 and <= 4,00,000 | 64,154 | 2,412.35 | 3.76
+>4,00,000 and <= 4,50,000 | 57,435 | 2,433.16 | 4.24
+>4,50,000 and <= 5,00,000 | 58,411 | 2,792.85 | 4.78
+>5,00,000 and <= 5,50,000 | 40,309 | 2,104.46 | 5.22
+>5,50,000 and <= 9,50,000 | 1,51,914 | 10,761.77 | 7.08
+11,418 | 1,114.44 | 9.76
+>9,50,000 and <= 10,00,000
+>10,00,000 and <=15,00,000 | 59,615 | 7,160.43 | 12.01
+>15,00,000 and <= 20,00,000 | 20,796 | 3,564.36 | 17.14
+>20,00,000 and <= 25,00,000 | 9,207 | 2,046.85 | 22.23
+>25,00,000 and <= 50,00,000 | 14,355 | 4,934.95 | 34.38
+4,250 | 2,947.94 | 69.36
+>50,00,000 and <= 1,00,00,000
+>1,00,00,000 and <=5,00,00,000 | 2,219 | 4,127.80 | 186.02
+>5,00,00,000 and <=10,00,00,000 | 142 | 979.67 | 689.91
+>10,00,00,000 and <=25,00,00,000 | 75 | 1,172.55 | 1,563.40
+>25,00,00,000 and <=50,00,00,000 | 18 | 608.94 | 3,383.00
+>50,00,00,000 and <=100,00,00,000 | 5 | 367.33 | 7,346.59
+4 | 745.02 | 18,625.53
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 12,31,205 | 65,193.39
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+32
+
+===== PAGE 34 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+3.2 HUF- Range of House Property Income (AY 2022-23)
+Average House
+Sum of House
+No. of | Property
+Range (in INR) | Property Income
+Returns | Income
+(in Crore INR)
+(in Lakh INR)
+384 | -5.50 | -1.43
+< 0
+= 0 | 10,81,288 | - | -
+>0 and <=1,50,000 | 58,102 | 467.20 | 0.80
+>150,000 and <= 2,00,000 | 17,195 | 296.12 | 1.72
+>2,00,000 and <=2,50,000 | 15,929 | 359.73 | 2.26
+>2,50,000 and <= 3,50,000 | 17,730 | 523.51 | 2.95
+>3,50,000 and <= 4,00,000 | 5,813 | 217.93 | 3.75
+5,188 | 219.51 | 4.23
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 3,753 | 178.08 | 4.74
+>5,00,000 and <= 5,50,000 | 3,327 | 174.09 | 5.23
+>5,50,000 and <= 9,50,000 | 13,314 | 947.13 | 7.11
+>9,50,000 and <= 10,00,000 | 746 | 72.78 | 9.76
+>10,00,000 and <=15,00,000 | 4,754 | 568.93 | 11.97
+>15,00,000 and <= 20,00,000 | 1,260 | 216.99 | 17.22
+726 | 161.15 | 22.20
+>20,00,000 and <= 25,00,000
+1,162 | 394.34 | 33.94
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 366 | 247.37 | 67.59
+>1,00,00,000 and <=5,00,00,000 | 151 | 269.27 | 178.32
+>5,00,00,000 and <=10,00,00,000 | 13 | 96.68 | 743.71
+>10,00,00,000 and <=25,00,00,000 | 2 | 21.28 | 1,064.14
+>25,00,00,000 and <=50,00,00,000 | 2 | 63.83 | 3,191.43
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+- | - | -
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 12,31,205 | 5,490.42
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House Property
+Income (for ITR-1 & ITR-4). For other ITRs the same may be adjusted in Current Year
+Loss Adjustment or carried forward to future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e. “Sum of House Property Income” divided by total number of returns
+within the value range slab.
+33
+
+===== PAGE 35 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+3.3 HUF- Range of Business Income (AY 2022-23)
+Average
+Sum of Business
+No. of | Business
+Range (in INR) | Income
+Returns | Income
+(in Crore INR)
+(in Lakh INR)
+- | - | -
+< 0
+= 0 | 6,87,166 | - | -
+>0 and <=1,50,000 | 86,312 | 720.57 | 0.83
+>150,000 and <= 2,00,000 | 48,689 | 860.72 | 1.77
+>2,00,000 and <=2,50,000 | 1,64,676 | 3,877.61 | 2.35
+>2,50,000 and <= 3,50,000 | 73,658 | 2,172.87 | 2.95
+>3,50,000 and <= 4,00,000 | 27,497 | 1,033.68 | 3.76
+22,182 | 942.77 | 4.25
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 23,130 | 1,105.99 | 4.78
+>5,00,000 and <= 5,50,000 | 13,003 | 680.27 | 5.23
+>5,50,000 and <= 9,50,000 | 49,499 | 3,507.53 | 7.09
+>9,50,000 and <= 10,00,000 | 3,910 | 381.66 | 9.76
+>10,00,000 and <=15,00,000 | 16,565 | 1,983.31 | 11.97
+>15,00,000 and <= 20,00,000 | 5,918 | 1,014.60 | 17.14
+2,459 | 548.15 | 22.29
+>20,00,000 and <= 25,00,000
+4,381 | 1,524.64 | 34.80
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 1,357 | 953.04 | 70.23
+>1,00,00,000 and <=5,00,00,000 | 749 | 1,411.60 | 188.47
+>5,00,00,000 and <=10,00,00,000 | 35 | 237.26 | 677.89
+>10,00,00,000 and <=25,00,00,000 | 13 | 207.36 | 1,595.05
+>25,00,00,000 and <=50,00,00,000 | 6 | 193.19 | 3,219.87
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+- | - | -
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 12,31,205 | 23,356.82
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab.
+34
+
+===== PAGE 36 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+3.4 HUF- Range of Long Term Capital Gains (AY 2022-23)
+Average
+Sum of Long
+Long Term
+Term Capital
+Range (in INR) | No. of Returns | Capital Gains
+Gains Income
+Income
+(in Crore INR)
+(in Lakh INR)
+< 0 | - | - | -
+= 0 | 11,27,514 | - | -
+>0 and <=1,50,000 | 66,281 | 323.42 | 0.49
+>150,000 and <= 2,00,000 | 6,100 | 105.82 | 1.73
+>2,00,000 and <=2,50,000 | 4,486 | 100.59 | 2.24
+5,793 | 171.44 | 2.96
+>2,50,000 and <= 3,50,000
+>3,50,000 and <= 4,00,000 | 1,981 | 74.09 | 3.74
+>4,00,000 and <= 4,50,000 | 1,593 | 67.63 | 4.25
+>4,50,000 and <= 5,00,000 | 1,363 | 64.59 | 4.74
+>5,00,000 and <= 5,50,000 | 1,134 | 59.43 | 5.24
+>5,50,000 and <= 9,50,000 | 5,523 | 397.88 | 7.20
+>9,50,000 and <= 10,00,000 | 384 | 37.42 | 9.75
+2,849 | 347.51 | 12.20
+>10,00,000 and <=15,00,000
+1,496 | 258.48 | 17.28
+>15,00,000 and <= 20,00,000
+>20,00,000 and <= 25,00,000 | 920 | 205.14 | 22.30
+>25,00,000 and <= 50,00,000 | 2,069 | 718.28 | 34.72
+>50,00,000 and <= 1,00,00,000 | 987 | 691.07 | 70.02
+>1,00,00,000 and <=5,00,00,000 | 614 | 1,165.94 | 189.89
+>5,00,00,000 and <=10,00,00,000 | 63 | 430.33 | 683.07
+>10,00,00,000 and <=25,00,00,000 | 39 | 607.17 | 1,556.86
+8 | 264.24 | 3,303.03
+>25,00,00,000 and <=50,00,00,000
+>50,00,00,000 and <=100,00,00,000 | 4 | 295.41 | 7,385.34
+>100,00,00,000 and <=500,00,00,000 | 4 | 738.63 | 18,465.69
+>500,00,00,000 | - | - | -
+Total | 12,31,205 | 7,124.49
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital asset(s)
+as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income” divided by
+total number of returns within the value range slab
+35
+
+===== PAGE 37 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+3.5 HUF- Range of Short Term Capital Gains (AY 2022-23)
+Sum of Short | Average Short
+No. of | Term Capital | Term Capital
+Range (in INR)
+Returns | Gains Income Gains Income
+(in Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 11,05,174 | - | -
+>0 and <=1,50,000 | 96,460 | 319.93 | 0.33
+>150,000 and <= 2,00,000 | 5,441 | 94.36 | 1.73
+>2,00,000 and <=2,50,000 | 4,104 | 92.25 | 2.25
+>2,50,000 and <= 3,50,000 | 4,859 | 143.38 | 2.95
+>3,50,000 and <= 4,00,000 | 1,701 | 63.62 | 3.74
+1,354 | 57.42 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 1,148 | 54.49 | 4.75
+>5,00,000 and <= 5,50,000 | 960 | 50.27 | 5.24
+>5,50,000 and <= 9,50,000 | 4,244 | 304.96 | 7.19
+>9,50,000 and <= 10,00,000 | 296 | 28.88 | 9.76
+>10,00,000 and <=15,00,000 | 1,998 | 242.17 | 12.12
+>15,00,000 and <= 20,00,000 | 984 | 169.98 | 17.27
+560 | 125.21 | 22.36
+>20,00,000 and <= 25,00,000
+1,134 | 391.26 | 34.50
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 439 | 300.13 | 68.37
+>1,00,00,000 and <=5,00,00,000 | 311 | 598.74 | 192.52
+>5,00,00,000 and <=10,00,00,000 | 29 | 195.15 | 672.91
+>10,00,00,000 and <=25,00,00,000 | 8 | 112.52 | 1,406.55
+>25,00,00,000 and <=50,00,00,000 | 1 | 33.92 | 3,391.96
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+- | - | -
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 12,31,205 | 3,378.64
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital Gains
+Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab
+36
+
+===== PAGE 38 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+3.6 HUF- Range of Other Sources Income (AY 2022-23)
+Sum of Other | Average Other
+No. of
+Range (in INR) | Sources Income Sources Income
+Returns
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+1,24,084 | - | -
+= 0
+5,58,847 | 2,232.19 | 0.40
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 73,134 | 1,278.76 | 1.75
+>2,00,000 and <=2,50,000 | 1,39,046 | 3,243.39 | 2.33
+>2,50,000 and <= 3,50,000 | 1,07,573 | 3,135.51 | 2.91
+>3,50,000 and <= 4,00,000 | 35,896 | 1,345.86 | 3.75
+>4,00,000 and <= 4,50,000 | 29,533 | 1,251.11 | 4.24
+>4,50,000 and <= 5,00,000 | 27,238 | 1,297.88 | 4.76
+19,824 | 1,036.26 | 5.23
+>5,00,000 and <= 5,50,000
+>5,50,000 and <= 9,50,000 | 71,709 | 5,057.74 | 7.05
+>9,50,000 and <= 10,00,000 | 4,850 | 472.95 | 9.75
+>10,00,000 and <=15,00,000 | 24,321 | 2,910.46 | 11.97
+>15,00,000 and <= 20,00,000 | 7,709 | 1,319.41 | 17.12
+>20,00,000 and <= 25,00,000 | 2,977 | 660.30 | 22.18
+>25,00,000 and <= 50,00,000 | 3,485 | 1,163.61 | 33.39
+694 | 478.01 | 68.88
+>50,00,000 and <= 1,00,00,000
+263 | 446.88 | 169.92
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 15 | 108.14 | 720.93
+>10,00,00,000 and <=25,00,00,000 | 7 | 113.40 | 1,620.00
+>25,00,00,000 and <=50,00,00,000 | - | - | -
+>50,00,00,000 and <=100,00,00,000 | -
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+12,31,205 | 27,551.86
+Total
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab.
+37
+
+===== PAGE 39 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+3.7 HUF- Range of Interest Income (AY 2022-23)
+Sum of | Average
+No. of | Interest | Interest
+Range (in INR)
+Returns | Income (in | Income (in
+Crore INR) | Lakh INR)
+- | - | -
+< 0
+= 0 | 4,01,026 | - | -
+>0 and <=1,50,000 | 4,80,114 | 1,692.60 | 0.35
+>150,000 and <= 2,00,000 | 52,149 | 911.23 | 1.75
+>2,00,000 and <=2,50,000 | 66,999 | 1,538.45 | 2.30
+>2,50,000 and <= 3,50,000 | 70,926 | 2,088.76 | 2.94
+>3,50,000 and <= 4,00,000 | 25,015 | 936.34 | 3.74
+20,336 | 862.51 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 17,483 | 830.50 | 4.75
+>5,00,000 and <= 5,50,000 | 13,286 | 695.96 | 5.24
+>5,50,000 and <= 9,50,000 | 51,141 | 3,616.73 | 7.07
+>9,50,000 and <= 10,00,000 | 3,311 | 322.65 | 9.74
+>10,00,000 and <=15,00,000 | 17,457 | 2,095.64 | 12.00
+>15,00,000 and <= 20,00,000 | 5,740 | 982.58 | 17.12
+2,408 | 534.69 | 22.20
+>20,00,000 and <= 25,00,000
+2,986 | 1,007.18 | 33.73
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 647 | 436.66 | 67.49
+>1,00,00,000 and <=5,00,00,000 | 173 | 274.17 | 158.48
+>5,00,00,000 and <=10,00,00,000 | 5 | 28.12 | 562.32
+>10,00,00,000 and <=25,00,00,000 | 3 | 54.71 | 1,823.54
+>25,00,00,000 and <=50,00,00,000 | - | - | -
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+- | - | -
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 12,31,205 | 18,909.46
+Notes
+1. Interest Income is the Gross Interest Income in the “Income from other sources” Schedule of
+Return of Income. Interest Income data is compiled only for those returns where it is explicitly
+stated in the Return of Income.
+2. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+3. The “Average Interest Income” is the average Interest Income within the value range slab i.e.
+“Sum of Interest Income” divided by total number of returns within the value range slab
+4. The “Average Other Sources Income” is the average Other Sources Income within the value
+range slab i.e. “Sum of Other Sources Income” divided by total number of returns within the
+value range slab.
+38
+
+===== PAGE 40 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+3.8 HUF- Range of Total Loss Set off (AY 2022-23)
+Total Loss | Average Total
+No. of
+Range (in INR) | Set Off | Loss Set off
+Returns
+(in Crore INR) (in Lakh INR)
+< 0 | - | - | -
+11,82,846 | - | -
+= 0
+34,068 | 123.11 | 0.36
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 2,617 | 46.21 | 1.77
+>2,00,000 and <=2,50,000 | 1,613 | 36.09 | 2.24
+>2,50,000 and <= 3,50,000 | 2,299 | 67.99 | 2.96
+>3,50,000 and <= 4,00,000 | 781 | 29.28 | 3.75
+>4,00,000 and <= 4,50,000 | 712 | 30.27 | 4.25
+>4,50,000 and <= 5,00,000 | 557 | 26.45 | 4.75
+478 | 25.01 | 5.23
+>5,00,000 and <= 5,50,000
+>5,50,000 and <= 9,50,000 | 2,160 | 155.27 | 7.19
+>9,50,000 and <= 10,00,000 | 163 | 15.91 | 9.76
+>10,00,000 and <=15,00,000 | 1,038 | 126.51 | 12.19
+>15,00,000 and <= 20,00,000 | 579 | 100.03 | 17.28
+>20,00,000 and <= 25,00,000 | 273 | 60.75 | 22.25
+>25,00,000 and <= 50,00,000 | 601 | 206.49 | 34.36
+242 | 168.05 | 69.44
+>50,00,000 and <= 1,00,00,000
+158 | 294.26 | 186.24
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 11 | 71.26 | 647.84
+>10,00,00,000 and <=25,00,00,000 | 9 | 125.92 | 1,399.12
+>25,00,00,000 and <=50,00,00,000 | - | - | -
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+12,31,205 | 1,708.86
+Total
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses set
+off against current year’s income in the “Computation of total income” Schedule of return
+of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value range
+slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the value
+range slab
+39
+
+===== PAGE 41 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+3.9 HUF- Range of Returned Income (AY 2022-23)
+Sum of | Average
+No. of | Returned | Returned
+Range (in INR)
+Returns | Income | Income
+(in Crore INR) (in Lakh INR)
+- | - | -
+< 0
+= 0 | 42,080 | - | -
+>0 and <=1,50,000 | 1,50,716 | 1,098.91 | 0.73
+>150,000 and <= 2,00,000 | 67,153 | 1,187.61 | 1.77
+>2,00,000 and <=2,50,000 | 3,69,881 | 8,827.01 | 2.39
+>2,50,000 and <= 3,50,000 | 1,70,757 | 5,021.02 | 2.94
+>3,50,000 and <= 4,00,000 | 53,843 | 2,014.00 | 3.74
+51,976 | 2,210.83 | 4.25
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 64,537 | 3,098.44 | 4.80
+>5,00,000 and <= 5,50,000 | 34,460 | 1,800.78 | 5.23
+>5,50,000 and <= 9,50,000 | 1,16,332 | 8,296.57 | 7.13
+>9,50,000 and <= 10,00,000 | 10,646 | 1,039.86 | 9.77
+>10,00,000 and <=15,00,000 | 50,757 | 6,111.82 | 12.04
+>15,00,000 and <= 20,00,000 | 19,111 | 3,276.77 | 17.15
+8,640 | 1,921.34 | 22.24
+>20,00,000 and <= 25,00,000
+13,887 | 4,802.92 | 34.59
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 4,011 | 2,815.86 | 70.20
+>1,00,00,000 and <=5,00,00,000 | 2,177 | 4,060.71 | 186.53
+>5,00,00,000 and <=10,00,00,000 | 142 | 983.75 | 692.78
+>10,00,00,000 and <=25,00,00,000 | 73 | 1,150.53 | 1,576.07
+>25,00,00,000 and <=50,00,00,000 | 17 | 580.15 | 3,412.66
+>50,00,00,000 and <=100,00,00,000 | 5 | 365.10 | 7,302.05
+4 | 745.02 | 18,625.48
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 12,31,205 | 61,409.01
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income.
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+40
+
+===== PAGE 42 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+3.10 HUF- Range of Tax Payable (AY 2022-23)
+Sum of Tax | Average Tax
+No. of
+Range (in INR) | Payable | Payable
+Returns
+(in Crore INR) (in Lakh INR)
+< 0 | - | - | -
+6,31,105 | - | -
+= 0
+5,31,262 | 1,361.28 | 0.26
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 16,011 | 277.72 | 1.73
+>2,00,000 and <=2,50,000 | 10,156 | 226.56 | 2.23
+>2,50,000 and <= 3,50,000 | 12,824 | 379.31 | 2.96
+>3,50,000 and <= 4,00,000 | 4,187 | 156.72 | 3.74
+>4,00,000 and <= 4,50,000 | 3,184 | 135.08 | 4.24
+>4,50,000 and <= 5,00,000 | 2,558 | 121.36 | 4.74
+2,139 | 112.11 | 5.24
+>5,00,000 and <= 5,50,000
+>5,50,000 and <= 9,50,000 | 8,500 | 605.78 | 7.13
+>9,50,000 and <= 10,00,000 | 612 | 59.65 | 9.75
+>10,00,000 and <=15,00,000 | 3,611 | 432.47 | 11.98
+>15,00,000 and <= 20,00,000 | 1,398 | 244.52 | 17.49
+>20,00,000 and <= 25,00,000 | 863 | 192.11 | 22.26
+>25,00,000 and <= 50,00,000 | 1,702 | 580.12 | 34.08
+663 | 446.38 | 67.33
+>50,00,000 and <= 1,00,00,000
+381 | 700.60 | 183.88
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 32 | 213.38 | 666.80
+>10,00,00,000 and <=25,00,00,000 | 15 | 246.50 | 1,643.36
+>25,00,00,000 and <=50,00,00,000 | 2 | 91.50 | 4,575.04
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 12,31,205 | 6,583.17
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after
+giving credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for
+taxes paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+41
+
+===== PAGE 43 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+4. Income Tax Returns - Firms
+42
+
+===== PAGE 44 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+4.1 Firm – Gross Total Income (AY 2022-23)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns Total Income | Total Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 4,83,351 | - | -
+>0 and <=1,50,000 | 5,14,205 | 2,348.69 | 0.46
+>150,000 and <= 2,00,000 | 50,290 | 871.62 | 1.73
+>2,00,000 and <=2,50,000 | 38,173 | 853.78 | 2.24
+>2,50,000 and <= 3,50,000 | 57,060 | 1,695.25 | 2.97
+>3,50,000 and <= 4,00,000 | 21,361 | 799.70 | 3.74
+>4,00,000 and <= 4,50,000 | 18,855 | 799.61 | 4.24
+>4,50,000 and <= 5,00,000 | 16,429 | 779.88 | 4.75
+>5,00,000 and <= 5,50,000 | 14,402 | 754.46 | 5.24
+>5,50,000 and <= 9,50,000 | 75,175 | 5,461.71 | 7.27
+>9,50,000 and <= 10,00,000 | 6,554 | 638.98 | 9.75
+>10,00,000 and <=15,00,000 | 45,304 | 5,536.52 | 12.22
+>15,00,000 and <= 20,00,000 | 26,432 | 4,568.22 | 17.28
+>20,00,000 and <= 25,00,000 | 17,684 | 3,952.36 | 22.35
+41,912 | 14,788.84 | 35.29
+>25,00,000 and <= 50,00,000
+28,101 | 20,375.41 | 72.51
+>50,00,000 and <= 1,00,00,000
+21,529 | 45,406.84 | 210.91
+>1,00,00,000 and <=5,00,00,000
+3,278 | 22,816.05 | 696.04
+>5,00,00,000 and <=10,00,00,000
+1,909 | 29,155.70 | 1,527.28
+>10,00,00,000 and <=25,00,00,000
+>25,00,00,000 and <=50,00,00,000 | 592 | 20,273.39 | 3,424.56
+>50,00,00,000 and <=100,00,00,000 | 270 | 18,486.98 | 6,847.03
+>100,00,00,000 and <=500,00,00,000 | 161 | 31,935.27 | 19,835.57
+>500,00,00,000 | 23 | 21,318.16 | 92,687.65
+Total | 14,83,050 | 2,53,617.42
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+43
+
+===== PAGE 45 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+4.2 Firm- Range of House Property Income (AY 2022-23)
+Average
+Sum of House
+House
+No. of | Property
+Range (in INR) | Property
+Returns | Income (In
+Income(in
+Crore INR)
+Lakh INR)
+< 0 | 98 | -1.07 | -1.09
+= 0 | 14,53,478 | - | -
+>0 and <=1,50,000 | 6,827 | 47.64 | 0.70
+1,606 | 27.79 | 1.73
+>150,000 and <= 2,00,000
+1,324 | 29.48 | 2.23
+>2,00,000 and <=2,50,000
+2,291 | 68.38 | 2.98
+>2,50,000 and <= 3,50,000
+847 | 31.78 | 3.75
+>3,50,000 and <= 4,00,000
+942 | 39.86 | 4.23
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 724 | 34.33 | 4.74
+>5,00,000 and <= 5,50,000 | 664 | 34.63 | 5.22
+>5,50,000 and <= 9,50,000 | 3,646 | 265.36 | 7.28
+>9,50,000 and <= 10,00,000 | 286 | 27.90 | 9.76
+>10,00,000 and <=15,00,000 | 2,407 | 294.54 | 12.24
+1,388 | 241.30 | 17.38
+>15,00,000 and <= 20,00,000
+974 | 217.50 | 22.33
+>20,00,000 and <= 25,00,000
+2,620 | 923.07 | 35.23
+>25,00,000 and <= 50,00,000
+1,610 | 1,120.71 | 69.61
+>50,00,000 and <= 1,00,00,000
+1,228 | 2,386.56 | 194.35
+>1,00,00,000 and <=5,00,00,000
+52 | 358.62 | 689.65
+>5,00,00,000 and <=10,00,00,000
+>10,00,00,000 and <=25,00,00,000 | 29 | 420.34 | 1,449.46
+>25,00,00,000 and <=50,00,00,000 | 5 | 172.67 | 3,453.33
+>50,00,00,000 and <=100,00,00,000 | 3 | 199.44 | 6,648.07
+>100,00,00,000 and <=500,00,00,000 | 1 | 152.01 | -
+>500,00,00,000 | - | - | -
+Total | 14,83,050 | 7,092.85
+Notes
+1. House Property Income is the income under the head “Income from house
+property” as computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House
+Property Income (for ITR-1 & ITR-4). For other ITRs the same may be adjusted in
+Current YearLoss Adjustment or carried forward to future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all
+returns within the value range slab.
+4. The “Average House Property Income” is the average House Property Income
+within the value range slab i.e. “Sum of House Property Income” divided by total
+number of returns within the value range slab
+44
+
+===== PAGE 46 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+4.3 Firm – Range of Business Income (AY 2022-23)
+Sum of | Average
+No. of | Business | Business
+Range (in INR)
+Returns | Income (in | Income
+Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 4,55,653 | - | -
+>0 and <=1,50,000 | 5,36,647 | 2,453.35 | 0.46
+>150,000 and <= 2,00,000 | 52,416 | 908.79 | 1.73
+>2,00,000 and <=2,50,000 | 39,915 | 892.64 | 2.24
+>2,50,000 and <= 3,50,000 | 59,170 | 1,757.13 | 2.97
+>3,50,000 and <= 4,00,000 | 22,175 | 830.00 | 3.74
+19,403 | 823.04 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 17,010 | 807.26 | 4.75
+>5,00,000 and <= 5,50,000 | 14,856 | 778.22 | 5.24
+>5,50,000 and <= 9,50,000 | 76,842 | 5,579.74 | 7.26
+>9,50,000 and <= 10,00,000 | 6,645 | 647.93 | 9.75
+>10,00,000 and <=15,00,000 | 45,589 | 5,570.61 | 12.22
+>15,00,000 and <= 20,00,000 | 26,457 | 4,570.73 | 17.28
+17,367 | 3,880.69 | 22.35
+>20,00,000 and <= 25,00,000
+40,774 | 14,351.78 | 35.20
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 26,779 | 19,331.51 | 72.19
+>1,00,00,000 and <=5,00,00,000 | 19,878 | 41,769.75 | 210.13
+>5,00,00,000 and <=10,00,00,000 | 2,954 | 20,520.74 | 694.68
+>10,00,00,000 and <=25,00,00,000 | 1,680 | 25,507.25 | 1,518.29
+>25,00,00,000 and <=50,00,00,000 | 512 | 17,485.37 | 3,415.11
+>50,00,00,000 and <=100,00,00,000 | 213 | 14,504.44 | 6,809.60
+104 | 20,166.79 | 19,391.14
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 11 | 9,846.26 | 89,511.45
+Total | 14,83,050 | 2,12,984.02
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab
+45
+
+===== PAGE 47 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+4.4 Firm – Range of Long Term Capital Gains (AY 2022-23)
+Sum of Long | Average Long
+No. of | Term Capital | Term Capital
+Range (in INR)
+Returns | Gains Income Gains Income
+(in Crore INR) (in Lakh INR)
+- | - | -
+< 0
+= 0 | 14,72,039 | - | -
+>0 and <=1,50,000 | 2,676 | 14.84 | 0.55
+>150,000 and <= 2,00,000 | 394 | 6.83 | 1.73
+>2,00,000 and <=2,50,000 | 336 | 7.50 | 2.23
+>2,50,000 and <= 3,50,000 | 546 | 16.25 | 2.98
+>3,50,000 and <= 4,00,000 | 214 | 8.00 | 3.74
+187 | 7.93 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 191 | 9.08 | 4.75
+>5,00,000 and <= 5,50,000 | 146 | 7.68 | 5.26
+>5,50,000 and <= 9,50,000 | 971 | 71.18 | 7.33
+>9,50,000 and <= 10,00,000 | 113 | 11.03 | 9.76
+>10,00,000 and <=15,00,000 | 733 | 90.91 | 12.40
+>15,00,000 and <= 20,00,000 | 523 | 90.90 | 17.38
+406 | 90.63 | 22.32
+>20,00,000 and <= 25,00,000
+1,009 | 361.36 | 35.81
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 842 | 593.11 | 70.44
+>1,00,00,000 and <=5,00,00,000 | 1,157 | 2,508.82 | 216.84
+>5,00,00,000 and <=10,00,00,000 | 236 | 1,653.26 | 700.53
+>10,00,00,000 and <=25,00,00,000 | 172 | 2,638.90 | 1,534.24
+>25,00,00,000 and <=50,00,00,000 | 69 | 2,422.99 | 3,511.58
+>50,00,00,000 and <=100,00,00,000 | 40 | 2,833.13 | 7,082.84
+43 | 9,198.02 | 21,390.74
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 7 | 7,682.68 | 1,09,752.58
+Total | 14,83,050 | 30,325.04
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income” divided
+by total number of returns within the value range slab.
+46
+
+===== PAGE 48 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+4.5 Firm – Range of Short Term Capital Gains (AY 2022-23)
+Sum of Short | Average Short
+No. of | Term Capital | Term Capital
+Range (in INR)
+Returns | Gains Income Gains Income
+(in Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 14,68,414 | - | -
+>0 and <=1,50,000 | 7,422 | 31.23 | 0.42
+>150,000 and <= 2,00,000 | 658 | 11.44 | 1.74
+>2,00,000 and <=2,50,000 | 521 | 11.69 | 2.24
+>2,50,000 and <= 3,50,000 | 771 | 22.90 | 2.97
+>3,50,000 and <= 4,00,000 | 290 | 10.89 | 3.75
+257 | 10.92 | 4.25
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 230 | 10.92 | 4.75
+>5,00,000 and <= 5,50,000 | 187 | 9.83 | 5.25
+>5,50,000 and <= 9,50,000 | 984 | 71.79 | 7.30
+>9,50,000 and <= 10,00,000 | 108 | 10.49 | 9.71
+>10,00,000 and <=15,00,000 | 628 | 77.76 | 12.38
+>15,00,000 and <= 20,00,000 | 405 | 70.15 | 17.32
+281 | 63.11 | 22.46
+>20,00,000 and <= 25,00,000
+690 | 246.48 | 35.72
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 467 | 336.49 | 72.05
+>1,00,00,000 and <=5,00,00,000 | 538 | 1,128.52 | 209.76
+>5,00,00,000 and <=10,00,00,000 | 100 | 713.70 | 713.70
+>10,00,00,000 and <=25,00,00,000 | 61 | 976.86 | 1,601.41
+>25,00,00,000 and <=50,00,00,000 | 19 | 663.54 | 3,492.33
+>50,00,00,000 and <=100,00,00,000 | 12 | 872.16 | 7,267.97
+7 | 1,597.48 | 22,821.14
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 14,83,050 | 6,948.33
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”.
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital Gains
+Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab.
+47
+
+===== PAGE 49 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+4.6 Firm – Range of Other Sources Income (AY 2022-23)
+Sum of Other | Average Other
+No. of
+Range (in INR) | Sources Income Sources Income
+Returns
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+12,96,681 | - | -
+= 0
+1,45,871 | 437.29 | 0.30
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 6,719 | 116.51 | 1.73
+>2,00,000 and <=2,50,000 | 4,698 | 105.23 | 2.24
+>2,50,000 and <= 3,50,000 | 6,387 | 189.09 | 2.96
+>3,50,000 and <= 4,00,000 | 2,265 | 84.83 | 3.75
+>4,00,000 and <= 4,50,000 | 1,844 | 78.35 | 4.25
+>4,50,000 and <= 5,00,000 | 1,459 | 69.14 | 4.74
+1,294 | 67.82 | 5.24
+>5,00,000 and <= 5,50,000
+>5,50,000 and <= 9,50,000 | 6,038 | 433.10 | 7.17
+>9,50,000 and <= 10,00,000 | 457 | 44.53 | 9.74
+>10,00,000 and <=15,00,000 | 2,986 | 365.43 | 12.24
+>15,00,000 and <= 20,00,000 | 1,599 | 276.95 | 17.32
+>20,00,000 and <= 25,00,000 | 985 | 219.94 | 22.33
+>25,00,000 and <= 50,00,000 | 1,915 | 669.40 | 34.96
+914 | 628.54 | 68.77
+>50,00,000 and <= 1,00,00,000
+737 | 1,473.38 | 199.92
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 91 | 648.42 | 712.55
+>10,00,00,000 and <=25,00,00,000 | 64 | 954.96 | 1,492.13
+>25,00,00,000 and <=50,00,00,000 | 21 | 737.74 | 3,513.05
+>50,00,00,000 and <=100,00,00,000 | 12 | 825.46 | 6,878.83
+>100,00,00,000 and <=500,00,00,000 | 12 | 2,937.83 | 24,481.92
+>500,00,00,000 | 1 | 636.94 | 63,694.00
+14,83,050 | 12,000.88
+Total
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income.
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab
+48
+
+===== PAGE 50 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+4.7 Firm – Range of Interest Income (AY 2022-23)
+Sum of
+Average Interest
+No. of | Interest
+Range (in INR) | Income (in Lakh
+Returns | Income (in
+INR)
+Crore INR)
+- | - | -
+< 0
+= 0 | 13,24,212 | - | -
+>0 and <=1,50,000 | 1,23,297 | 383.73 | 0.31
+>150,000 and <= 2,00,000 | 6,015 | 104.33 | 1.73
+>2,00,000 and <=2,50,000 | 4,160 | 93.12 | 2.24
+>2,50,000 and <= 3,50,000 | 5,726 | 169.53 | 2.96
+>3,50,000 and <= 4,00,000 | 1,973 | 73.91 | 3.75
+1,658 | 70.47 | 4.25
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 1,288 | 60.96 | 4.73
+>5,00,000 and <= 5,50,000 | 1,142 | 59.83 | 5.24
+>5,50,000 and <= 9,50,000 | 5,319 | 381.07 | 7.16
+>9,50,000 and <= 10,00,000 | 413 | 40.27 | 9.75
+>10,00,000 and <=15,00,000 | 2,607 | 318.13 | 12.20
+>15,00,000 and <= 20,00,000 | 1,378 | 238.74 | 17.33
+829 | 185.08 | 22.33
+>20,00,000 and <= 25,00,000
+1,672 | 582.10 | 34.81
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 735 | 504.16 | 68.59
+>1,00,00,000 and <=5,00,00,000 | 527 | 1,007.02 | 191.09
+>5,00,00,000 and <=10,00,00,000 | 53 | 360.57 | 680.32
+>10,00,00,000 and <=25,00,00,000 | 38 | 567.65 | 1,493.81
+>25,00,00,000 and <=50,00,00,000 | 6 | 222.41 | 3,706.86
+>50,00,00,000 and <=100,00,00,000 | 2 | 107.82 | 5,391.23
+- | - | -
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 14,83,050 | 5,530.90
+Notes
+1. The Interest Income is already included in the Income from other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+4. The “Average Interest Income” is the average Interest Income within the value range slab
+i.e. “Sum of Interest Income” divided by total number of returns within the value range
+slab
+49
+
+===== PAGE 51 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+50
+
+===== PAGE 52 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+4.8 Firm – Range of Total Loss Set off (AY 2022-23)
+Sum of Total Average Total
+No. of
+Range (in INR) | Loss Set Off | Loss Set off
+Returns
+(in Crore INR) (in Lakh INR)
+< 0 | - | - | -
+13,33,925 | - | -
+= 0
+92,145 | 349.60 | 0.38
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 7,273 | 126.72 | 1.74
+>2,00,000 and <=2,50,000 | 5,337 | 119.49 | 2.24
+>2,50,000 and <= 3,50,000 | 7,696 | 228.61 | 2.97
+>3,50,000 and <= 4,00,000 | 2,885 | 107.91 | 3.74
+>4,00,000 and <= 4,50,000 | 2,456 | 104.28 | 4.25
+>4,50,000 and <= 5,00,000 | 2,078 | 98.58 | 4.74
+1,790 | 93.78 | 5.24
+>5,00,000 and <= 5,50,000
+>5,50,000 and <= 9,50,000 | 9,015 | 652.17 | 7.23
+>9,50,000 and <= 10,00,000 | 798 | 77.85 | 9.76
+>10,00,000 and <=15,00,000 | 4,983 | 609.54 | 12.23
+>15,00,000 and <= 20,00,000 | 2,862 | 495.84 | 17.33
+>20,00,000 and <= 25,00,000 | 1,786 | 397.81 | 22.27
+>25,00,000 and <= 50,00,000 | 3,901 | 1,356.57 | 34.77
+2,154 | 1,488.51 | 69.10
+>50,00,000 and <= 1,00,00,000
+1,676 | 3,322.45 | 198.24
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 158 | 1,117.04 | 706.99
+>10,00,00,000 and <=25,00,00,000 | 86 | 1,284.36 | 1,493.44
+>25,00,00,000 and <=50,00,00,000 | 22 | 746.88 | 3,394.91
+>50,00,00,000 and <=100,00,00,000 | 14 | 947.94 | 6,771.01
+>100,00,00,000 and <=500,00,00,000 | 10 | 2,007.76 | 20,077.58
+>500,00,00,000 | - | - | -
+Total | 14,83,050 | 15,733.70
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses set
+off against current year’s income in the “Computation of total income” Schedule of return
+of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value range
+slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the value
+range slab
+51
+
+===== PAGE 53 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+4.9 Firm – Range of Returned Income (AY 2022-23)
+Sum of | Average
+No. of | Returned | Returned
+Range (in INR)
+Returns | Income (in | Income
+Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 4,97,734 | - | -
+>0 and <=1,50,000 | 5,00,943 | 2,349.28 | 0.47
+>150,000 and <= 2,00,000 | 50,295 | 871.80 | 1.73
+>2,00,000 and <=2,50,000 | 38,167 | 853.71 | 2.24
+>2,50,000 and <= 3,50,000 | 57,027 | 1,694.39 | 2.97
+>3,50,000 and <= 4,00,000 | 21,360 | 799.68 | 3.74
+18,868 | 800.20 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 16,434 | 780.12 | 4.75
+>5,00,000 and <= 5,50,000 | 14,403 | 754.56 | 5.24
+>5,50,000 and <= 9,50,000 | 75,119 | 5,458.09 | 7.27
+>9,50,000 and <= 10,00,000 | 6,554 | 638.99 | 9.75
+>10,00,000 and <=15,00,000 | 45,252 | 5,530.51 | 12.22
+>15,00,000 and <= 20,00,000 | 26,372 | 4,557.48 | 17.28
+17,672 | 3,949.35 | 22.35
+>20,00,000 and <= 25,00,000
+41,777 | 14,742.64 | 35.29
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 27,982 | 20,306.16 | 72.57
+>1,00,00,000 and <=5,00,00,000 | 21,142 | 44,546.96 | 210.70
+>5,00,00,000 and <=10,00,00,000 | 3,160 | 22,007.25 | 696.43
+>10,00,00,000 and <=25,00,00,000 | 1,808 | 27,470.73 | 1,519.40
+>25,00,00,000 and <=50,00,00,000 | 557 | 18,914.80 | 3,395.84
+>50,00,00,000 and <=100,00,00,000 | 251 | 17,208.90 | 6,856.14
+152 | 30,371.91 | 19,981.52
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 21 | 18,890.14 | 89,953.02
+Total | 14,83,050 | 2,43,497.66
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income.
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+52
+
+===== PAGE 54 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+4.10 Firm – Range of Tax Payable (AY 2022-23)
+Sum of Tax | Average Tax
+No. of
+Range (in INR) | Payable | Payable
+Returns
+(in Crore INR) (in Lakh INR)
+< 0 | - | - | -
+4,11,041 | - | -
+= 0
+7,78,062 | 2,479.80 | 0.32
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 43,176 | 748.88 | 1.73
+>2,00,000 and <=2,50,000 | 31,364 | 701.42 | 2.24
+>2,50,000 and <= 3,50,000 | 43,714 | 1,295.82 | 2.96
+>3,50,000 and <= 4,00,000 | 15,388 | 575.86 | 3.74
+>4,00,000 and <= 4,50,000 | 12,474 | 528.78 | 4.24
+>4,50,000 and <= 5,00,000 | 10,918 | 518.33 | 4.75
+9,137 | 478.90 | 5.24
+>5,00,000 and <= 5,50,000
+>5,50,000 and <= 9,50,000 | 43,000 | 3,101.87 | 7.21
+>9,50,000 and <= 10,00,000 | 3,400 | 331.27 | 9.74
+>10,00,000 and <=15,00,000 | 23,089 | 2,824.65 | 12.23
+>15,00,000 and <= 20,00,000 | 12,941 | 2,231.59 | 17.24
+>20,00,000 and <= 25,00,000 | 8,176 | 1,826.20 | 22.34
+>25,00,000 and <= 50,00,000 | 16,692 | 5,662.75 | 33.92
+9,901 | 6,901.20 | 69.70
+>50,00,000 and <= 1,00,00,000
+8,730 | 17,668.70 | 202.39
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 1,033 | 7,123.74 | 689.62
+>10,00,00,000 and <=25,00,00,000 | 580 | 8,654.43 | 1,492.14
+>25,00,00,000 and <=50,00,00,000 | 147 | 5,040.27 | 3,428.76
+>50,00,00,000 and <=100,00,00,000 | 49 | 3,397.59 | 6,933.85
+>100,00,00,000 and <=500,00,00,000 | 37 | 6,825.99 | 18,448.62
+>500,00,00,000 | 1 | 503.55 | 50,354.82
+14,83,050 | 79,421.60
+Total
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after
+giving credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for
+taxes paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.,
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+53
+
+===== PAGE 55 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+5. Income Tax Returns - AOP/BOI
+54
+
+===== PAGE 56 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+5.1 AOP/BOI – Gross Total Income (AY 2022-23)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns Total Income | Total Income
+(in Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 44,309 | - | -
+>0 and <=1,50,000 | 38,105 | 143.78 | 0.38
+>150,000 and <= 2,00,000 | 4,019 | 70.73 | 1.76
+>2,00,000 and <=2,50,000 | 6,818 | 158.06 | 2.32
+5,176 | 149.19 | 2.88
+>2,50,000 and <= 3,50,000
+>3,50,000 and <= 4,00,000 | 1,505 | 56.34 | 3.74
+>4,00,000 and <= 4,50,000 | 1,243 | 52.73 | 4.24
+>4,50,000 and <= 5,00,000 | 1,411 | 67.59 | 4.79
+>5,00,000 and <= 5,50,000 | 947 | 49.57 | 5.23
+>5,50,000 and <= 9,50,000 | 3,641 | 261.45 | 7.18
+334 | 32.73 | 9.80
+>9,50,000 and <= 10,00,000
+>10,00,000 and <=15,00,000 | 1,794 | 217.73 | 12.14
+>15,00,000 and <= 20,00,000 | 1,014 | 176.00 | 17.36
+>20,00,000 and <= 25,00,000 | 699 | 155.81 | 22.29
+>25,00,000 and <= 50,00,000 | 1,603 | 573.03 | 35.75
+1,164 | 838.20 | 72.01
+>50,00,000 and <= 1,00,00,000
+>1,00,00,000 and <=5,00,00,000 | 1,761 | 3,889.82 | 220.89
+>5,00,00,000 and <=10,00,00,000 | 418 | 2,938.77 | 703.06
+>10,00,00,000 and <=25,00,00,000 | 433 | 6,984.67 | 1,613.09
+>25,00,00,000 and <=50,00,00,000 | 203 | 7,053.52 | 3,474.64
+>50,00,00,000 and <=100,00,00,000 | 148 | 10,441.91 | 7,055.34
+174 | 34,901.84 | 20,058.53
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 31 | 42,004.81 | 1,35,499.39
+Total | 1,16,950 | 1,11,218.27
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+55
+
+===== PAGE 57 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+5.2 AOP/BOI- Range of House Property Income (AY 2022-23)
+Sum of House
+Average House
+No. of | Property
+Range (in INR) | Property Income
+Returns | Income
+(in Lakh INR)
+(in Crore INR)
+- | - | -
+< 0
+= 0 | 1,13,677 | - | -
+>0 and <=1,50,000 | 928 | 5.71 | 0.62
+>150,000 and <= 2,00,000 | 224 | 3.92 | 1.75
+>2,00,000 and <=2,50,000 | 220 | 4.92 | 2.24
+>2,50,000 and <= 3,50,000 | 326 | 9.66 | 2.96
+>3,50,000 and <= 4,00,000 | 111 | 4.17 | 3.76
+104 | 4.43 | 4.26
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 96 | 4.56 | 4.75
+>5,00,000 and <= 5,50,000 | 78 | 4.10 | 5.25
+>5,50,000 and <= 9,50,000 | 419 | 30.75 | 7.34
+>9,50,000 and <= 10,00,000 | 24 | 2.33 | 9.72
+>10,00,000 and <=15,00,000 | 239 | 28.93 | 12.11
+>15,00,000 and <= 20,00,000 | 120 | 20.85 | 17.37
+66 | 14.80 | 22.42
+>20,00,000 and <= 25,00,000
+156 | 54.60 | 35.00
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 82 | 56.79 | 69.26
+>1,00,00,000 and <=5,00,00,000 | 70 | 123.54 | 176.48
+>5,00,00,000 and <=10,00,00,000 | 7 | 47.44 | 677.76
+>10,00,00,000 and <=25,00,00,000 | 2 | 33.33 | 1,666.65
+>25,00,00,000 and <=50,00,00,000 | 1 | 29.51 | 2,951.15
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+- | - | -
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 1,16,950 | 484.35
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House
+Property Income (for ITR-1 & ITR-4). For other ITRs the same may be adjusted in
+Current Year Loss Adjustment or carried forward for future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e. “Sum of House Property Income” divided by total number of returns
+within the value range slab
+56
+
+===== PAGE 58 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+5.3 AOP/BOI – Range of Business Income (AY 2022-23)
+Sum of | Average
+No. of | Business | Business
+Range (in INR)
+Returns | Income (in | Income
+Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 70,338 | - | -
+>0 and <=1,50,000 | 27,401 | 90.94 | 0.33
+>150,000 and <= 2,00,000 | 2,260 | 39.32 | 1.74
+>2,00,000 and <=2,50,000 | 3,337 | 76.99 | 2.31
+>2,50,000 and <= 3,50,000 | 2,837 | 81.21 | 2.86
+>3,50,000 and <= 4,00,000 | 786 | 29.41 | 3.74
+632 | 26.82 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 719 | 34.34 | 4.78
+>5,00,000 and <= 5,50,000 | 520 | 27.20 | 5.23
+>5,50,000 and <= 9,50,000 | 2,066 | 148.86 | 7.21
+>9,50,000 and <= 10,00,000 | 175 | 17.09 | 9.77
+>10,00,000 and <=15,00,000 | 1,080 | 132.48 | 12.27
+>15,00,000 and <= 20,00,000 | 691 | 120.53 | 17.44
+429 | 95.66 | 22.30
+>20,00,000 and <= 25,00,000
+1,138 | 407.65 | 35.82
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 854 | 615.28 | 72.05
+>1,00,00,000 and <=5,00,00,000 | 1,174 | 2,588.83 | 220.51
+>5,00,00,000 and <=10,00,00,000 | 217 | 1,516.21 | 698.71
+>10,00,00,000 and <=25,00,00,000 | 168 | 2,653.80 | 1,579.64
+>25,00,00,000 and <=50,00,00,000 | 58 | 1,958.55 | 3,376.82
+>50,00,00,000 and <=100,00,00,000 | 39 | 2,594.69 | 6,653.05
+26 | 4,810.94 | 18,503.62
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 5 | 5,561.89 | -
+Total | 1,16,950 | 23,628.69
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab
+57
+
+===== PAGE 59 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+5.4 AOP/BOI – Range of Long Term Capital Gains (AY 2022-23)
+Long Term | Average Long
+No. of | Capital Gains Term Capital
+Range (in INR)
+Returns | Income | Gains Income
+(in Crore INR) (in Lakh INR)
+- | - | -
+< 0
+= 0 | 1,14,495 | - | -
+>0 and <=1,50,000 | 478 | 2.46 | 0.51
+>150,000 and <= 2,00,000 | 50 | 0.86 | 1.73
+>2,00,000 and <=2,50,000 | 53 | 1.18 | 2.22
+>2,50,000 and <= 3,50,000 | 70 | 2.04 | 2.91
+>3,50,000 and <= 4,00,000 | 29 | 1.08 | 3.72
+33 | 1.39 | 4.21
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 26 | 1.24 | 4.76
+>5,00,000 and <= 5,50,000 | 24 | 1.26 | 5.24
+>5,50,000 and <= 9,50,000 | 131 | 9.59 | 7.32
+>9,50,000 and <= 10,00,000 | 10 | 0.97 | 9.73
+>10,00,000 and <=15,00,000 | 95 | 11.63 | 12.25
+>15,00,000 and <= 20,00,000 | 55 | 9.67 | 17.58
+50 | 11.21 | 22.42
+>20,00,000 and <= 25,00,000
+146 | 52.62 | 36.04
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 155 | 110.51 | 71.30
+>1,00,00,000 and <=5,00,00,000 | 326 | 786.66 | 241.31
+>5,00,00,000 and <=10,00,00,000 | 135 | 989.64 | 733.07
+>10,00,00,000 and <=25,00,00,000 | 214 | 3,471.22 | 1,622.06
+>25,00,00,000 and <=50,00,00,000 | 132 | 4,718.69 | 3,574.77
+>50,00,00,000 and <=100,00,00,000 | 96 | 7,001.24 | 7,292.96
+126 | 26,035.03 | 20,662.73
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 21 | 29,805.04 | 1,41,928.75
+Total | 1,16,950 | 73,025.22
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income”
+divided by total number of returns within the value range slab
+58
+
+===== PAGE 60 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+5.5 AOP/BOI – Range of Short Term Capital Gains (AY 2022-23)
+Sum of Short | Average Short
+No. of | Term Capital | Term Capital
+Range (in INR)
+Returns | Gains Income Gains Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 1,14,600 | - | -
+815 | 3 | 0.36
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 54 | 1 | 1.73
+>2,00,000 and <=2,50,000 | 49 | 1 | 2.23
+>2,50,000 and <= 3,50,000 | 80 | 2 | 2.98
+25 | 1 | 3.68
+>3,50,000 and <= 4,00,000
+>4,00,000 and <= 4,50,000 | 37 | 2 | 4.23
+>4,50,000 and <= 5,00,000 | 22 | 1 | 4.74
+>5,00,000 and <= 5,50,000 | 25 | 1 | 5.22
+>5,50,000 and <= 9,50,000 | 105 | 8 | 7.49
+14 | 1 | 9.79
+>9,50,000 and <= 10,00,000
+>10,00,000 and <=15,00,000 | 101 | 13 | 12.40
+>15,00,000 and <= 20,00,000 | 64 | 11 | 17.61
+>20,00,000 and <= 25,00,000 | 44 | 10 | 22.20
+>25,00,000 and <= 50,00,000 | 130 | 48 | 36.54
+>50,00,000 and <= 1,00,00,000 | 134 | 94 | 70.21
+>1,00,00,000 and <=5,00,00,000 | 296 | 715 | 241.70
+>5,00,00,000 and <=10,00,00,000 | 122 | 877 | 718.53
+101 | 1,597 | 1,580.88
+>10,00,00,000 and <=25,00,00,000
+>25,00,00,000 and <=50,00,00,000 | 57 | 2,039 | 3,576.67
+>50,00,00,000 and <=100,00,00,000 | 46 | 3,252 | 7,069.96
+>100,00,00,000 and <=500,00,00,000 | 26 | 4,575 | 17,596.39
+3 | 3,444 | 1,14,800.37
+>500,00,00,000
+Total | 1,16,950 | 16,695.25
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital
+Gains Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab
+59
+
+===== PAGE 61 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+5.6 AOP/BOI – Range of Other Sources Income (AY 2022-23)
+Other | Average Other
+No. of | Sources | Sources
+Range (in INR)
+Returns | Income | Income (in
+(in Crore INR) Lakh INR)
+< 0 | - | - | -
+= 0 | 75,112 | - | -
+23,937 | 97.50 | 0.41
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 2,576 | 45.45 | 1.76
+>2,00,000 and <=2,50,000 | 3,922 | 90.57 | 2.31
+>2,50,000 and <= 3,50,000 | 2,787 | 82.00 | 2.94
+930 | 34.74 | 3.74
+>3,50,000 and <= 4,00,000
+>4,00,000 and <= 4,50,000 | 784 | 33.29 | 4.25
+>4,50,000 and <= 5,00,000 | 771 | 36.89 | 4.78
+>5,00,000 and <= 5,50,000 | 482 | 25.27 | 5.24
+>5,50,000 and <= 9,50,000 | 1,879 | 134.40 | 7.15
+186 | 18.25 | 9.81
+>9,50,000 and <= 10,00,000
+>10,00,000 and <=15,00,000 | 832 | 100.28 | 12.05
+>15,00,000 and <= 20,00,000 | 403 | 69.85 | 17.33
+>20,00,000 and <= 25,00,000 | 296 | 65.99 | 22.29
+>25,00,000 and <= 50,00,000 | 585 | 206.90 | 35.37
+>50,00,000 and <= 1,00,00,000 | 408 | 291.70 | 71.50
+>1,00,00,000 and <=5,00,00,000 | 640 | 1,434.33 | 224.11
+>5,00,00,000 and <=10,00,00,000 | 184 | 1,283.82 | 697.73
+146 | 2,217.01 | 1,518.50
+>10,00,00,000 and <=25,00,00,000
+>25,00,00,000 and <=50,00,00,000 | 42 | 1,410.90 | 3,359.29
+>50,00,00,000 and <=100,00,00,000 | 25 | 1,712.39 | 6,849.56
+>100,00,00,000 and <=500,00,00,000 | 22 | 4,762.05 | 21,645.68
+1 | 614.25 | 61,425.00
+>500,00,00,000
+Total | 1,16,950 | 14,767.83
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e., “Sum of Other Sources Income” divided by total number of returns
+within the value range slab
+60
+
+===== PAGE 62 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+5.7 AOP/BOI – Range of Interest Income (AY 2022-23)
+Sum of | Average
+No. of | Interest | Interest
+Range (in INR)
+Returns | Income | Income
+(in Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 78,690 | - | -
+>0 and <=1,50,000 | 23,477 | 95.38 | 0.41
+>150,000 and <= 2,00,000 | 2,494 | 43.60 | 1.75
+>2,00,000 and <=2,50,000 | 3,036 | 69.61 | 2.29
+>2,50,000 and <= 3,50,000 | 2,546 | 75.00 | 2.95
+>3,50,000 and <= 4,00,000 | 841 | 31.45 | 3.74
+664 | 28.13 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 626 | 29.87 | 4.77
+>5,00,000 and <= 5,50,000 | 453 | 23.76 | 5.24
+>5,50,000 and <= 9,50,000 | 1,713 | 122.67 | 7.16
+>9,50,000 and <= 10,00,000 | 144 | 14.06 | 9.76
+>10,00,000 and <=15,00,000 | 724 | 87.97 | 12.15
+>15,00,000 and <= 20,00,000 | 356 | 61.55 | 17.29
+233 | 51.71 | 22.20
+>20,00,000 and <= 25,00,000
+427 | 148.80 | 34.85
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 265 | 186.73 | 70.47
+>1,00,00,000 and <=5,00,00,000 | 214 | 430.59 | 201.21
+>5,00,00,000 and <=10,00,00,000 | 25 | 165.97 | 663.87
+>10,00,00,000 and <=25,00,00,000 | 12 | 162.67 | 1,355.55
+>25,00,00,000 and <=50,00,00,000 | 3 | 107.02 | 3,567.43
+>50,00,00,000 and <=100,00,00,000 | 4 | 313.65 | 7,841.17
+3 | 793.34 | 26,444.57
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | - | - | -
+Total | 1,16,950 | 3,043.54
+Notes
+1. The Interest Income is already included in the Income from other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+4. The “Average Interest Income” is the average Interest Income within the value range
+slab i.e. “Sum of Interest Income” divided by total number of returns within the value
+range slab
+61
+
+===== PAGE 63 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+5.8 AOP/BOI- Range of Total Loss Set off (AY 2022-23)
+Sum of Total Average
+No. of | Loss Set Off Total Loss
+Range (in INR)
+Returns | (in Crore | Set off (in
+INR) | Lakh INR)
+- | - | -
+< 0
+1,01,799 | - | -
+= 0
+>0 and <=1,50,000 | 9,732 | 35.29 | 0.36
+>150,000 and <= 2,00,000 | 701 | 12.16 | 1.74
+>2,00,000 and <=2,50,000 | 562 | 12.57 | 2.24
+>2,50,000 and <= 3,50,000 | 703 | 20.87 | 2.97
+>3,50,000 and <= 4,00,000 | 250 | 9.39 | 3.76
+>4,00,000 and <= 4,50,000 | 208 | 8.84 | 4.25
+>4,50,000 and <= 5,00,000 | 181 | 8.55 | 4.73
+>5,00,000 and <= 5,50,000 | 148 | 7.77 | 5.25
+>5,50,000 and <= 9,50,000 | 678 | 48.75 | 7.19
+50 | 4.88 | 9.75
+>9,50,000 and <= 10,00,000
+397 | 48.56 | 12.23
+>10,00,000 and <=15,00,000
+>15,00,000 and <= 20,00,000 | 233 | 40.73 | 17.48
+>20,00,000 and <= 25,00,000 | 152 | 33.84 | 22.27
+>25,00,000 and <= 50,00,000 | 322 | 114.13 | 35.44
+>50,00,000 and <= 1,00,00,000 | 210 | 151.66 | 72.22
+>1,00,00,000 and <=5,00,00,000 | 296 | 706.52 | 238.69
+>5,00,00,000 and <=10,00,00,000 | 106 | 757.91 | 715.01
+>10,00,00,000 and <=25,00,00,000 | 116 | 1,883.80 | 1,623.96
+>25,00,00,000 and <=50,00,00,000 | 41 | 1,459.30 | 3,559.27
+>50,00,00,000 and <=100,00,00,000 | 32 | 2,274.94 | 7,109.19
+30 | 6,514.56 | 21,715.20
+>100,00,00,000 and <=500,00,00,000
+3 | 3,228.03 | 1,07,601.13
+>500,00,00,000
+1,16,950 | 17,383.07
+Total
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses
+set off against current year’s income in the “Computation of total income” Schedule of
+return of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value
+range slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the
+value range slab
+62
+
+===== PAGE 64 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+5.9 AOP/BOI- Range of Returned Income (AY 2022-23)
+Sum of | Average
+Returned | Returned
+No. of
+Range (in INR) | Income | Income
+Returns
+(in Crore | (in Lakh
+INR) | INR)
+< 0 | - | - | -
+= 0 | 48,688 | - | -
+>0 and <=1,50,000 | 37,059 | 140.07 | 0.38
+>150,000 and <= 2,00,000 | 3,860 | 67.95 | 1.76
+>2,00,000 and <=2,50,000 | 6,720 | 156.03 | 2.32
+4,878 | 140.53 | 2.88
+>2,50,000 and <= 3,50,000
+>3,50,000 and <= 4,00,000 | 1,385 | 51.84 | 3.74
+>4,00,000 and <= 4,50,000 | 1,147 | 48.68 | 4.24
+>4,50,000 and <= 5,00,000 | 1,316 | 63.05 | 4.79
+>5,00,000 and <= 5,50,000 | 849 | 44.44 | 5.23
+>5,50,000 and <= 9,50,000 | 3,100 | 221.52 | 7.15
+>9,50,000 and <= 10,00,000 | 278 | 27.28 | 9.81
+1,412 | 170.67 | 12.09
+>10,00,000 and <=15,00,000
+771 | 133.42 | 17.30
+>15,00,000 and <= 20,00,000
+>20,00,000 and <= 25,00,000 | 517 | 115.24 | 22.29
+>25,00,000 and <= 50,00,000 | 1,191 | 426.04 | 35.77
+>50,00,000 and <= 1,00,00,000 | 933 | 674.37 | 72.28
+>1,00,00,000 and <=5,00,00,000 | 1,486 | 3,326.55 | 223.86
+>5,00,00,000 and <=10,00,00,000 | 393 | 2,781.58 | 707.78
+418 | 6,764.91 | 1,618.40
+>10,00,00,000 and <=25,00,00,000
+198 | 6,898.46 | 3,484.07
+>25,00,00,000 and <=50,00,00,000
+>50,00,00,000 and <=100,00,00,000 | 147 | 10,377.29 | 7,059.38
+>100,00,00,000 and <=500,00,00,000 | 173 | 34,734.09 | 20,077.51
+>500,00,00,000 | 31 | 41,974.81 | 1,35,402.62
+Total | 1,16,950 | 1,09,338.81
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income.
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+63
+
+===== PAGE 65 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+5.10 AOP/BOI- Range of Tax Payable (AY 2022-23)
+Sum of Tax | Average Tax
+No. of
+Range (in INR) | Payable | Payable
+Returns
+(in Crore INR) (in Lakh INR)
+< 0 | - | - | -
+79,065 | - | -
+= 0
+28,895 | 59.17 | 0.20
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 866 | 14.99 | 1.73
+>2,00,000 and <=2,50,000 | 641 | 14.33 | 2.24
+>2,50,000 and <= 3,50,000 | 895 | 26.40 | 2.95
+>3,50,000 and <= 4,00,000 | 341 | 12.73 | 3.73
+>4,00,000 and <= 4,50,000 | 274 | 11.65 | 4.25
+>4,50,000 and <= 5,00,000 | 277 | 13.16 | 4.75
+228 | 11.96 | 5.24
+>5,00,000 and <= 5,50,000
+>5,50,000 and <= 9,50,000 | 1,002 | 72.43 | 7.23
+>9,50,000 and <= 10,00,000 | 91 | 8.86 | 9.74
+>10,00,000 and <=15,00,000 | 639 | 78.55 | 12.29
+>15,00,000 and <= 20,00,000 | 374 | 64.96 | 17.37
+>20,00,000 and <= 25,00,000 | 302 | 67.53 | 22.36
+>25,00,000 and <= 50,00,000 | 866 | 308.59 | 35.63
+659 | 462.66 | 70.21
+>50,00,000 and <= 1,00,00,000
+957 | 2,144.62 | 224.10
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 247 | 1,718.23 | 695.64
+>10,00,00,000 and <=25,00,00,000 | 192 | 2,961.97 | 1,542.69
+>25,00,00,000 and <=50,00,00,000 | 79 | 2,765.79 | 3,501.00
+>50,00,00,000 and <=100,00,00,000 | 33 | 2,228.93 | 6,754.35
+>100,00,00,000 and <=500,00,00,000 | 25 | 4,854.84 | 19,419.38
+>500,00,00,000 | 2 | 1,695.71 | 84,785.42
+1,16,950 | 19,598.07
+Total
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after
+giving credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for
+taxes paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+64
+
+===== PAGE 66 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+6. Income Tax Returns - Company
+65
+
+===== PAGE 67 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+6.1 Company – Gross Total Income (AY 2022-23)
+Sum of Gross Average Gross
+No. of
+Range (in INR) | Total Income | Total Income
+Returns
+(in Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 5,96,192 | - | -
+>0 and <=1,50,000 | 1,30,168 | 578.38 | 0.44
+>150,000 and <= 2,00,000 | 14,163 | 246.13 | 1.74
+>2,00,000 and <=2,50,000 | 11,176 | 250.40 | 2.24
+17,539 | 522.18 | 2.98
+>2,50,000 and <= 3,50,000
+>3,50,000 and <= 4,00,000 | 7,355 | 275.49 | 3.75
+>4,00,000 and <= 4,50,000 | 6,809 | 288.97 | 4.24
+>4,50,000 and <= 5,00,000 | 6,121 | 290.54 | 4.75
+>5,00,000 and <= 5,50,000 | 5,616 | 294.51 | 5.24
+>5,50,000 and <= 9,50,000 | 32,867 | 2,411.81 | 7.34
+3,233 | 315.29 | 9.75
+>9,50,000 and <= 10,00,000
+>10,00,000 and <=15,00,000 | 24,647 | 3,036.01 | 12.32
+>15,00,000 and <= 20,00,000 | 17,044 | 2,958.36 | 17.36
+>20,00,000 and <= 25,00,000 | 12,595 | 2,820.10 | 22.39
+>25,00,000 and <= 50,00,000 | 35,707 | 12,786.84 | 35.81
+30,081 | 21,621.93 | 71.88
+>50,00,000 and <= 1,00,00,000
+>1,00,00,000 and <=5,00,00,000 | 42,406 | 96,187.39 | 226.82
+>5,00,00,000 and <=10,00,00,000 | 9,873 | 70,002.13 | 709.03
+>10,00,00,000 and <=25,00,00,000 | 8,374 | 1,32,012.04 | 1,576.45
+>25,00,00,000 and <=50,00,00,000 | 3,806 | 1,33,352.24 | 3,503.74
+>50,00,00,000 and <=100,00,00,000 | 2,416 | 1,67,147.63 | 6,918.36
+2,554 | 5,34,555.55 | 20,930.13
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 778 | 18,20,131.21 | 2,33,950.03
+Total | 10,21,520 | 30,02,085.12
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+66
+
+===== PAGE 68 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+6.2 Company- Range of House Property Income (AY 2022-23)
+Average House
+Sum of House
+No. of | Property
+Range (in INR) | Property Income
+Returns | Income
+(in Crore INR)
+(in Lakh INR)
+- | - | -
+< 0
+= 0 | 9,83,212 | - | -
+>0 and <=1,50,000 | 6,861 | 51.09 | 0.74
+>150,000 and <= 2,00,000 | 1,869 | 32.37 | 1.73
+>2,00,000 and <=2,50,000 | 1,553 | 34.53 | 2.22
+>2,50,000 and <= 3,50,000 | 2,762 | 82.10 | 2.97
+>3,50,000 and <= 4,00,000 | 1,000 | 37.61 | 3.76
+1,199 | 50.67 | 4.23
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 809 | 38.24 | 4.73
+>5,00,000 and <= 5,50,000 | 806 | 42.17 | 5.23
+>5,50,000 and <= 9,50,000 | 5,012 | 368.22 | 7.35
+>9,50,000 and <= 10,00,000 | 421 | 40.97 | 9.73
+>10,00,000 and <=15,00,000 | 3,454 | 422.84 | 12.24
+>15,00,000 and <= 20,00,000 | 1,957 | 339.16 | 17.33
+1,495 | 333.80 | 22.33
+>20,00,000 and <= 25,00,000
+3,878 | 1,371.46 | 35.37
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 2,622 | 1,828.99 | 69.76
+>1,00,00,000 and <=5,00,00,000 | 2,191 | 4,401.67 | 200.90
+>5,00,00,000 and <=10,00,00,000 | 244 | 1,689.20 | 692.29
+>10,00,00,000 and <=25,00,00,000 | 117 | 1,663.20 | 1,421.54
+>25,00,00,000 and <=50,00,00,000 | 32 | 1,111.17 | 3,472.41
+>50,00,00,000 and <=100,00,00,000 | 17 | 1,067.05 | 6,276.74
+7 | 891.75 | 12,739.24
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 2 | 1,426.20 | 71,309.86
+Total | 10,21,520 | 17,324.45
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House
+Property Income (for ITR-1 & ITR-4). For other ITRs the same may be adjusted in
+Current Year Loss Adjustment or carried forward for future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e. “Sum of House Property Income” divided by total number of returns
+within the value range slab
+67
+
+===== PAGE 69 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+6.3 Company – Range of Business Income (AY 2022-23)
+Sum of | Average
+No. of | Business | Business
+Range (in INR)
+Returns | Income (in | Income (in
+Crore INR) | Lakh INR)
+- | - | -
+< 0
+= 0 | 5,72,987 | - | -
+>0 and <=1,50,000 | 1,47,413 | 654.20 | 0.44
+>150,000 and <= 2,00,000 | 15,704 | 272.74 | 1.74
+>2,00,000 and <=2,50,000 | 12,419 | 278.22 | 2.24
+>2,50,000 and <= 3,50,000 | 19,430 | 578.33 | 2.98
+>3,50,000 and <= 4,00,000 | 8,111 | 303.64 | 3.74
+7,404 | 314.31 | 4.25
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 6,647 | 315.47 | 4.75
+>5,00,000 and <= 5,50,000 | 6,116 | 320.60 | 5.24
+>5,50,000 and <= 9,50,000 | 34,890 | 2,554.88 | 7.32
+>9,50,000 and <= 10,00,000 | 3,490 | 340.22 | 9.75
+>10,00,000 and <=15,00,000 | 25,942 | 3,193.99 | 12.31
+>15,00,000 and <= 20,00,000 | 17,825 | 3,097.02 | 17.37
+13,008 | 2,913.98 | 22.40
+>20,00,000 and <= 25,00,000
+36,087 | 12,891.14 | 35.72
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 29,640 | 21,243.83 | 71.67
+>1,00,00,000 and <=5,00,00,000 | 40,510 | 91,436.31 | 225.71
+>5,00,00,000 and <=10,00,00,000 | 8,925 | 63,101.42 | 707.02
+>10,00,00,000 and <=25,00,00,000 | 7,425 | 1,16,699.40 | 1,571.71
+>25,00,00,000 and <=50,00,00,000 | 3,201 | 1,12,041.73 | 3,500.21
+>50,00,00,000 and <=100,00,00,000 | 1,921 | 1,33,496.36 | 6,949.32
+1,856 | 3,86,978.28 | 20,850.12
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 569 14,82,359.90 | 2,60,520.19
+Total | 10,21,520 24,35,385.97
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab
+68
+
+===== PAGE 70 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+6.4 Company – Range of Long Term Capital Gains (AY 2022-23)
+Sum of Long | Average Long
+No. of | Term Capital | Term Capital
+Range (in INR)
+Returns | Gains Income | Gains Income
+(in Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+= 0 | 9,94,295 | - | -
+>0 and <=1,50,000 | 5,113 | 27.72 | 0.54
+>150,000 and <= 2,00,000 | 838 | 14.64 | 1.75
+>2,00,000 and <=2,50,000 | 659 | 14.82 | 2.25
+>2,50,000 and <= 3,50,000 | 1,131 | 33.56 | 2.97
+>3,50,000 and <= 4,00,000 | 477 | 17.90 | 3.75
+482 | 20.46 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 393 | 18.62 | 4.74
+>5,00,000 and <= 5,50,000 | 367 | 19.24 | 5.24
+>5,50,000 and <= 9,50,000 | 2,214 | 162.30 | 7.33
+>9,50,000 and <= 10,00,000 | 241 | 23.53 | 9.76
+>10,00,000 and <=15,00,000 | 1,741 | 215.06 | 12.35
+>15,00,000 and <= 20,00,000 | 1,232 | 212.98 | 17.29
+978 | 219.41 | 22.43
+>20,00,000 and <= 25,00,000
+2,791 | 997.75 | 35.75
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 2,387 | 1,698.37 | 71.15
+>1,00,00,000 and <=5,00,00,000 | 3,410 | 7,716.16 | 226.28
+>5,00,00,000 and <=10,00,00,000 | 851 | 6,059.91 | 712.09
+>10,00,00,000 and <=25,00,00,000 | 724 | 11,310.56 | 1,562.23
+>25,00,00,000 and <=50,00,00,000 | 396 | 14,033.85 | 3,543.90
+>50,00,00,000 and <=100,00,00,000 | 274 | 19,550.54 | 7,135.23
+391 | 89,717.67 | 22,945.70
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 135 | 2,01,730.26 | 1,49,429.82
+Total | 10,21,520 | 3,53,815.31
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income”
+divided by total number of returns within the value range slab
+69
+
+===== PAGE 71 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+6.5 Company – Range of Short Term Capital Gains (AY 2022-23)
+Average Short
+Sum of Short
+Term
+No. of | Term Capital
+Range (in INR) | Capital Gains
+Returns | Gains Income
+Income (in Lakh
+(in Crore INR)
+INR)
+< 0 | - | - | -
+= 0 | 9,86,317 | - | -
+>0 and <=1,50,000 | 12,151 | 57.21 | 0.47
+>150,000 and <= 2,00,000 | 1,470 | 25.65 | 1.74
+>2,00,000 and <=2,50,000 | 1,108 | 24.82 | 2.24
+1,705 | 50.79 | 2.98
+>2,50,000 and <= 3,50,000
+>3,50,000 and <= 4,00,000 | 742 | 27.85 | 3.75
+>4,00,000 and <= 4,50,000 | 652 | 27.68 | 4.25
+>4,50,000 and <= 5,00,000 | 514 | 24.37 | 4.74
+>5,00,000 and <= 5,50,000 | 494 | 25.91 | 5.25
+>5,50,000 and <= 9,50,000 | 2,810 | 206.09 | 7.33
+>9,50,000 and <= 10,00,000 | 236 | 23.00 | 9.74
+1,954 | 239.84 | 12.27
+>10,00,000 and <=15,00,000
+1,282 | 222.66 | 17.37
+>15,00,000 and <= 20,00,000
+>20,00,000 and <= 25,00,000 | 983 | 219.28 | 22.31
+>25,00,000 and <= 50,00,000 | 2,502 | 894.94 | 35.77
+>50,00,000 and <= 1,00,00,000 | 2,086 | 1,489.78 | 71.42
+>1,00,00,000 and <=5,00,00,000 | 2,892 | 6,410.62 | 221.67
+>5,00,00,000 and <=10,00,00,000 | 647 | 4,564.38 | 705.47
+>10,00,00,000 and <=25,00,00,000 | 484 | 7,644.33 | 1,579.41
+202 | 7,230.48 | 3,579.44
+>25,00,00,000 and <=50,00,00,000
+>50,00,00,000 and <=100,00,00,000 | 131 | 8,806.41 | 6,722.45
+>100,00,00,000 and <=500,00,00,000 | 132 | 24,949.78 | 18,901.35
+>500,00,00,000 | 26 | 30,709.68 | 1,18,114.15
+Total | 10,21,520 | 93,875.53
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital
+Gains Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab
+70
+
+===== PAGE 72 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+6.6 Company – Range of Other Sources Income (AY 2022-23)
+Sum of Other | Average Other
+No. of
+Range (in INR) | Sources Income | Sources Income
+Returns
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+8,16,234 | - | -
+= 0
+1,08,010 | 399.73 | 0.37
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 8,121 | 141.29 | 1.74
+>2,00,000 and <=2,50,000 | 6,297 | 140.99 | 2.24
+>2,50,000 and <= 3,50,000 | 9,491 | 281.95 | 2.97
+>3,50,000 and <= 4,00,000 | 3,595 | 134.63 | 3.74
+>4,00,000 and <= 4,50,000 | 3,092 | 131.22 | 4.24
+>4,50,000 and <= 5,00,000 | 2,801 | 132.85 | 4.74
+2,459 | 128.96 | 5.24
+>5,00,000 and <= 5,50,000
+>5,50,000 and <= 9,50,000 | 13,169 | 956.98 | 7.27
+>9,50,000 and <= 10,00,000 | 1,148 | 111.98 | 9.75
+>10,00,000 and <=15,00,000 | 8,065 | 990.51 | 12.28
+>15,00,000 and <= 20,00,000 | 5,195 | 900.52 | 17.33
+>20,00,000 and <= 25,00,000 | 3,619 | 808.97 | 22.35
+>25,00,000 and <= 50,00,000 | 8,920 | 3,161.11 | 35.44
+6,499 | 4,590.75 | 70.64
+>50,00,000 and <= 1,00,00,000
+8,579 | 19,331.65 | 225.34
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 2,113 | 15,046.51 | 712.09
+>10,00,00,000 and <=25,00,00,000 | 1,901 | 30,164.09 | 1,586.75
+>25,00,00,000 and <=50,00,00,000 | 890 | 31,494.28 | 3,538.68
+>50,00,00,000 and <=100,00,00,000 | 596 | 41,970.34 | 7,042.00
+>100,00,00,000 and <=500,00,00,000 | 596 | 1,18,692.99 | 19,914.93
+>500,00,00,000 | 130 | 2,00,387.52 | 1,54,144.25
+Total | 10,21,520 | 4,70,099.82
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab
+71
+
+===== PAGE 73 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+6.7 Company – Range of Interest Income (AY 2022-23)
+Sum of Interest Average Interest
+No. of
+Range (in INR) | Income (in | Income (in Lakh
+Returns
+Crore INR) | INR)
+< 0 | - | - | -
+8,40,359 | - | -
+= 0
+1,00,175 | 371.15 | 0.37
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 7,472 | 129.92 | 1.74
+>2,00,000 and <=2,50,000 | 5,797 | 129.72 | 2.24
+>2,50,000 and <= 3,50,000 | 8,665 | 257.50 | 2.97
+>3,50,000 and <= 4,00,000 | 3,280 | 122.83 | 3.74
+>4,00,000 and <= 4,50,000 | 2,790 | 118.41 | 4.24
+>4,50,000 and <= 5,00,000 | 2,517 | 119.39 | 4.74
+2,215 | 116.14 | 5.24
+>5,00,000 and <= 5,50,000
+>5,50,000 and <= 9,50,000 | 11,779 | 854.71 | 7.26
+>9,50,000 and <= 10,00,000 | 1,023 | 99.78 | 9.75
+>10,00,000 and <=15,00,000 | 7,137 | 875.28 | 12.26
+>15,00,000 and <= 20,00,000 | 4,497 | 779.00 | 17.32
+>20,00,000 and <= 25,00,000 | 3,076 | 687.69 | 22.36
+>25,00,000 and <= 50,00,000 | 7,445 | 2,625.89 | 35.27
+5,097 | 3,584.26 | 70.32
+>50,00,000 and <= 1,00,00,000
+5,817 | 12,582.99 | 216.31
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 1,063 | 7,442.44 | 700.14
+>10,00,00,000 and <=25,00,00,000 | 752 | 11,569.28 | 1,538.47
+>25,00,00,000 and <=50,00,00,000 | 283 | 9,791.17 | 3,459.78
+>50,00,00,000 and <=100,00,00,000 | 162 | 11,372.71 | 7,020.19
+>100,00,00,000 and <=500,00,00,000 | 107 | 21,166.06 | 19,781.36
+>500,00,00,000 | 12 | 9,935.28 | 82,794.00
+Total | 10,21,520 | 94,731.60
+Notes
+1. The Interest Income is already included in the Income from other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+4. The “Average Interest Income” is the average Interest Income within the value range
+slab i.e. “Sum of Interest Income” divided by total number of returns within the value
+range slab.
+72
+
+===== PAGE 74 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+6.8 Company – Range of Total Loss Set off (AY 2022-23)
+Sum of Total | Average Total
+No. of
+Range (in INR) | Loss Set Off | Loss Set off
+Returns
+(in Crore INR) (in Lakh INR)
+< 0 | - | - | -
+7,98,007 | - | -
+= 0
+1,07,111 | 427.78 | 0.40
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 9,518 | 165.74 | 1.74
+>2,00,000 and <=2,50,000 | 6,991 | 156.55 | 2.24
+>2,50,000 and <= 3,50,000 | 10,948 | 325.02 | 2.97
+>3,50,000 and <= 4,00,000 | 4,273 | 160.17 | 3.75
+>4,00,000 and <= 4,50,000 | 3,764 | 159.77 | 4.24
+>4,50,000 and <= 5,00,000 | 3,342 | 158.78 | 4.75
+2,952 | 154.92 | 5.25
+>5,00,000 and <= 5,50,000
+>5,50,000 and <= 9,50,000 | 16,326 | 1,187.69 | 7.27
+>9,50,000 and <= 10,00,000 | 1,455 | 141.81 | 9.75
+>10,00,000 and <=15,00,000 | 10,555 | 1,297.32 | 12.29
+>15,00,000 and <= 20,00,000 | 6,698 | 1,161.34 | 17.34
+>20,00,000 and <= 25,00,000 | 4,784 | 1,070.12 | 22.37
+>25,00,000 and <= 50,00,000 | 11,679 | 4,124.99 | 35.32
+8,375 | 5,906.58 | 70.53
+>50,00,000 and <= 1,00,00,000
+9,818 | 21,616.93 | 220.18
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 1,902 | 13,410.21 | 705.06
+>10,00,00,000 and <=25,00,00,000 | 1,524 | 23,816.85 | 1,562.79
+>25,00,00,000 and <=50,00,00,000 | 646 | 22,578.96 | 3,495.20
+>50,00,00,000 and <=100,00,00,000 | 385 | 27,436.06 | 7,126.25
+>100,00,00,000 and <=500,00,00,000 | 367 | 74,906.18 | 20,410.40
+>500,00,00,000 | 100 | 1,68,052.21 | 1,68,052.21
+Total | 10,21,520 | 3,68,415.96
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses
+set off against current year’s income in the “Computation of total income” Schedule of
+return of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value
+range slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the
+value range slab
+73
+
+===== PAGE 75 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+6.9 Company – Range of Returned Income (AY 2022-23)
+Sum of | Average
+No. of | Returned | Returned
+Range (in INR)
+Returns | Income (in | Income (in
+Crore INR) | Lakh INR)
+- | - | -
+< 0
+= 0 | 5,99,743 | - | -
+>0 and <=1,50,000 | 1,27,924 | 573.29 | 0.45
+>150,000 and <= 2,00,000 | 14,115 | 245.26 | 1.74
+>2,00,000 and <=2,50,000 | 11,142 | 249.63 | 2.24
+>2,50,000 and <= 3,50,000 | 17,461 | 519.88 | 2.98
+>3,50,000 and <= 4,00,000 | 7,340 | 274.92 | 3.75
+6,790 | 288.13 | 4.24
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 6,095 | 289.28 | 4.75
+>5,00,000 and <= 5,50,000 | 5,600 | 293.70 | 5.24
+>5,50,000 and <= 9,50,000 | 32,835 | 2,409.78 | 7.34
+>9,50,000 and <= 10,00,000 | 3,219 | 313.92 | 9.75
+>10,00,000 and <=15,00,000 | 24,638 | 3,034.46 | 12.32
+>15,00,000 and <= 20,00,000 | 17,013 | 2,953.10 | 17.36
+12,589 | 2,818.75 | 22.39
+>20,00,000 and <= 25,00,000
+35,670 | 12,772.04 | 35.81
+>25,00,000 and <= 50,00,000
+>50,00,000 and <= 1,00,00,000 | 29,998 | 21,562.97 | 71.88
+>1,00,00,000 and <=5,00,00,000 | 42,169 | 95,597.15 | 226.70
+>5,00,00,000 and <=10,00,00,000 | 9,757 | 69,159.44 | 708.82
+>10,00,00,000 and <=25,00,00,000 | 8,204 | 1,29,540.81 | 1,579.00
+>25,00,00,000 and <=50,00,00,000 | 3,728 | 1,30,447.88 | 3,499.14
+>50,00,00,000 and <=100,00,00,000 | 2,322 | 1,60,120.75 | 6,895.81
+2,440 | 5,10,891.14 | 20,938.16
+>100,00,00,000 and <=500,00,00,000
+>500,00,00,000 | 728 | 16,06,637.40 | 2,20,691.95
+Total | 10,21,520 | 27,50,993.70
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+74
+
+===== PAGE 76 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+6.10 Company – Range of Tax Payable (AY 2022-23)
+Sum of Tax | Average Tax
+No. of
+Range (in INR) | Payable (in | Payable (in
+Returns
+Crore INR) | Lakh INR)
+< 0 | - | - | -
+5,02,935 | - | -
+= 0
+2,85,860 | 864.85 | 0.30
+>0 and <=1,50,000
+>150,000 and <= 2,00,000 | 18,822 | 327.30 | 1.74
+>2,00,000 and <=2,50,000 | 15,047 | 337.28 | 2.24
+>2,50,000 and <= 3,50,000 | 22,496 | 667.77 | 2.97
+>3,50,000 and <= 4,00,000 | 8,564 | 320.61 | 3.74
+>4,00,000 and <= 4,50,000 | 7,533 | 319.69 | 4.24
+>4,50,000 and <= 5,00,000 | 6,569 | 311.80 | 4.75
+5,919 | 310.59 | 5.25
+>5,00,000 and <= 5,50,000
+>5,50,000 and <= 9,50,000 | 31,451 | 2,286.65 | 7.27
+>9,50,000 and <= 10,00,000 | 2,672 | 260.54 | 9.75
+>10,00,000 and <=15,00,000 | 20,370 | 2,500.38 | 12.27
+>15,00,000 and <= 20,00,000 | 12,561 | 2,181.28 | 17.37
+>20,00,000 and <= 25,00,000 | 9,547 | 2,137.39 | 22.39
+>25,00,000 and <= 50,00,000 | 22,924 | 8,140.36 | 35.51
+16,854 | 11,912.33 | 70.68
+>50,00,000 and <= 1,00,00,000
+21,021 | 46,044.18 | 219.04
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 4,350 | 30,401.29 | 698.88
+>10,00,00,000 and <=25,00,00,000 | 3,201 | 49,634.87 | 1,550.61
+>25,00,00,000 and <=50,00,00,000 | 1,310 | 45,602.57 | 3,481.11
+>50,00,00,000 and <=100,00,00,000 | 746 | 51,606.59 | 6,917.77
+>100,00,00,000 and <=500,00,00,000 | 643 | 1,30,308.31 | 20,265.68
+>500,00,00,000 | 125 | 2,40,197.79 | 1,92,158.23
+10,21,520 | 6,26,674.39
+Total
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after
+giving credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for
+taxes paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+75
+
+===== PAGE 77 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+7. Type of Business
+76
+
+===== PAGE 78 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+7.1 Type of Business –Corporate and Non- corporate Taxpayers
+(AY 2022-23)
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+1 | OTHERS-Share of Income from firm only. | - | 12,80,736 | 12,80,736
+10001 | HOTELS, RESTAURANTS AND HOSPITALITY | 1,909 | 2,105 | 4,014
+SERVICES-Hotels Star rated
+10002 | HOTELS, RESTAURANTS AND HOSPITALITY | 5,797 | 24,275 | 30,072
+SERVICES-Hotels Nonstar rated
+10003 | HOTELS, RESTAURANTS AND HOSPITALITY | 243 | 1,087 | 1,330
+SERVICES-Motels, Inns and Dharmshalas
+10004 | HOTELS, RESTAURANTS AND HOSPITALITY | 416 | 3,458 | 3,874
+SERVICES-Guest houses and circuit houses
+10005 | HOTELS, RESTAURANTS AND HOSPITALITY | 80 | 720 | 800
+SERVICES-Dormitories and hostels at educational
+institutions
+10006 | HOTELS, RESTAURANTS AND HOSPITALITY | 677 | 4,161 | 4,838
+SERVICES-Short stay accommodations n.e.c.
+10007 | HOTELS, RESTAURANTS AND HOSPITALITY | 1,623 | 9,741 | 11,364
+SERVICES-Restaurants with bars
+10008 | HOTELS, RESTAURANTS AND HOSPITALITY | 3,089 | 20,940 | 24,029
+SERVICES-Restaurants without bars
+10009 | HOTELS, RESTAURANTS AND HOSPITALITY | 354 | 7,571 | 7,925
+SERVICES-Canteens
+1001 | AGRICULTURE, ANIMAL HUBANDRY AND | 1,158 | 2,534 | 3,692
+FORESTRY-Growing and manufacturing of tea
+10010 | HOTELS, RESTAURANTS AND HOSPITALITY | 418 | 9,969 | 10,387
+SERVICES-Independent caterers
+10011 | HOTELS, RESTAURANTS AND HOSPITALITY | 42 | 93 | 135
+SERVICES-Casinos and other games of chance
+10012 | HOTELS, RESTAURANTS AND HOSPITALITY | 6,035 | 15,477 | 21,512
+SERVICES-Other hospitality services n.e.c.
+1002 | AGRICULTURE, ANIMAL HUBANDRY AND | 145 | 338 | 483
+FORESTRY-Growing and manufacturing of coffee
+1003 | AGRICULTURE, ANIMAL HUBANDRY AND | 100 | 405 | 505
+FORESTRY-Growing and manufacturing of rubber
+1004 | AGRICULTURE, ANIMAL HUBANDRY AND | 337 | 1,124 | 1,461
+FORESTRY-Market gardening and horticulture
+specialties
+1005 | AGRICULTURE, ANIMAL HUBANDRY AND | 24 | 194 | 218
+FORESTRY-Raising of silk worms and production of silk
+1006 | AGRICULTURE, ANIMAL HUBANDRY AND | 70 | 293 | 363
+FORESTRY-Raising of bees and production of honey
+1007 | AGRICULTURE, ANIMAL HUBANDRY AND | 744 | 9,626 | 10,370
+FORESTRY-Raising of poultry and production of eggs
+1008 | AGRICULTURE, ANIMAL HUBANDRY AND | 32 | 364 | 396
+FORESTRY-Rearing of sheep and production of wool
+1009 | AGRICULTURE, ANIMAL HUBANDRY AND | 189 | 4,661 | 4,850
+FORESTRY-Rearing of animals and production of
+animal products
+77
+
+===== PAGE 79 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+1010 | AGRICULTURE, ANIMAL HUBANDRY AND | 7,582 | 29,447 | 37,029
+FORESTRY-Agricultural and animal husbandry services
+1011 | AGRICULTURE, ANIMAL HUBANDRY AND | 49 | 163 | 212
+FORESTRY-Soil conservation, soil testing and soil
+desalination services
+1012 | AGRICULTURE, ANIMAL HUBANDRY AND | 20 | 52 | 72
+FORESTRY-Hunting, trapping and game propagation
+services
+1013 | AGRICULTURE, ANIMAL HUBANDRY AND | 272 | 1,135 | 1,407
+FORESTRY-Growing of timber, plantation, operation of
+tree nurseries and conserving of forest
+1014 | AGRICULTURE, ANIMAL HUBANDRY AND | 5 | 259 | 264
+FORESTRY-Gathering of tendu leaves
+1015 | AGRICULTURE, ANIMAL HUBANDRY AND | 20 | 71 | 91
+FORESTRY-Gathering of other wild growing materials
+1016 | AGRICULTURE, ANIMAL HUBANDRY AND | 49 | 544 | 593
+FORESTRY-Forestry service activities, timber cruising,
+afforestation and reforestation
+1017 | AGRICULTURE, ANIMAL HUBANDRY AND | 26 | 217 | 243
+FORESTRY-Logging service activities, transport of logs
+within the forest
+1018 | AGRICULTURE, ANIMAL HUBANDRY AND | 12,172 | 28,547 | 40,719
+FORESTRY -Other agriculture, animal husbandry or
+forestry activity n.e.c
+11001 | TRANSPORT AND LOGISTICS SERVICES-Travel | 6,122 | 28,012 | 34,134
+agencies and tour operators
+11002 | TRANSPORT AND LOGISTICS SERVICES-Packers | 282 | 1,347 | 1,629
+and movers
+11003 | TRANSPORT AND LOGISTICS SERVICES-Passenger | 655 | 10,774 | 11,429
+land transport
+11004 | TRANSPORT AND LOGISTICS SERVICES-Air | 452 | 213 | 665
+transport
+11005 | TRANSPORT AND LOGISTICS SERVICES-Transport | 54 | 385 | 439
+by urban/suburban railways
+11006 | TRANSPORT AND LOGISTICS SERVICES-Inland | 95 | 247 | 342
+water transport
+11007 | TRANSPORT AND LOGISTICS SERVICES-Sea and | 409 | 307 | 716
+coastal water transport
+11008 | TRANSPORT AND LOGISTICS SERVICES-Freight | 4,317 | 82,374 | 86,691
+transport by road
+11009 | TRANSPORT AND LOGISTICS SERVICES-Freight | 78 | 372 | 450
+transport by railways
+11010 | TRANSPORT AND LOGISTICS SERVICES-Forwarding | 1,736 | 3,533 | 5,269
+of freight
+11011 | TRANSPORT AND LOGISTICS SERVICES-Receiving | 59 | 820 | 879
+and acceptance of freight
+11012 | TRANSPORT AND LOGISTICS SERVICES-Cargo | 1,305 | 2,960 | 4,265
+handling
+11013 | TRANSPORT AND LOGISTICS SERVICES-Storage | 1,636 | 3,203 | 4,839
+78
+
+===== PAGE 80 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+and warehousing
+11014 | TRANSPORT AND LOGISTICS SERVICES-Transport | 52 | 306 | 358
+via pipelines (transport of gases, liquids, slurry and other
+commodities)
+11015 | TRANSPORT AND LOGISTICS SERVICES-Other | 5,511 | 52,998 | 58,509
+Transport & Logistics services n.e.c
+12001 | POSTS AND TELECOMMUNICATION SERVICES-Post | 464 | 3,946 | 4,410
+and courier activities
+12002 | POSTS AND TELECOMMUNICATION SERVICES- | 279 | 3,764 | 4,043
+Basic telecom services
+12003 | POSTS AND TELECOMMUNICATION SERVICES- | 186 | 781 | 967
+Value added telecom services
+12004 | POSTS AND TELECOMMUNICATION SERVICES- | 309 | 640 | 949
+Maintenance of telecom network
+12005 | POSTS AND TELECOMMUNICATION SERVICES- | 464 | 4,424 | 4,888
+Activities of the cable operators
+12006 | POSTS AND TELECOMMUNICATION SERVICES- | 1,062 | 4,231 | 5,293
+Other Post & Telecommunication services n.e.c
+13001 | FINANCIAL INTERMEDIATION SERVICES-Commercial | 388 | 2,998 | 3,386
+banks, saving banks and discount houses
+13002 | FINANCIAL INTERMEDIATION SERVICES-Specialised | 318 | 618 | 936
+institutions granting credit
+13003 | FINANCIAL INTERMEDIATION SERVICES-Financial | 900 | 4,862 | 5,762
+leasing
+13004 | FINANCIAL INTERMEDIATION SERVICES-Hire- | 367 | 4,017 | 4,384
+purchase financing
+13005 | FINANCIAL INTERMEDIATION SERVICES-Housing | 190 | 1,156 | 1,346
+finance activities
+13006 | FINANCIAL INTERMEDIATION SERVICES-Commercial | 2,279 | 20,977 | 23,256
+loan activities
+13007 | FINANCIAL INTERMEDIATION SERVICES-Credit | 25 | 127 | 152
+cards
+13008 | FINANCIAL INTERMEDIATION SERVICES-Mutual | 319 | 5,066 | 5,385
+funds
+13009 | FINANCIAL INTERMEDIATION SERVICES-Chit fund | 4,220 | 1,273 | 5,493
+13010 | FINANCIAL INTERMEDIATION SERVICES-Investment | 16,746 | 1,44,763 | 1,61,509
+activities
+13011 | FINANCIAL INTERMEDIATION SERVICES-Life | 187 | 96,293 | 96,480
+insurance
+13012 | FINANCIAL INTERMEDIATION SERVICES-Pension | 9 | 243 | 252
+funding
+13013 | FINANCIAL INTERMEDIATION SERVICES-Non-life | 274 | 12,722 | 12,996
+insurance
+13014 | FINANCIAL INTERMEDIATION SERVICES- | 61 | 982 | 1,043
+Administration of financial markets
+13015 | FINANCIAL INTERMEDIATION SERVICES-Stock | 3,973 | 32,004 | 35,977
+brokers, sub-brokers and related activities
+13016 | FINANCIAL INTERMEDIATION SERVICES-Financial | 2,313 | 21,288 | 23,601
+79
+
+===== PAGE 81 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+advisers, mortgage advisers and brokers
+13017 | FINANCIAL INTERMEDIATION SERVICES-Foreign | 1,695 | 612 | 2,307
+exchange services
+13018 | FINANCIAL INTERMEDIATION SERVICES-Other | 17,516 | 1,94,330 | 2,11,846
+financial intermediation services n.e.c.
+14001 | COMPUTER AND RELATED SERVICES-Software | 26,216 | 14,266 | 40,482
+development
+14002 | COMPUTER AND RELATED SERVICES-Other | 9,642 | 13,052 | 22,694
+software consultancy
+14003 | COMPUTER AND RELATED SERVICES-Data | 989 | 2,816 | 3,805
+processing
+14004 | COMPUTER AND RELATED SERVICES-Database | 897 | 955 | 1,852
+activities and distribution of electronic content
+14005 | COMPUTER AND RELATED SERVICES-Other IT | 25,712 | 18,542 | 44,254
+enabled services
+14006 | COMPUTER AND RELATED SERVICES-BPO services | 2,199 | 1,198 | 3,397
+14007 | COMPUTER AND RELATED SERVICES-Cyber café | 20 | 2,575 | 2,595
+14008 | COMPUTER AND RELATED SERVICES-Maintenance | 442 | 3,630 | 4,072
+and repair of office, accounting and computing
+machinery
+14009 | COMPUTER AND RELATED SERVICES-Computer | 1,980 | 7,853 | 9,833
+training and educational institutes
+14010 | COMPUTER AND RELATED SERVICES-Other | 5,098 | 13,800 | 18,898
+computation related services n.e.c.
+15001 | RESEARCH AND DEVELOPMENT-Natural sciences | 275 | 201 | 476
+and engineering
+15002 | RESEARCH AND DEVELOPMENT-Social sciences and | 75 | 255 | 330
+humanities
+15003 | RESEARCH AND DEVELOPMENT-Other Research & | 1,917 | 1,258 | 3,175
+Development activities n.e.c.
+16001 | PROFESSIONS-Legal profession | 822 | 92,356 | 93,178
+16002 | PROFESSIONS-Accounting, book-keeping and auditing | 2,466 | 1,04,860 | 1,07,326
+profession
+16003 | PROFESSIONS-Tax consultancy | 1,199 | 24,828 | 26,027
+16004 | PROFESSIONS-Architectural profession | 1,131 | 15,352 | 16,483
+16005 | PROFESSIONS-Engineering and technical consultancy | 4,968 | 31,762 | 36,730
+16006 | PROFESSIONS-Advertising | 2,460 | 6,923 | 9,383
+16007 | PROFESSIONS-Fashion designing | 140 | 8,615 | 8,755
+16008 | PROFESSIONS-Interior decoration | 845 | 8,199 | 9,044
+16009 | PROFESSIONS-Photography | 323 | 11,344 | 11,667
+16010 | PROFESSIONS-Auctioneers | 21 | 96 | 117
+16011 | PROFESSIONS-Business brokerage | 583 | 45,597 | 46,180
+16012 | PROFESSIONS-Market research and public opinion | 278 | 681 | 959
+polling
+16013 | PROFESSIONS-Business and management | 7,949 | 34,812 | 42,761
+consultancy activities
+16014 | PROFESSIONS-Labour recruitment and provision of | 1,897 | 8,037 | 9,934
+80
+
+===== PAGE 82 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+personnel
+16015 | PROFESSIONS-Investigation and security activities | 994 | 2,668 | 3,662
+16016 | PROFESSIONS-Buildingcleaning and industrial | 99 | 566 | 665
+cleaning activities
+16017 | PROFESSIONS-Packaging activities | 103 | 885 | 988
+16018 | PROFESSIONS-Secretarial activities | 127 | 3,241 | 3,368
+16019 | PROFESSIONS-Other business activities n.e.c. | 12,542 | 2,59,891 | 2,72,433
+16019_1 | PROFESSIONS-Medical Profession | 513 | 53,347 | 53,860
+16020 | PROFESSIONS-Film Artist | 50 | 2,612 | 2,662
+17001 | EDUCATION SERVICES-Primary education | 732 | 13,509 | 14,241
+17002 | EDUCATION SERVICES-Secondary/senior secondary | 202 | 6,037 | 6,239
+education
+17003 | EDUCATION SERVICES-Technical and vocational | 852 | 2,505 | 3,357
+secondary/senior secondary education
+17004 | EDUCATION SERVICES-Higher education | 262 | 2,804 | 3,066
+17005 | EDUCATION SERVICES-Education by correspondence | 182 | 1,034 | 1,216
+17006 | EDUCATION SERVICES-Coaching centres and tuitions | 3,316 | 93,524 | 96,840
+17007 | EDUCATION SERVICES-Other education services | 9,099 | 45,466 | 54,565
+n.e.c.
+18001 | HEALTHCARE SERVICES-General hospitals | 2,864 | 19,199 | 22,063
+18002 | HEALTHCARE SERVICES-Speciality and super | 2,329 | 6,622 | 8,951
+speciality hospitals
+18003 | HEALTHCARE SERVICES-Nursing homes | 1,295 | 12,088 | 13,383
+18004 | HEALTHCARE SERVICES-Diagnostic centres | 1,912 | 10,113 | 12,025
+18005 | HEALTHCARE SERVICES-Pathological laboratories | 492 | 7,769 | 8,261
+18006 | HEALTHCARE SERVICES-Independent blood banks | 11 | 187 | 198
+18007 | HEALTHCARE SERVICES-Medical transcription | 114 | 970 | 1,084
+18008 | HEALTHCARE SERVICES-Independent ambulance | 52 | 258 | 310
+services
+18009 | HEALTHCARE SERVICES-Medical suppliers, agencies | 3,811 | 34,675 | 38,486
+and stores
+18010 | HEALTHCARE SERVICES-Medical clinics | 1,222 | 56,456 | 57,678
+18011 | HEALTHCARE SERVICES-Dental practice | 320 | 15,207 | 15,527
+18012 | HEALTHCARE SERVICES-Ayurveda practice | 308 | 4,242 | 4,550
+18013 | HEALTHCARE SERVICES-Unani practice | 6 | 265 | 271
+18014 | HEALTHCARE SERVICES-Homeopathy practice | 66 | 5,306 | 5,372
+18015 | HEALTHCARE SERVICES-Nurses, physiotherapists or | 216 | 4,401 | 4,617
+other paramedical practitioners
+18016 | HEALTHCARE SERVICES-Veterinary hospitals and | 46 | 716 | 762
+practice
+18017 | HEALTHCARE SERVICES-Medical Education | 1,973 | 10,033 | 12,006
+18018 | HEALTHCARE SERVICES-Medical Research | 285 | 428 | 713
+18019 | HEALTHCARE SERVICES-Practice of Alternative | 40 | 785 | 825
+Medicine
+18020 | HEALTHCARE SERVICES-Other healthcare services | 4,347 | 20,172 | 24,519
+81
+
+===== PAGE 83 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+19001 | SOCIAL AND COMMUNITY WORK-social work | 234 | 1,240 | 1,474
+activities with accommodation (orphanages and homes
+for the aged)
+19002 | SOCIAL AND COMMUNITY WORK-social work | 399 | 2,686 | 3,085
+activities without accommodation (Creches)
+19003 | SOCIAL AND COMMUNITY WORK-Industry | 136 | 512 | 648
+associations, chambers of commerce
+19004 | SOCIAL AND COMMUNITY WORK-Professional | 233 | 3,655 | 3,888
+organisations
+19005 | SOCIAL AND COMMUNITY WORK-Trade unions | 46 | 1,217 | 1,263
+19006 | SOCIAL AND COMMUNITY WORK-Religious | 72 | 3,897 | 3,969
+organizations
+19007 | SOCIAL AND COMMUNITY WORK-Political | 2 | 121 | 123
+organisations
+19008 | SOCIAL AND COMMUNITY WORK-Other membership | 163 | 2,778 | 2,941
+organisations n.e.c. (rotary clubs, book clubs and
+philatelic clubs)
+19009 | SOCIAL AND COMMUNITY WORK-Other Social or | 3,374 | 22,039 | 25,413
+community service n.e.c
+2 | OTHERS-Not Applicable | - | 19,215 | 19,215
+20001 | CULTURE AND SPORT-Motion picture production | 1,428 | 2,012 | 3,440
+20002 | CULTURE AND SPORT-Film distribution | 474 | 978 | 1,452
+20003 | CULTURE AND SPORT-Film laboratories | 56 | 123 | 179
+20004 | CULTURE AND SPORT-Television channel productions | 249 | 450 | 699
+20005 | CULTURE AND SPORT-Television channels broadcast | 485 | 744 | 1,229
+20006 | CULTURE AND SPORT-Video production and | 797 | 1,471 | 2,268
+distribution
+20007 | CULTURE AND SPORT-Sound recording studios | 147 | 610 | 757
+20008 | CULTURE AND SPORT-Radio recording and | 44 | 110 | 154
+distribution
+20009 | CULTURE AND SPORT-Stage production and related | 129 | 760 | 889
+activities
+2001 | FISH FARMING-Fishing on commercial basis in inland | 73 | 1,257 | 1,330
+waters
+20010 | CULTURE AND SPORT-Individual artists excluding | 33 | 3,298 | 3,331
+authors
+20011 | CULTURE AND SPORT-Literary activities | 30 | 1,074 | 1,104
+20012 | CULTURE AND SPORT-Other cultural activities n.e.c. | 649 | 6,984 | 7,633
+20013 | CULTURE AND SPORT-Circuses and race tracks | 6 | 25 | 31
+20014 | CULTURE AND SPORT-Video Parlours | 20 | 249 | 269
+20015 | CULTURE AND SPORT-News agency activities | 333 | 1122 | 1455
+20016 | CULTURE AND SPORT-Library and archives activities | 13 | 135 | 148
+20017 | CULTURE AND SPORT-Museum activities | 12 | 37 | 49
+20018 | CULTURE AND SPORT-Preservation of historical sites | 11 | 63 | 74
+and buildings
+20019 | CULTURE AND SPORT-Botanical and zoological | 11 | 37 | 48
+gardens
+82
+
+===== PAGE 84 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+2002 | FISH FARMING-Fishing on commercial basis in ocean | 38 | 2604 | 2642
+and coastal areas
+20020 | CULTURE AND SPORT-Operation and maintenance of | 96 | 274 | 370
+sports facilities
+20021 | CULTURE AND SPORT-Activities of sports and game | 217 | 752 | 969
+schools
+20022 | CULTURE AND SPORT-Organisation and operation of | 320 | 453 | 773
+indoor/outdoor sports and promotion and production of
+sporting events
+20023 | CULTURE AND SPORT-Other sporting activities n.e.c. | 729 | 2571 | 3300
+20023_1 | CULTURE AND SPORT- Sports Management | 83 | 216 | 299
+20024 | CULTURE AND SPORT-Other recreational activities | 701 | 3352 | 4053
+n.e.c.
+2003 | FISH FARMING-Fish farming | 312 | 6603 | 6915
+2004 | FISH FARMING-Gathering of marine materials such as | 8 | 666 | 674
+natural pearls, sponges, coral etc.
+2005 | FISH FARMING-Services related to marine and fresh | 95 | 558 | 653
+water fisheries, fish hatcheries and fish farms
+2006 | FISH FARMING-Other Fish farming activity n.e.c | 309 | 4388 | 4697
+21001 | OTHER SERVICES-Hair dressing and other beauty | 677 | 32184 | 32861
+treatment
+21002 | OTHER SERVICES-Funeral and related activities | 19 | 252 | 271
+21003 | OTHER SERVICES-Marriage bureaus | 117 | 840 | 957
+21004 | OTHER SERVICES-Pet care services | 158 | 991 | 1149
+21005 | OTHER SERVICES-Sauna and steam baths, massage | 112 | 909 | 1021
+salons etc.
+21006 | OTHER SERVICES-Astrological and spiritualists | 177 | 5574 | 5751
+activities
+21007 | OTHER SERVICES-Private households as employers of | 132 | 1099 | 1231
+domestic staff
+21008 | OTHER SERVICES-Other services n.e.c. | 232579 | 2120110 | 2352689
+21008_1 | OTHER SERVICES-Event Management | 1765 | 7538 | 9303
+22001 | OTHER SERVICES-Extra territorial organisations and | 48 | 942 | 990
+bodies (IMF, World Bank, European Commission etc.)
+23001 | ACTIVITIES OF COOPERATIVE SOCIETY- | 0 | 32484 | 32484
+Banking/Credit Facilities to its members
+23002 | ACTIVITIES OF COOPERATIVE SOCIETY-Cottage | 0 | 1513 | 1513
+Industry
+23003 | ACTIVITIES OF COOPERATIVE SOCIETY-Marketing | 0 | 2073 | 2073
+of Agricultural produce grown by its members
+23004 | ACTIVITIES OF COOPERATIVE SOCIETY-Purchase of | 0 | 3059 | 3059
+Agricultural Implements, seeds, livestock or other
+articles intended for agriculture for the purpose of
+supplying to its members.
+23005 | ACTIVITIES OF COOPERATIVE SOCIETY-Processing | 0 | 65 | 65
+, without the aid of power, of the agricultural Produce of
+its members.
+23006 | ACTIVITIES OF COOPERATIVE SOCIETY-Collective | 0 | 5122 | 5122
+83
+
+===== PAGE 85 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+disposal of Labour of its members
+23007 | ACTIVITIES OF COOPERATIVE SOCIETY-Fishing or | 0 | 194 | 194
+allied activities for the purpose of supplying to its
+members.
+23008 | ACTIVITIES OF COOPERATIVE SOCIETY-Primary | 0 | 17314 | 17314
+cooperative society engaged in supplying Milk, oilseeds,
+fruits or vegetables raised or grown by its members to
+Federal cooperative society engaged in supplying Milk,
+oilseeds, fruits or vegetables/Government or local
+authority/Government Company / corporation
+established by or under a Central, State or Provincial
+Act
+23009 | ACTIVITIES OF COOPERATIVE SOCIETY-Consumer | 0 | 1338 | 1338
+Cooperative Society Other than specified in 80P(2a) or
+80P(2b)
+23010 | ACTIVITIES OF COOPERATIVE SOCIETY-Other | 0 | 7609 | 7609
+Cooperative Society engaged in activities Other than
+specified in 80P(2a) or 80P(2b)
+23011 | ACTIVITIES OF COOPERATIVE SOCIETY- | 0 | 16618 | 16618
+Interest/Dividend from Investment in other co-operative
+society
+23012 | ACTIVITIES OF COOPERATIVE SOCIETY-Income | 0 | 251 | 251
+from Letting of godowns / warehouses for storage,
+processing / facilitating the marketing of commodities
+23013 | ACTIVITIES OF COOPERATIVE SOCIETY-Others | 0 | 21839 | 21839
+23014 | ACTIVITIES OF COOPERATIVE SOCIETY-Federal milk | 0 | 236 | 236
+co-operative society
+3001 | MINING AND QUARRYING-Mining and agglomeration | 128 | 175 | 303
+of hard coal
+3002 | MINING AND QUARRYING-Mining and agglomeration | 28 | 89 | 117
+of lignite
+3003 | MINING AND QUARRYING-Extraction and | 8 | 52 | 60
+agglomeration of peat
+3004 | MINING AND QUARRYING-Extraction of crude | 152 | 161 | 313
+petroleum and natural gas
+3005 | MINING AND QUARRYING-Service activities incidental | 292 | 289 | 581
+to oil and gas extraction excluding surveying
+3006 | MINING AND QUARRYING-Mining of uranium and | 8 | 23 | 31
+thorium ores
+3007 | MINING AND QUARRYING-Mining of iron ores | 225 | 245 | 470
+3008 | MINING AND QUARRYING-Mining of nonferrous metal | 50 | 102 | 152
+ores, except uranium and thorium ores
+3009 | MINING AND QUARRYING-Mining of gemstones | 19 | 79 | 98
+3010 | MINING AND QUARRYING-Mining of chemical and | 35 | 167 | 202
+fertilizer minerals
+3011 | MINING AND QUARRYING-Mining of quarrying of | 45 | 155 | 200
+abrasive materials
+3012 | MINING AND QUARRYING-Mining of mica, graphite | 22 | 68 | 90
+and asbestos
+84
+
+===== PAGE 86 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+3013 | MINING AND QUARRYING-Quarrying of stones | 1,074 | 5,518 | 6,592
+(marble/granite/dolomite), sand and clay
+3014 | MINING AND QUARRYING-Other mining and quarrying | 1,195 | 4,113 | 5,308
+3015 | MINING AND QUARRYING-Mining and production of | 105 | 313 | 418
+salt
+3016 | MINING AND QUARRYING-Other mining and quarrying | 1,227 | 4,604 | 5,831
+n.e.c
+4001 | MANUFACTURING-Production, processing and | 290 | 757 | 1,047
+preservation of meat and meat products
+4002 | MANUFACTURING-Production, processing and | 263 | 487 | 750
+preservation of fish and fish products
+4003 | MANUFACTURING-Manufacture of vegetable oil, | 860 | 2,299 | 3,159
+animal oil and fats
+4004 | MANUFACTURING-Processing of fruits, vegetables and | 758 | 2,631 | 3,389
+edible nuts
+4005 | MANUFACTURING-Manufacture of dairy products | 1,058 | 7,850 | 8,908
+4006 | MANUFACTURING-Manufacture of sugar | 427 | 438 | 865
+4007 | MANUFACTURING-Manufacture of cocoa, chocolates | 312 | 792 | 1,104
+and sugar confectionery
+4008 | MANUFACTURING-Flour milling | 1,031 | 3,894 | 4,925
+4009 | MANUFACTURING-Rice milling | 1,663 | 20,048 | 21,711
+4010 | MANUFACTURING-Dal milling | 285 | 3,712 | 3,997
+4011 | MANUFACTURING-Manufacture of other grain mill | 387 | 1,817 | 2,204
+products
+4012 | MANUFACTURING-Manufacture of bakery products | 965 | 5,259 | 6,224
+4013 | MANUFACTURING-Manufacture of starch products | 77 | 301 | 378
+4014 | MANUFACTURING-Manufacture of animal feeds | 704 | 2,552 | 3,256
+4015 | MANUFACTURING-Manufacture of other food products | 4,850 | 14,403 | 19,253
+4016 | MANUFACTURING-Manufacturing of wines | 190 | 124 | 314
+4017 | MANUFACTURING-Manufacture of beer | 122 | 51 | 173
+4018 | MANUFACTURING-Manufacture of malt liquors | 137 | 56 | 193
+4019 | MANUFACTURING-Distilling and blending of spirits, | 358 | 149 | 507
+production of ethyl alcohol
+4020 | MANUFACTURING-Manufacture of mineral water | 534 | 1,539 | 2,073
+4021 | MANUFACTURING-Manufacture of soft drinks | 162 | 399 | 561
+4022 | MANUFACTURING-Manufacture of other non-alcoholic | 342 | 328 | 670
+beverages
+4023 | MANUFACTURING-Manufacture of tobacco products | 350 | 1,470 | 1,820
+4024 | MANUFACTURING-Manufacture of textiles (other than | 9,527 | 85,967 | 95,494
+by handloom)
+4025 | MANUFACTURING-Manufacture of textiles using | 914 | 5,187 | 6,101
+handlooms (khadi)
+4026 | MANUFACTURING-Manufacture of carpet, rugs, | 222 | 1,123 | 1,345
+blankets, shawls etc. (other than by hand)
+4027 | MANUFACTURING-Manufacture of carpet, rugs, | 87 | 1,487 | 1,574
+blankets, shawls etc. by hand
+85
+
+===== PAGE 87 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+4028 | MANUFACTURING-Manufacture of wearing apparel | 2,238 | 19,346 | 21,584
+4029 | MANUFACTURING-Tanning and dressing of leather | 235 | 1,950 | 2,185
+4030 | MANUFACTURING-Manufacture of luggage, handbags | 251 | 1,293 | 1,544
+and the like saddler and harness
+4031 | MANUFACTURING-Manufacture of footwear | 821 | 3,567 | 4,388
+4032 | MANUFACTURING-Manufacture of wood and wood | 875 | 7,030 | 7,905
+products, cork, straw and plaiting material
+4033 | MANUFACTURING-Manufacture of paper and paper | 2,820 | 10,309 | 13,129
+products
+4034 | MANUFACTURING-Publishing, printing and | 2,029 | 8,119 | 10,148
+reproduction of recorded media
+4035 | MANUFACTURING-Manufacture of coke oven products | 135 | 225 | 360
+4036 | MANUFACTURING-Manufacture of refined petroleum | 387 | 306 | 693
+products
+4037 | MANUFACTURING-Processing of nuclear fuel | 14 | 12 | 26
+4038 | MANUFACTURING-Manufacture of fertilizers and | 1,162 | 1,069 | 2,231
+nitrogen compounds
+4039 | MANUFACTURING-Manufacture of plastics in primary | 400 | 1,704 | 2,104
+forms and of synthetic rubber
+4040 | MANUFACTURING-Manufacture of paints, varnishes | 798 | 1,619 | 2,417
+and similar coatings
+4041 | MANUFACTURING-Manufacture of pharmaceuticals, | 7,238 | 3,752 | 10,990
+medicinal chemicals and botanical products
+4042 | MANUFACTURING-Manufacture of soap and | 370 | 1,449 | 1,819
+detergents
+4043 | MANUFACTURING-Manufacture of other chemical | 4,643 | 6,508 | 11,151
+products
+4044 | MANUFACTURING-Manufacture of man-made fibers | 108 | 562 | 670
+4045 | MANUFACTURING-Manufacture of rubber products | 1,179 | 3,240 | 4,419
+4046 | MANUFACTURING-Manufacture of plastic products | 3,674 | 17,000 | 20,674
+4047 | MANUFACTURING-Manufacture of glass and glass | 403 | 1,032 | 1,435
+products
+4048 | MANUFACTURING-Manufacture of cement, lime and | 702 | 1,126 | 1,828
+plaster
+4049 | MANUFACTURING-Manufacture of articles of concrete, | 496 | 3,151 | 3,647
+cement and plaster
+4050 | MANUFACTURING-Manufacture of Bricks | 577 | 20,664 | 21,241
+4051 | MANUFACTURING-Manufacture of other clay and | 817 | 2,432 | 3,249
+ceramic products
+4052 | MANUFACTURING-Manufacture of other non-metallic | 289 | 987 | 1,276
+mineral products
+4053 | MANUFACTURING-Manufacture of pig iron, sponge | 395 | 337 | 732
+iron, Direct Reduced Iron etc.
+4054 | MANUFACTURING-Manufacture of Ferro alloys | 354 | 424 | 778
+4055 | MANUFACTURING-Manufacture of Ingots, billets, | 662 | 696 | 1,358
+blooms and slabs etc.
+4056 | MANUFACTURING-Manufacture of steel products | 4,121 | 9,691 | 13,812
+86
+
+===== PAGE 88 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+4057 | MANUFACTURING-Manufacture of basic precious and | 308 | 2,160 | 2,468
+non-ferrous metals
+4058 | MANUFACTURING-Manufacture of non-metallic mineral | 270 | 1,147 | 1,417
+products
+4059 | MANUFACTURING-Casting of metals | 1,023 | 4,132 | 5,155
+4060 | MANUFACTURING-Manufacture of fabricated metal | 2,099 | 10,358 | 12,457
+products
+4061 | MANUFACTURING-Manufacture of engines and | 216 | 372 | 588
+turbines
+4062 | MANUFACTURING-Manufacture of pumps and | 452 | 1,281 | 1,733
+compressors
+4063 | MANUFACTURING-Manufacture of bearings and gears | 310 | 790 | 1,100
+4064 | MANUFACTURING-Manufacture of ovens and furnaces | 99 | 200 | 299
+4065 | MANUFACTURING-Manufacture of lifting and handling | 386 | 647 | 1,033
+equipment
+4066 | MANUFACTURING-Manufacture of other general | 860 | 3,250 | 4,110
+purpose machinery
+4067 | MANUFACTURING-Manufacture of agricultural and | 674 | 3,308 | 3,982
+forestry machinery
+4068 | MANUFACTURING-Manufacture of Machine Tools | 2,043 | 11,292 | 13,335
+4069 | MANUFACTURING-Manufacture of machinery for | 55 | 197 | 252
+metallurgy
+4070 | MANUFACTURING-Manufacture of machinery for | 246 | 531 | 777
+mining, quarrying and constructions
+4071 | MANUFACTURING-Manufacture of machinery for | 300 | 735 | 1,035
+processing of food and beverages
+4072 | MANUFACTURING-Manufacture of machinery for | 151 | 709 | 860
+leather and textile
+4073 | MANUFACTURING-Manufacture of weapons and | 69 | 47 | 116
+ammunition
+4074 | MANUFACTURING-Manufacture of other special | 915 | 1,377 | 2,292
+purpose machinery
+4075 | MANUFACTURING-Manufacture of domestic | 407 | 1,128 | 1,535
+appliances
+4076 | MANUFACTURING-Manufacture of office, accounting | 56 | 134 | 190
+and computing machinery
+4077 | MANUFACTURING-Manufacture of electrical machinery | 2,666 | 4,347 | 7,013
+and apparatus
+4078 | MANUFACTURING-Manufacture of Radio, Television, | 308 | 230 | 538
+communication equipment and apparatus
+4079 | MANUFACTURING-Manufacture of medical and | 1,059 | 1,229 | 2,288
+surgical equipment
+4080 | MANUFACTURING-Manufacture of industrial process | 631 | 1,509 | 2,140
+control equipment
+4081 | MANUFACTURING-Manufacture of instruments and | 165 | 218 | 383
+appliances for measurements and navigation
+4082 | MANUFACTURING-Manufacture of optical instruments | 82 | 175 | 257
+4083 | MANUFACTURING-Manufacture of watches and clocks | 56 | 222 | 278
+87
+
+===== PAGE 89 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+4084 | MANUFACTURING-Manufacture of motor vehicles | 597 | 262 | 859
+4085 | MANUFACTURING-Manufacture of body of motor | 278 | 843 | 1,121
+vehicles
+4086 | MANUFACTURING-Manufacture of parts & accessories | 3,304 | 4,959 | 8,263
+of motor vehicles & engines
+4087 | MANUFACTURING-Building & repair of ships and boats | 116 | 256 | 372
+4088 | MANUFACTURING-Manufacture of railway locomotive | 144 | 145 | 289
+and rolling stocks
+4089 | MANUFACTURING-Manufacture of aircraft and | 106 | 44 | 150
+spacecraft
+4090 | MANUFACTURING-Manufacture of bicycles | 118 | 492 | 610
+4091 | MANUFACTURING-Manufacture of other transport | 140 | 203 | 343
+equipment
+4092 | MANUFACTURING-Manufacture of furniture | 1,084 | 7,809 | 8,893
+4093 | MANUFACTURING-Manufacture of jewellery | 1,738 | 31,146 | 32,884
+4094 | MANUFACTURING-Manufacture of sports goods | 126 | 614 | 740
+4095 | MANUFACTURING-Manufacture of musical instruments | 27 | 143 | 170
+4096 | MANUFACTURING-Manufacture of games and toys | 158 | 475 | 633
+4097 | MANUFACTURING-Other manufacturing n.e.c. | 61,292 | 2,51,090 | 3,12,382
+4098 | MANUFACTURING-Recycling of metal waste and scrap | 284 | 1,225 | 1,509
+4099 | MANUFACTURING-Recycling of non-metal waste and | 270 | 906 | 1,176
+scrap
+5001 | ELECTRICITY, GAS AND WATER-Production, | 5,531 | 1,529 | 7,060
+collection and distribution of electricity
+5002 | ELECTRICITY, GAS AND WATER-Manufacture and | 386 | 1,962 | 2,348
+distribution of gas
+5003 | ELECTRICITY, GAS AND WATER-Collection, | 189 | 820 | 1,009
+purification and distribution of water
+5004 | ELECTRICITY, GAS AND WATER-Other essential | 1,777 | 9,457 | 11,234
+commodity service n.e.c
+6001 | CONSTRUCTION-Site preparation works | 2,342 | 15,594 | 17,936
+6002 | CONSTRUCTION-Building of complete constructions or | 18,942 | 1,09,121 | 1,28,063
+parts civil contractors
+6003 | CONSTRUCTION-Building installation | 682 | 2,509 | 3,191
+6004 | CONSTRUCTION-Building completion | 6,219 | 23,993 | 30,212
+6005 | CONSTRUCTION-Construction and maintenance of | 5,789 | 32,408 | 38,197
+roads, rails, bridges, tunnels, ports, harbour, runways
+etc.
+6006 | CONSTRUCTION-Construction and maintenance of | 740 | 1,563 | 2,303
+power plants
+6007 | CONSTRUCTION-Construction and maintenance of | 534 | 2,894 | 3,428
+industrial plants
+6008 | CONSTRUCTION-Construction and maintenance of | 760 | 2,797 | 3,557
+power transmission and telecommunication lines
+6009 | CONSTRUCTION-Construction of water ways and | 250 | 1,954 | 2,204
+water reservoirs
+6010 | CONSTRUCTION-Other construction activity n.e.c. | 37,374 | 2,03,571 | 2,40,945
+88
+
+===== PAGE 90 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+7001 | REAL ESTATE AND RENTING SERVICES-Purchase, | 6,180 | 11,237 | 17,417
+sale and letting of leased buildings(residential and
+nonresidential)
+7002 | REAL ESTATE AND RENTING SERVICES-Operating | 3,777 | 5,881 | 9,658
+of real estate of self-owned buildings(residential and
+nonresidential)
+7003 | REAL ESTATE AND RENTING SERVICES-Developing | 9,453 | 17,640 | 27,093
+and sub-dividing real estate into lots
+7004 | REAL ESTATE AND RENTING SERVICES-Real estate | 6,228 | 17,116 | 23,344
+activities on a fee or contract basis
+7005 | REAL ESTATE AND RENTING SERVICES-Other real | 38,406 | 51,227 | 89,633
+estate/renting services n.e.c
+8001 | RENTING OF MACHINERY-Renting of land transport | 202 | 3,351 | 3,553
+equipment
+8002 | RENTING OF MACHINERY-Renting of water transport | 43 | 171 | 214
+equipment
+8003 | RENTING OF MACHINERY-Renting of air transport | 315 | 86 | 401
+equipment
+8004 | RENTING OF MACHINERY-Renting of agricultural | 49 | 1,050 | 1,099
+machinery and equipment
+8005 | RENTING OF MACHINERY-Renting of construction and | 286 | 2,786 | 3,072
+civil engineering machinery
+8006 | RENTING OF MACHINERY-Renting of office machinery | 200 | 900 | 1,100
+and equipment
+8007 | RENTING OF MACHINERY-Renting of other machinery | 472 | 3,736 | 4,208
+and equipment n.e.c.
+8008 | RENTING OF MACHINERY-Renting of personal and | 91 | 1,246 | 1,337
+household goods n.e.c.
+8009 | RENTING OF MACHINERY-Renting of other machinery | 632 | 6,418 | 7,050
+n.e.c.
+9001 | WHOLESALE AND RETAIL TRADE-Wholesale and | 4,015 | 18,828 | 22,843
+retail sale of motor vehicles
+9002 | WHOLESALE AND RETAIL TRADE-Repair and | 684 | 10,288 | 10,972
+maintenance of motor vehicles
+9003 | WHOLESALE AND RETAIL TRADE-Sale of motor parts | 1,591 | 23,351 | 24,942
+and accessories wholesale and retail
+9004 | WHOLESALE AND RETAIL TRADE-Retail sale of | 591 | 45,980 | 46,571
+automotive fuel
+9005 | WHOLESALE AND RETAIL TRADE-General | 3,344 | 4,67,066 | 4,70,410
+commission agents, commodity brokers and auctioneers
+9006 | WHOLESALE AND RETAIL TRADE-Wholesale of | 3,366 | 53,821 | 57,187
+agricultural raw material
+9007 | WHOLESALE AND RETAIL TRADE-Wholesale of food | 2,125 | 26,203 | 28,328
+& beverages and tobacco
+9008 | WHOLESALE AND RETAIL TRADE-Wholesale of | 959 | 17,141 | 18,100
+household goods
+9009 | WHOLESALE AND RETAIL TRADE-Wholesale of | 2,227 | 17,038 | 19,265
+metals and metal ores
+9010 | WHOLESALE AND RETAIL TRADE-Wholesale of | 351 | 6,632 | 6,983
+89
+
+===== PAGE 91 =====
+Income Tax Return Statistics | Assessment Year 2022-23 | Version 1.0
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+household goods
+9011 | WHOLESALE AND RETAIL TRADE-Wholesale of | 1,462 | 33,564 | 35,026
+construction material
+9012 | WHOLESALE AND RETAIL TRADE-Wholesale of | 720 | 18,282 | 19,002
+hardware and sanitary fittings
+9013 | WHOLESALE AND RETAIL TRADE-Wholesale of | 666 | 6,766 | 7,432
+cotton and jute
+9014 | WHOLESALE AND RETAIL TRADE-Wholesale of raw | 104 | 1,683 | 1,787
+wool and raw silk
+9015 | WHOLESALE AND RETAIL TRADE-Wholesale of other | 2,810 | 35,542 | 38,352
+textile fibres
+9016 | WHOLESALE AND RETAIL TRADE-Wholesale of | 1,858 | 10,413 | 12,271
+industrial chemicals
+9017 | WHOLESALE AND RETAIL TRADE-Wholesale of | 1,146 | 19,624 | 20,770
+fertilizers and pesticides
+9018 | WHOLESALE AND RETAIL TRADE-Wholesale of | 3,798 | 23,604 | 27,402
+electronic parts & equipment
+9019 | WHOLESALE AND RETAIL TRADE-Wholesale of other | 3,091 | 13,168 | 16,259
+machinery, equipment and supplies
+9020 | WHOLESALE AND RETAIL TRADE-Wholesale of | 825 | 20,356 | 21,181
+waste, scrap & materials for recycling
+9021 | WHOLESALE AND RETAIL TRADE-Retail sale of food, | 1,182 | 26,010 | 27,192
+beverages and tobacco in specialized stores
+9022 | WHOLESALE AND RETAIL TRADE-Retail sale of other | 534 | 16,365 | 16,899
+goods in specialized stores
+9023 | WHOLESALE AND RETAIL TRADE-Retail sale in non- | 716 | 41,073 | 41,789
+specialized stores
+9024 | WHOLESALE AND RETAIL TRADE-Retail sale of | 5,659 | 1,11,997 | 1,17,656
+textiles, apparel, footwear, leather goods
+9025 | WHOLESALE AND RETAIL TRADE-Retail sale of other | 776 | 18,660 | 19,436
+household appliances
+9026 | WHOLESALE AND RETAIL TRADE-Retail sale of | 472 | 34,651 | 35,123
+hardware, paint and glass
+9027 | WHOLESALE AND RETAIL TRADE-Wholesale of other | 70,131 | 8,86,639 | 9,56,770
+products n.e.c
+9028 | WHOLESALE AND RETAIL TRADE-Retail sale of other | 74,711 | 19,66,365 | 20,41,076
+products n.e.c
+TOTAL | 10,13,793 | 1,09,30,946 | 1,19,44,739
+90

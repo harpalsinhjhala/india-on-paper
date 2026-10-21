@@ -1,0 +1,3986 @@
+
+===== PAGE 1 =====
+Income Tax Department
+Income Tax Return Statistics
+Assessment Year 2019-20
+Version 1
+June 2023
+
+===== PAGE 2 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+Document Version Control
+Version Month | Remarks
+1.0 | Jun 2023
+The statistics were generated from e-filed returns (digitally signed, e-
+Verified or where ITRV has been received) captured in system up to
+st
+31 May 2021.
+1
+
+===== PAGE 3 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+Table of Contents
+Overview.............................................................................................................................4
+Objective ........................................................................................................................4
+Methodology Adopted ....................................................................................................4
+Consistency Rules..........................................................................................................4
+Status wise distribution of returns and key values ..........................................................5
+Limitations ......................................................................................................................6
+Disclaimer ......................................................................................................................6
+1. | Income Tax Returns - All Taxpayers ............................................................................7
+1.1 | All Taxpayers – Gross Total Income (AY 2019-20)..............................................8
+1.2 | All Taxpayers - Range of Salary Income (AY 2019-20) .......................................9
+1.3 | All Taxpayers - Range of House Property Income (AY 2019-20) .......................10
+1.4 | All Taxpayers - Range of Business Income (AY 2019-20) .................................11
+1.5 | All Taxpayers - Range of Long Term Capital Gains (AY 2019-20).....................12
+1.6 | All Taxpayers - Range of Short-Term Capital Gains (AY 2019-20) ....................13
+1.7 | All Taxpayers - Range of Other Sources Income (AY 2019-20).........................14
+1.8 | All Taxpayers - Range of Interest Income (AY 2019-20)....................................15
+1.9 | All Taxpayers- Range of Total Loss Set off (AY 2019-20)..................................16
+1.10 All Taxpayers - Range of Returned Income (AY 2019-20) .................................17
+1.11 All Taxpayers - Range of Tax Payable (AY 2019-20) ........................................18
+2. | Income Tax Returns – Individuals .............................................................................19
+2.1 | Individual– Range of Gross Total Income (AY 2019-20) ....................................20
+2.2 | Individual- Range of Salary Income (AY 2019-20) .............................................21
+2.3 | Individual-Range of House Property Income (AY 2019-20) ...............................22
+2.4 | Individual-Range of Business Income (AY 2019-20)..........................................23
+2.5 | Individual- Range of Long Term Capital Gains (AY 2019-20) ............................24
+2.6 | Individual-Range of Short Term Capital Gains (AY 2019-20).............................25
+2.7 | Individual- Range of Other Sources Income (AY 2019-20) ................................26
+2.8 | Individual- Range of Interest Income (AY 2019-20) ...........................................27
+2.9 | Individual-Range of Total Loss Set off (AY 2019-20) .........................................28
+2.10 Individual- Range of Returned Income (AY 2019-20) ........................................29
+2.11 Individual- Range of Tax Payable (AY 2019-20)................................................30
+3. | Income Tax Returns - HUF ........................................................................................31
+3.1 | HUF– Gross Total Income (AY 2019-20)...........................................................32
+3.2 | HUF- Range of House Property Income (AY 2019-20) ......................................33
+3.3 | HUF- Range of Business Income (AY 2019-20) ................................................34
+3.4 | HUF- Range of Long Term Capital Gains (AY 2019-20) ....................................35
+3.5 | HUF- Range of Short Term Capital Gains (AY 2019-20) ...................................36
+3.6 | HUF- Range of Other Sources Income (AY 2019-20)........................................37
+3.7 | HUF- Range of Interest Income (AY 2019-20)...................................................38
+3.8 | HUF- Range of Total Loss Set off (AY 2019-20)................................................39
+3.9 | HUF- Range of Returned Income (AY 2019-20) ................................................40
+3.10 HUF- Range of Tax Payable (AY 2019-20)........................................................41
+4. | Income Tax Returns - Firms ......................................................................................42
+2
+
+===== PAGE 4 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+4.1 | Firm – Gross Total Income (AY 2019-20) ..........................................................43
+4.2 | Firm- Range of House Property Income (AY 2019-20) ......................................44
+4.3 | Firm – Range of Business Income (AY 2019-20)...............................................45
+4.4 | Firm – Range of Long Term Capital Gains (AY 2019-20) ..................................46
+4.5 | Firm – Range of Short Term Capital Gains (AY 2019-20)..................................47
+4.6 | Firm – Range of Other Sources Income (AY 2019-20) ......................................48
+4.7 | Firm – Range of Interest Income (AY 2019-20) .................................................49
+4.8 | Firm – Range of Total Loss Set off (AY 2019-20) ..............................................50
+4.9 | Firm – Range of Returned Income (AY 2019-20) ..............................................51
+4.10 Firm – Range of Tax Payable (AY 2019-20) ......................................................52
+5. | Income Tax Returns - AOP/BOI .................................................................................53
+5.1 | AOP/BOI – Gross Total Income (AY 2019-20)...................................................54
+5.2 | AOP/BOI- Range of House Property Income (AY 2019-20)...............................55
+5.3 | AOP/BOI – Range of Business Income (AY 2019-20) .......................................56
+5.4 | AOP/BOI – Range of Long Term Capital Gains (AY 2019-20) ...........................57
+5.5 | AOP/BOI – Range of Short Term Capital Gains (AY 2019-20) ..........................58
+5.6 | AOP/BOI – Range of Other Sources Income (AY 2019-20)...............................59
+5.7 | AOP/BOI – Range of Interest Income (AY 2019-20)..........................................60
+5.8 | AOP/BOI- Range of Total Loss Set off (AY 2019-20) ........................................61
+5.9 | AOP/BOI- Range of Returned Income (AY 2019-20).........................................62
+5.10 AOP/BOI- Range of Tax Payable (AY 2019-20) ................................................63
+6. | Income Tax Returns - Company ................................................................................64
+6.1 | Company – Gross Total Income (AY 2019-20) ..................................................65
+6.2 | Company- Range of House Property Income (AY 2019-20) ..............................66
+6.3 | Company – Range of Business Income (AY 2019-20).......................................67
+6.4 | Company – Range of Long Term Capital Gains (AY 2019-20) ..........................68
+6.5 | Company – Range of Short Term Capital Gains (AY 2019-20)..........................69
+6.6 | Company – Range of Other Sources Income (AY 2019-20) ..............................70
+6.7 | Company – Range of Interest Income (AY 2019-20) .........................................71
+6.8 | Company – Range of Total Loss Set off (AY 2019-20) ......................................72
+6.9 | Company – Range of Returned Income (AY 2019-20) ......................................73
+6.10 Company – Range of Tax Payable (AY 2019-20) ..............................................74
+7. | Type of Business .......................................................................................................75
+7.1 | Type of Business –Corporate and Non- corporate Taxpayers (AY 2019-20) .....76
+3
+
+===== PAGE 5 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+Overview
+Objective
+The objective of publishing these statistics is to encourage wider use and analysis of Income-tax
+data by Departmental personnel and academicians.
+Methodology Adopted
+The methodology adopted is as under:
+i. | The template for statistics was prepared on the basis of previous statistics published by
+the Department and assessment of information available in various databases of the
+Income Tax Department.
+ii. | The statistics have been generated from e-filed returns (digitally signed, e-verified or
+where ITRV has been received) and paper returns captured in system.
+iii. | In cases where more than one return is submitted, the values in the latest return have
+been considered.
+iv. | Consistency Rules were defined (given below) to eliminate returns with inconsistent data.
+6,69,19,575 e-returns were checked against consistency rules and 6,69,14,905 returns
+meeting the consistency rules were used for statistical analysis
+v. | Certain statistics have been mentioned in lakh (100 thousand) and crore (10 million).
+vi. | Various terms used in the statistics have been defined below respective tables.
+Consistency Rules
+i. | Rule 1: Total Capital Gains in Part B TI = STCG (including negative) + LTCG (zero and
+positive only)
+ii. | Rule 2: Salary income is shown by Individual category of assesses.
+iii. | Rule 3: Gross Total Income (GTI)>=0
+iv. | Rule 4: Gross Total Income (GTI) = Salary + Income from House Property + Non-
+negative total income from Business/Profession + Non-negative total Capital Gain + Non-
+negative income from Other Sources - (Brought forward loss setoff + Current year loss
+setoff)
+v. | Rule 5: Return Income = Gross Total Income (GTI) - Deduction u/s Chapter VIA –
+Deduction u/s 10A or 10AA (wherever applicable)
+vi. | Rule 6: Tax Payable >=0
+4
+
+===== PAGE 6 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+Status wise distribution of returns and key values
+The status wise distribution of 6,69,14,905 returns selected (after applying consistency rules) for
+statistical analysis is as under:
+Individual
+6,32,26,597
+HUF | 11,87,598
+13,57,649
+Firm
+AOP/BOI | 1,08,932
+Companies | 8,85,655
+1,48,474
+Others
+Total | 6,69,14,905
+Note: Others include Trusts, Cooperative Society, LLP, Local Authority and Artificial Juridical Person.
+The status wise distribution of key values (In INR Crore) is as under:
+Individual | HUF | Firm | AOP/BOI | Companies | Others | Total
+Salary Income | 22,57,375.97 | - | - | - | 22,57,375.97
+House
+Property | 41,496.40 | 5,309.26 | 5,702.14 | 461.67 | 16,443.68 | 622.00 | 70,035.14
+Income
+Business
+11,07,201.52 | 21,592.97 | 1,38,092.20 | 15,746.35 | 15,20,027.52 | 20,117.50 | 28,22,778.06
+Income
+Long | Term
+99,910.28 | 2,811.38 | 8,265.59 | 1,712.90 | 89,240.21 | 11,619.08 | 2,13,559.45
+Capital Gains
+Short | Term
+13,499.77 | 647.39 | 11,223.94 | 4,347.04 | 41,070.05 | 4,458.01 | 75,246.21
+Capital Gains
+Other Sources
+4,24,428.14 | 23,777.43 | 8,911.77 | 5,942.88 | 2,14,905.22 | 12,755.87 | 6,90,721.31
+Income
+Total (Addition
+39,43,912.09 | 54,138.42 | 1,72,195.65 | 28,210.84 | 18,81,686.67 | 49,572.47 | 61,29,716.13
+of above)
+Total | Loss
+-29,612.05 | -567.85 | -7,368.88 | -2,356.23 | -1,84,793.81 | -13,534.38 | -2,38,233.20
+Setoff
+Gross | Total
+39,14,300.04 | 53,570.57 | 1,64,826.77 | 25,854.61 | 16,96,892.86 | 36,038.09 | 58,91,482.94
+Income
+Return Income | 33,79,451.18 | 49,383.49 | 1,58,767.28 | 24,075.91 | 15,35,226.40 | 25,591.68 | 51,72,495.93
+Aggregate Tax
+3,75,027.59 | 4,819.17 | 53,025.52 | 6,418.77 | 4,77,101.16 | 5,760.57 | 9,22,152.76
+Liability
+Note: The difference in Gross Total Income from calculated amount is on account of difference in
+representation of setoff of losses. Minor difference is also on account of rounding off of values.
+5
+
+===== PAGE 7 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+Limitations
+The statistics relating to sources of income have been prepared on the basis of values
+mentioned in e-filed returns and values captured from paper returns and the same may contain
+data entry errors on the part of the taxpayers/ return filers. Therefore, the accuracy of the
+statistics is limited by the accuracy of returns.
+Disclaimer
+Whilst the Income Tax Statistics have been prepared in good faith, it is not and does not purport
+to be comprehensive. Neither Income Tax Department, nor any of its officers or employees
+accept any liability or responsibility for the accuracy, reasonableness or completeness of, or for
+any errors, omissions or misstatements, negligent or otherwise, relating to the data or any
+representation or warranty, express or implied, with respect to the information contained in this
+Income Tax Statistics or on the data on which this Statistics is based and liability therefore is
+hereby expressly disclaimed.
+6
+
+===== PAGE 8 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+1. Income Tax Returns - All Taxpayers
+7
+
+===== PAGE 9 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+1.1 All Taxpayers – Gross Total Income (AY 2019-20)
+Sum of Gross | Average Gross
+Range | No. of Returns | Total Income | Total Income
+(in Crore INR) | (in Lakh INR)
+- | - | -
+< 0
+12,49,445 | - | -
+= 0
+38,78,929 | 28,169.88 | 0.73
+>0 and <=1,50,000
+18,54,415 | 32,862.54 | 1.77
+>150,000 and <= 2,00,000
+59,25,819 | 1,39,918.47 | 2.36
+>2,00,000 and <=2,50,000
+1,60,28,811 | 4,89,176.96 | 3.05
+>2,50,000 and <= 3,50,000
+56,86,832 | 2,12,092.97 | 3.73
+>3,50,000 and <= 4,00,000
+46,69,656 | 1,98,193.77 | 4.24
+>4,00,000 and <= 4,50,000
+42,31,842 | 2,00,878.76 | 4.75
+>4,50,000 and <= 5,00,000
+33,99,508 | 1,77,808.08 | 5.23
+>5,00,000 and <= 5,50,000
+1,23,43,067 | 8,71,248.38 | 7.06
+>5,50,000 and <= 9,50,000
+7,05,595 | 68,753.01 | 9.74
+>9,50,000 and <= 10,00,000
+36,24,210 | 4,34,138.35 | 11.98
+>10,00,000 and <=15,00,000
+12,32,931 | 2,11,633.79 | 17.17
+>15,00,000 and <= 20,00,000
+6,27,552 | 1,39,717.26 | 22.26
+>20,00,000 and <= 25,00,000
+9,58,531 | 3,23,775.21 | 33.78
+>25,00,000 and <= 50,00,000
+3,07,018 | 2,09,145.72 | 68.12
+>50,00,000 and <= 1,00,00,000
+1,57,882 | 3,02,532.84 | 191.62
+>1,00,00,000 and <=5,00,00,000
+15,956 | 1,10,902.34 | 695.05
+>5,00,00,000 and <=10,00,00,000
+9,575 | 1,47,320.59 | 1,538.60
+>10,00,00,000 and <=25,00,00,000
+3,350 | 1,16,999.81 | 3,492.53
+>25,00,00,000 and <=50,00,00,000
+1,831 | 1,27,727.76 | 6,975.85
+>50,00,00,000 and <=100,00,00,000
+1,720 | 3,51,304.67 | 20,424.69
+>100,00,00,000 and <=500,00,00,000
+430 | 9,97,181.77 | 2,31,902.74
+>500,00,00,000
+6,69,14,905 | 58,91,482.93
+Total
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within the
+value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+4. Apart from the number of taxpayers who filed return of income as above, approximately
+2.1 crore taxpayers paid taxes but did not file return for AY 2019-20.
+8
+
+===== PAGE 10 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+1.2 All Taxpayers - Range of Salary Income (AY 2019-20)
+Sum of Salary | Average Salary
+Range (in INR) | No. of Returns | Income | Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 3,46,98,462 | - | -
+>0 and <=1,50,000 | 26,76,990 | 24,416.27 | 0.91
+>150,000 and <= 2,00,000 | 16,24,710 | 29,313.09 | 1.80
+>2,00,000 and <=2,50,000 | 17,57,316 | 39,916.42 | 2.27
+>2,50,000 and <= 3,50,000 | 41,72,237 | 1,25,194.85 | 3.00
+>3,50,000 and <= 4,00,000 | 20,10,725 | 75,388.72 | 3.75
+>4,00,000 and <= 4,50,000 | 20,33,957 | 86,565.35 | 4.26
+>4,50,000 and <= 5,00,000 | 20,88,497 | 99,236.59 | 4.75
+>5,00,000 and <= 5,50,000 | 18,64,924 | 97,766.87 | 5.24
+>5,50,000 and <= 9,50,000 | 86,30,427 | 6,15,750.91 | 7.13
+>9,50,000 and <= 10,00,000 | 5,32,409 | 51,862.07 | 9.74
+>10,00,000 and <=15,00,000 | 26,72,218 | 3,19,639.74 | 11.96
+>15,00,000 and <= 20,00,000 | 8,70,639 | 1,49,487.76 | 17.17
+>20,00,000 and <= 25,00,000 | 4,49,583 | 1,00,141.99 | 22.27
+>25,00,000 and <= 50,00,000 | 6,17,830 | 2,05,517.65 | 33.26
+>50,00,000 and <= 1,00,00,000 | 1,54,965 | 1,03,141.42 | 66.56
+>1,00,00,000 and <=5,00,00,000 | 55,670 | 96,700.57 | 173.70
+>5,00,00,000 and <=10,00,00,000 | 2,380 | 15,943.46 | 669.89
+>10,00,00,000 and <=25,00,00,000 | 766 | 11,201.16 | 1,462.29
+>25,00,00,000 and <=50,00,00,000 | 147 | 4,907.87 | 3,338.69
+>50,00,00,000 and <=100,00,00,000 | 33 | 2,188.80 | 6,632.74
+>100,00,00,000 and <=500,00,00,000 | 20 | 3,094.41 | 15,472.03
+>500,00,00,000 | - | -
+Total | 6,69,14,905 | 22,57,375.97
+Notes
+1. Salary Income is the income under the head “Salaries” as computed in the return of income
+2. The “Sum of Salary Income” is the sum of Salary Income of all returns within the value range
+slab.
+3. The “Average Salary Income” is the average Salary Income within the value range slab
+i.e. “Sum of Salary Income” divided by total number of returns within the value range slab
+9
+
+===== PAGE 11 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+1.3 All Taxpayers - Range of House Property Income (AY 2019-20)
+Sum of House | Average House
+Property Income | Property Income
+Range (in INR) | No. of Returns
+(In Crore INR) | (in Lakh INR)
+< 0 | 54,71,312 | -59,761.01 | -1.09
+= 0 | 5,71,08,678 | - | -
+>0 and <=1,50,000 | 23,93,563 | 17,707.02 | 0.74
+>150,000 and <= 2,00,000 | 4,55,572 | 7,848.73 | 1.72
+>2,00,000 and <=2,50,000 | 3,26,372 | 7,256.28 | 2.22
+>2,50,000 and <= 3,50,000 | 4,31,288 | 12,683.84 | 2.94
+>3,50,000 and <= 4,00,000 | 1,19,563 | 4,472.11 | 3.74
+>4,00,000 and <= 4,50,000 | 99,865 | 4,225.09 | 4.23
+>4,50,000 and <= 5,00,000 | 71,671 | 3,397.29 | 4.74
+>5,00,000 and <= 5,50,000 | 59,065 | 3,088.92 | 5.23
+>5,50,000 and <= 9,50,000 | 2,11,832 | 14,899.18 | 7.03
+>9,50,000 and <= 10,00,000 | 11,639 | 1,134.52 | 9.75
+>10,00,000 and <=15,00,000 | 68,600 | 8,258.68 | 12.04
+>15,00,000 and <= 20,00,000 | 26,213 | 4,519.55 | 17.24
+>20,00,000 and <= 25,00,000 | 14,762 | 3,289.20 | 22.28
+>25,00,000 and <= 50,00,000 | 27,611 | 9,469.73 | 34.30
+>50,00,000 and <= 1,00,00,000 | 11,002 | 7,536.87 | 68.50
+>1,00,00,000 and <=5,00,00,000 | 5,690 | 10,436.19 | 183.41
+>5,00,00,000 and <=10,00,00,000 | 382 | 2,570.95 | 673.02
+>10,00,00,000 and <=25,00,00,000 | 160 | 2,300.73 | 1,437.96
+>25,00,00,000 and <=50,00,00,000 | 38 | 1,350.74 | 3,554.58
+>50,00,00,000 and <=100,00,00,000 | 22 | 1,564.23 | 7,110.12
+>100,00,00,000 and <=500,00,00,000 | 4 | 988.74 | 24,718.51
+>500,00,00,000 | 1 | 797.56 | 79,756.11
+Total | 6,69,14,905 | 70,035.14
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income.
+2. Loss under the head “Income from house property” is also included in the House Property
+Income (for ITR-1 and ITR-4). For other ITRs the same may be adjusted in Current Year
+Loss Adjustment or carried forward to future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e., “Sum of House Property Income” divided by total number of returns
+within the value range slab.
+10
+
+===== PAGE 12 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+1.4 All Taxpayers - Range of Business Income (AY 2019-20)
+Sum of | Average
+No. of | Business | Business
+Range (in INR)
+Returns | Income (in | Income
+Crore INR) | (in Lakh INR)
+< 0 | - | -
+= 0 | 3,81,25,387 | - | -
+>0 and <=1,50,000 | 36,52,862 | 27,475.79 | 0.75
+>150,000 and <= 2,00,000 | 15,53,601 | 27,374.45 | 1.76
+>2,00,000 and <=2,50,000 | 40,64,605 | 95,699.04 | 2.35
+>2,50,000 and <= 3,50,000 | 91,84,107 | 2,78,991.93 | 3.04
+>3,50,000 and <= 4,00,000 | 24,56,595 | 91,505.42 | 3.72
+>4,00,000 and <= 4,50,000 | 17,60,197 | 74,483.72 | 4.23
+>4,50,000 and <= 5,00,000 | 13,23,878 | 62,863.83 | 4.75
+>5,00,000 and <= 5,50,000 | 9,07,372 | 47,368.03 | 5.22
+>5,50,000 and <= 9,50,000 | 24,40,547 | 1,68,506.24 | 6.90
+>9,50,000 and <= 10,00,000 | 1,23,739 | 12,069.41 | 9.75
+>10,00,000 and <=15,00,000 | 5,88,581 | 70,707.07 | 12.01
+>15,00,000 and <= 20,00,000 | 2,22,344 | 38,205.06 | 17.18
+>20,00,000 and <= 25,00,000 | 1,17,405 | 26,204.90 | 22.32
+>25,00,000 and <= 50,00,000 | 2,07,282 | 71,950.92 | 34.71
+>50,00,000 and <= 1,00,00,000 | 95,846 | 67,429.75 | 70.35
+>1,00,00,000 and <=5,00,00,000 | 68,067 | 1,40,496.03 | 206.41
+>5,00,00,000 and <=10,00,00,000 | 10,051 | 70,521.16 | 701.63
+>10,00,00,000 and <=25,00,00,000 | 6,742 | 1,04,589.40 | 1,551.31
+>25,00,00,000 and <=50,00,00,000 | 2,599 | 90,764.41 | 3,492.28
+>50,00,00,000 and <=100,00,00,000 | 1,382 | 96,610.57 | 6,990.63
+>100,00,00,000 and <=500,00,00,000 | 1,348 | 2,74,078.95 | 20,332.27
+>500,00,00,000 | 368 | 8,84,881.97 | 2,40,457.06
+Total | 6,69,14,905 | 28,22,778.06
+Notes
+1. Business Income is the income under the head “Profits and gains of business or profession”
+as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the value
+range slab.
+3. The “Average Business Income” is the average Business Income within the value range slab
+i.e. “Sum of Business Income” divided by total number of returns within the value range slab.
+11
+
+===== PAGE 13 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+1.5 All Taxpayers - Range of Long Term Capital Gains (AY 2019-20)
+Sum of Long | Average Long
+No. of | Term Capital | Term Capital
+Range (in INR)
+Returns | Gains Income | Gains Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 6,61,13,164 | - | -
+>0 and <=1,50,000 | 4,56,874 | 1,826.96 | 0.40
+>150,000 and <= 2,00,000 | 40,060 | 698.24 | 1.74
+>2,00,000 and <=2,50,000 | 34,074 | 766.03 | 2.25
+>2,50,000 and <= 3,50,000 | 48,791 | 1,440.06 | 2.95
+>3,50,000 and <= 4,00,000 | 15,767 | 590.53 | 3.75
+>4,00,000 and <= 4,50,000 | 12,983 | 551.31 | 4.25
+>4,50,000 and <= 5,00,000 | 11,631 | 552.27 | 4.75
+>5,00,000 and <= 5,50,000 | 9,560 | 501.42 | 5.25
+>5,50,000 and <= 9,50,000 | 49,297 | 3,575.61 | 7.25
+>9,50,000 and <= 10,00,000 | 4,200 | 409.53 | 9.75
+>10,00,000 and <=15,00,000 | 29,807 | 3,656.84 | 12.27
+>15,00,000 and <= 20,00,000 | 18,022 | 3,120.44 | 17.31
+>20,00,000 and <= 25,00,000 | 12,029 | 2,688.03 | 22.35
+>25,00,000 and <= 50,00,000 | 28,137 | 9,866.98 | 35.07
+>50,00,000 and <= 1,00,00,000 | 15,042 | 10,511.07 | 69.88
+>1,00,00,000 and <=5,00,00,000 | 12,290 | 24,833.22 | 202.06
+>5,00,00,000 and <=10,00,00,000 | 1,544 | 10,768.87 | 697.47
+>10,00,00,000 and <=25,00,00,000 | 932 | 14,105.38 | 1,513.45
+>25,00,00,000 and <=50,00,00,000 | 294 | 10,085.21 | 3,430.34
+>50,00,00,000 and <=100,00,00,000 | 186 | 13,152.52 | 7,071.25
+>100,00,00,000 and <=500,00,00,000 | 181 | 37,640.64 | 20,795.93
+>500,00,00,000 | 40 | 62,218.27 | 1,55,545.67
+Total | 6,69,14,905 | 2,13,559.45
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s)as computed in the return of income under the head “Capital Gains”.
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income” divided by
+total number of returns within the value range slab.
+12
+
+===== PAGE 14 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+1.6 All Taxpayers - Range of Short-Term Capital Gains (AY 2019-20)
+Sum of Short | Average Short
+Term Capital | Term Capital
+Range (in INR) | No. of Returns
+Gains Income | Gains Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 6,57,57,874 | - | -
+>0 and <=1,50,000 | 10,12,789 | 2,477.79 | 0.24
+>150,000 and <= 2,00,000 | 28,378 | 492.68 | 1.74
+>2,00,000 and <=2,50,000 | 19,474 | 436.23 | 2.24
+>2,50,000 and <= 3,50,000 | 23,959 | 708.01 | 2.96
+>3,50,000 and <= 4,00,000 | 7,917 | 296.66 | 3.75
+>4,00,000 and <= 4,50,000 | 6,367 | 270.23 | 4.24
+>4,50,000 and <= 5,00,000 | 5,460 | 259.43 | 4.75
+>5,00,000 and <= 5,50,000 | 4,278 | 224.20 | 5.24
+>5,50,000 and <= 9,50,000 | 18,199 | 1,301.65 | 7.15
+>9,50,000 and <= 10,00,000 | 1,360 | 132.68 | 9.76
+>10,00,000 and <=15,00,000 | 8,507 | 1,033.52 | 12.15
+>15,00,000 and <= 20,00,000 | 4,187 | 722.00 | 17.24
+>20,00,000 and <= 25,00,000 | 2,508 | 560.42 | 22.35
+>25,00,000 and <= 50,00,000 | 5,636 | 1,964.62 | 34.86
+>50,00,000 and <= 1,00,00,000 | 3,245 | 2,263.83 | 69.76
+>1,00,00,000 and <=5,00,00,000 | 3,381 | 7,156.62 | 211.67
+>5,00,00,000 and <=10,00,00,000 | 585 | 4,116.10 | 703.61
+>10,00,00,000 and <=25,00,00,000 | 480 | 7,439.22 | 1,549.84
+>25,00,00,000 and <=50,00,00,000 | 152 | 5,313.53 | 3,495.75
+>50,00,00,000 and <=100,00,00,000 | 89 | 6,058.43 | 6,807.22
+>100,00,00,000 and <=500,00,00,000 | 70 | 15,235.03 | 21,764.33
+>500,00,00,000 | 10 | 16,783.33 | 1,67,833.30
+Total | 6,69,14,905 | 75,246.20
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”.
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital Gains
+Income within the value range slab i.e., “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab.
+13
+
+===== PAGE 15 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+1.7 All Taxpayers - Range of Other Sources Income (AY 2019-20)
+Sum of Other | Average Other
+Sources Income | Sources Income
+Range (in INR) | No. of Returns
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 2,53,34,780 | - | -
+>0 and <=1,50,000 | 3,24,65,031 | 93,356.69 | 0.29
+>150,000 and <= 2,00,000 | 19,60,389 | 34,105.62 | 1.74
+>2,00,000 and <=2,50,000 | 18,40,164 | 41,916.37 | 2.28
+>2,50,000 and <= 3,50,000 | 26,44,666 | 78,252.86 | 2.96
+>3,50,000 and <= 4,00,000 | 6,09,634 | 22,738.69 | 3.73
+>4,00,000 and <= 4,50,000 | 4,20,260 | 17,810.47 | 4.24
+>4,50,000 and <= 5,00,000 | 3,16,313 | 14,999.25 | 4.74
+>5,00,000 and <= 5,50,000 | 2,27,301 | 11,892.88 | 5.23
+>5,50,000 and <= 9,50,000 | 6,95,032 | 48,463.66 | 6.97
+>9,50,000 and <= 10,00,000 | 35,449 | 3,455.50 | 9.75
+>10,00,000 and <=15,00,000 | 1,82,760 | 21,886.50 | 11.98
+>15,00,000 and <= 20,00,000 | 63,699 | 10,930.38 | 17.16
+>20,00,000 and <= 25,00,000 | 31,048 | 6,906.36 | 22.24
+>25,00,000 and <= 50,00,000 | 49,069 | 16,703.54 | 34.04
+>50,00,000 and <= 1,00,00,000 | 19,127 | 13,166.44 | 68.84
+>1,00,00,000 and <=5,00,00,000 | 14,829 | 30,370.93 | 204.81
+>5,00,00,000 and <=10,00,00,000 | 2,317 | 16,156.71 | 697.31
+>10,00,00,000 and <=25,00,00,000 | 1,632 | 25,057.15 | 1,535.36
+>25,00,00,000 and <=50,00,00,000 | 643 | 22,390.38 | 3,482.17
+>50,00,00,000 and <=100,00,00,000 | 396 | 27,615.64 | 6,973.65
+>100,00,00,000 and <=500,00,00,000 | 314 | 63,000.64 | 20,063.90
+>500,00,00,000 | 52 | 69,544.64 | 1,33,739.69
+Total | 6,69,14,905 | 6,90,721.31
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income.
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab.
+14
+
+===== PAGE 16 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+1.8 All Taxpayers - Range of Interest Income (AY 2019-20)
+Sum of Interest | Average Interest
+Range (in INR) | No. of Returns | Income | Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 5,38,73,190 | - | -
+>0 and <=1,50,000 | 1,05,38,626 | 28,274.92 | 0.27
+>150,000 and <= 2,00,000 | 5,24,355 | 9,105.36 | 1.74
+>2,00,000 and <=2,50,000 | 4,08,133 | 9,180.17 | 2.25
+>2,50,000 and <= 3,50,000 | 5,24,032 | 15,468.79 | 2.95
+>3,50,000 and <= 4,00,000 | 1,65,434 | 6,184.57 | 3.74
+>4,00,000 and <= 4,50,000 | 1,27,642 | 5,411.92 | 4.24
+>4,50,000 and <= 5,00,000 | 1,02,167 | 4,844.46 | 4.74
+>5,00,000 and <= 5,50,000 | 80,810 | 4,234.64 | 5.24
+>5,50,000 and <= 9,50,000 | 3,10,410 | 21,988.66 | 7.08
+>9,50,000 and <= 10,00,000 | 18,879 | 1,840.25 | 9.75
+>10,00,000 and <=15,00,000 | 1,08,222 | 13,050.28 | 12.06
+>15,00,000 and <= 20,00,000 | 43,477 | 7,474.07 | 17.19
+>20,00,000 and <= 25,00,000 | 22,921 | 5,104.63 | 22.27
+>25,00,000 and <= 50,00,000 | 38,441 | 13,135.20 | 34.17
+>50,00,000 and <= 1,00,00,000 | 15,639 | 10,703.07 | 68.44
+>1,00,00,000 and <=5,00,00,000 | 10,117 | 19,841.45 | 196.12
+>5,00,00,000 and <=10,00,00,000 | 1,196 | 8,303.70 | 694.29
+>10,00,00,000 and <=25,00,00,000 | 714 | 10,998.79 | 1,540.45
+>25,00,00,000 and <=50,00,00,000 | 250 | 8,672.21 | 3,468.88
+>50,00,00,000 and <=100,00,00,000 | 151 | 10,344.30 | 6,850.53
+>100,00,00,000 and <=500,00,00,000 | 88 | 16,825.25 | 19,119.61
+>500,00,00,000 | 11 | 7,058.67 | 64,169.72
+Total | 6,69,14,905 | 2,38,045.37
+Notes
+1. The Interest Income is already included in the Income from Other sources.
+2. Interest Income is the Gross Interest Income in the “Income from Other Sources” Schedule
+of Return of Income. Interest Income data is compiled only for those returns where it is
+explicitly stated in the Return of Income.
+3. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+4. The “Average Interest Income” is the average Interest Income within the value range slab
+i.e. “Sum of Interest Income” divided by total number of returns within the value range slab.
+15
+
+===== PAGE 17 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+1.9 All Taxpayers- Range of Total Loss Set off (AY 2019-20)
+Sum of Total | Average Total
+Loss Set Off
+Range (in INR) | No. of Returns | Loss Set off
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 6,47,42,902 | - | -
+>0 and <=1,50,000 | 13,61,984 | 8,275.98 | 0.61
+>150,000 and <= 2,00,000 | 6,01,981 | 11,476.45 | 1.91
+>2,00,000 and <=2,50,000 | 28,353 | 628.19 | 2.22
+>2,50,000 and <= 3,50,000 | 32,522 | 962.69 | 2.96
+>3,50,000 and <= 4,00,000 | 11,550 | 432.35 | 3.74
+>4,00,000 and <= 4,50,000 | 9,572 | 406.00 | 4.24
+>4,50,000 and <= 5,00,000 | 8,240 | 391.05 | 4.75
+>5,00,000 and <= 5,50,000 | 7,103 | 372.45 | 5.24
+>5,50,000 and <= 9,50,000 | 34,473 | 2,487.49 | 7.22
+>9,50,000 and <= 10,00,000 | 2,769 | 269.90 | 9.75
+>10,00,000 and <=15,00,000 | 18,393 | 2,246.32 | 12.21
+>15,00,000 and <= 20,00,000 | 10,445 | 1,807.69 | 17.31
+>20,00,000 and <= 25,00,000 | 6,749 | 1,506.88 | 22.33
+>25,00,000 and <= 50,00,000 | 15,605 | 5,461.04 | 35.00
+>50,00,000 and <= 1,00,00,000 | 9,249 | 6,493.57 | 70.21
+>1,00,00,000 and <=5,00,00,000 | 9,287 | 19,738.68 | 212.54
+>5,00,00,000 and <=10,00,00,000 | 1,611 | 11,332.82 | 703.46
+>10,00,00,000 and <=25,00,00,000 | 1,166 | 18,146.87 | 1,556.34
+>25,00,00,000 and <=50,00,00,000 | 476 | 16,562.72 | 3,479.56
+>50,00,00,000 and <=100,00,00,000 | 243 | 16,883.22 | 6,947.83
+>100,00,00,000 and <=500,00,00,000 | 188 | 39,130.04 | 20,813.85
+>500,00,00,000 | 44 | 73,220.83 | 1,66,410.97
+Total | 6,69,14,905 | 2,38,233.20
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses set off
+against current year’s income in the “Computation of total income” Schedule of return of
+income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value range
+slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the value range
+slab.
+16
+
+===== PAGE 18 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+1.10 All Taxpayers - Range of Returned Income (AY 2019-20)
+Sum of | Average
+Returned | Returned
+Range (in INR) | No. of Returns
+Income | Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 15,98,399 | - | -
+>0 and <=1,50,000 | 43,41,498 | 33,782.94 | 0.78
+>150,000 and <= 2,00,000 | 25,68,424 | 45,660.94 | 1.78
+>2,00,000 and <=2,50,000 | 74,24,383 | 1,73,676.74 | 2.34
+>2,50,000 and <= 3,50,000 | 2,53,93,993 | 7,68,840.63 | 3.03
+>3,50,000 and <= 4,00,000 | 37,14,815 | 1,38,971.64 | 3.74
+>4,00,000 and <= 4,50,000 | 32,17,545 | 1,36,554.44 | 4.24
+>4,50,000 and <= 5,00,000 | 29,66,681 | 1,41,304.69 | 4.76
+>5,00,000 and <= 5,50,000 | 22,30,606 | 1,16,724.29 | 5.23
+>5,50,000 and <= 9,50,000 | 77,51,383 | 5,47,937.33 | 7.07
+>9,50,000 and <= 10,00,000 | 4,85,869 | 47,373.07 | 9.75
+>10,00,000 and <=15,00,000 | 24,50,543 | 2,94,346.38 | 12.01
+>15,00,000 and <= 20,00,000 | 9,54,634 | 1,64,336.94 | 17.21
+>20,00,000 and <= 25,00,000 | 5,17,685 | 1,15,347.11 | 22.28
+>25,00,000 and <= 50,00,000 | 8,38,063 | 2,85,938.24 | 34.12
+>50,00,000 and <= 1,00,00,000 | 2,77,909 | 1,91,831.59 | 69.03
+>1,00,00,000 and <=5,00,00,000 | 1,50,703 | 2,91,024.72 | 193.11
+>5,00,00,000 and <=10,00,00,000 | 15,495 | 1,07,588.87 | 694.35
+>10,00,00,000 and <=25,00,00,000 | 9,308 | 1,43,120.43 | 1,537.61
+>25,00,00,000 and <=50,00,00,000 | 3,220 | 1,12,331.02 | 3,488.54
+>50,00,00,000 and <=100,00,00,000 | 1,733 | 1,20,555.10 | 6,956.44
+>100,00,00,000 and <=500,00,00,000 | 1,626 | 3,28,498.79 | 20,202.88
+>500,00,00,000 | 390 | 8,66,750.06 | 2,22,243.60
+Total | 6,69,14,905 | 51,72,495.93
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income” schedule
+of return of income.
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the value
+range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range slab
+i.e., “Sum of Returned Income” divided by total number of returns within the value range slab.
+17
+
+===== PAGE 19 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+1.11 All Taxpayers - Range of Tax Payable (AY 2019-20)
+Sum of Tax | Average Tax
+Range (in INR) | No. of Returns | Payable | Payable
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 2,89,52,532 | - | -
+>0 and <=1,50,000 | 3,33,47,112 | 76,702.29 | 0.23
+>150,000 and <= 2,00,000 | 8,99,887 | 15,587.45 | 1.73
+>2,00,000 and <=2,50,000 | 6,16,290 | 13,780.87 | 2.24
+>2,50,000 and <= 3,50,000 | 8,06,487 | 23,849.65 | 2.96
+>3,50,000 and <= 4,00,000 | 2,81,937 | 10,549.68 | 3.74
+>4,00,000 and <= 4,50,000 | 2,30,333 | 9,770.00 | 4.24
+>4,50,000 and <= 5,00,000 | 1,90,898 | 9,054.56 | 4.74
+>5,00,000 and <= 5,50,000 | 1,61,225 | 8,454.00 | 5.24
+>5,50,000 and <= 9,50,000 | 6,82,204 | 48,612.58 | 7.13
+>9,50,000 and <= 10,00,000 | 45,128 | 4,397.63 | 9.74
+>10,00,000 and <=15,00,000 | 2,60,471 | 31,165.61 | 11.97
+>15,00,000 and <= 20,00,000 | 1,18,148 | 20,660.41 | 17.49
+>20,00,000 and <= 25,00,000 | 75,706 | 16,877.11 | 22.29
+>25,00,000 and <= 50,00,000 | 1,34,226 | 46,064.32 | 34.32
+>50,00,000 and <= 1,00,00,000 | 61,014 | 41,873.56 | 68.63
+>1,00,00,000 and <=5,00,00,000 | 41,030 | 80,782.37 | 196.89
+>5,00,00,000 and <=10,00,00,000 | 4,835 | 33,576.55 | 694.45
+>10,00,00,000 and <=25,00,00,000 | 3,061 | 46,859.96 | 1,530.87
+>25,00,00,000 and <=50,00,00,000 | 1,135 | 39,987.83 | 3,523.16
+>50,00,00,000 and <=100,00,00,000 | 637 | 44,346.83 | 6,961.83
+>100,00,00,000 and <=500,00,00,000 | 490 | 97,438.72 | 19,885.45
+>500,00,00,000 | 119 | 2,01,760.75 | 1,69,546.85
+Total | 6,69,14,905 | 9,22,152.76
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability on
+total income” schedule of return of income. Tax, surcharge, cess & interest after giving credit
+u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for taxes paid
+(Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e. “Sum
+of Tax Payable” divided by total number of returns within the value range slab.
+18
+
+===== PAGE 20 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+2. Income Tax Returns – Individuals
+19
+
+===== PAGE 21 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+2.1 Individual– Range of Gross Total Income (AY 2019-20)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns | Total Income | Total Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 2,53,681 | - | -
+>0 and <=1,50,000 | 29,48,760 | 23,607.03 | 0.80
+>150,000 and <= 2,00,000 | 17,14,443 | 30,416.98 | 1.77
+>2,00,000 and <=2,50,000 | 56,25,504 | 1,32,859.76 | 2.36
+>2,50,000 and <= 3,50,000 | 1,57,01,027 | 4,79,642.18 | 3.05
+>3,50,000 and <= 4,00,000 | 55,93,314 | 2,08,588.49 | 3.73
+>4,00,000 and <= 4,50,000 | 45,85,531 | 1,94,628.06 | 4.24
+>4,50,000 and <= 5,00,000 | 41,55,307 | 1,97,230.94 | 4.75
+>5,00,000 and <= 5,50,000 | 33,39,387 | 1,74,664.55 | 5.23
+>5,50,000 and <= 9,50,000 | 1,20,95,349 | 8,53,541.09 | 7.06
+>9,50,000 and <= 10,00,000 | 6,86,279 | 66,869.18 | 9.74
+>10,00,000 and <=15,00,000 | 35,09,475 | 4,20,255.00 | 11.97
+>15,00,000 and <= 20,00,000 | 11,77,954 | 2,02,144.89 | 17.16
+>20,00,000 and <= 25,00,000 | 5,93,896 | 1,32,200.43 | 22.26
+>25,00,000 and <= 50,00,000 | 8,79,502 | 2,95,879.50 | 33.64
+>50,00,000 and <= 1,00,00,000 | 2,52,816 | 1,70,198.09 | 67.32
+>1,00,00,000 and <=5,00,00,000 | 1,05,052 | 1,87,961.10 | 178.92
+>5,00,00,000 and <=10,00,00,000 | 5,991 | 40,570.23 | 677.19
+>10,00,00,000 and <=25,00,00,000 | 2,461 | 36,294.17 | 1,474.77
+>25,00,00,000 and <=50,00,00,000 | 530 | 18,068.29 | 3,409.11
+>50,00,00,000 and <=100,00,00,000 | 196 | 13,527.94 | 6,902.01
+>100,00,00,000 and <=500,00,00,000 | 133 | 23,415.06 | 17,605.31
+>500,00,00,000 | 9 | 11,737.11 | 1,30,412.36
+Total | 6,32,26,597 | 39,14,300.04
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+20
+
+===== PAGE 22 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+2.2 Individual- Range of Salary Income (AY 2019-20)
+Sum of Salary | Average Salary
+Range (in INR) | No. of Returns | Income | Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 3,10,10,154 | - | -
+>0 and <=1,50,000 | 26,76,990 | 24,416.27 | 0.91
+>150,000 and <= 2,00,000 | 16,24,710 | 29,313.09 | 1.80
+>2,00,000 and <=2,50,000 | 17,57,316 | 39,916.42 | 2.27
+>2,50,000 and <= 3,50,000 | 41,72,237 | 1,25,194.85 | 3.00
+>3,50,000 and <= 4,00,000 | 20,10,725 | 75,388.72 | 3.75
+>4,00,000 and <= 4,50,000 | 20,33,957 | 86,565.35 | 4.26
+>4,50,000 and <= 5,00,000 | 20,88,497 | 99,236.59 | 4.75
+>5,00,000 and <= 5,50,000 | 18,64,924 | 97,766.87 | 5.24
+>5,50,000 and <= 9,50,000 | 86,30,427 | 6,15,750.91 | 7.13
+>9,50,000 and <= 10,00,000 | 5,32,409 | 51,862.07 | 9.74
+>10,00,000 and <=15,00,000 | 26,72,218 | 3,19,639.74 | 11.96
+>15,00,000 and <= 20,00,000 | 8,70,639 | 1,49,487.76 | 17.17
+>20,00,000 and <= 25,00,000 | 4,49,583 | 1,00,141.99 | 22.27
+>25,00,000 and <= 50,00,000 | 6,17,830 | 2,05,517.65 | 33.26
+>50,00,000 and <= 1,00,00,000 | 1,54,965 | 1,03,141.42 | 66.56
+>1,00,00,000 and <=5,00,00,000 | 55,670 | 96,700.57 | 173.70
+>5,00,00,000 and <=10,00,00,000 | 2,380 | 15,943.46 | 669.89
+>10,00,00,000 and <=25,00,00,000 | 766 | 11,201.16 | 1,462.29
+>25,00,00,000 and <=50,00,00,000 | 147 | 4,907.87 | 3,338.69
+>50,00,00,000 and <=100,00,00,000 | 33 | 2,188.80 | 6,632.74
+>100,00,00,000 and <=500,00,00,000 | 20 | 3,094.41 | 15,472.03
+>500,00,00,000 | - | - | -
+Total | 6,32,26,597 | 22,57,375.97
+Notes
+1. Salary Income is the income under the head “Salaries” as computed in the return of income
+2. The “Sum of Salary Income” is the sum of Salary Income of all returns within the value range
+slab.
+3. The “Average Salary Income” is the average Salary Income within the value range slab i.e.,
+“Sum of Salary Income” divided by total number of returns within the value range slab.
+21
+
+===== PAGE 23 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+2.3 Individual-Range of House Property Income (AY 2019-20)
+Sum of House
+Average House
+No. of | Property Income
+Property Income
+Returns | (in Crore INR)
+(in Lakh INR)
+Range (in INR)
+< 0 | 54,70,990 | -59,757.81 | -1.09
+= 0 | 5,36,55,261 | - | -
+>0 and <=1,50,000 | 23,05,741 | 17,032.45 | 0.74
+>150,000 and <= 2,00,000 | 4,35,302 | 7,498.01 | 1.72
+>2,00,000 and <=2,50,000 | 3,07,627 | 6,835.74 | 2.22
+>2,50,000 and <= 3,50,000 | 4,06,756 | 11,960.34 | 2.94
+>3,50,000 and <= 4,00,000 | 1,11,626 | 4,174.80 | 3.74
+>4,00,000 and <= 4,50,000 | 92,430 | 3,910.48 | 4.23
+>4,50,000 and <= 5,00,000 | 65,958 | 3,126.38 | 4.74
+>5,00,000 and <= 5,50,000 | 53,877 | 2,817.57 | 5.23
+>5,50,000 and <= 9,50,000 | 1,89,390 | 13,299.06 | 7.02
+>9,50,000 and <= 10,00,000 | 10,238 | 997.90 | 9.75
+>10,00,000 and <=15,00,000 | 58,795 | 7,071.21 | 12.03
+>15,00,000 and <= 20,00,000 | 21,513 | 3,706.56 | 17.23
+>20,00,000 and <= 25,00,000 | 11,708 | 2,607.32 | 22.27
+>25,00,000 and <= 50,00,000 | 20,201 | 6,869.81 | 34.01
+>50,00,000 and <= 1,00,00,000 | 6,680 | 4,530.96 | 67.83
+>1,00,00,000 and <=5,00,00,000 | 2,416 | 4,087.64 | 169.19
+>5,00,00,000 and <=10,00,00,000 | 68 | 430.58 | 633.20
+>10,00,00,000 and <=25,00,00,000 | 18 | 239.76 | 1,331.99
+>25,00,00,000 and <=50,00,00,000 | 2 | 57.64 | 2,881.89
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 6,32,26,597 | 41,496.40
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House Property
+Income (for ITR-1 & ITR-4). For other ITRs the same may be adjusted in Current Year
+Loss Adjustment or carried forward for future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e., “Sum of House Property Income” divided by total number of returns
+within the value range slab
+22
+
+===== PAGE 24 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+2.4 | Individual-Range of Business Income (AY 2019-20)
+Sum of | Average
+No. of | Business | Business
+Range (in INR)
+Returns | Income | Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 3,64,47,753 | - | -
+>0 and <=1,50,000 | 28,25,922 | 23,391.97 | 0.83
+>150,000 and <= 2,00,000 | 14,30,892 | 25,229.63 | 1.76
+>2,00,000 and <=2,50,000 | 38,72,495 | 91,245.38 | 2.36
+>2,50,000 and <= 3,50,000 | 90,05,905 | 2,73,743.40 | 3.04
+>3,50,000 and <= 4,00,000 | 23,98,928 | 89,344.09 | 3.72
+>4,00,000 and <= 4,50,000 | 17,11,211 | 72,405.34 | 4.23
+>4,50,000 and <= 5,00,000 | 12,79,127 | 60,732.96 | 4.75
+>5,00,000 and <= 5,50,000 | 8,73,701 | 45,605.00 | 5.22
+>5,50,000 and <= 9,50,000 | 22,86,787 | 1,57,431.42 | 6.88
+>9,50,000 and <= 10,00,000 | 1,10,754 | 10,802.99 | 9.75
+>10,00,000 and <=15,00,000 | 5,09,541 | 61,074.90 | 11.99
+>15,00,000 and <= 20,00,000 | 1,78,111 | 30,556.99 | 17.16
+>20,00,000 and <= 25,00,000 | 88,934 | 19,839.27 | 22.31
+>25,00,000 and <= 50,00,000 | 1,36,980 | 47,109.36 | 34.39
+>50,00,000 and <= 1,00,00,000 | 46,912 | 32,293.98 | 68.84
+>1,00,00,000 and <=5,00,00,000 | 20,658 | 37,552.56 | 181.78
+>5,00,00,000 and <=10,00,00,000 | 1,273 | 8,707.12 | 683.98
+>10,00,00,000 and <=25,00,00,000 | 523 | 7,589.58 | 1,451.16
+>25,00,00,000 and <=50,00,00,000 | 124 | 4,107.65 | 3,312.62
+>50,00,00,000 and <=100,00,00,000 | 42 | 2,856.36 | 6,800.85
+>100,00,00,000 and <=500,00,00,000 | 21 | 3,780.18 | 18,000.86
+>500,00,00,000 | 3 | 1,801.42 | 60,047.37
+Total | 6,32,26,597 | 11,07,201.52
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income.
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab.
+23
+
+===== PAGE 25 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+2.5 Individual- Range of Long Term Capital Gains (AY 2019-20)
+Sum of Long | Average Long
+Term Capital | Term Capital
+Range (in INR) | No. of Returns
+Gains Income | Gains Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 6,24,78,212 | - | -
+>0 and <=1,50,000 | 4,31,010 | 1,723.42 | 0.40
+>150,000 and <= 2,00,000 | 37,956 | 661.55 | 1.74
+>2,00,000 and <=2,50,000 | 32,231 | 724.65 | 2.25
+>2,50,000 and <= 3,50,000 | 46,293 | 1,366.32 | 2.95
+>3,50,000 and <= 4,00,000 | 14,897 | 557.84 | 3.74
+>4,00,000 and <= 4,50,000 | 12,209 | 518.47 | 4.25
+>4,50,000 and <= 5,00,000 | 11,015 | 523.07 | 4.75
+>5,00,000 and <= 5,50,000 | 9,001 | 472.14 | 5.25
+>5,50,000 and <= 9,50,000 | 46,071 | 3,339.71 | 7.25
+>9,50,000 and <= 10,00,000 | 3,918 | 382.05 | 9.75
+>10,00,000 and <=15,00,000 | 27,587 | 3,384.01 | 12.27
+>15,00,000 and <= 20,00,000 | 16,472 | 2,851.30 | 17.31
+>20,00,000 and <= 25,00,000 | 10,914 | 2,438.68 | 22.34
+>25,00,000 and <= 50,00,000 | 25,091 | 8,786.57 | 35.02
+>50,00,000 and <= 1,00,00,000 | 12,680 | 8,834.36 | 69.67
+>1,00,00,000 and <=5,00,00,000 | 9,249 | 18,200.50 | 196.78
+>5,00,00,000 and <=10,00,00,000 | 985 | 6,828.86 | 693.29
+>10,00,00,000 and <=25,00,00,000 | 525 | 7,851.31 | 1,495.49
+>25,00,00,000 and <=50,00,00,000 | 140 | 4,753.15 | 3,395.11
+>50,00,00,000 and <=100,00,00,000 | 77 | 5,503.19 | 7,147.00
+>100,00,00,000 and <=500,00,00,000 | 59 | 11,125.66 | 18,857.06
+>500,00,00,000 | 5 | 9,083.47 | 1,81,669.33
+Total | 6,32,26,597 | 99,910.28
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income” divided
+by total number of returns within the value range slab
+24
+
+===== PAGE 26 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+2.6 Individual-Range of Short Term Capital Gains (AY 2019-20)
+Sum of Short | Average Short
+Term Capital | Term Capital
+Range (in INR) | No. of Returns
+Gains Income | Gains Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 6,21,77,399 | - | -
+>0 and <=1,50,000 | 9,33,253 | 2,240.89 | 0.24
+>150,000 and <= 2,00,000 | 25,021 | 434.25 | 1.74
+>2,00,000 and <=2,50,000 | 16,845 | 377.09 | 2.24
+>2,50,000 and <= 3,50,000 | 20,861 | 616.28 | 2.95
+>3,50,000 and <= 4,00,000 | 6,845 | 256.54 | 3.75
+>4,00,000 and <= 4,50,000 | 5,450 | 231.27 | 4.24
+>4,50,000 and <= 5,00,000 | 4,622 | 219.58 | 4.75
+>5,00,000 and <= 5,50,000 | 3,588 | 188.06 | 5.24
+>5,50,000 and <= 9,50,000 | 14,844 | 1,058.46 | 7.13
+>9,50,000 and <= 10,00,000 | 1,042 | 101.66 | 9.76
+>10,00,000 and <=15,00,000 | 6,444 | 781.01 | 12.12
+>15,00,000 and <= 20,00,000 | 2,911 | 500.76 | 17.20
+>20,00,000 and <= 25,00,000 | 1,617 | 360.43 | 22.29
+>25,00,000 and <= 50,00,000 | 3,289 | 1,128.08 | 34.30
+>50,00,000 and <= 1,00,00,000 | 1,486 | 1,020.45 | 68.67
+>1,00,00,000 and <=5,00,00,000 | 934 | 1,769.51 | 189.45
+>5,00,00,000 and <=10,00,00,000 | 78 | 528.22 | 677.21
+>10,00,00,000 and <=25,00,00,000 | 52 | 809.33 | 1,556.41
+>25,00,00,000 and <=50,00,00,000 | 7 | 227.82 | 3,254.56
+>50,00,00,000 and <=100,00,00,000 | 8 | 537.42 | 6,717.77
+>100,00,00,000 and <=500,00,00,000 | 1 | 112.67 | 11,266.95
+>500,00,00,000 | - | - | -
+Total | 6,32,26,597 | 13,499.77
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital Gains
+Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab
+25
+
+===== PAGE 27 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+2.7 Individual- Range of Other Sources Income (AY 2019-20)
+Sum of Other | Average Other
+No. of
+Range (in INR) | Sources Income | Sources Income
+Returns
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 2,31,06,196 | - | -
+>0 and <=1,50,000 | 3,16,54,662 | 90,168.56 | 0.28
+>150,000 and <= 2,00,000 | 18,65,520 | 32,448.47 | 1.74
+>2,00,000 and <=2,50,000 | 17,06,467 | 38,821.67 | 2.27
+>2,50,000 and <= 3,50,000 | 25,06,206 | 74,211.46 | 2.96
+>3,50,000 and <= 4,00,000 | 5,70,134 | 21,259.88 | 3.73
+>4,00,000 and <= 4,50,000 | 3,87,557 | 16,424.58 | 4.24
+>4,50,000 and <= 5,00,000 | 2,88,302 | 13,666.60 | 4.74
+>5,00,000 and <= 5,50,000 | 2,05,736 | 10,765.17 | 5.23
+>5,50,000 and <= 9,50,000 | 6,16,269 | 42,890.09 | 6.96
+>9,50,000 and <= 10,00,000 | 30,211 | 2,944.57 | 9.75
+>10,00,000 and <=15,00,000 | 1,54,347 | 18,480.89 | 11.97
+>15,00,000 and <= 20,00,000 | 52,838 | 9,060.22 | 17.15
+>20,00,000 and <= 25,00,000 | 25,079 | 5,575.40 | 22.23
+>25,00,000 and <= 50,00,000 | 37,270 | 12,584.47 | 33.77
+>50,00,000 and <= 1,00,00,000 | 12,197 | 8,273.55 | 67.83
+>1,00,00,000 and <=5,00,00,000 | 6,726 | 12,665.51 | 188.31
+>5,00,00,000 and <=10,00,00,000 | 528 | 3,582.97 | 678.59
+>10,00,00,000 and <=25,00,00,000 | 255 | 3,776.84 | 1,481.11
+>25,00,00,000 and <=50,00,00,000 | 61 | 2,083.31 | 3,415.26
+>50,00,00,000 and <=100,00,00,000 | 20 | 1,483.07 | 7,415.36
+>100,00,00,000 and <=500,00,00,000 | 15 | 2,553.98 | 17,026.56
+>500,00,00,000 | 1 | 706.87 | 70,686.61
+Total | 6,32,26,597 | 4,24,428.14
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab
+26
+
+===== PAGE 28 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+2.8 Individual- Range of Interest Income (AY 2019-20)
+Sum of
+Average
+No. of | Interest
+Range (in INR) | Interest Income
+Returns | Income
+(in Lakh INR)
+(in Crore INR)
+< 0 | - | - | -
+= 0 | 5,13,46,258 | - | -
+>0 and <=1,50,000 | 98,34,581 | 25,685.61 | 0.26
+>150,000 and <= 2,00,000 | 4,51,050 | 7,826.89 | 1.74
+>2,00,000 and <=2,50,000 | 3,30,075 | 7,400.26 | 2.24
+>2,50,000 and <= 3,50,000 | 4,30,785 | 12,725.08 | 2.95
+>3,50,000 and <= 4,00,000 | 1,36,425 | 5,099.49 | 3.74
+>4,00,000 and <= 4,50,000 | 1,04,233 | 4,419.09 | 4.24
+>4,50,000 and <= 5,00,000 | 83,045 | 3,936.93 | 4.74
+>5,00,000 and <= 5,50,000 | 65,717 | 3,443.94 | 5.24
+>5,50,000 and <= 9,50,000 | 2,50,475 | 17,725.56 | 7.08
+>9,50,000 and <= 10,00,000 | 14,982 | 1,460.30 | 9.75
+>10,00,000 and <=15,00,000 | 85,241 | 10,279.39 | 12.06
+>15,00,000 and <= 20,00,000 | 33,853 | 5,817.35 | 17.18
+>20,00,000 and <= 25,00,000 | 17,480 | 3,891.18 | 22.26
+>25,00,000 and <= 50,00,000 | 27,907 | 9,471.89 | 33.94
+>50,00,000 and <= 1,00,00,000 | 9,857 | 6,648.35 | 67.45
+>1,00,00,000 and <=5,00,00,000 | 4,306 | 7,637.08 | 177.36
+>5,00,00,000 and <=10,00,00,000 | 233 | 1,530.65 | 656.93
+>10,00,00,000 and <=25,00,00,000 | 76 | 1,145.86 | 1,507.71
+>25,00,00,000 and <=50,00,00,000 | 14 | 400.41 | 2,860.09
+>50,00,00,000 and <=100,00,00,000 | 2 | 151.90 | 7,595.16
+>100,00,00,000 and <=500,00,00,000 | 2 | 308.39 | 15,419.73
+>500,00,00,000 | - | - | -
+Total | 6,32,26,597 | 1,37,005.60
+Notes
+1. The Interest Income is already included in the Income from other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+4. The “Average Interest Income” is the average Interest Income within the value range slab
+i.e., “Sum of Interest Income” divided by total number of returns within the value range
+slab.
+27
+
+===== PAGE 29 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+2.9 Individual-Range of Total Loss Set off (AY 2019-20)
+Sum of Total | Average Total
+Range (in INR) | No. of Returns | Loss Set Off | Loss Set off
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 6,13,67,363 | - | -
+>0 and <=1,50,000 | 11,87,222 | 7,605.85 | 0.64
+>150,000 and <= 2,00,000 | 5,87,068 | 11,215.50 | 1.91
+>2,00,000 and <=2,50,000 | 17,617 | 387.63 | 2.20
+>2,50,000 and <= 3,50,000 | 16,966 | 501.08 | 2.95
+>3,50,000 and <= 4,00,000 | 5,590 | 209.16 | 3.74
+>4,00,000 and <= 4,50,000 | 4,508 | 191.16 | 4.24
+>4,50,000 and <= 5,00,000 | 3,864 | 183.43 | 4.75
+>5,00,000 and <= 5,50,000 | 3,201 | 167.86 | 5.24
+>5,50,000 and <= 9,50,000 | 14,152 | 1,013.51 | 7.16
+>9,50,000 and <= 10,00,000 | 1,050 | 102.40 | 9.75
+>10,00,000 and <=15,00,000 | 6,426 | 781.80 | 12.17
+>15,00,000 and <= 20,00,000 | 3,275 | 563.46 | 17.20
+>20,00,000 and <= 25,00,000 | 1,873 | 417.62 | 22.30
+>25,00,000 and <= 50,00,000 | 3,706 | 1,280.07 | 34.54
+>50,00,000 and <= 1,00,00,000 | 1,631 | 1,121.21 | 68.74
+>1,00,00,000 and <=5,00,00,000 | 971 | 1,808.50 | 186.25
+>5,00,00,000 and <=10,00,00,000 | 76 | 526.25 | 692.44
+>10,00,00,000 and <=25,00,00,000 | 29 | 412.51 | 1,422.43
+>25,00,00,000 and <=50,00,00,000 | 5 | 203.66 | 4,073.12
+>50,00,00,000 and <=100,00,00,000 | 2 | 136.98 | 6,849.14
+>100,00,00,000 and <=500,00,00,000 | 2 | 782.42 | 39,121.00
+>500,00,00,000 | - | - | -
+Total | 6,32,26,597 | 29,612.05
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses set
+off against current year’s income in the “Computation of total income” Schedule of return
+of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value range
+slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the value
+range slab
+28
+
+===== PAGE 30 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+2.10 Individual- Range of Returned Income (AY 2019-20)
+Sum of
+Average Returned
+Returned
+Range (in INR) | No. of Returns | Income
+Income
+(in Lakh INR)
+(in Crore INR)
+< 0 | - | - | -
+= 0 | 5,17,644 | - | -
+>0 and <=1,50,000 | 34,47,596 | 29,218.06 | 0.85
+>150,000 and <= 2,00,000 | 24,23,718 | 43,128.70 | 1.78
+>2,00,000 and <=2,50,000 | 70,69,545 | 1,65,299.23 | 2.34
+>2,50,000 and <= 3,50,000 | 2,50,83,236 | 7,59,729.83 | 3.03
+>3,50,000 and <= 4,00,000 | 36,30,806 | 1,35,830.24 | 3.74
+>4,00,000 and <= 4,50,000 | 31,42,822 | 1,33,380.44 | 4.24
+>4,50,000 and <= 5,00,000 | 28,88,808 | 1,37,580.66 | 4.76
+>5,00,000 and <= 5,50,000 | 21,75,885 | 1,13,862.12 | 5.23
+>5,50,000 and <= 9,50,000 | 75,39,044 | 5,32,683.79 | 7.07
+>9,50,000 and <= 10,00,000 | 4,67,079 | 45,538.93 | 9.75
+>10,00,000 and <=15,00,000 | 23,51,676 | 2,82,361.25 | 12.01
+>15,00,000 and <= 20,00,000 | 9,04,212 | 1,55,625.25 | 17.21
+>20,00,000 and <= 25,00,000 | 4,86,234 | 1,08,319.10 | 22.28
+>25,00,000 and <= 50,00,000 | 7,62,895 | 2,59,361.19 | 34.00
+>50,00,000 and <= 1,00,00,000 | 2,26,027 | 1,54,465.02 | 68.34
+>1,00,00,000 and <=5,00,00,000 | 1,00,174 | 1,81,137.62 | 180.82
+>5,00,00,000 and <=10,00,00,000 | 5,906 | 40,030.99 | 677.80
+>10,00,00,000 and <=25,00,00,000 | 2,433 | 35,918.10 | 1,476.29
+>25,00,00,000 and <=50,00,00,000 | 519 | 17,653.27 | 3,401.40
+>50,00,00,000 and <=100,00,00,000 | 198 | 13,684.95 | 6,911.59
+>100,00,00,000 and <=500,00,00,000 | 132 | 23,557.97 | 17,846.95
+>500,00,00,000 | 8 | 11,084.45 | 1,38,555.64
+Total | 6,32,26,597 | 33,79,451.18
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income” schedule of
+return of income.
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the value range
+slab.
+3. The “Average Returned Income” is the average Returned Income within the value range slab i.e.
+“Sum of Returned Income” divided by total number of returns within the value range slab.
+29
+
+===== PAGE 31 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+2.11 Individual- Range of Tax Payable (AY 2019-20)
+Sum of Tax | Average Tax
+Range (in INR) | No. of Returns | Payable (In | Payable (in Lakh
+Crore INR) | INR)
+< 0 | - | - | -
+= 0 | 27,475,533 | - | -
+>0 and <=1,50,000 | 31,658,558 | 72,090.87 | 0.23
+>150,000 and <= 2,00,000 | 827,691 | 14,335.52 | 1.73
+>2,00,000 and <=2,50,000 | 564,222 | 12,616.43 | 2.24
+>2,50,000 and <= 3,50,000 | 734,226 | 21,709.30 | 2.96
+>3,50,000 and <= 4,00,000 | 256,035 | 9,579.82 | 3.74
+>4,00,000 and <= 4,50,000 | 209,330 | 8,878.93 | 4.24
+>4,50,000 and <= 5,00,000 | 172,760 | 8,193.64 | 4.74
+>5,00,000 and <= 5,50,000 | 145,899 | 7,650.29 | 5.24
+>5,50,000 and <= 9,50,000 | 609,369 | 43,353.42 | 7.11
+>9,50,000 and <= 10,00,000 | 39,246 | 3,824.21 | 9.74
+>10,00,000 and <=15,00,000 | 219,663 | 26,168.60 | 11.91
+>15,00,000 and <= 20,00,000 | 94,769 | 16,611.33 | 17.53
+>20,00,000 and <= 25,00,000 | 60,076 | 13,377.40 | 22.27
+>25,00,000 and <= 50,00,000 | 100,475 | 34,265.50 | 34.10
+>50,00,000 and <= 1,00,00,000 | 38,926 | 26,379.79 | 67.77
+>1,00,00,000 and <=5,00,00,000 | 18,179 | 32,698.80 | 179.87
+>5,00,00,000 and <=10,00,00,000 | 1,052 | 7,158.79 | 680.49
+>10,00,00,000 and <=25,00,00,000 | 429 | 6,394.46 | 1,490.55
+>25,00,00,000 and <=50,00,00,000 | 104 | 3,556.97 | 3,420.17
+>50,00,00,000 and <=100,00,00,000 | 43 | 2,931.98 | 6,818.55
+>100,00,00,000 and <=500,00,00,000 | 11 | 1,678.04 | 15,254.89
+>500,00,00,000 | 1 | 1,573.49 | 157,349.47
+Total | 63,226,597 | 375,027.59
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability on total
+income” schedule of return of income. Tax, surcharge, cess & interest after giving credit u/s 115JAA
+and relief u/s 89/90/90A/91 but before giving credit for taxes paid (advance tax/TDS/TCS/Self-
+Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e., “Sum of Tax
+Payable” divided by total number of returns within the value range slab.
+30
+
+===== PAGE 32 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+3.Income Tax Returns - HUF
+31
+
+===== PAGE 33 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+3.1 HUF– Gross Total Income (AY 2019-20)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns | Total Income | Total Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 15,622 | - | -
+>0 and <=1,50,000 | 1,83,277 | 1,182.21 | 0.65
+>150,000 and <= 2,00,000 | 66,593 | 1,173.05 | 1.76
+>2,00,000 and <=2,50,000 | 2,39,624 | 5,692.91 | 2.38
+>2,50,000 and <= 3,50,000 | 2,44,740 | 7,070.22 | 2.89
+>3,50,000 and <= 4,00,000 | 62,748 | 2,352.99 | 3.75
+>4,00,000 and <= 4,50,000 | 56,818 | 2,407.36 | 4.24
+>4,50,000 and <= 5,00,000 | 51,931 | 2,479.24 | 4.77
+>5,00,000 and <= 5,50,000 | 39,115 | 2,042.57 | 5.22
+>5,50,000 and <= 9,50,000 | 1,38,132 | 9,743.18 | 7.05
+>9,50,000 and <= 10,00,000 | 9,430 | 919.96 | 9.76
+>10,00,000 and <=15,00,000 | 47,008 | 5,588.05 | 11.89
+>15,00,000 and <= 20,00,000 | 13,750 | 2,354.47 | 17.12
+>20,00,000 and <= 25,00,000 | 6,022 | 1,336.81 | 22.20
+>25,00,000 and <= 50,00,000 | 8,663 | 2,959.42 | 34.16
+>50,00,000 and <= 1,00,00,000 | 2,735 | 1,875.11 | 68.56
+>1,00,00,000 and <=5,00,00,000 | 1,246 | 2,266.49 | 181.90
+>5,00,00,000 and <=10,00,00,000 | 83 | 553.99 | 667.46
+>10,00,00,000 and <=25,00,00,000 | 42 | 626.30 | 1,491.19
+>25,00,00,000 and <=50,00,00,000 | 14 | 508.52 | 3,632.30
+>50,00,00,000 and <=100,00,00,000 | 4 | 266.96 | 6,674.02
+>100,00,00,000 and <=500,00,00,000 | 1 | 170.78 | 17,077.71
+>500,00,00,000 | - | - | -
+Total | 11,87,598 | 53,570.57
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+32
+
+===== PAGE 34 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+3.2 HUF- Range of House Property Income (AY 2019-20)
+Sum of House | Average House
+No. of
+Property Income | Property Income
+Returns
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | 256 | -2.67 | -1.04
+= 0 | 10,29,987 | - | -
+>0 and <=1,50,000 | 69,444 | 544.63 | 0.78
+>150,000 and <= 2,00,000 | 16,290 | 281.58 | 1.73
+>2,00,000 and <=2,50,000 | 15,092 | 339.16 | 2.25
+>2,50,000 and <= 3,50,000 | 18,320 | 538.55 | 2.94
+>3,50,000 and <= 4,00,000 | 5,564 | 208.37 | 3.74
+>4,00,000 and <= 4,50,000 | 4,962 | 209.95 | 4.23
+>4,50,000 and <= 5,00,000 | 3,787 | 179.58 | 4.74
+>5,00,000 and <= 5,50,000 | 3,288 | 172.01 | 5.23
+>5,50,000 and <= 9,50,000 | 12,535 | 883.27 | 7.05
+>9,50,000 and <= 10,00,000 | 655 | 63.86 | 9.75
+>10,00,000 and <=15,00,000 | 3,870 | 462.20 | 11.94
+>15,00,000 and <= 20,00,000 | 1,265 | 217.54 | 17.20
+>20,00,000 and <= 25,00,000 | 629 | 139.59 | 22.19
+>25,00,000 and <= 50,00,000 | 1,103 | 373.02 | 33.82
+>50,00,000 and <= 1,00,00,000 | 381 | 261.52 | 68.64
+>1,00,00,000 and <=5,00,00,000 | 153 | 279.59 | 182.74
+>5,00,00,000 and <=10,00,00,000 | 13 | 87.09 | 669.91
+>10,00,00,000 and <=25,00,00,000 | 3 | 43.63 | 1,454.38
+>25,00,00,000 and <=50,00,00,000 | 1 | 26.79 | 2,679.34
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 11,87,598 | 5,309.26
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House Property
+Income (for ITR-1 & ITR-4). For other ITRs the same may be adjusted in Current Year
+Loss Adjustment or carried forward to future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e. “Sum of House Property Income” divided by total number of returns
+within the value range slab.
+33
+
+===== PAGE 35 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+3.3 HUF- Range of Business Income (AY 2019-20)
+Sum of Business | Average
+No. of | Income | Business
+Returns | (in Crore INR) | Income
+Range (in INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 6,51,309 | - | -
+>0 and <=1,50,000 | 86,482 | 753.86 | 0.87
+>150,000 and <= 2,00,000 | 51,872 | 916.81 | 1.77
+>2,00,000 and <=2,50,000 | 1,36,534 | 3,207.19 | 2.35
+>2,50,000 and <= 3,50,000 | 99,211 | 2,903.91 | 2.93
+>3,50,000 and <= 4,00,000 | 27,879 | 1,046.63 | 3.75
+>4,00,000 and <= 4,50,000 | 22,704 | 963.57 | 4.24
+>4,50,000 and <= 5,00,000 | 21,296 | 1,017.23 | 4.78
+>5,00,000 and <= 5,50,000 | 13,536 | 707.87 | 5.23
+>5,50,000 and <= 9,50,000 | 47,968 | 3,383.69 | 7.05
+>9,50,000 and <= 10,00,000 | 3,538 | 345.41 | 9.76
+>10,00,000 and <=15,00,000 | 13,824 | 1,643.57 | 11.89
+>15,00,000 and <= 20,00,000 | 4,659 | 798.40 | 17.14
+>20,00,000 and <= 25,00,000 | 1,961 | 436.85 | 22.28
+>25,00,000 and <= 50,00,000 | 3,277 | 1,135.31 | 34.64
+>50,00,000 and <= 1,00,00,000 | 1,072 | 747.87 | 69.76
+>1,00,00,000 and <=5,00,00,000 | 425 | 761.42 | 179.16
+>5,00,00,000 and <=10,00,00,000 | 25 | 162.12 | 648.47
+>10,00,00,000 and <=25,00,00,000 | 19 | 259.07 | 1,363.50
+>25,00,00,000 and <=50,00,00,000 | 5 | 174.72 | 3,494.48
+>50,00,00,000 and <=100,00,00,000 | 1 | 58.97 | 5,897.42
+>100,00,00,000 and <=500,00,00,000 | 1 | 168.50 | 16,849.86
+>500,00,00,000 | - | - | -
+Total | 11,87,598 | 21,592.97
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab.
+34
+
+===== PAGE 36 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+3.4 HUF- Range of Long Term Capital Gains (AY 2019-20)
+Sum of Long | Average Long
+Term Capital | Term Capital
+Range (in INR) | No. of Returns
+Gains Income | Gains Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 11,56,191 | - | -
+>0 and <=1,50,000 | 20,371 | 76.71 | 0.38
+>150,000 and <= 2,00,000 | 1,461 | 25.43 | 1.74
+>2,00,000 and <=2,50,000 | 1,258 | 28.29 | 2.25
+>2,50,000 and <= 3,50,000 | 1,618 | 47.59 | 2.94
+>3,50,000 and <= 4,00,000 | 522 | 19.61 | 3.76
+>4,00,000 and <= 4,50,000 | 428 | 18.14 | 4.24
+>4,50,000 and <= 5,00,000 | 336 | 15.94 | 4.74
+>5,00,000 and <= 5,50,000 | 287 | 15.02 | 5.23
+>5,50,000 and <= 9,50,000 | 1,484 | 107.85 | 7.27
+>9,50,000 and <= 10,00,000 | 113 | 11.02 | 9.75
+>10,00,000 and <=15,00,000 | 918 | 111.72 | 12.17
+>15,00,000 and <= 20,00,000 | 571 | 99.25 | 17.38
+>20,00,000 and <= 25,00,000 | 352 | 78.70 | 22.36
+>25,00,000 and <= 50,00,000 | 858 | 296.90 | 34.60
+>50,00,000 and <= 1,00,00,000 | 447 | 311.16 | 69.61
+>1,00,00,000 and <=5,00,00,000 | 324 | 639.77 | 197.46
+>5,00,00,000 and <=10,00,00,000 | 33 | 215.62 | 653.40
+>10,00,00,000 and <=25,00,00,000 | 18 | 298.18 | 1,656.57
+>25,00,00,000 and <=50,00,00,000 | 4 | 159.00 | 3,975.12
+>50,00,00,000 and <=100,00,00,000 | 4 | 235.47 | 5,886.84
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 11,87,598 | 2,811.38
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital asset(s)
+as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income” divided by
+total number of returns within the value range slab
+35
+
+===== PAGE 37 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+3.5 HUF- Range of Short Term Capital Gains (AY 2019-20)
+Sum of Short | Average Short
+No. of | Term Capital | Term Capital
+Returns | Gains Income | Gains Income
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 11,16,021 | - | -
+>0 and <=1,50,000 | 63,893 | 169.83 | 0.27
+>150,000 and <= 2,00,000 | 1,852 | 32.15 | 1.74
+>2,00,000 and <=2,50,000 | 1,437 | 32.43 | 2.26
+>2,50,000 and <= 3,50,000 | 1,328 | 39.14 | 2.95
+>3,50,000 and <= 4,00,000 | 433 | 16.19 | 3.74
+>4,00,000 and <= 4,50,000 | 337 | 14.31 | 4.25
+>4,50,000 and <= 5,00,000 | 299 | 14.24 | 4.76
+>5,00,000 and <= 5,50,000 | 234 | 12.23 | 5.23
+>5,50,000 and <= 9,50,000 | 909 | 64.76 | 7.12
+>9,50,000 and <= 10,00,000 | 74 | 7.25 | 9.80
+>10,00,000 and <=15,00,000 | 328 | 39.47 | 12.03
+>15,00,000 and <= 20,00,000 | 147 | 25.34 | 17.24
+>20,00,000 and <= 25,00,000 | 70 | 15.70 | 22.43
+>25,00,000 and <= 50,00,000 | 141 | 48.69 | 34.53
+>50,00,000 and <= 1,00,00,000 | 58 | 40.66 | 70.10
+>1,00,00,000 and <=5,00,00,000 | 36 | 67.81 | 188.35
+>5,00,00,000 and <=10,00,00,000 | 1 | 7.20 | 719.78
+>10,00,00,000 and <=25,00,00,000 | - | - | -
+>25,00,00,000 and <=50,00,00,000 | - | - | -
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 11,87,598 | 647.39
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital Gains
+Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab
+36
+
+===== PAGE 38 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+3.6 HUF- Range of Other Sources Income (AY 2019-20)
+Sum of Other | Average Other
+No. of
+Sources Income | Sources Income
+Returns
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 1,25,733 | - | -
+>0 and <=1,50,000 | 5,55,979 | 2,316.82 | 0.42
+>150,000 and <= 2,00,000 | 77,330 | 1,352.14 | 1.75
+>2,00,000 and <=2,50,000 | 1,17,955 | 2,737.89 | 2.32
+>2,50,000 and <= 3,50,000 | 1,19,784 | 3,488.40 | 2.91
+>3,50,000 and <= 4,00,000 | 32,871 | 1,230.82 | 3.74
+>4,00,000 and <= 4,50,000 | 27,067 | 1,146.62 | 4.24
+>4,50,000 and <= 5,00,000 | 23,105 | 1,099.68 | 4.76
+>5,00,000 and <= 5,50,000 | 17,504 | 914.75 | 5.23
+>5,50,000 and <= 9,50,000 | 59,298 | 4,166.81 | 7.03
+>9,50,000 and <= 10,00,000 | 3,650 | 356.03 | 9.75
+>10,00,000 and <=15,00,000 | 17,794 | 2,108.62 | 11.85
+>15,00,000 and <= 20,00,000 | 4,752 | 812.14 | 17.09
+>20,00,000 and <= 25,00,000 | 1,816 | 401.75 | 22.12
+>25,00,000 and <= 50,00,000 | 2,204 | 733.35 | 33.27
+>50,00,000 and <= 1,00,00,000 | 535 | 363.67 | 67.98
+>1,00,00,000 and <=5,00,00,000 | 202 | 331.00 | 163.86
+>5,00,00,000 and <=10,00,00,000 | 13 | 85.85 | 660.35
+>10,00,00,000 and <=25,00,00,000 | 4 | 64.36 | 1,609.10
+>25,00,00,000 and <=50,00,00,000 | 2 | 66.71 | 3,335.38
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 11,87,598 | 23,777.43
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab.
+37
+
+===== PAGE 39 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+3.7 HUF- Range of Interest Income (AY 2019-20)
+Sum of | Average
+No. of | Interest | Interest
+Returns | Income (in | Income (in
+Range (in INR) | Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 3,86,229 | - | -
+>0 and <=1,50,000 | 4,71,021 | 1,777.11 | 0.38
+>150,000 and <= 2,00,000 | 56,780 | 991.27 | 1.75
+>2,00,000 and <=2,50,000 | 64,160 | 1,466.10 | 2.29
+>2,50,000 and <= 3,50,000 | 76,021 | 2,233.42 | 2.94
+>3,50,000 and <= 4,00,000 | 22,873 | 855.51 | 3.74
+>4,00,000 and <= 4,50,000 | 18,210 | 772.19 | 4.24
+>4,50,000 and <= 5,00,000 | 14,752 | 700.22 | 4.75
+>5,00,000 and <= 5,50,000 | 11,360 | 594.85 | 5.24
+>5,50,000 and <= 9,50,000 | 41,874 | 2,958.01 | 7.06
+>9,50,000 and <= 10,00,000 | 2,470 | 240.83 | 9.75
+>10,00,000 and <=15,00,000 | 13,258 | 1,584.20 | 11.95
+>15,00,000 and <= 20,00,000 | 4,076 | 696.22 | 17.08
+>20,00,000 and <= 25,00,000 | 1,658 | 368.02 | 22.20
+>25,00,000 and <= 50,00,000 | 2,155 | 714.56 | 33.16
+>50,00,000 and <= 1,00,00,000 | 538 | 361.72 | 67.23
+>1,00,00,000 and <=5,00,00,000 | 152 | 243.46 | 160.17
+>5,00,00,000 and <=10,00,00,000 | 4 | 24.08 | 602.09
+>10,00,00,000 and <=25,00,00,000 | 4 | 68.30 | 1,707.48
+>25,00,00,000 and <=50,00,00,000 | 2 | 66.71 | 3,335.38
+>50,00,00,000 and <=100,00,00,000 | 1 | 63.58 | 6,357.76
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 11,87,598 | 16,780.39
+Notes
+1. Interest Income is the Gross Interest Income in the “Income from other sources” Schedule of
+Return of Income. Interest Income data is compiled only for those returns where it is explicitly
+stated in the Return of Income.
+2. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+3. The “Average Interest Income” is the average Interest Income within the value range slab i.e.
+“Sum of Interest Income” divided by total number of returns within the value range slab
+4. The “Average Other Sources Income” is the average Other Sources Income within the value
+range slab i.e. “Sum of Other Sources Income” divided by total number of returns within the
+value range slab.
+38
+
+===== PAGE 40 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+3.8 HUF- Range of Total Loss Set off (AY 2019-20)
+No. of | Total Loss | Average Total
+Returns | Set Off (in | Loss Set off (in
+Range (in INR) | Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 11,68,370 | - | -
+>0 and <=1,50,000 | 14,162 | 46.28 | 0.33
+>150,000 and <= 2,00,000 | 1,366 | 24.83 | 1.82
+>2,00,000 and <=2,50,000 | 575 | 12.94 | 2.25
+>2,50,000 and <= 3,50,000 | 747 | 21.99 | 2.94
+>3,50,000 and <= 4,00,000 | 260 | 9.71 | 3.73
+>4,00,000 and <= 4,50,000 | 227 | 9.64 | 4.25
+>4,50,000 and <= 5,00,000 | 180 | 8.53 | 4.74
+>5,00,000 and <= 5,50,000 | 163 | 8.53 | 5.24
+>5,50,000 and <= 9,50,000 | 665 | 47.90 | 7.20
+>9,50,000 and <= 10,00,000 | 61 | 5.95 | 9.75
+>10,00,000 and <=15,00,000 | 300 | 36.22 | 12.07
+>15,00,000 and <= 20,00,000 | 163 | 28.55 | 17.51
+>20,00,000 and <= 25,00,000 | 74 | 16.50 | 22.30
+>25,00,000 and <= 50,00,000 | 180 | 63.32 | 35.18
+>50,00,000 and <= 1,00,00,000 | 69 | 48.32 | 70.02
+>1,00,00,000 and <=5,00,00,000 | 27 | 53.77 | 199.14
+>5,00,00,000 and <=10,00,00,000 | 5 | 38.04 | 760.85
+>10,00,00,000 and <=25,00,00,000 | 3 | 39.74 | 1,324.68
+>25,00,00,000 and <=50,00,00,000 | 1 | 47.10 | 4,710.14
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 11,87,598 | 567.85
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses set
+off against current year’s income in the “Computation of total income” Schedule of return
+of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value range
+slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the value
+range slab
+39
+
+===== PAGE 41 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+3.9 HUF- Range of Returned Income (AY 2019-20)
+Sum of Returned Average
+No. of | Income (in Crore Returned
+Returns | INR) | Income (in
+Range (in INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 47,836 | - | -
+>0 and <=1,50,000 | 1,67,249 | 1,261.09 | 0.75
+>150,000 and <= 2,00,000 | 73,723 | 1,301.36 | 1.77
+>2,00,000 and <=2,50,000 | 2,96,283 | 7,059.37 | 2.38
+>2,50,000 and <= 3,50,000 | 2,31,013 | 6,744.02 | 2.92
+>3,50,000 and <= 4,00,000 | 54,548 | 2,038.89 | 3.74
+>4,00,000 and <= 4,50,000 | 48,506 | 2,061.94 | 4.25
+>4,50,000 and <= 5,00,000 | 54,244 | 2,601.82 | 4.80
+>5,00,000 and <= 5,50,000 | 34,616 | 1,808.43 | 5.22
+>5,50,000 and <= 9,50,000 | 1,07,764 | 7,653.55 | 7.10
+>9,50,000 and <= 10,00,000 | 9,411 | 919.75 | 9.77
+>10,00,000 and <=15,00,000 | 34,267 | 4,073.48 | 11.89
+>15,00,000 and <= 20,00,000 | 11,191 | 1,921.99 | 17.17
+>20,00,000 and <= 25,00,000 | 5,074 | 1,129.01 | 22.25
+>25,00,000 and <= 50,00,000 | 8,027 | 2,773.41 | 34.55
+>50,00,000 and <= 1,00,00,000 | 2,499 | 1,744.60 | 69.81
+>1,00,00,000 and <=5,00,00,000 | 1,205 | 2,210.42 | 183.44
+>5,00,00,000 and <=10,00,00,000 | 82 | 543.61 | 662.94
+>10,00,00,000 and <=25,00,00,000 | 42 | 623.28 | 1,484.01
+>25,00,00,000 and <=50,00,00,000 | 13 | 481.16 | 3,701.25
+>50,00,00,000 and <=100,00,00,000 | 4 | 265.27 | 6,631.78
+>100,00,00,000 and <=500,00,00,000 | 1 | 167.04 | 16,704.45
+>500,00,00,000 | - | - | -
+Total | 11,87,598 | 49,383.49
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income.
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+40
+
+===== PAGE 42 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+3.10 HUF- Range of Tax Payable (AY 2019-20)
+Sum of Tax | Average Tax
+No. of
+Payable | Payable
+Returns
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 5,83,327 | - | -
+>0 and <=1,50,000 | 5,52,356 | 1,196.37 | 0.22
+>150,000 and <= 2,00,000 | 12,171 | 210.39 | 1.73
+>2,00,000 and <=2,50,000 | 7,950 | 177.67 | 2.23
+>2,50,000 and <= 3,50,000 | 9,878 | 291.24 | 2.95
+>3,50,000 and <= 4,00,000 | 3,291 | 123.12 | 3.74
+>4,00,000 and <= 4,50,000 | 2,547 | 108.09 | 4.24
+>4,50,000 and <= 5,00,000 | 1,916 | 90.85 | 4.74
+>5,00,000 and <= 5,50,000 | 1,550 | 81.29 | 5.24
+>5,50,000 and <= 9,50,000 | 6,261 | 446.12 | 7.13
+>9,50,000 and <= 10,00,000 | 433 | 42.14 | 9.73
+>10,00,000 and <=15,00,000 | 2,502 | 302.98 | 12.11
+>15,00,000 and <= 20,00,000 | 921 | 161.92 | 17.58
+>20,00,000 and <= 25,00,000 | 662 | 147.40 | 22.27
+>25,00,000 and <= 50,00,000 | 1,187 | 400.08 | 33.71
+>50,00,000 and <= 1,00,00,000 | 391 | 270.10 | 69.08
+>1,00,00,000 and <=5,00,00,000 | 225 | 417.05 | 185.36
+>5,00,00,000 and <=10,00,00,000 | 16 | 113.06 | 706.61
+>10,00,00,000 and <=25,00,00,000 | 13 | 179.38 | 1,379.87
+>25,00,00,000 and <=50,00,00,000 | - | - | -
+>50,00,00,000 and <=100,00,00,000 | 1 | 59.91 | 5,991.31
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 11,87,598 | 4,819.17
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after
+giving credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for
+taxes paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+41
+
+===== PAGE 43 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+4.Income Tax Returns - Firms
+42
+
+===== PAGE 44 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+4.1 Firm – Gross Total Income (AY 2019-20)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns | Total Income | Total Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 3,92,933 | - | -
+>0 and <=1,50,000 | 5,33,333 | 2,452.79 | 0.46
+>150,000 and <= 2,00,000 | 49,980 | 865.07 | 1.73
+>2,00,000 and <=2,50,000 | 37,063 | 829.16 | 2.24
+>2,50,000 and <= 3,50,000 | 54,128 | 1,605.95 | 2.97
+>3,50,000 and <= 4,00,000 | 19,915 | 745.24 | 3.74
+>4,00,000 and <= 4,50,000 | 17,637 | 747.93 | 4.24
+>4,50,000 and <= 5,00,000 | 15,322 | 727.19 | 4.75
+>5,00,000 and <= 5,50,000 | 13,413 | 702.82 | 5.24
+>5,50,000 and <= 9,50,000 | 67,660 | 4,905.33 | 7.25
+>9,50,000 and <= 10,00,000 | 5,848 | 570.04 | 9.75
+>10,00,000 and <=15,00,000 | 39,093 | 4,777.99 | 12.22
+>15,00,000 and <= 20,00,000 | 22,296 | 3,851.20 | 17.27
+>20,00,000 and <= 25,00,000 | 14,066 | 3,142.10 | 22.34
+>25,00,000 and <= 50,00,000 | 33,573 | 11,820.57 | 35.21
+>50,00,000 and <= 1,00,00,000 | 21,892 | 15,810.71 | 72.22
+>1,00,00,000 and <=5,00,00,000 | 15,790 | 32,667.55 | 206.89
+>5,00,00,000 and <=10,00,00,000 | 2,062 | 14,274.63 | 692.27
+>10,00,00,000 and <=25,00,00,000 | 1,136 | 17,306.23 | 1,523.44
+>25,00,00,000 and <=50,00,00,000 | 304 | 10,281.50 | 3,382.07
+>50,00,00,000 and <=100,00,00,000 | 124 | 8,417.20 | 6,788.07
+>100,00,00,000 and <=500,00,00,000 | 75 | 15,364.41 | 20,485.88
+>500,00,00,000 | 6 | 12,961.20 | 2,16,020.00
+Total | 13,57,649 | 1,64,826.77
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+43
+
+===== PAGE 45 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+4.2 Firm- Range of House Property Income (AY 2019-20)
+Average House
+Sum of House
+Property
+Range (in INR) | No. of Returns | Property Income
+Income(in Lakh
+(In Crore INR)
+INR)
+< 0 | 66 | -0.52
+= 0 | 1,329,501 | - | -
+>0 and <=1,50,000 | 7,477 | 52.95 | 0.71
+>150,000 and <= 2,00,000 | 1,489 | 25.83 | 1.73
+>2,00,000 and <=2,50,000 | 1,391 | 30.99 | 2.23
+>2,50,000 and <= 3,50,000 | 2,305 | 68.39 | 2.97
+>3,50,000 and <= 4,00,000 | 901 | 33.76 | 3.75
+>4,00,000 and <= 4,50,000 | 841 | 35.58 | 4.23
+>4,50,000 and <= 5,00,000 | 703 | 33.40 | 4.75
+>5,00,000 and <= 5,50,000 | 675 | 35.27 | 5.23
+>5,50,000 and <= 9,50,000 | 3,463 | 250.41 | 7.23
+>9,50,000 and <= 10,00,000 | 229 | 22.35 | 9.76
+>10,00,000 and <=15,00,000 | 2,061 | 252.24 | 12.24
+>15,00,000 and <= 20,00,000 | 1,118 | 193.94 | 17.35
+>20,00,000 and <= 25,00,000 | 811 | 180.91 | 22.31
+>25,00,000 and <= 50,00,000 | 2,262 | 799.88 | 35.36
+>50,00,000 and <= 1,00,00,000 | 1,326 | 920.17 | 69.39
+>1,00,00,000 and <=5,00,00,000 | 948 | 1,809.12 | 190.84
+>5,00,00,000 and <=10,00,00,000 | 54 | 352.86 | 653.45
+>10,00,00,000 and <=25,00,00,000 | 21 | 293.37 | 1,396.98
+>25,00,00,000 and <=50,00,00,000 | 6 | 229.98 | 3,832.93
+>50,00,00,000 and <=100,00,00,000 | 1 | 81.26 | 8,126.28
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 1,357,649 | 5,702.14
+Notes
+1. House Property Income is the income under the head “Income from house
+property” as computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House
+Property Income (for ITR-1 & ITR-4). For other ITRs the same may be adjusted in
+Current YearLoss Adjustment or carried forward to future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all
+returns within the value range slab.
+4. The “Average House Property Income” is the average House Property Income
+within the value range slab i.e. “Sum of House Property Income” divided by total
+number of returns within the value range slab
+44
+
+===== PAGE 46 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+4.3 Firm – Range of Business Income (AY 2019-20)
+Sum of | Average
+Business | Business
+No. of Returns
+Income (in | Income
+Range (in INR) | Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 3,86,592 | - | -
+>0 and <=1,50,000 | 5,43,385 | 2,499.59 | 0.46
+>150,000 and <= 2,00,000 | 50,950 | 882.13 | 1.73
+>2,00,000 and <=2,50,000 | 37,821 | 846.18 | 2.24
+>2,50,000 and <= 3,50,000 | 54,617 | 1,620.29 | 2.97
+>3,50,000 and <= 4,00,000 | 20,202 | 755.96 | 3.74
+>4,00,000 and <= 4,50,000 | 17,745 | 752.47 | 4.24
+>4,50,000 and <= 5,00,000 | 15,480 | 734.68 | 4.75
+>5,00,000 and <= 5,50,000 | 13,347 | 699.19 | 5.24
+>5,50,000 and <= 9,50,000 | 67,728 | 4,908.87 | 7.25
+>9,50,000 and <= 10,00,000 | 5,838 | 569.00 | 9.75
+>10,00,000 and <=15,00,000 | 38,517 | 4,705.66 | 12.22
+>15,00,000 and <= 20,00,000 | 21,700 | 3,748.04 | 17.27
+>20,00,000 and <= 25,00,000 | 13,675 | 3,056.08 | 22.35
+>25,00,000 and <= 50,00,000 | 32,010 | 11,247.37 | 35.14
+>50,00,000 and <= 1,00,00,000 | 20,420 | 14,694.52 | 71.96
+>1,00,00,000 and <=5,00,00,000 | 14,329 | 29,585.91 | 206.48
+>5,00,00,000 and <=10,00,00,000 | 1,847 | 12,760.28 | 690.86
+>10,00,00,000 and <=25,00,00,000 | 1,027 | 15,635.85 | 1,522.48
+>25,00,00,000 and <=50,00,00,000 | 252 | 8,598.45 | 3,412.08
+>50,00,00,000 and <=100,00,00,000 | 108 | 7,329.81 | 6,786.86
+>100,00,00,000 and <=500,00,00,000 | 56 | 10,362.54 | 18,504.54
+>500,00,00,000 | 3 | 2,099.33 | 69,977.82
+Total | 13,57,649 | 1,38,092.20
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab
+45
+
+===== PAGE 47 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+4.4 Firm – Range of Long Term Capital Gains (AY 2019-20)
+Sum of Long | Average Long
+No. of | Term Capital | Term Capital
+Returns | Gains Income | Gains Income
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 13,52,235 | - | -
+>0 and <=1,50,000 | 1,354 | 6.61 | 0.49
+>150,000 and <= 2,00,000 | 165 | 2.89 | 1.75
+>2,00,000 and <=2,50,000 | 126 | 2.83 | 2.24
+>2,50,000 and <= 3,50,000 | 206 | 6.09 | 2.96
+>3,50,000 and <= 4,00,000 | 75 | 2.82 | 3.77
+>4,00,000 and <= 4,50,000 | 89 | 3.80 | 4.27
+>4,50,000 and <= 5,00,000 | 67 | 3.16 | 4.72
+>5,00,000 and <= 5,50,000 | 59 | 3.12 | 5.30
+>5,50,000 and <= 9,50,000 | 460 | 34.06 | 7.40
+>9,50,000 and <= 10,00,000 | 48 | 4.69 | 9.78
+>10,00,000 and <=15,00,000 | 342 | 42.69 | 12.48
+>15,00,000 and <= 20,00,000 | 251 | 43.67 | 17.40
+>20,00,000 and <= 25,00,000 | 202 | 45.20 | 22.38
+>25,00,000 and <= 50,00,000 | 599 | 216.63 | 36.17
+>50,00,000 and <= 1,00,00,000 | 491 | 351.33 | 71.55
+>1,00,00,000 and <=5,00,00,000 | 659 | 1,391.35 | 211.13
+>5,00,00,000 and <=10,00,00,000 | 109 | 773.57 | 709.69
+>10,00,00,000 and <=25,00,00,000 | 72 | 1,105.50 | 1,535.42
+>25,00,00,000 and <=50,00,00,000 | 20 | 690.03 | 3,450.14
+>50,00,00,000 and <=100,00,00,000 | 11 | 690.44 | 6,276.77
+>100,00,00,000 and <=500,00,00,000 | 8 | 1,927.22 | 24,090.30
+>500,00,00,000 | 1 | 917.88 | 91,787.92
+Total | 13,57,649 | 8,265.59
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income”
+divided by total number of returns within the value range slab.
+46
+
+===== PAGE 48 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+4.5 Firm – Range of Short Term Capital Gains (AY 2019-20)
+Sum of Short | Average Short
+No. of | Term Capital | Term Capital
+Returns | Gains Income | Gains Income
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 13,48,801 | - | -
+>0 and <=1,50,000 | 4,942 | 19.92 | 0.40
+>150,000 and <= 2,00,000 | 371 | 6.46 | 1.74
+>2,00,000 and <=2,50,000 | 304 | 6.82 | 2.24
+>2,50,000 and <= 3,50,000 | 430 | 12.66 | 2.95
+>3,50,000 and <= 4,00,000 | 149 | 5.55 | 3.72
+>4,00,000 and <= 4,50,000 | 154 | 6.55 | 4.25
+>4,50,000 and <= 5,00,000 | 124 | 5.88 | 4.74
+>5,00,000 and <= 5,50,000 | 78 | 4.09 | 5.25
+>5,50,000 and <= 9,50,000 | 592 | 43.15 | 7.29
+>9,50,000 and <= 10,00,000 | 48 | 4.69 | 9.76
+>10,00,000 and <=15,00,000 | 364 | 44.31 | 12.17
+>15,00,000 and <= 20,00,000 | 230 | 39.78 | 17.29
+>20,00,000 and <= 25,00,000 | 150 | 33.81 | 22.54
+>25,00,000 and <= 50,00,000 | 382 | 134.56 | 35.23
+>50,00,000 and <= 1,00,00,000 | 245 | 174.44 | 71.20
+>1,00,00,000 and <=5,00,00,000 | 237 | 450.10 | 189.91
+>5,00,00,000 and <=10,00,00,000 | 25 | 175.51 | 702.03
+>10,00,00,000 and <=25,00,00,000 | 15 | 221.97 | 1,479.83
+>25,00,00,000 and <=50,00,00,000 | 6 | 183.16 | 3,052.71
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | 1 | 222.70 | 22,270.03
+>500,00,00,000 | 1 | 9,427.83 | 9,42,782.71
+Total | 13,57,649 | 11,223.94
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”.
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital Gains
+Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab.
+47
+
+===== PAGE 49 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+4.6 Firm – Range of Other Sources Income (AY 2019-20)
+Sum of Other | Average Other
+No. of
+Sources Income | Sources Income
+Returns
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 12,01,034 | - | -
+>0 and <=1,50,000 | 1,24,305 | 351.15 | 0.28
+>150,000 and <= 2,00,000 | 5,451 | 94.70 | 1.74
+>2,00,000 and <=2,50,000 | 3,685 | 82.47 | 2.24
+>2,50,000 and <= 3,50,000 | 5,077 | 150.28 | 2.96
+>3,50,000 and <= 4,00,000 | 1,809 | 67.67 | 3.74
+>4,00,000 and <= 4,50,000 | 1,510 | 64.04 | 4.24
+>4,50,000 and <= 5,00,000 | 1,205 | 57.18 | 4.75
+>5,00,000 and <= 5,50,000 | 1,005 | 52.70 | 5.24
+>5,50,000 and <= 9,50,000 | 4,760 | 343.13 | 7.21
+>9,50,000 and <= 10,00,000 | 356 | 34.73 | 9.75
+>10,00,000 and <=15,00,000 | 2,391 | 291.96 | 12.21
+>15,00,000 and <= 20,00,000 | 1,250 | 215.51 | 17.24
+>20,00,000 and <= 25,00,000 | 782 | 174.90 | 22.37
+>25,00,000 and <= 50,00,000 | 1,578 | 548.77 | 34.78
+>50,00,000 and <= 1,00,00,000 | 765 | 534.95 | 69.93
+>1,00,00,000 and <=5,00,00,000 | 559 | 1,114.91 | 199.45
+>5,00,00,000 and <=10,00,00,000 | 55 | 373.53 | 679.15
+>10,00,00,000 and <=25,00,00,000 | 39 | 598.08 | 1,533.54
+>25,00,00,000 and <=50,00,00,000 | 18 | 602.32 | 3,346.20
+>50,00,00,000 and <=100,00,00,000 | 4 | 243.71 | 6,092.80
+>100,00,00,000 and <=500,00,00,000 | 10 | 2,405.32 | 24,053.22
+>500,00,00,000 | 1 | 509.76 | 50,975.71
+Total | 13,57,649 | 8,911.77
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income.
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab
+48
+
+===== PAGE 50 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+4.7 Firm – Range of Interest Income (AY 2019-20)
+Sum of Interest Average Interest
+No. of
+Income (in | Income (in Lakh
+Returns
+Range (in INR) | Crore INR) | INR)
+< 0 | - | - | -
+= 0 | 12,21,995 | - | -
+>0 and <=1,50,000 | 1,06,698 | 309.43 | 0.29
+>150,000 and <= 2,00,000 | 4,902 | 85.17 | 1.74
+>2,00,000 and <=2,50,000 | 3,349 | 74.97 | 2.24
+>2,50,000 and <= 3,50,000 | 4,635 | 137.40 | 2.96
+>3,50,000 and <= 4,00,000 | 1,622 | 60.67 | 3.74
+>4,00,000 and <= 4,50,000 | 1,380 | 58.58 | 4.24
+>4,50,000 and <= 5,00,000 | 1,081 | 51.28 | 4.74
+>5,00,000 and <= 5,50,000 | 941 | 49.31 | 5.24
+>5,50,000 and <= 9,50,000 | 4,321 | 311.51 | 7.21
+>9,50,000 and <= 10,00,000 | 339 | 33.05 | 9.75
+>10,00,000 and <=15,00,000 | 2,159 | 263.25 | 12.19
+>15,00,000 and <= 20,00,000 | 1,089 | 187.77 | 17.24
+>20,00,000 and <= 25,00,000 | 705 | 157.48 | 22.34
+>25,00,000 and <= 50,00,000 | 1,351 | 468.72 | 34.69
+>50,00,000 and <= 1,00,00,000 | 613 | 421.91 | 68.83
+>1,00,00,000 and <=5,00,00,000 | 413 | 778.34 | 188.46
+>5,00,00,000 and <=10,00,00,000 | 28 | 189.98 | 678.51
+>10,00,00,000 and <=25,00,00,000 | 22 | 339.72 | 1,544.19
+>25,00,00,000 and <=50,00,00,000 | 5 | 163.74 | 3,274.85
+>50,00,00,000 and <=100,00,00,000 | 1 | 76.93 | 7,692.95
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 13,57,649 | 4,219.22
+Notes
+1. The Interest Income is already included in the Income from other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+4. The “Average Interest Income” is the average Interest Income within the value range
+slab i.e. “Sum of Interest Income” divided by total number of returns within the value
+range slab
+49
+
+===== PAGE 51 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+4.8 Firm – Range of Total Loss Set off (AY 2019-20)
+Sum of Total | Average Total
+No. of
+Loss Set Off | Loss Set off
+Returns
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 12,57,385 | - | -
+>0 and <=1,50,000 | 63,805 | 233.08 | 0.37
+>150,000 and <= 2,00,000 | 4,920 | 85.64 | 1.74
+>2,00,000 and <=2,50,000 | 3,578 | 80.11 | 2.24
+>2,50,000 and <= 3,50,000 | 5,044 | 149.36 | 2.96
+>3,50,000 and <= 4,00,000 | 1,849 | 69.30 | 3.75
+>4,00,000 and <= 4,50,000 | 1,543 | 65.43 | 4.24
+>4,50,000 and <= 5,00,000 | 1,347 | 63.96 | 4.75
+>5,00,000 and <= 5,50,000 | 1,165 | 61.01 | 5.24
+>5,50,000 and <= 9,50,000 | 5,856 | 423.73 | 7.24
+>9,50,000 and <= 10,00,000 | 466 | 45.45 | 9.75
+>10,00,000 and <=15,00,000 | 3,124 | 381.49 | 12.21
+>15,00,000 and <= 20,00,000 | 1,741 | 301.77 | 17.33
+>20,00,000 and <= 25,00,000 | 1,091 | 244.92 | 22.45
+>25,00,000 and <= 50,00,000 | 2,485 | 867.22 | 34.90
+>50,00,000 and <= 1,00,00,000 | 1,265 | 880.90 | 69.64
+>1,00,00,000 and <=5,00,00,000 | 862 | 1,696.65 | 196.83
+>5,00,00,000 and <=10,00,00,000 | 72 | 491.33 | 682.41
+>10,00,00,000 and <=25,00,00,000 | 42 | 645.91 | 1,537.87
+>25,00,00,000 and <=50,00,00,000 | 6 | 218.57 | 3,642.79
+>50,00,00,000 and <=100,00,00,000 | 2 | 158.12 | 7,905.76
+>100,00,00,000 and <=500,00,00,000 | 1 | 204.94 | 20,493.51
+>500,00,00,000 | - | - | -
+Total | 13,57,649 | 7,368.88
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses set
+off against current year’s income in the “Computation of total income” Schedule of return
+of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value
+range slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the
+value range slab
+50
+
+===== PAGE 52 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+4.9 Firm – Range of Returned Income (AY 2019-20)
+Sum of | Average
+No. of | Returned | Returned
+Returns | Income (in | Income
+Range (in INR) | Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 4,00,940 | - | -
+>0 and <=1,50,000 | 5,26,239 | 2,453.37 | 0.47
+>150,000 and <= 2,00,000 | 49,956 | 864.68 | 1.73
+>2,00,000 and <=2,50,000 | 37,080 | 829.63 | 2.24
+>2,50,000 and <= 3,50,000 | 54,090 | 1,604.85 | 2.97
+>3,50,000 and <= 4,00,000 | 19,899 | 744.65 | 3.74
+>4,00,000 and <= 4,50,000 | 17,641 | 748.13 | 4.24
+>4,50,000 and <= 5,00,000 | 15,389 | 730.38 | 4.75
+>5,00,000 and <= 5,50,000 | 13,372 | 700.74 | 5.24
+>5,50,000 and <= 9,50,000 | 67,591 | 4,900.41 | 7.25
+>9,50,000 and <= 10,00,000 | 5,838 | 569.06 | 9.75
+>10,00,000 and <=15,00,000 | 39,080 | 4,776.25 | 12.22
+>15,00,000 and <= 20,00,000 | 22,223 | 3,838.94 | 17.27
+>20,00,000 and <= 25,00,000 | 14,048 | 3,138.31 | 22.34
+>25,00,000 and <= 50,00,000 | 33,470 | 11,786.56 | 35.22
+>50,00,000 and <= 1,00,00,000 | 21,753 | 15,717.54 | 72.25
+>1,00,00,000 and <=5,00,00,000 | 15,514 | 32,042.42 | 206.54
+>5,00,00,000 and <=10,00,00,000 | 1,981 | 13,677.11 | 690.41
+>10,00,00,000 and <=25,00,00,000 | 1,082 | 16,427.35 | 1,518.24
+>25,00,00,000 and <=50,00,00,000 | 277 | 9,416.97 | 3,399.63
+>50,00,00,000 and <=100,00,00,000 | 110 | 7,441.87 | 6,765.33
+>100,00,00,000 and <=500,00,00,000 | 71 | 14,028.58 | 19,758.56
+>500,00,00,000 | 5 | 12,329.50 | 2,46,589.98
+13,57,649 | 1,58,767.28
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income.
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+51
+
+===== PAGE 53 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+4.10 Firm – Range of Tax Payable (AY 2019-20)
+Sum of Tax | Average Tax
+No. of
+Payable | Payable
+Returns
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 3,28,981 | - | -
+>0 and <=1,50,000 | 7,80,598 | 2,441.58 | 0.31
+>150,000 and <= 2,00,000 | 39,699 | 688.53 | 1.73
+>2,00,000 and <=2,50,000 | 28,415 | 635.33 | 2.24
+>2,50,000 and <= 3,50,000 | 38,677 | 1,145.09 | 2.96
+>3,50,000 and <= 4,00,000 | 13,651 | 511.17 | 3.74
+>4,00,000 and <= 4,50,000 | 10,688 | 453.38 | 4.24
+>4,50,000 and <= 5,00,000 | 9,391 | 445.87 | 4.75
+>5,00,000 and <= 5,50,000 | 7,770 | 407.26 | 5.24
+>5,50,000 and <= 9,50,000 | 35,117 | 2,527.01 | 7.20
+>9,50,000 and <= 10,00,000 | 2,760 | 269.14 | 9.75
+>10,00,000 and <=15,00,000 | 18,450 | 2,256.21 | 12.23
+>15,00,000 and <= 20,00,000 | 10,218 | 1,765.25 | 17.28
+>20,00,000 and <= 25,00,000 | 6,491 | 1,449.33 | 22.33
+>25,00,000 and <= 50,00,000 | 12,786 | 4,334.57 | 33.90
+>50,00,000 and <= 1,00,00,000 | 7,244 | 5,047.77 | 69.68
+>1,00,00,000 and <=5,00,00,000 | 5,750 | 11,375.66 | 197.84
+>5,00,00,000 and <=10,00,00,000 | 594 | 4,072.86 | 685.67
+>10,00,00,000 and <=25,00,00,000 | 258 | 3,880.11 | 1,503.92
+>25,00,00,000 and <=50,00,00,000 | 66 | 2,218.35 | 3,361.14
+>50,00,00,000 and <=100,00,00,000 | 33 | 2,318.61 | 7,026.08
+>100,00,00,000 and <=500,00,00,000 | 11 | 1,487.97 | 13,527.02
+>500,00,00,000 | 1 | 3,294.46 | 3,29,445.99
+Total | 13,57,649 | 53,025.52
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after
+giving credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for
+taxes paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+52
+
+===== PAGE 54 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+5.Income Tax Returns - AOP/BOI
+53
+
+===== PAGE 55 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+5.1 AOP/BOI – Gross Total Income (AY 2019-20)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns | Total Income | Total Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 39,141 | - | -
+>0 and <=1,50,000 | 37,610 | 149.29 | 0.40
+>150,000 and <= 2,00,000 | 4,322 | 75.56 | 1.75
+>2,00,000 and <=2,50,000 | 6,636 | 153.84 | 2.32
+>2,50,000 and <= 3,50,000 | 4,823 | 141.93 | 2.94
+>3,50,000 and <= 4,00,000 | 1,453 | 54.13 | 3.73
+>4,00,000 and <= 4,50,000 | 1,146 | 48.68 | 4.25
+>4,50,000 and <= 5,00,000 | 1,269 | 60.68 | 4.78
+>5,00,000 and <= 5,50,000 | 843 | 44.13 | 5.23
+>5,50,000 and <= 9,50,000 | 3,387 | 241.70 | 7.14
+>9,50,000 and <= 10,00,000 | 325 | 31.78 | 9.78
+>10,00,000 and <=15,00,000 | 1,732 | 210.00 | 12.12
+>15,00,000 and <= 20,00,000 | 863 | 149.89 | 17.37
+>20,00,000 and <= 25,00,000 | 571 | 127.91 | 22.40
+>25,00,000 and <= 50,00,000 | 1,563 | 558.08 | 35.71
+>50,00,000 and <= 1,00,00,000 | 1,113 | 783.96 | 70.44
+>1,00,00,000 and <=5,00,00,000 | 1,456 | 3,248.44 | 223.11
+>5,00,00,000 and <=10,00,00,000 | 268 | 1,875.41 | 699.78
+>10,00,00,000 and <=25,00,00,000 | 231 | 3,561.40 | 1,541.73
+>25,00,00,000 and <=50,00,00,000 | 91 | 3,050.43 | 3,352.13
+>50,00,00,000 and <=100,00,00,000 | 53 | 3,626.92 | 6,843.25
+>100,00,00,000 and <=500,00,00,000 | 35 | 6,970.93 | 19,916.96
+>500,00,00,000 | 1 | 689.51 | 68,950.91
+Total | 1,08,932 | 25,854.61
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+54
+
+===== PAGE 56 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+5.2 AOP/BOI- Range of House Property Income (AY 2019-20)
+Sum of House | Average House
+No. of
+Property Income | Property Income
+Returns
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 1,05,576 | - | -
+>0 and <=1,50,000 | 1,064 | 6.55 | 0.62
+>150,000 and <= 2,00,000 | 234 | 4.07 | 1.74
+>2,00,000 and <=2,50,000 | 225 | 5.01 | 2.23
+>2,50,000 and <= 3,50,000 | 343 | 10.16 | 2.96
+>3,50,000 and <= 4,00,000 | 102 | 3.79 | 3.72
+>4,00,000 and <= 4,50,000 | 103 | 4.37 | 4.25
+>4,50,000 and <= 5,00,000 | 99 | 4.70 | 4.74
+>5,00,000 and <= 5,50,000 | 87 | 4.55 | 5.23
+>5,50,000 and <= 9,50,000 | 393 | 27.97 | 7.12
+>9,50,000 and <= 10,00,000 | 31 | 3.03 | 9.78
+>10,00,000 and <=15,00,000 | 206 | 25.20 | 12.23
+>15,00,000 and <= 20,00,000 | 102 | 17.74 | 17.39
+>20,00,000 and <= 25,00,000 | 73 | 16.49 | 22.59
+>25,00,000 and <= 50,00,000 | 141 | 49.33 | 34.98
+>50,00,000 and <= 1,00,00,000 | 82 | 55.56 | 67.75
+>1,00,00,000 and <=5,00,00,000 | 63 | 128.11 | 203.35
+>5,00,00,000 and <=10,00,00,000 | 6 | 43.72 | 728.68
+>10,00,00,000 and <=25,00,00,000 | 1 | 24.51 | 2,450.92
+>25,00,00,000 and <=50,00,00,000 | 1 | 26.82 | 2,681.97
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 1,08,932 | 461.67
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House Property
+Income (for ITR-1 & ITR-4). For other ITRs the same may be adjusted in Current Year
+Loss Adjustment or carried forward for future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e. “Sum of House Property Income” divided by total number of returns
+within the value range slab
+55
+
+===== PAGE 57 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+5.3 AOP/BOI – Range of Business Income (AY 2019-20)
+Sum of | Average
+Business | Business
+No. of Returns
+Income | Income
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 68,115 | - | -
+>0 and <=1,50,000 | 23,861 | 84.66 | 0.35
+>150,000 and <= 2,00,000 | 2,163 | 37.66 | 1.74
+>2,00,000 and <=2,50,000 | 2,580 | 59.52 | 2.31
+>2,50,000 and <= 3,50,000 | 2,227 | 65.40 | 2.94
+>3,50,000 and <= 4,00,000 | 745 | 27.78 | 3.73
+>4,00,000 and <= 4,50,000 | 637 | 27.03 | 4.24
+>4,50,000 and <= 5,00,000 | 613 | 29.31 | 4.78
+>5,00,000 and <= 5,50,000 | 427 | 22.40 | 5.24
+>5,50,000 and <= 9,50,000 | 1,898 | 136.35 | 7.18
+>9,50,000 and <= 10,00,000 | 162 | 15.82 | 9.76
+>10,00,000 and <=15,00,000 | 1,018 | 124.55 | 12.23
+>15,00,000 and <= 20,00,000 | 571 | 99.15 | 17.36
+>20,00,000 and <= 25,00,000 | 390 | 87.19 | 22.36
+>25,00,000 and <= 50,00,000 | 1,109 | 397.03 | 35.80
+>50,00,000 and <= 1,00,00,000 | 833 | 589.72 | 70.79
+>1,00,00,000 and <=5,00,00,000 | 1,117 | 2,509.67 | 224.68
+>5,00,00,000 and <=10,00,00,000 | 201 | 1,416.85 | 704.90
+>10,00,00,000 and <=25,00,00,000 | 152 | 2,386.38 | 1,569.99
+>25,00,00,000 and <=50,00,00,000 | 63 | 2,127.91 | 3,377.64
+>50,00,00,000 and <=100,00,00,000 | 30 | 2,036.38 | 6,787.92
+>100,00,00,000 and <=500,00,00,000 | 20 | 3,465.60 | 17,327.98
+>500,00,00,000 | - | - | -
+Total | 1,08,932 | 15,746.35
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab
+56
+
+===== PAGE 58 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+5.4 AOP/BOI – Range of Long Term Capital Gains (AY 2019-20)
+Long Term | Average Long
+Capital Gains | Term Capital
+No. of Returns
+Income | Gains Income
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 1,08,089 | - | -
+>0 and <=1,50,000 | 270 | 1.28 | 0.47
+>150,000 and <= 2,00,000 | 24 | 0.42 | 1.73
+>2,00,000 and <=2,50,000 | 36 | 0.80 | 2.23
+>2,50,000 and <= 3,50,000 | 36 | 1.05 | 2.92
+>3,50,000 and <= 4,00,000 | 13 | 0.49 | 3.75
+>4,00,000 and <= 4,50,000 | 17 | 0.72 | 4.23
+>4,50,000 and <= 5,00,000 | 11 | 0.52 | 4.72
+>5,00,000 and <= 5,50,000 | 8 | 0.41 | 5.18
+>5,50,000 and <= 9,50,000 | 61 | 4.48 | 7.34
+>9,50,000 and <= 10,00,000 | 5 | 0.49 | 9.80
+>10,00,000 and <=15,00,000 | 52 | 6.25 | 12.02
+>15,00,000 and <= 20,00,000 | 40 | 7.26 | 18.14
+>20,00,000 and <= 25,00,000 | 24 | 5.27 | 21.97
+>25,00,000 and <= 50,00,000 | 60 | 21.40 | 35.66
+>50,00,000 and <= 1,00,00,000 | 63 | 44.43 | 70.53
+>1,00,00,000 and <=5,00,00,000 | 74 | 170.32 | 230.17
+>5,00,00,000 and <=10,00,00,000 | 23 | 168.07 | 730.74
+>10,00,00,000 and <=25,00,00,000 | 17 | 282.47 | 1,661.57
+>25,00,00,000 and <=50,00,00,000 | 3 | 91.06 | 3,035.31
+>50,00,00,000 and <=100,00,00,000 | 4 | 320.90 | 8,022.39
+>100,00,00,000 and <=500,00,00,000 | 2 | 584.83 | 29,241.51
+>500,00,00,000 | - | - | -
+Total | 1,08,932 | 1,712.90
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income” divided
+by total number of returns within the value range slab
+57
+
+===== PAGE 59 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+5.5 AOP/BOI – Range of Short Term Capital Gains (AY 2019-20)
+Sum of Short | Average Short
+No. of | Term Capital | Term Capital
+Range (in INR)
+Returns | Gains Income | Gains Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 1,07,514 | - | -
+>0 and <=1,50,000 | 649 | 2 | 0.32
+>150,000 and <= 2,00,000 | 60 | 1 | 1.77
+>2,00,000 and <=2,50,000 | 24 | 1 | 2.23
+>2,50,000 and <= 3,50,000 | 44 | 1 | 2.94
+>3,50,000 and <= 4,00,000 | 15 | 1 | 3.81
+>4,00,000 and <= 4,50,000 | 16 | 1 | 4.29
+>4,50,000 and <= 5,00,000 | 15 | 1 | 4.76
+>5,00,000 and <= 5,50,000 | 8 | 0 | 5.21
+>5,50,000 and <= 9,50,000 | 67 | 5 | 7.11
+>9,50,000 and <= 10,00,000 | 11 | 1 | 9.69
+>10,00,000 and <=15,00,000 | 68 | 8 | 12.43
+>15,00,000 and <= 20,00,000 | 30 | 5 | 17.60
+>20,00,000 and <= 25,00,000 | 29 | 6 | 22.24
+>25,00,000 and <= 50,00,000 | 68 | 25 | 37.09
+>50,00,000 and <= 1,00,00,000 | 67 | 47 | 69.97
+>1,00,00,000 and <=5,00,00,000 | 139 | 331 | 237.97
+>5,00,00,000 and <=10,00,00,000 | 35 | 254 | 726.21
+>10,00,00,000 and <=25,00,00,000 | 43 | 695 | 1,617.21
+>25,00,00,000 and <=50,00,00,000 | 14 | 469 | 3,348.91
+>50,00,00,000 and <=100,00,00,000 | 9 | 647 | 7,192.69
+>100,00,00,000 and <=500,00,00,000 | 6 | 1,061 | 17,676.98
+>500,00,00,000 | 1 | 784 | 78,439.33
+Total | 1,08,932 | 4,347.04
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital Gains
+Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab
+58
+
+===== PAGE 60 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+5.6 AOP/BOI – Range of Other Sources Income (AY 2019-20)
+Other Sources | Average Other
+Range (in INR) | No. of Returns Income | Sources Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 68,038 | - | -
+>0 and <=1,50,000 | 24,256 | 96.02 | 0.40
+>150,000 and <= 2,00,000 | 2,700 | 47.28 | 1.75
+>2,00,000 and <=2,50,000 | 4,255 | 98.50 | 2.31
+>2,50,000 and <= 3,50,000 | 2,947 | 86.74 | 2.94
+>3,50,000 and <= 4,00,000 | 850 | 31.65 | 3.72
+>4,00,000 and <= 4,50,000 | 677 | 28.77 | 4.25
+>4,50,000 and <= 5,00,000 | 662 | 31.59 | 4.77
+>5,00,000 and <= 5,50,000 | 440 | 22.99 | 5.22
+>5,50,000 and <= 9,50,000 | 1,694 | 120.23 | 7.10
+>9,50,000 and <= 10,00,000 | 166 | 16.23 | 9.78
+>10,00,000 and <=15,00,000 | 736 | 87.89 | 11.94
+>15,00,000 and <= 20,00,000 | 289 | 49.92 | 17.27
+>20,00,000 and <= 25,00,000 | 191 | 42.58 | 22.29
+>25,00,000 and <= 50,00,000 | 403 | 141.09 | 35.01
+>50,00,000 and <= 1,00,00,000 | 229 | 161.95 | 70.72
+>1,00,00,000 and <=5,00,00,000 | 266 | 577.99 | 217.29
+>5,00,00,000 and <=10,00,00,000 | 49 | 350.39 | 715.09
+>10,00,00,000 and <=25,00,00,000 | 50 | 725.01 | 1,450.02
+>25,00,00,000 and <=50,00,00,000 | 12 | 394.59 | 3,288.29
+>50,00,00,000 and <=100,00,00,000 | 12 | 779.99 | 6,499.92
+>100,00,00,000 and <=500,00,00,000 | 10 | 2,051.47 | 20,514.74
+>500,00,00,000 | - | - | -
+Total | 1,08,932 | 5,942.88
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e., “Sum of Other Sources Income” divided by total number of returns
+within the value range slab
+59
+
+===== PAGE 61 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+5.7 AOP/BOI – Range of Interest Income (AY 2019-20)
+Sum of Interest | Average
+No. of
+Income | Interest Income
+Returns
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 69,499 | - | -
+>0 and <=1,50,000 | 24,356 | 96.39 | 0.40
+>150,000 and <= 2,00,000 | 2,721 | 47.57 | 1.75
+>2,00,000 and <=2,50,000 | 3,567 | 82.06 | 2.30
+>2,50,000 and <= 3,50,000 | 2,697 | 79.38 | 2.94
+>3,50,000 and <= 4,00,000 | 788 | 29.40 | 3.73
+>4,00,000 and <= 4,50,000 | 629 | 26.69 | 4.24
+>4,50,000 and <= 5,00,000 | 540 | 25.66 | 4.75
+>5,00,000 and <= 5,50,000 | 405 | 21.16 | 5.22
+>5,50,000 and <= 9,50,000 | 1,641 | 117.01 | 7.13
+>9,50,000 and <= 10,00,000 | 117 | 11.41 | 9.76
+>10,00,000 and <=15,00,000 | 660 | 79.82 | 12.09
+>15,00,000 and <= 20,00,000 | 302 | 52.09 | 17.25
+>20,00,000 and <= 25,00,000 | 205 | 45.68 | 22.28
+>25,00,000 and <= 50,00,000 | 374 | 130.38 | 34.86
+>50,00,000 and <= 1,00,00,000 | 213 | 149.51 | 70.19
+>1,00,00,000 and <=5,00,00,000 | 170 | 353.64 | 208.02
+>5,00,00,000 and <=10,00,00,000 | 23 | 160.27 | 696.84
+>10,00,00,000 and <=25,00,00,000 | 16 | 245.34 | 1,533.41
+>25,00,00,000 and <=50,00,00,000 | 2 | 67.74 | 3,387.10
+>50,00,00,000 and <=100,00,00,000 | 4 | 267.20 | 6,680.11
+>100,00,00,000 and <=500,00,00,000 | 3 | 624.46 | 20,815.35
+>500,00,00,000 | - | - | -
+Total | 1,08,932 | 2,712.88
+Notes
+1. The Interest Income is already included in the Income from other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+4. The “Average Interest Income” is the average Interest Income within the value range
+slab i.e. “Sum of Interest Income” divided by total number of returns within the value
+range slab
+60
+
+===== PAGE 62 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+5.8 AOP/BOI- Range of Total Loss Set off (AY 2019-20)
+Sum of Total | Average Total
+No. of
+Loss Set Off | Loss Set off (in
+Returns
+Range (in INR) | (in Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 98,505 | - | -
+>0 and <=1,50,000 | 6,806 | 25.03 | 0.37
+>150,000 and <= 2,00,000 | 557 | 9.66 | 1.73
+>2,00,000 and <=2,50,000 | 354 | 7.94 | 2.24
+>2,50,000 and <= 3,50,000 | 553 | 16.39 | 2.96
+>3,50,000 and <= 4,00,000 | 165 | 6.17 | 3.74
+>4,00,000 and <= 4,50,000 | 137 | 5.78 | 4.22
+>4,50,000 and <= 5,00,000 | 129 | 6.11 | 4.74
+>5,00,000 and <= 5,50,000 | 109 | 5.73 | 5.25
+>5,50,000 and <= 9,50,000 | 516 | 36.83 | 7.14
+>9,50,000 and <= 10,00,000 | 34 | 3.32 | 9.76
+>10,00,000 and <=15,00,000 | 262 | 31.79 | 12.13
+>15,00,000 and <= 20,00,000 | 133 | 23.06 | 17.34
+>20,00,000 and <= 25,00,000 | 89 | 19.75 | 22.19
+>25,00,000 and <= 50,00,000 | 197 | 69.32 | 35.19
+>50,00,000 and <= 1,00,00,000 | 134 | 95.55 | 71.30
+>1,00,00,000 and <=5,00,00,000 | 170 | 375.40 | 220.82
+>5,00,00,000 and <=10,00,00,000 | 35 | 250.17 | 714.77
+>10,00,00,000 and <=25,00,00,000 | 30 | 482.71 | 1,609.03
+>25,00,00,000 and <=50,00,00,000 | 10 | 338.77 | 3,387.74
+>50,00,00,000 and <=100,00,00,000 | 6 | 427.21 | 7,120.22
+>100,00,00,000 and <=500,00,00,000 | 1 | 119.54 | 11,954.11
+>500,00,00,000 | - | - | -
+Total | 1,08,932 | 2,356.23
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses set
+off against current year’s income in the “Computation of total income” Schedule of return
+of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value
+range slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the
+value range slab
+61
+
+===== PAGE 63 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+5.9 AOP/BOI- Range of Returned Income (AY 2019-20)
+Sum of | Average
+No. of | Returned | Returned
+Returns | Income | Income
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 42,697 | - | -
+>0 and <=1,50,000 | 36,854 | 146.63 | 0.40
+>150,000 and <= 2,00,000 | 4,186 | 73.21 | 1.75
+>2,00,000 and <=2,50,000 | 6,502 | 150.86 | 2.32
+>2,50,000 and <= 3,50,000 | 4,652 | 136.85 | 2.94
+>3,50,000 and <= 4,00,000 | 1,353 | 50.38 | 3.72
+>4,00,000 and <= 4,50,000 | 1,052 | 44.69 | 4.25
+>4,50,000 and <= 5,00,000 | 1,184 | 56.63 | 4.78
+>5,00,000 and <= 5,50,000 | 765 | 40.03 | 5.23
+>5,50,000 and <= 9,50,000 | 2,945 | 209.22 | 7.10
+>9,50,000 and <= 10,00,000 | 283 | 27.68 | 9.78
+>10,00,000 and <=15,00,000 | 1,399 | 169.28 | 12.10
+>15,00,000 and <= 20,00,000 | 654 | 113.91 | 17.42
+>20,00,000 and <= 25,00,000 | 449 | 100.49 | 22.38
+>25,00,000 and <= 50,00,000 | 1,236 | 440.00 | 35.60
+>50,00,000 and <= 1,00,00,000 | 884 | 625.80 | 70.79
+>1,00,00,000 and <=5,00,00,000 | 1,205 | 2,753.75 | 228.53
+>5,00,00,000 and <=10,00,00,000 | 234 | 1,636.92 | 699.54
+>10,00,00,000 and <=25,00,00,000 | 226 | 3,479.51 | 1,539.61
+>25,00,00,000 and <=50,00,00,000 | 86 | 2,897.05 | 3,368.66
+>50,00,00,000 and <=100,00,00,000 | 52 | 3,568.20 | 6,861.92
+>100,00,00,000 and <=500,00,00,000 | 33 | 6,665.30 | 20,197.88
+>500,00,00,000 | 1 | 689.51 | 68,950.91
+Total | 1,08,932 | 24,075.91
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income.
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+62
+
+===== PAGE 64 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+5.10 AOP/BOI- Range of Tax Payable (AY 2019-20)
+Sum of Tax | Average Tax
+No. of
+Payable (in | Payable (in
+Returns
+Range (in INR) | Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 71,380 | - | -
+>0 and <=1,50,000 | 29,674 | 57.00 | 0.19
+>150,000 and <= 2,00,000 | 905 | 15.73 | 1.74
+>2,00,000 and <=2,50,000 | 643 | 14.33 | 2.23
+>2,50,000 and <= 3,50,000 | 877 | 26.00 | 2.96
+>3,50,000 and <= 4,00,000 | 308 | 11.54 | 3.75
+>4,00,000 and <= 4,50,000 | 252 | 10.68 | 4.24
+>4,50,000 and <= 5,00,000 | 230 | 10.94 | 4.76
+>5,00,000 and <= 5,50,000 | 194 | 10.22 | 5.27
+>5,50,000 and <= 9,50,000 | 1,037 | 75.42 | 7.27
+>9,50,000 and <= 10,00,000 | 93 | 9.04 | 9.72
+>10,00,000 and <=15,00,000 | 617 | 74.92 | 12.14
+>15,00,000 and <= 20,00,000 | 340 | 58.99 | 17.35
+>20,00,000 and <= 25,00,000 | 317 | 70.80 | 22.33
+>25,00,000 and <= 50,00,000 | 677 | 239.66 | 35.40
+>50,00,000 and <= 1,00,00,000 | 542 | 391.04 | 72.15
+>1,00,00,000 and <=5,00,00,000 | 606 | 1,322.08 | 218.17
+>5,00,00,000 and <=10,00,00,000 | 125 | 888.48 | 710.78
+>10,00,00,000 and <=25,00,00,000 | 80 | 1,248.65 | 1,560.82
+>25,00,00,000 and <=50,00,00,000 | 20 | 695.41 | 3,477.04
+>50,00,00,000 and <=100,00,00,000 | 11 | 688.25 | 6,256.84
+>100,00,00,000 and <=500,00,00,000 | 4 | 499.58 | 12,489.61
+>500,00,00,000 | - | - | -
+Total | 1,08,932 | 6,418.77
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after
+giving credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for
+taxes paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+63
+
+===== PAGE 65 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+6.Income Tax Returns - Company
+64
+
+===== PAGE 66 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+6.1 Company – Gross Total Income (AY 2019-20)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns | Total Income | Total Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 5,03,286 | - | -
+>0 and <=1,50,000 | 1,25,181 | 554.18 | 0.44
+>150,000 and <= 2,00,000 | 13,339 | 231.88 | 1.74
+>2,00,000 and <=2,50,000 | 10,814 | 242.16 | 2.24
+>2,50,000 and <= 3,50,000 | 17,138 | 510.60 | 2.98
+>3,50,000 and <= 4,00,000 | 6,967 | 261.00 | 3.75
+>4,00,000 and <= 4,50,000 | 6,420 | 272.33 | 4.24
+>4,50,000 and <= 5,00,000 | 5,947 | 282.30 | 4.75
+>5,00,000 and <= 5,50,000 | 5,199 | 272.75 | 5.25
+>5,50,000 and <= 9,50,000 | 30,500 | 2,235.08 | 7.33
+>9,50,000 and <= 10,00,000 | 3,037 | 296.10 | 9.75
+>10,00,000 and <=15,00,000 | 22,538 | 2,774.35 | 12.31
+>15,00,000 and <= 20,00,000 | 15,586 | 2,703.94 | 17.35
+>20,00,000 and <= 25,00,000 | 11,440 | 2,561.79 | 22.39
+>25,00,000 and <= 50,00,000 | 31,486 | 11,245.02 | 35.71
+>50,00,000 and <= 1,00,00,000 | 26,229 | 18,906.37 | 72.08
+>1,00,00,000 and <=5,00,00,000 | 32,208 | 72,012.48 | 223.59
+>5,00,00,000 and <=10,00,00,000 | 7,233 | 51,399.82 | 710.63
+>10,00,00,000 and <=25,00,00,000 | 5,522 | 86,662.50 | 1,569.40
+>25,00,00,000 and <=50,00,00,000 | 2,332 | 82,207.24 | 3,525.18
+>50,00,00,000 and <=100,00,00,000 | 1,406 | 98,511.64 | 7,006.52
+>100,00,00,000 and <=500,00,00,000 | 1,440 | 2,97,494.59 | 20,659.35
+>500,00,00,000 | 407 | 9,65,254.73 | 2,37,163.33
+Total | 8,85,655 | 16,96,892.86
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+65
+
+===== PAGE 67 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+6.2 Company- Range of House Property Income (AY 2019-20)
+Sum of House | Average House
+No. of
+Property Income | Property Income
+Returns
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 8,47,247 | - | -
+>0 and <=1,50,000 | 7,599 | 56.69 | 0.75
+>150,000 and <= 2,00,000 | 1,788 | 31.06 | 1.74
+>2,00,000 and <=2,50,000 | 1,630 | 36.22 | 2.22
+>2,50,000 and <= 3,50,000 | 2,846 | 84.84 | 2.98
+>3,50,000 and <= 4,00,000 | 1,067 | 40.03 | 3.75
+>4,00,000 and <= 4,50,000 | 1,223 | 51.71 | 4.23
+>4,50,000 and <= 5,00,000 | 913 | 43.23 | 4.74
+>5,00,000 and <= 5,50,000 | 915 | 47.82 | 5.23
+>5,50,000 and <= 9,50,000 | 4,928 | 357.80 | 7.26
+>9,50,000 and <= 10,00,000 | 400 | 39.01 | 9.75
+>10,00,000 and <=15,00,000 | 3,094 | 377.95 | 12.22
+>15,00,000 and <= 20,00,000 | 1,995 | 345.73 | 17.33
+>20,00,000 and <= 25,00,000 | 1,401 | 313.91 | 22.41
+>25,00,000 and <= 50,00,000 | 3,690 | 1,304.49 | 35.35
+>50,00,000 and <= 1,00,00,000 | 2,456 | 1,715.50 | 69.85
+>1,00,00,000 and <=5,00,00,000 | 2,058 | 4,042.45 | 196.43
+>5,00,00,000 and <=10,00,00,000 | 237 | 1,628.23 | 687.02
+>10,00,00,000 and <=25,00,00,000 | 114 | 1,648.22 | 1,445.80
+>25,00,00,000 and <=50,00,00,000 | 28 | 1,009.51 | 3,605.41
+>50,00,00,000 and <=100,00,00,000 | 21 | 1,482.96 | 7,061.74
+>100,00,00,000 and <=500,00,00,000 | 4 | 988.74 | 24,718.51
+>500,00,00,000 | 1 | 797.56 | 79,756.11
+Total | 8,85,655 | 16,443.68
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House Property
+Income (for ITR-1 & ITR-4). For other ITRs the same may be adjusted in Current Year
+Loss Adjustment or carried forward for future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e. “Sum of House Property Income” divided by total number of returns
+within the value range slab
+66
+
+===== PAGE 68 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+6.3 Company – Range of Business Income (AY 2019-20)
+Sum of | Average
+No. of | Business | Business
+Returns | Income (in | Income (in
+Range (in INR) | Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 4,94,682 | - | -
+>0 and <=1,50,000 | 1,36,282 | 594.21 | 0.44
+>150,000 and <= 2,00,000 | 14,155 | 246.11 | 1.74
+>2,00,000 and <=2,50,000 | 11,366 | 254.41 | 2.24
+>2,50,000 and <= 3,50,000 | 17,856 | 531.77 | 2.98
+>3,50,000 and <= 4,00,000 | 7,289 | 272.80 | 3.74
+>4,00,000 and <= 4,50,000 | 6,573 | 278.93 | 4.24
+>4,50,000 and <= 5,00,000 | 6,097 | 289.46 | 4.75
+>5,00,000 and <= 5,50,000 | 5,338 | 279.96 | 5.24
+>5,50,000 and <= 9,50,000 | 31,075 | 2,276.81 | 7.33
+>9,50,000 and <= 10,00,000 | 3,012 | 293.76 | 9.75
+>10,00,000 and <=15,00,000 | 22,803 | 2,805.98 | 12.31
+>15,00,000 and <= 20,00,000 | 15,603 | 2,707.98 | 17.36
+>20,00,000 and <= 25,00,000 | 11,277 | 2,524.00 | 22.38
+>25,00,000 and <= 50,00,000 | 31,114 | 11,079.59 | 35.61
+>50,00,000 and <= 1,00,00,000 | 24,876 | 17,884.42 | 71.89
+>1,00,00,000 and <=5,00,00,000 | 29,941 | 66,878.50 | 223.37
+>5,00,00,000 and <=10,00,00,000 | 6,526 | 46,248.43 | 708.68
+>10,00,00,000 and <=25,00,00,000 | 4,913 | 77,082.82 | 1,568.96
+>25,00,00,000 and <=50,00,00,000 | 2,119 | 74,454.25 | 3,513.65
+>50,00,00,000 and <=100,00,00,000 | 1,171 | 82,238.75 | 7,022.95
+>100,00,00,000 and <=500,00,00,000 | 1,228 | 2,52,435.62 | 20,556.65
+>500,00,00,000 | 359 | 8,78,368.94 | 2,44,671.01
+Total | 8,85,655 | 15,20,027.51
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab
+67
+
+===== PAGE 69 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+6.4 Company – Range of Long Term Capital Gains (AY 2019-20)
+Sum of Long | Average Long
+No. of | Term Capital | Term Capital
+Returns | Gains Income | Gains Income
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 8,70,878 | - | -
+>0 and <=1,50,000 | 3,629 | 17.78 | 0.49
+>150,000 and <= 2,00,000 | 431 | 7.56 | 1.75
+>2,00,000 and <=2,50,000 | 406 | 9.08 | 2.24
+>2,50,000 and <= 3,50,000 | 596 | 17.75 | 2.98
+>3,50,000 and <= 4,00,000 | 244 | 9.17 | 3.76
+>4,00,000 and <= 4,50,000 | 225 | 9.55 | 4.24
+>4,50,000 and <= 5,00,000 | 186 | 8.82 | 4.74
+>5,00,000 and <= 5,50,000 | 198 | 10.36 | 5.23
+>5,50,000 and <= 9,50,000 | 1,168 | 85.72 | 7.34
+>9,50,000 and <= 10,00,000 | 108 | 10.50 | 9.72
+>10,00,000 and <=15,00,000 | 875 | 108.07 | 12.35
+>15,00,000 and <= 20,00,000 | 648 | 111.98 | 17.28
+>20,00,000 and <= 25,00,000 | 510 | 114.10 | 22.37
+>25,00,000 and <= 50,00,000 | 1,423 | 506.68 | 35.61
+>50,00,000 and <= 1,00,00,000 | 1,280 | 911.06 | 71.18
+>1,00,00,000 and <=5,00,00,000 | 1,855 | 4,141.31 | 223.25
+>5,00,00,000 and <=10,00,00,000 | 369 | 2,606.26 | 706.30
+>10,00,00,000 and <=25,00,00,000 | 283 | 4,321.85 | 1,527.16
+>25,00,00,000 and <=50,00,00,000 | 119 | 4,107.35 | 3,451.55
+>50,00,00,000 and <=100,00,00,000 | 85 | 6,087.59 | 7,161.87
+>100,00,00,000 and <=500,00,00,000 | 109 | 22,982.65 | 21,085.00
+>500,00,00,000 | 30 | 43,055.03 | 1,43,516.78
+Total | 8,85,655 | 89,240.21
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income”
+divided by total number of returns within the value range slab
+68
+
+===== PAGE 70 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+6.5 Company – Range of Short Term Capital Gains (AY 2019-20)
+Sum of Short | Average Short
+Term Capital | Term
+No. of
+Gains Income | Capital Gains
+Returns
+(in Crore INR) | Income(in Lakh
+Range (in INR) | INR)
+< 0 | - | - | -
+= 0 | 8,61,123 | - | -
+>0 and <=1,50,000 | 9,513 | 42.99 | 0.45
+>150,000 and <= 2,00,000 | 1,014 | 17.69 | 1.74
+>2,00,000 and <=2,50,000 | 825 | 18.47 | 2.24
+>2,50,000 and <= 3,50,000 | 1,231 | 36.73 | 2.98
+>3,50,000 and <= 4,00,000 | 455 | 17.07 | 3.75
+>4,00,000 and <= 4,50,000 | 391 | 16.60 | 4.24
+>4,50,000 and <= 5,00,000 | 381 | 18.12 | 4.76
+>5,00,000 and <= 5,50,000 | 351 | 18.40 | 5.24
+>5,50,000 and <= 9,50,000 | 1,715 | 125.33 | 7.31
+>9,50,000 and <= 10,00,000 | 177 | 17.24 | 9.74
+>10,00,000 and <=15,00,000 | 1,243 | 153.02 | 12.31
+>15,00,000 and <= 20,00,000 | 830 | 144.01 | 17.35
+>20,00,000 and <= 25,00,000 | 617 | 138.33 | 22.42
+>25,00,000 and <= 50,00,000 | 1,665 | 594.81 | 35.72
+>50,00,000 and <= 1,00,00,000 | 1,304 | 917.91 | 70.39
+>1,00,00,000 and <=5,00,00,000 | 1,879 | 4,180.60 | 222.49
+>5,00,00,000 and <=10,00,00,000 | 386 | 2,723.84 | 705.66
+>10,00,00,000 and <=25,00,00,000 | 320 | 4,946.65 | 1,545.83
+>25,00,00,000 and <=50,00,00,000 | 110 | 3,908.21 | 3,552.92
+>50,00,00,000 and <=100,00,00,000 | 61 | 4,169.79 | 6,835.72
+>100,00,00,000 and <=500,00,00,000 | 56 | 12,293.14 | 21,952.03
+>500,00,00,000 | 8 | 6,571.11 | 82,138.87
+Total | 8,85,655 | 41,070.05
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital
+Gains Income within the value range slab i.e. “Sum of Short Term Capital Gains
+Income” divided by total number of returns within the value range slab
+69
+
+===== PAGE 71 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+6.6 Company – Range of Other Sources Income (AY 2019-20)
+Sum of Other | Average Other
+No. of
+Sources Income | Sources Income
+Returns
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 7,35,193 | - | -
+>0 and <=1,50,000 | 77,682 | 300.98 | 0.39
+>150,000 and <= 2,00,000 | 6,202 | 107.60 | 1.73
+>2,00,000 and <=2,50,000 | 4,871 | 109.18 | 2.24
+>2,50,000 and <= 3,50,000 | 7,119 | 211.47 | 2.97
+>3,50,000 and <= 4,00,000 | 2,784 | 104.30 | 3.75
+>4,00,000 and <= 4,50,000 | 2,469 | 104.82 | 4.25
+>4,50,000 and <= 5,00,000 | 2,123 | 100.61 | 4.74
+>5,00,000 and <= 5,50,000 | 1,907 | 100.14 | 5.25
+>5,50,000 and <= 9,50,000 | 9,820 | 713.95 | 7.27
+>9,50,000 and <= 10,00,000 | 818 | 79.77 | 9.75
+>10,00,000 and <=15,00,000 | 6,051 | 741.91 | 12.26
+>15,00,000 and <= 20,00,000 | 3,844 | 667.90 | 17.38
+>20,00,000 and <= 25,00,000 | 2,728 | 611.05 | 22.40
+>25,00,000 and <= 50,00,000 | 6,658 | 2,362.76 | 35.49
+>50,00,000 and <= 1,00,00,000 | 4,868 | 3,461.18 | 71.10
+>1,00,00,000 and <=5,00,00,000 | 6,561 | 14,553.85 | 221.82
+>5,00,00,000 and <=10,00,00,000 | 1,555 | 10,942.23 | 703.68
+>10,00,00,000 and <=25,00,00,000 | 1,228 | 19,004.86 | 1,547.63
+>25,00,00,000 and <=50,00,00,000 | 509 | 17,805.26 | 3,498.09
+>50,00,00,000 and <=100,00,00,000 | 353 | 24,569.68 | 6,960.25
+>100,00,00,000 and <=500,00,00,000 | 264 | 52,194.33 | 19,770.58
+>500,00,00,000 | 48 | 66,057.36 | 1,37,619.50
+Total | 8,85,655 | 2,14,905.22
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab
+70
+
+===== PAGE 72 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+6.7 Company – Range of Interest Income (AY 2019-20)
+Sum of Interest | Average Interest
+No. of
+Income (in Crore | Income (in Lakh
+Returns
+Range (in INR) | INR) | INR)
+< 0 | - | - | -
+= 0 | 7,46,939 | - | -
+>0 and <=1,50,000 | 75,071 | 290.50 | 0.39
+>150,000 and <= 2,00,000 | 5,955 | 103.33 | 1.74
+>2,00,000 and <=2,50,000 | 4,648 | 104.13 | 2.24
+>2,50,000 and <= 3,50,000 | 6,789 | 201.59 | 2.97
+>3,50,000 and <= 4,00,000 | 2,616 | 98.02 | 3.75
+>4,00,000 and <= 4,50,000 | 2,338 | 99.22 | 4.24
+>4,50,000 and <= 5,00,000 | 1,988 | 94.23 | 4.74
+>5,00,000 and <= 5,50,000 | 1,757 | 92.31 | 5.25
+>5,50,000 and <= 9,50,000 | 9,146 | 663.84 | 7.26
+>9,50,000 and <= 10,00,000 | 756 | 73.72 | 9.75
+>10,00,000 and <=15,00,000 | 5,547 | 678.97 | 12.24
+>15,00,000 and <= 20,00,000 | 3,448 | 598.60 | 17.36
+>20,00,000 and <= 25,00,000 | 2,435 | 544.83 | 22.37
+>25,00,000 and <= 50,00,000 | 5,782 | 2,047.15 | 35.41
+>50,00,000 and <= 1,00,00,000 | 3,924 | 2,777.83 | 70.79
+>1,00,00,000 and <=5,00,00,000 | 4,666 | 9,972.09 | 213.72
+>5,00,00,000 and <=10,00,00,000 | 838 | 5,901.98 | 704.29
+>10,00,00,000 and <=25,00,00,000 | 565 | 8,750.48 | 1,548.76
+>25,00,00,000 and <=50,00,00,000 | 214 | 7,547.72 | 3,526.97
+>50,00,00,000 and <=100,00,00,000 | 142 | 9,696.52 | 6,828.54
+>100,00,00,000 and <=500,00,00,000 | 80 | 14,805.29 | 18,506.61
+>500,00,00,000 | 11 | 7,058.67 | 64,169.72
+Total | 8,85,655 | 72,201.01
+Notes
+1. The Interest Income is already included in the Income from other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+4. The “Average Interest Income” is the average Interest Income within the value range
+slab i.e. “Sum of Interest Income” divided by total number of returns within the value
+range slab.
+71
+
+===== PAGE 73 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+6.8 Company – Range of Total Loss Set off (AY 2019-20)
+Sum of Total | Average Total
+No. of
+Loss Set Off | Loss Set off
+Returns
+Range (in INR) | (in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 7,17,495 | - | -
+>0 and <=1,50,000 | 81,661 | 332.48 | 0.41
+>150,000 and <= 2,00,000 | 7,371 | 128.68 | 1.75
+>2,00,000 and <=2,50,000 | 5,624 | 125.98 | 2.24
+>2,50,000 and <= 3,50,000 | 8,425 | 250.51 | 2.97
+>3,50,000 and <= 4,00,000 | 3,368 | 126.08 | 3.74
+>4,00,000 and <= 4,50,000 | 2,877 | 122.08 | 4.24
+>4,50,000 and <= 5,00,000 | 2,482 | 117.73 | 4.74
+>5,00,000 and <= 5,50,000 | 2,253 | 118.20 | 5.25
+>5,50,000 and <= 9,50,000 | 12,289 | 893.89 | 7.27
+>9,50,000 and <= 10,00,000 | 1,074 | 104.61 | 9.74
+>10,00,000 and <=15,00,000 | 7,726 | 946.51 | 12.25
+>15,00,000 and <= 20,00,000 | 4,835 | 839.44 | 17.36
+>20,00,000 and <= 25,00,000 | 3,444 | 768.59 | 22.32
+>25,00,000 and <= 50,00,000 | 8,617 | 3,034.21 | 35.21
+>50,00,000 and <= 1,00,00,000 | 5,898 | 4,170.85 | 70.72
+>1,00,00,000 and <=5,00,00,000 | 6,961 | 15,129.91 | 217.35
+>5,00,00,000 and <=10,00,00,000 | 1,352 | 9,524.83 | 704.50
+>10,00,00,000 and <=25,00,00,000 | 1,020 | 15,937.37 | 1,562.49
+>25,00,00,000 and <=50,00,00,000 | 440 | 15,233.43 | 3,462.14
+>50,00,00,000 and <=100,00,00,000 | 225 | 15,650.18 | 6,955.64
+>100,00,00,000 and <=500,00,00,000 | 178 | 37,179.36 | 20,887.28
+>500,00,00,000 | 40 | 64,058.92 | 1,60,147.31
+Total | 8,85,655 | 1,84,793.81
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses
+set off against current year’s income in the “Computation of total income” Schedule of
+return of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value
+range slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the
+value range slab
+72
+
+===== PAGE 74 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+6.9 Company – Range of Returned Income (AY 2019-20)
+Sum of | Average
+No. of | Returned | Returned
+Range (in INR)
+Returns | Income (in | Income (in
+Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 5,05,544 | - | -
+>0 and <=1,50,000 | 1,23,870 | 553.11 | 0.45
+>150,000 and <= 2,00,000 | 13,299 | 231.19 | 1.74
+>2,00,000 and <=2,50,000 | 10,817 | 242.24 | 2.24
+>2,50,000 and <= 3,50,000 | 17,123 | 510.22 | 2.98
+>3,50,000 and <= 4,00,000 | 6,973 | 261.25 | 3.75
+>4,00,000 and <= 4,50,000 | 6,409 | 271.88 | 4.24
+>4,50,000 and <= 5,00,000 | 5,950 | 282.42 | 4.75
+>5,00,000 and <= 5,50,000 | 5,193 | 272.41 | 5.25
+>5,50,000 and <= 9,50,000 | 30,541 | 2,238.21 | 7.33
+>9,50,000 and <= 10,00,000 | 3,011 | 293.57 | 9.75
+>10,00,000 and <=15,00,000 | 22,515 | 2,770.94 | 12.31
+>15,00,000 and <= 20,00,000 | 15,611 | 2,708.27 | 17.35
+>20,00,000 and <= 25,00,000 | 11,441 | 2,561.98 | 22.39
+>25,00,000 and <= 50,00,000 | 31,420 | 11,220.83 | 35.71
+>50,00,000 and <= 1,00,00,000 | 26,209 | 18,893.83 | 72.09
+>1,00,00,000 and <=5,00,00,000 | 31,924 | 71,331.69 | 223.44
+>5,00,00,000 and <=10,00,00,000 | 7,108 | 50,392.65 | 708.96
+>10,00,00,000 and <=25,00,00,000 | 5,381 | 84,418.19 | 1,568.82
+>25,00,00,000 and <=50,00,00,000 | 2,257 | 79,423.93 | 3,519.00
+>50,00,00,000 and <=100,00,00,000 | 1,333 | 93,044.19 | 6,980.06
+>100,00,00,000 and <=500,00,00,000 | 1,357 | 2,76,837.73 | 20,400.72
+>500,00,00,000 | 369 | 8,36,465.68 | 2,26,684.46
+Total | 8,85,655 | 15,35,226.40
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+73
+
+===== PAGE 75 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+6.10 Company – Range of Tax Payable (AY 2019-20)
+Sum of Tax | Average Tax
+No. of
+Payable (in | Payable (in
+Returns
+Range (in INR) | Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 3,92,128 | - | -
+>0 and <=1,50,000 | 2,86,605 | 837.47 | 0.29
+>150,000 and <= 2,00,000 | 18,187 | 315.91 | 1.74
+>2,00,000 and <=2,50,000 | 14,073 | 315.06 | 2.24
+>2,50,000 and <= 3,50,000 | 21,577 | 640.90 | 2.97
+>3,50,000 and <= 4,00,000 | 8,241 | 308.66 | 3.75
+>4,00,000 and <= 4,50,000 | 7,152 | 303.45 | 4.24
+>4,50,000 and <= 5,00,000 | 6,331 | 300.47 | 4.75
+>5,00,000 and <= 5,50,000 | 5,572 | 292.31 | 5.25
+>5,50,000 and <= 9,50,000 | 29,426 | 2,139.18 | 7.27
+>9,50,000 and <= 10,00,000 | 2,513 | 245.00 | 9.75
+>10,00,000 and <=15,00,000 | 18,724 | 2,300.17 | 12.28
+>15,00,000 and <= 20,00,000 | 11,671 | 2,023.51 | 17.34
+>20,00,000 and <= 25,00,000 | 7,981 | 1,791.86 | 22.45
+>25,00,000 and <= 50,00,000 | 18,718 | 6,689.42 | 35.74
+>50,00,000 and <= 1,00,00,000 | 13,607 | 9,573.20 | 70.35
+>1,00,00,000 and <=5,00,00,000 | 15,894 | 34,149.70 | 214.86
+>5,00,00,000 and <=10,00,00,000 | 2,985 | 20,900.71 | 700.19
+>10,00,00,000 and <=25,00,00,000 | 2,231 | 34,376.79 | 1,540.87
+>25,00,00,000 and <=50,00,00,000 | 927 | 32,894.89 | 3,548.53
+>50,00,00,000 and <=100,00,00,000 | 539 | 37,660.91 | 6,987.18
+>100,00,00,000 and <=500,00,00,000 | 456 | 92,148.76 | 20,208.06
+>500,00,00,000 | 117 | 1,96,892.79 | 1,68,284.44
+Total | 8,85,655 | 4,77,101.16
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after
+giving credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for
+taxes paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+74
+
+===== PAGE 76 =====
+Income Tax Return Statistics | Assessment Year 2019-20 | Version 1.0
+7.Type of Business
+75
+
+===== PAGE 77 =====
+7.1 | Type of Business –Corporate and Non- corporate Taxpayers (AY 2019-20)
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+1 | OTHERS-Share of Income from firm only. | - | 11,11,990 | 11,11,990
+2 | OTHERS-Not Applicable | - | 19,590 | 19,590
+AGRICULTURE, ANIMAL HUBANDRY AND
+1001 | 1,177 | 5,910 | 7,087
+FORESTRY-Growing and manufacturing of tea
+AGRICULTURE, ANIMAL HUBANDRY AND
+1002 | 137 | 299 | 436
+FORESTRY-Growing and manufacturing of coffee
+AGRICULTURE, ANIMAL HUBANDRY AND
+1003 | 90 | 389 | 479
+FORESTRY-Growing and manufacturing of rubber
+AGRICULTURE, ANIMAL HUBANDRY AND
+1004 | FORESTRY-Market gardening and horticulture | 246 | 995 | 1,241
+specialties
+AGRICULTURE, ANIMAL HUBANDRY AND
+1005 | FORESTRY-Raising of silk worms and production of | 14 | 219 | 233
+silk
+AGRICULTURE, ANIMAL HUBANDRY AND
+1006 | 34 | 331 | 365
+FORESTRY-Raising of bees and production of honey
+AGRICULTURE, ANIMAL HUBANDRY AND
+1007 | FORESTRY-Raising of poultry and production of | 618 | 8,824 | 9,442
+eggs
+AGRICULTURE, ANIMAL HUBANDRY AND
+1008 | FORESTRY-Rearing of sheep and production of | 18 | 300 | 318
+wool
+AGRICULTURE, ANIMAL HUBANDRY AND
+1009 | FORESTRY-Rearing of animals and production of | 160 | 6,035 | 6,195
+animal products
+AGRICULTURE, ANIMAL HUBANDRY AND
+1010 | FORESTRY-Agricultural and animal husbandry | 4,210 | 34,521 | 38,731
+services
+AGRICULTURE, ANIMAL HUBANDRY AND
+1011 | FORESTRY-Soil conservation, soil testing and soil | 28 | 182 | 210
+desalination services
+AGRICULTURE, ANIMAL HUBANDRY AND
+1012 | FORESTRY-Hunting, trapping and game propagation | 11 | 51 | 62
+services
+AGRICULTURE, ANIMAL HUBANDRY AND
+1013 | FORESTRY-Growing of timber, plantation, operation | 242 | 1,222 | 1,464
+of tree nurseries and conserving of forest
+AGRICULTURE, ANIMAL HUBANDRY AND
+1014 | 6 | 292 | 298
+FORESTRY-Gathering of tendu leaves
+AGRICULTURE, ANIMAL HUBANDRY AND
+1015 | FORESTRY-Gathering of other wild growing | 13 | 82 | 95
+materials
+AGRICULTURE, ANIMAL HUBANDRY AND
+1016 | FORESTRY-Forestry service activities, timber | 46 | 521 | 567
+cruising, afforestation and reforestation
+AGRICULTURE, ANIMAL HUBANDRY AND
+1017 | 19 | 247 | 266
+FORESTRY-Logging service activities, transport of
+76
+
+===== PAGE 78 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+logs within the forest
+AGRICULTURE, ANIMAL HUBANDRY AND
+1018 | FORESTRY-Other agriculture, animal husbandry or | 6,428 | 27,154 | 33,582
+forestry activity n.e.c
+FISH FARMING-Fishing on commercial basis in
+2001 | 55 | 1,315 | 1,370
+inland waters
+FISH FARMING-Fishing on commercial basis in
+2002 | 31 | 2,395 | 2,426
+ocean and coastal areas
+2003 | FISH FARMING-Fish farming | 256 | 7,152 | 7,408
+FISH FARMING-Gathering of marine materials such
+2004 | 17 | 926 | 943
+as natural pearls, sponges, coral etc.
+FISH FARMING-Services related to marine and fresh
+2005 | 90 | 665 | 755
+water fisheries, fish hatcheries and fish farms
+2006 | FISH FARMING-Other Fish farming activity n.e.c | 269 | 5,508 | 5,777
+MINING AND QUARRYING-Mining and
+3001 | 181 | 255 | 436
+agglomeration of hard coal
+MINING AND QUARRYING-Mining and
+3002 | 39 | 144 | 183
+agglomeration of lignite
+MINING AND QUARRYING-Extraction and
+3003 | 19 | 84 | 103
+agglomeration of peat
+MINING AND QUARRYING-Extraction of crude
+3004 | 136 | 186 | 322
+petroleum and natural gas
+MINING AND QUARRYING-Service activities
+3005 | incidental to oil and gas extraction excluding | 242 | 365 | 607
+surveying
+MINING AND QUARRYING-Mining of uranium and
+3006 | 14 | 19 | 33
+thorium ores
+3007 | MINING AND QUARRYING-Mining of iron ores | 202 | 299 | 501
+MINING AND QUARRYING-Mining of nonferrous
+3008 | 50 | 98 | 148
+metal ores, except uranium and thorium ores
+3009 | MINING AND QUARRYING-Mining of gemstones | 19 | 71 | 90
+MINING AND QUARRYING-Mining of chemical and
+3010 | 49 | 246 | 295
+fertilizer minerals
+MINING AND QUARRYING-Mining of quarrying of
+3011 | 34 | 190 | 224
+abrasive materials
+77
+
+===== PAGE 79 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+MINING AND QUARRYING-Mining of mica, graphite
+3012 | 16 | 62 | 78
+and asbestos
+MINING AND QUARRYING-Quarrying of stones
+3013 | 915 | 4,997 | 5,912
+(marble/granite/dolomite), sand and clay
+MINING AND QUARRYING-Other mining and
+3014 | 1,004 | 3,670 | 4,674
+quarrying
+MINING AND QUARRYING-Mining and production of
+3015 | 94 | 288 | 382
+salt
+MINING AND QUARRYING-Other mining and
+3016 | 1,017 | 3,984 | 5,001
+quarrying n.e.c
+MANUFACTURING-Production, processing and
+4001 | 284 | 963 | 1,247
+preservation of meat and meat products
+MANUFACTURING-Production, processing and
+4002 | 235 | 441 | 676
+preservation of fish and fish products
+MANUFACTURING-Manufacture of vegetable oil,
+4003 | 731 | 2,294 | 3,025
+animal oil and fats
+MANUFACTURING-Processing of fruits, vegetables
+4004 | 572 | 2,453 | 3,025
+and edible nuts
+4005 | MANUFACTURING-Manufacture of dairy products | 848 | 8,173 | 9,021
+4006 | MANUFACTURING-Manufacture of sugar | 422 | 452 | 874
+MANUFACTURING-Manufacture of cocoa,
+4007 | 241 | 808 | 1,049
+chocolates and sugar confectionery
+4008 | MANUFACTURING-Flour milling | 1,019 | 4,691 | 5,710
+4009 | MANUFACTURING-Rice milling | 1,566 | 19,779 | 21,345
+4010 | MANUFACTURING-Dal milling | 228 | 3,754 | 3,982
+MANUFACTURING-Manufacture of other grain mill
+4011 | 296 | 1,961 | 2,257
+products
+4012 | MANUFACTURING-Manufacture of bakery products | 756 | 5,310 | 6,066
+4013 | MANUFACTURING-Manufacture of starch products | 72 | 325 | 397
+78
+
+===== PAGE 80 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+4014 | MANUFACTURING-Manufacture of animal feeds | 521 | 2,268 | 2,789
+MANUFACTURING-Manufacture of other food
+4015 | 3,693 | 15,161 | 18,854
+products
+4016 | MANUFACTURING-Manufacturing of wines | 160 | 123 | 283
+4017 | MANUFACTURING-Manufacture of beer | 109 | 87 | 196
+4018 | MANUFACTURING-Manufacture of malt liquors | 113 | 47 | 160
+MANUFACTURING-Distilling and blending of spirits,
+4019 | 248 | 138 | 386
+production of ethyl alcohol
+4020 | MANUFACTURING-Manufacture of mineral water | 490 | 1,795 | 2,285
+4021 | MANUFACTURING-Manufacture of soft drinks | 155 | 484 | 639
+MANUFACTURING-Manufacture of other non-
+4022 | 267 | 288 | 555
+alcoholic beverages
+4023 | MANUFACTURING-Manufacture of tobacco products | 355 | 1,772 | 2,127
+MANUFACTURING-Manufacture of textiles (other
+4024 | 8,670 | 87,334 | 96,004
+than by handloom)
+MANUFACTURING-Manufacture of textiles using
+4025 | 1,042 | 7,966 | 9,008
+handlooms (khadi)
+MANUFACTURING-Manufacture of carpet, rugs,
+4026 | 179 | 1,135 | 1,314
+blankets, shawls etc. (other than by hand)
+MANUFACTURING-Manufacture of carpet, rugs,
+4027 | 85 | 1,420 | 1,505
+blankets, shawls etc. by hand
+4028 | MANUFACTURING-Manufacture of wearing apparel | 1,788 | 20,749 | 22,537
+4029 | MANUFACTURING-Tanning and dressing of leather | 207 | 1,969 | 2,176
+MANUFACTURING-Manufacture of luggage,
+4030 | 208 | 1,327 | 1,535
+handbags and the like saddler and harness
+4031 | MANUFACTURING-Manufacture of footwear | 734 | 3,764 | 4,498
+79
+
+===== PAGE 81 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+MANUFACTURING-Manufacture of wood and wood
+4032 | 684 | 7,438 | 8,122
+products, cork, straw and plaiting material
+MANUFACTURING-Manufacture of paper and paper
+4033 | 2,505 | 10,205 | 12,710
+products
+MANUFACTURING-Publishing, printing and
+4034 | 1,915 | 10,049 | 11,964
+reproduction of recorded media
+MANUFACTURING-Manufacture of coke oven
+4035 | 120 | 209 | 329
+products
+MANUFACTURING-Manufacture of refined
+4036 | 323 | 336 | 659
+petroleum products
+4037 | MANUFACTURING-Processing of nuclear fuel | 20 | 17 | 37
+MANUFACTURING-Manufacture of fertilizers and
+4038 | 1,013 | 1,114 | 2,127
+nitrogen compounds
+MANUFACTURING-Manufacture of plastics in
+4039 | 330 | 1,681 | 2,011
+primary forms and of synthetic rubber
+MANUFACTURING-Manufacture of paints, varnishes
+4040 | 717 | 1,736 | 2,453
+and similar coatings
+MANUFACTURING-Manufacture of pharmaceuticals,
+4041 | 5,725 | 3,445 | 9,170
+medicinal chemicals and botanical products
+MANUFACTURING-Manufacture of soap and
+4042 | 282 | 1,482 | 1,764
+detergents
+MANUFACTURING-Manufacture of other chemical
+4043 | 3,683 | 6,155 | 9,838
+products
+4044 | MANUFACTURING-Manufacture of man-made fibers | 110 | 577 | 687
+4045 | MANUFACTURING-Manufacture of rubber products | 1,119 | 3,391 | 4,510
+4046 | MANUFACTURING-Manufacture of plastic products | 2,970 | 15,961 | 18,931
+MANUFACTURING-Manufacture of glass and glass
+4047 | 347 | 1,060 | 1,407
+products
+MANUFACTURING-Manufacture of cement, lime and
+4048 | 673 | 1,089 | 1,762
+plaster
+MANUFACTURING-Manufacture of articles of
+4049 | 396 | 3,004 | 3,400
+concrete, cement and plaster
+4050 | MANUFACTURING-Manufacture of Bricks | 487 | 21,869 | 22,356
+MANUFACTURING-Manufacture of other clay and
+4051 | 798 | 2,391 | 3,189
+ceramic products
+MANUFACTURING-Manufacture of other non-
+4052 | 216 | 881 | 1,097
+metallic mineral products
+MANUFACTURING-Manufacture of pig iron, sponge
+4053 | 354 | 432 | 786
+iron, Direct Reduced Iron etc.
+4054 | MANUFACTURING-Manufacture of Ferro alloys | 334 | 435 | 769
+80
+
+===== PAGE 82 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+MANUFACTURING-Manufacture of Ingots, billets,
+4055 | 629 | 623 | 1,252
+blooms and slabs etc.
+4056 | MANUFACTURING-Manufacture of steel products | 3,985 | 10,403 | 14,388
+MANUFACTURING-Manufacture of basic precious
+4057 | 247 | 2,154 | 2,401
+and non-ferrous metals
+MANUFACTURING-Manufacture of non-metallic
+4058 | 231 | 859 | 1,090
+mineral products
+4059 | MANUFACTURING-Casting of metals | 857 | 4,318 | 5,175
+MANUFACTURING-Manufacture of fabricated metal
+4060 | 1,617 | 10,578 | 12,195
+products
+MANUFACTURING-Manufacture of engines and
+4061 | 215 | 481 | 696
+turbines
+MANUFACTURING-Manufacture of pumps and
+4062 | 402 | 1,318 | 1,720
+compressors
+MANUFACTURING-Manufacture of bearings and
+4063 | 276 | 819 | 1,095
+gears
+MANUFACTURING-Manufacture of ovens and
+4064 | 100 | 204 | 304
+furnaces
+MANUFACTURING-Manufacture of lifting and
+4065 | 351 | 592 | 943
+handling equipment
+MANUFACTURING-Manufacture of other general-
+4066 | 732 | 3,511 | 4,243
+purpose machinery
+MANUFACTURING-Manufacture of agricultural and
+4067 | 543 | 3,266 | 3,809
+forestry machinery
+4068 | MANUFACTURING-Manufacture of Machine Tools | 1,809 | 12,426 | 14,235
+MANUFACTURING-Manufacture of machinery for
+4069 | 54 | 216 | 270
+metallurgy
+MANUFACTURING-Manufacture of machinery for
+4070 | 205 | 496 | 701
+mining, quarrying and constructions
+MANUFACTURING-Manufacture of machinery for
+4071 | 228 | 686 | 914
+processing of food and beverages
+MANUFACTURING-Manufacture of machinery for
+4072 | 139 | 827 | 966
+leather and textile
+MANUFACTURING-Manufacture of weapons and
+4073 | 44 | 60 | 104
+ammunition
+MANUFACTURING-Manufacture of other special
+4074 | 752 | 1,401 | 2,153
+purpose machinery
+MANUFACTURING-Manufacture of domestic
+4075 | 323 | 1,295 | 1,618
+appliances
+MANUFACTURING-Manufacture of office,
+4076 | 39 | 126 | 165
+accounting and computing machinery
+MANUFACTURING-Manufacture of electrical
+4077 | 2,124 | 4,334 | 6,458
+machinery and apparatus
+MANUFACTURING-Manufacture of Radio,
+4078 | Television, communication equipment and | 242 | 253 | 495
+apparatus
+81
+
+===== PAGE 83 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+MANUFACTURING-Manufacture of medical and
+4079 | 654 | 1,024 | 1,678
+surgical equipment
+MANUFACTURING-Manufacture of industrial
+4080 | 566 | 1,603 | 2,169
+process control equipment
+MANUFACTURING-Manufacture of instruments
+4081 | and appliances for measurements and | 137 | 269 | 406
+navigation
+MANUFACTURING-Manufacture of optical
+4082 | 50 | 235 | 285
+instruments
+MANUFACTURING-Manufacture of watches
+4083 | 37 | 200 | 237
+and clocks
+MANUFACTURING-Manufacture of motor
+4084 | 319 | 248 | 567
+vehicles
+MANUFACTURING-Manufacture of body of
+4085 | 247 | 934 | 1,181
+motor vehicles
+MANUFACTURING-Manufacture of parts &
+4086 | 3,160 | 5,363 | 8,523
+accessories of motor vehicles & engines
+MANUFACTURING-Building & repair of ships
+4087 | 100 | 283 | 383
+and boats
+MANUFACTURING-Manufacture of railway
+4088 | 115 | 156 | 271
+locomotive and rolling stocks
+MANUFACTURING-Manufacture of aircraft and
+4089 | 75 | 34 | 109
+spacecraft
+4090 | MANUFACTURING-Manufacture of bicycles | 81 | 469 | 550
+MANUFACTURING-Manufacture of other
+4091 | 114 | 247 | 361
+transport equipment
+4092 | MANUFACTURING-Manufacture of furniture | 770 | 8,657 | 9,427
+4093 | MANUFACTURING-Manufacture of jewellery | 1,434 | 36,944 | 38,378
+MANUFACTURING-Manufacture of sports
+4094 | 102 | 659 | 761
+goods
+MANUFACTURING-Manufacture of musical
+4095 | 22 | 157 | 179
+instruments
+MANUFACTURING-Manufacture of games and
+4096 | 78 | 430 | 508
+toys
+4097 | MANUFACTURING-Other manufacturing n.e.c. | 57,781 | 2,66,730 | 3,24,511
+MANUFACTURING-Recycling of metal waste
+4098 | 175 | 1,247 | 1,422
+and scrap
+MANUFACTURING-Recycling of non-metal
+4099 | 148 | 974 | 1,122
+waste and scrap
+ELECTRICITY, GAS AND WATER-Production,
+5001 | 4,744 | 1,049 | 5,793
+collection and distribution of electricity
+5002 | ELECTRICITY, GAS AND WATER-Manufacture | 261 | 1,501 | 1,762
+82
+
+===== PAGE 84 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+and distribution of gas
+ELECTRICITY, GAS AND WATER-Collection,
+5003 | 130 | 954 | 1,084
+purification and distribution of water
+ELECTRICITY, GAS AND WATER-Other
+5004 | 2,196 | 14,419 | 16,615
+essential commodity service n.e.c
+6001 | CONSTRUCTION-Site preparation works | 1,936 | 18,231 | 20,167
+CONSTRUCTION-Building of complete
+6002 | 18,661 | 1,24,439 | 1,43,100
+constructions or parts civil contractors
+6003 | CONSTRUCTION-Building installation | 707 | 2,697 | 3,404
+6004 | CONSTRUCTION-Building completion | 6,486 | 22,240 | 28,726
+CONSTRUCTION-Construction and
+6005 | maintenance of roads, rails, bridges, tunnels, | 4,738 | 35,609 | 40,347
+ports, harbour, runways etc.
+CONSTRUCTION-Construction and
+6006 | 717 | 1,884 | 2,601
+maintenance of power plants
+CONSTRUCTION-Construction and
+6007 | 455 | 3,259 | 3,714
+maintenance of industrial plants
+CONSTRUCTION-Construction and
+6008 | maintenance of power transmission and | 661 | 3,073 | 3,734
+telecommunication lines
+CONSTRUCTION-Construction of water ways
+6009 | 186 | 2,322 | 2,508
+and water reservoirs
+CONSTRUCTION-Other construction activity
+6010 | 36,494 | 2,44,848 | 2,81,342
+n.e.c.
+REAL ESTATE AND RENTING SERVICES-
+7001 | Purchase, sale and letting of leased | 5,859 | 10,796 | 16,655
+buildings(residential and nonresidential)
+REAL ESTATE AND RENTING SERVICES-
+7002 | Operating of real estate of self-owned | 3,385 | 5,608 | 8,993
+buildings(residential and nonresidential)
+REAL ESTATE AND RENTING SERVICES-
+7003 | 9,306 | 14,928 | 24,234
+Developing and sub-dividing real estate into lots
+REAL ESTATE AND RENTING SERVICES-
+7004 | 5,970 | 19,502 | 25,472
+Real estate activities on a fee or contract basis
+REAL ESTATE AND RENTING SERVICES-
+7005 | 36,580 | 47,556 | 84,136
+Other real estate/renting services n.e.c
+RENTING OF MACHINERY-Renting of land
+8001 | 183 | 4,584 | 4,767
+transport equipment
+RENTING OF MACHINERY-Renting of water
+8002 | 31 | 227 | 258
+transport equipment
+RENTING OF MACHINERY-Renting of air
+8003 | 161 | 145 | 306
+transport equipment
+83
+
+===== PAGE 85 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+RENTING OF MACHINERY-Renting of
+8004 | 43 | 1,488 | 1,531
+agricultural machinery and equipment
+RENTING OF MACHINERY-Renting of
+8005 | 226 | 3,147 | 3,373
+construction and civil engineering machinery
+RENTING OF MACHINERY-Renting of office
+8006 | 168 | 1,157 | 1,325
+machinery and equipment
+RENTING OF MACHINERY-Renting of other
+8007 | 393 | 4,437 | 4,830
+machinery and equipment n.e.c.
+RENTING OF MACHINERY-Renting of personal
+8008 | 113 | 2,057 | 2,170
+and household goods n.e.c.
+RENTING OF MACHINERY-Renting of other
+8009 | 637 | 9,048 | 9,685
+machinery n.e.c.
+WHOLESALE AND RETAIL TRADE-Wholesale
+9001 | 3,322 | 16,925 | 20,247
+and retail sale of motor vehicles
+WHOLESALE AND RETAIL TRADE-Repair and
+9002 | 481 | 14,730 | 15,211
+maintenance of motor vehicles
+WHOLESALE AND RETAIL TRADE-Sale of
+9003 | motor parts and accessories wholesale and | 1,305 | 24,038 | 25,343
+retail
+WHOLESALE AND RETAIL TRADE-Retail sale
+9004 | 378 | 39,916 | 40,294
+of automotive fuel
+WHOLESALE AND RETAIL TRADE-General
+9005 | commission agents, commodity brokers and | 4,107 | 6,92,057 | 6,96,164
+auctioneers
+WHOLESALE AND RETAIL TRADE-Wholesale
+9006 | 2,263 | 47,496 | 49,759
+of agricultural raw material
+WHOLESALE AND RETAIL TRADE-Wholesale
+9007 | 1,439 | 26,103 | 27,542
+of food & beverages and tobacco
+WHOLESALE AND RETAIL TRADE-Wholesale
+9008 | 643 | 18,655 | 19,298
+of household goods
+WHOLESALE AND RETAIL TRADE-Wholesale
+9009 | 1,923 | 15,556 | 17,479
+of metals and metal ores
+WHOLESALE AND RETAIL TRADE-Wholesale
+9010 | 379 | 9,422 | 9,801
+of household goods
+WHOLESALE AND RETAIL TRADE-Wholesale
+9011 | 1,133 | 31,229 | 32,362
+of construction material
+WHOLESALE AND RETAIL TRADE-Wholesale
+9012 | 585 | 17,253 | 17,838
+of hardware and sanitary fittings
+WHOLESALE AND RETAIL TRADE-Wholesale
+9013 | 669 | 7,107 | 7,776
+of cotton and jute
+WHOLESALE AND RETAIL TRADE-Wholesale
+9014 | 59 | 1,833 | 1,892
+of raw wool and raw silk
+WHOLESALE AND RETAIL TRADE-Wholesale
+9015 | 2,869 | 37,356 | 40,225
+of other textile fibres
+84
+
+===== PAGE 86 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+WHOLESALE AND RETAIL TRADE-Wholesale
+9016 | 1,455 | 9,403 | 10,858
+of industrial chemicals
+WHOLESALE AND RETAIL TRADE-Wholesale
+9017 | 838 | 18,804 | 19,642
+of fertilizers and pesticides
+WHOLESALE AND RETAIL TRADE-Wholesale
+9018 | 3,050 | 22,200 | 25,250
+of electronic parts & equipment
+WHOLESALE AND RETAIL TRADE-Wholesale
+9019 | 2,504 | 12,259 | 14,763
+of other machinery, equipment and supplies
+WHOLESALE AND RETAIL TRADE-Wholesale
+9020 | 569 | 17,349 | 17,918
+of waste, scrap & materials for recycling
+WHOLESALE AND RETAIL TRADE-Retail sale
+9021 | of food, beverages and tobacco in specialized | 777 | 28,905 | 29,682
+stores
+WHOLESALE AND RETAIL TRADE-Retail sale
+9022 | 429 | 25,084 | 25,513
+of other goods in specialized stores
+WHOLESALE AND RETAIL TRADE-Retail sale
+9023 | 694 | 67,308 | 68,002
+in non-specialized stores
+WHOLESALE AND RETAIL TRADE-Retail sale
+9024 | 5,418 | 1,34,201 | 1,39,619
+of textiles, apparel, footwear, leather goods
+WHOLESALE AND RETAIL TRADE-Retail sale
+9025 | 657 | 25,566 | 26,223
+of other household appliances
+WHOLESALE AND RETAIL TRADE-Retail sale
+9026 | 394 | 37,307 | 37,701
+of hardware, paint and glass
+WHOLESALE AND RETAIL TRADE-Wholesale
+9027 | 59,269 | 8,05,482 | 8,64,751
+of other products n.e.c
+WHOLESALE AND RETAIL TRADE-Retail sale
+9028 | 67,912 | 20,67,257 | 21,35,169
+of other products n.e.c
+HOTELS, RESTAURANTS AND HOSPITALITY
+10001 | 1,808 | 1,919 | 3,727
+SERVICES-Hotels Star rated
+HOTELS, RESTAURANTS AND HOSPITALITY
+10002 | 5,556 | 27,114 | 32,670
+SERVICES-Hotels Nonstar rated
+HOTELS, RESTAURANTS AND HOSPITALITY
+10003 | 249 | 1,224 | 1,473
+SERVICES-Motels, Inns and Dharmshalas
+HOTELS, RESTAURANTS AND HOSPITALITY
+10004 | 380 | 4,154 | 4,534
+SERVICES-Guest houses and circuit houses
+HOTELS, RESTAURANTS AND HOSPITALITY
+10005 | SERVICES-Dormitories and hostels at | 62 | 887 | 949
+educational institutions
+HOTELS, RESTAURANTS AND HOSPITALITY
+10006 | 551 | 4,315 | 4,866
+SERVICES-Short stay accommodations n.e.c.
+HOTELS, RESTAURANTS AND HOSPITALITY
+10007 | 1,458 | 9,201 | 10,659
+SERVICES-Restaurants with bars
+HOTELS, RESTAURANTS AND HOSPITALITY
+10008 | 2,487 | 21,058 | 23,545
+SERVICES-Restaurants without bars
+85
+
+===== PAGE 87 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+HOTELS, RESTAURANTS AND HOSPITALITY
+10009 | 285 | 11,162 | 11,447
+SERVICES-Canteens
+HOTELS, RESTAURANTS AND HOSPITALITY
+10010 | 391 | 13,705 | 14,096
+SERVICES-Independent caterers
+HOTELS, RESTAURANTS AND HOSPITALITY
+10011 | 43 | 109 | 152
+SERVICES-Casinos and other games of chance
+HOTELS, RESTAURANTS AND HOSPITALITY
+10012 | 5,466 | 18,118 | 23,584
+SERVICES-Other hospitality services n.e.c.
+TRANSPORT AND LOGISTICS SERVICES-
+11001 | 6,281 | 43,374 | 49,655
+Travel agencies and tour operators
+TRANSPORT AND LOGISTICS SERVICES-
+11002 | 197 | 1,725 | 1,922
+Packers and movers
+TRANSPORT AND LOGISTICS SERVICES-
+11003 | 542 | 16,575 | 17,117
+Passenger land transport
+TRANSPORT AND LOGISTICS SERVICES-Air
+11004 | 362 | 221 | 583
+transport
+TRANSPORT AND LOGISTICS SERVICES-
+11005 | 56 | 752 | 808
+Transport by urban/suburban railways
+TRANSPORT AND LOGISTICS SERVICES-
+11006 | 82 | 335 | 417
+Inland water transport
+TRANSPORT AND LOGISTICS SERVICES-
+11007 | 333 | 275 | 608
+Sea and coastal water transport
+TRANSPORT AND LOGISTICS SERVICES-
+11008 | 3,672 | 83,861 | 87,533
+Freight transport by road
+TRANSPORT AND LOGISTICS SERVICES-
+11009 | 56 | 457 | 513
+Freight transport by railways
+TRANSPORT AND LOGISTICS SERVICES-
+11010 | 1,368 | 3,390 | 4,758
+Forwarding of freight
+TRANSPORT AND LOGISTICS SERVICES-
+11011 | 52 | 976 | 1,028
+Receiving and acceptance of freight
+TRANSPORT AND LOGISTICS SERVICES-
+11012 | 1,127 | 2,941 | 4,068
+Cargo handling
+TRANSPORT AND LOGISTICS SERVICES-
+11013 | 1,403 | 2,541 | 3,944
+Storage and warehousing
+TRANSPORT AND LOGISTICS SERVICES-
+11014 | Transport via pipelines (transport of gases, | 38 | 623 | 661
+liquids, slurry and other commodities)
+TRANSPORT AND LOGISTICS SERVICES-
+11015 | 4,524 | 64,937 | 69,461
+Other Transport & Logistics services n.e.c
+POSTS AND TELECOMMUNICATION
+12001 | 415 | 4,954 | 5,369
+SERVICES-Post and courier activities
+POSTS AND TELECOMMUNICATION
+12002 | 218 | 2,604 | 2,822
+SERVICES-Basic telecom services
+POSTS AND TELECOMMUNICATION
+12003 | 148 | 838 | 986
+SERVICES-Value added telecom services
+86
+
+===== PAGE 88 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+POSTS AND TELECOMMUNICATION
+12004 | 239 | 580 | 819
+SERVICES-Maintenance of telecom network
+POSTS AND TELECOMMUNICATION
+12005 | 451 | 5,452 | 5,903
+SERVICES-Activities of the cable operators
+POSTS AND TELECOMMUNICATION
+12006 | SERVICES-Other Post & Telecommunication | 838 | 4,795 | 5,633
+services n.e.c
+FINANCIAL INTERMEDIATION SERVICES-
+13001 | Commercial banks, saving banks and discount | 257 | 4,411 | 4,668
+houses
+FINANCIAL INTERMEDIATION SERVICES-
+13002 | 296 | 2,580 | 2,876
+Specialised institutions granting credit
+FINANCIAL INTERMEDIATION SERVICES-
+13003 | 944 | 5,822 | 6,766
+Financial leasing
+FINANCIAL INTERMEDIATION SERVICES-
+13004 | 409 | 4,870 | 5,279
+Hire-purchase financing
+FINANCIAL INTERMEDIATION SERVICES-
+13005 | 195 | 1,486 | 1,681
+Housing finance activities
+FINANCIAL INTERMEDIATION SERVICES-
+13006 | 2,230 | 25,159 | 27,389
+Commercial loan activities
+FINANCIAL INTERMEDIATION SERVICES-
+13007 | 16 | 148 | 164
+Credit cards
+FINANCIAL INTERMEDIATION SERVICES-
+13008 | 270 | 3,842 | 4,112
+Mutual funds
+FINANCIAL INTERMEDIATION SERVICES-Chit
+13009 | 4,544 | 1,788 | 6,332
+fund
+FINANCIAL INTERMEDIATION SERVICES-
+13010 | 15,753 | 58,331 | 74,084
+Investment activities
+FINANCIAL INTERMEDIATION SERVICES-Life
+13011 | 136 | 1,43,057 | 1,43,193
+insurance
+FINANCIAL INTERMEDIATION SERVICES-
+13012 | 6 | 280 | 286
+Pension funding
+FINANCIAL INTERMEDIATION SERVICES-
+13013 | 232 | 15,184 | 15,416
+Non-life insurance
+FINANCIAL INTERMEDIATION SERVICES-
+13014 | 29 | 616 | 645
+Administration of financial markets
+FINANCIAL INTERMEDIATION SERVICES-
+13015 | 4,127 | 23,125 | 27,252
+Stock brokers, sub-brokers and related activities
+FINANCIAL INTERMEDIATION SERVICES-
+13016 | Financial advisers, mortgage advisers and | 1,936 | 24,042 | 25,978
+brokers
+FINANCIAL INTERMEDIATION SERVICES-
+13017 | 1,652 | 747 | 2,399
+Foreign exchange services
+FINANCIAL INTERMEDIATION SERVICES-
+13018 | 15,825 | 1,56,384 | 1,72,209
+Other financial intermediation services n.e.c.
+87
+
+===== PAGE 89 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+COMPUTER AND RELATED SERVICES-
+14001 | 21,529 | 12,137 | 33,666
+Software development
+COMPUTER AND RELATED SERVICES-Other
+14002 | 6,273 | 9,336 | 15,609
+software consultancy
+COMPUTER AND RELATED SERVICES-Data
+14003 | 836 | 3,329 | 4,165
+processing
+COMPUTER AND RELATED SERVICES-
+14004 | Database activities and distribution of electronic | 698 | 943 | 1,641
+content
+COMPUTER AND RELATED SERVICES-Other
+14005 | 20,833 | 16,871 | 37,704
+IT enabled services
+COMPUTER AND RELATED SERVICES-BPO
+14006 | 2,430 | 1,416 | 3,846
+services
+COMPUTER AND RELATED SERVICES-Cyber
+14007 | 23 | 3,194 | 3,217
+café
+COMPUTER AND RELATED SERVICES-
+14008 | Maintenance and repair of office, accounting | 399 | 5,109 | 5,508
+and computing machinery
+COMPUTER AND RELATED SERVICES-
+14009 | 2,151 | 11,634 | 13,785
+Computer training and educational institutes
+COMPUTER AND RELATED SERVICES-Other
+14010 | 3,430 | 15,330 | 18,760
+computation related services n.e.c.
+RESEARCH AND DEVELOPMENT-Natural
+15001 | 159 | 162 | 321
+sciences and engineering
+RESEARCH AND DEVELOPMENT-Social
+15002 | 45 | 313 | 358
+sciences and humanities
+RESEARCH AND DEVELOPMENT-Other
+15003 | 1,344 | 1,182 | 2,526
+Research & Development activities n.e.c.
+16001 | PROFESSIONS-Legal profession | 746 | 1,23,203 | 1,23,949
+PROFESSIONS-Accounting, book-keeping and
+16002 | 1,685 | 1,06,998 | 1,08,683
+auditing profession
+16003 | PROFESSIONS-Tax consultancy | 987 | 27,333 | 28,320
+16004 | PROFESSIONS-Architectural profession | 996 | 15,717 | 16,713
+PROFESSIONS-Engineering and technical
+16005 | 4,094 | 30,093 | 34,187
+consultancy
+16006 | PROFESSIONS-Advertising | 2,474 | 8,905 | 11,379
+16007 | PROFESSIONS-Fashion designing | 147 | 14,076 | 14,223
+16008 | PROFESSIONS-Interior decoration | 671 | 10,173 | 10,844
+16009 | PROFESSIONS-Photography | 295 | 16,573 | 16,868
+16010 | PROFESSIONS-Auctioneers | 20 | 141 | 161
+88
+
+===== PAGE 90 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+16011 | PROFESSIONS-Business brokerage | 641 | 65,684 | 66,325
+PROFESSIONS-Market research and public
+16012 | 219 | 803 | 1,022
+opinion polling
+PROFESSIONS-Business and management
+16013 | 6,637 | 25,055 | 31,692
+consultancy activities
+PROFESSIONS-Labour recruitment and
+16014 | 1,579 | 10,745 | 12,324
+provision of personnel
+PROFESSIONS-Investigation and security
+16015 | 890 | 2,870 | 3,760
+activities
+PROFESSIONS-Buildingcleaning and industrial
+16016 | 85 | 712 | 797
+cleaning activities
+16017 | PROFESSIONS-Packaging activities | 87 | 1,301 | 1,388
+16018 | PROFESSIONS-Secretarial activities | 111 | 3,113 | 3,224
+16019 | PROFESSIONS-Other business activities n.e.c. | 16,326 | 4,80,988 | 4,97,314
+17001 | EDUCATION SERVICES-Primary education | 568 | 19,457 | 20,025
+EDUCATION SERVICES-Secondary/senior
+17002 | 143 | 7,911 | 8,054
+secondary education
+EDUCATION SERVICES-Technical and
+17003 | vocational secondary/senior secondary | 629 | 2,996 | 3,625
+education
+17004 | EDUCATION SERVICES-Higher education | 198 | 3,262 | 3,460
+EDUCATION SERVICES-Education by
+17005 | 143 | 1,341 | 1,484
+correspondence
+EDUCATION SERVICES-Coaching centres and
+17006 | 2,626 | 1,48,752 | 1,51,378
+tuitions
+EDUCATION SERVICES-Other education
+17007 | 5,903 | 58,862 | 64,765
+services n.e.c.
+18001 | HEALTHCARE SERVICES-General hospitals | 2,045 | 20,605 | 22,650
+HEALTHCARE SERVICES-Speciality and super
+18002 | 1,880 | 6,312 | 8,192
+speciality hospitals
+18003 | HEALTHCARE SERVICES-Nursing homes | 1,285 | 14,225 | 15,510
+18004 | HEALTHCARE SERVICES-Diagnostic centres | 1,386 | 9,693 | 11,079
+HEALTHCARE SERVICES-Pathological
+18005 | 307 | 8,370 | 8,677
+laboratories
+HEALTHCARE SERVICES-Independent blood
+18006 | 5 | 144 | 149
+banks
+HEALTHCARE SERVICES-Medical
+18007 | 114 | 1,739 | 1,853
+transcription
+HEALTHCARE SERVICES-Independent
+18008 | 31 | 246 | 277
+ambulance services
+89
+
+===== PAGE 91 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+HEALTHCARE SERVICES-Medical suppliers,
+18009 | 2,413 | 31,980 | 34,393
+agencies and stores
+18010 | HEALTHCARE SERVICES-Medical clinics | 956 | 80,636 | 81,592
+18011 | HEALTHCARE SERVICES-Dental practice | 263 | 18,885 | 19,148
+18012 | HEALTHCARE SERVICES-Ayurveda practice | 215 | 6,188 | 6,403
+18013 | HEALTHCARE SERVICES-Unani practice | 5 | 518 | 523
+HEALTHCARE SERVICES-Homeopathy
+18014 | 43 | 8,266 | 8,309
+practice
+HEALTHCARE SERVICES-Nurses,
+18015 | physiotherapists or other paramedical | 135 | 6,468 | 6,603
+practitioners
+HEALTHCARE SERVICES-Veterinary hospitals
+18016 | 21 | 949 | 970
+and practice
+18017 | HEALTHCARE SERVICES-Medical Education | 1,434 | 18,106 | 19,540
+18018 | HEALTHCARE SERVICES-Medical Research | 82 | 255 | 337
+HEALTHCARE SERVICES-Practice of
+18019 | 15 | 1,104 | 1,119
+Alternative Medicine
+HEALTHCARE SERVICES-Other healthcare
+18020 | 2,652 | 22,251 | 24,903
+services
+SOCIAL AND COMMUNITY WORK-social work
+19001 | activities with accommodation (orphanages and | 68 | 1,098 | 1,166
+homes for the aged)
+SOCIAL AND COMMUNITY WORK-social work
+19002 | 187 | 2,455 | 2,642
+activities without accommodation (Creches)
+SOCIAL AND COMMUNITY WORK-Industry
+19003 | 101 | 461 | 562
+associations, chambers of commerce
+SOCIAL AND COMMUNITY WORK-
+19004 | 331 | 8,220 | 8,551
+Professional organisations
+SOCIAL AND COMMUNITY WORK-Trade
+19005 | 58 | 2,232 | 2,290
+unions
+SOCIAL AND COMMUNITY WORK-Religious
+19006 | 38 | 3,481 | 3,519
+organizations
+SOCIAL AND COMMUNITY WORK-Political
+19007 | 3 | 104 | 107
+organisations
+SOCIAL AND COMMUNITY WORK-Other
+19008 | membership organisations n.e.c. (rotary clubs, | 116 | 3,100 | 3,216
+book clubs and philatelic clubs)
+SOCIAL AND COMMUNITY WORK-Other
+19009 | 1,281 | 21,670 | 22,951
+Social or community service n.e.c
+CULTURE AND SPORT-Motion picture
+20001 | 1,289 | 1,986 | 3,275
+production
+90
+
+===== PAGE 92 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+20002 | CULTURE AND SPORT-Film distribution | 481 | 1,175 | 1,656
+20003 | CULTURE AND SPORT-Film laboratories | 57 | 188 | 245
+CULTURE AND SPORT-Television channel
+20004 | 266 | 652 | 918
+productions
+CULTURE AND SPORT-Television channels
+20005 | 475 | 1,217 | 1,692
+broadcast
+CULTURE AND SPORT-Video production and
+20006 | 670 | 1,485 | 2,155
+distribution
+CULTURE AND SPORT-Sound recording
+20007 | 109 | 743 | 852
+studios
+CULTURE AND SPORT-Radio recording and
+20008 | 46 | 223 | 269
+distribution
+CULTURE AND SPORT-Stage production and
+20009 | 163 | 1,251 | 1,414
+related activities
+CULTURE AND SPORT-Individual artists
+20010 | 24 | 4,710 | 4,734
+excluding authors
+20011 | CULTURE AND SPORT-Literary activities | 23 | 700 | 723
+CULTURE AND SPORT-Other cultural activities
+20012 | 617 | 6,746 | 7,363
+n.e.c.
+CULTURE AND SPORT-Circuses and race
+20013 | 8 | 44 | 52
+tracks
+20014 | CULTURE AND SPORT-Video Parlours | 19 | 391 | 410
+20015 | CULTURE AND SPORT-News agency activities | 240 | 1,403 | 1,643
+CULTURE AND SPORT-Library and archives
+20016 | 14 | 120 | 134
+activities
+20017 | CULTURE AND SPORT-Museum activities | 12 | 31 | 43
+CULTURE AND SPORT-Preservation of
+20018 | 14 | 66 | 80
+historical sites and buildings
+CULTURE AND SPORT-Botanical and
+20019 | 8 | 48 | 56
+zoological gardens
+CULTURE AND SPORT-Operation and
+20020 | 70 | 193 | 263
+maintenance of sports facilities
+CULTURE AND SPORT-Activities of sports and
+20021 | 141 | 754 | 895
+game schools
+CULTURE AND SPORT-Organisation and
+20022 | operation of indoor/outdoor sports and | 284 | 491 | 775
+promotion and production of sporting events
+CULTURE AND SPORT-Other sporting
+20023 | 567 | 2,937 | 3,504
+activities n.e.c.
+CULTURE AND SPORT-Other recreational
+20024 | 623 | 5,084 | 5,707
+activities n.e.c.
+91
+
+===== PAGE 93 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+OTHER SERVICES-Hair dressing and other
+21001 | 523 | 44,392 | 44,915
+beauty treatment
+OTHER SERVICES-Funeral and related
+21002 | 23 | 352 | 375
+activities
+21003 | OTHER SERVICES-Marriage bureaus | 86 | 1,057 | 1,143
+21004 | OTHER SERVICES-Pet care services | 80 | 1,131 | 1,211
+OTHER SERVICES-Sauna and steam baths,
+21005 | 89 | 1,162 | 1,251
+massage salons etc.
+OTHER SERVICES-Astrological and spiritualists
+21006 | 113 | 7,066 | 7,179
+activities
+OTHER SERVICES-Private households as
+21007 | 115 | 1,714 | 1,829
+employers of domestic staff
+21008 | OTHER SERVICES-Other services n.e.c. | 1,99,908 | 24,96,151 | 26,96,059
+OTHER SERVICES-Extra territorial
+22001 | organisations and bodies (IMF, World Bank, | 68 | 1,459 | 1,527
+European Commission etc.)
+TOTAL | 8,82,658 1,17,88,323 | 1,26,70,981
+92

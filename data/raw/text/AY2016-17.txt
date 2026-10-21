@@ -1,0 +1,4021 @@
+
+===== PAGE 1 =====
+Income Tax Department
+Income Tax Return Statistics
+Assessment Year 2016-17
+Version 1.0
+October 2018
+
+===== PAGE 2 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+Document Version Control
+Version Month | Remarks
+1.0 | Oct 2018 | The statistics were generated from e-filed returns (digitally signed, e-
+verified or where ITRV has been received) and paper returns captured
+st
+in system up to 31 August 2018.
+1
+
+===== PAGE 3 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+Table of Contents
+Overview.............................................................................................................................. 4
+Objective...................................................................................................................................... 4
+Methodology Adopted................................................................................................................ 4
+Consistency Rules...................................................................................................................... 4
+Status wise distribution of returns and key values................................................................. 5
+Limitations.................................................................................................................................... 6
+Disclaimer.................................................................................................................................... 6
+1. Income Tax Returns - All Taxpayers........................................................................... 7
+1.1 | All Taxpayers – Gross Total Income (AY 2016-17).................................................. 8
+1.2 | All Taxpayers - Range of Salary Income (AY 2016-17)........................................... 9
+1.3 | All Taxpayers - Range of House Property Income (AY 2016-17)......................... 10
+1.4 | All Taxpayers - Range of Business Income (AY 2016-17).................................... 11
+1.5 | All Taxpayers - Range of Long Term Capital Gains (AY 2016-17)...................... 12
+1.6 | All Taxpayers - Range of Short Term Capital Gains (AY 2016-17)..................... 13
+1.7 | All Taxpayers - Range of Other Sources Income (AY 2016-17).......................... 14
+1.8 | All Taxpayers - Range of Interest Income (AY 2016-17)....................................... 15
+1.9 | All Taxpayers- Range of Total Loss Set off (AY 2016-17).................................... 16
+1.10 | All Taxpayers - Range of Returned Income (AY 2016-17).................................... 17
+1.11 | All Taxpayers - Range of Tax Payable (AY 2016-17)............................................ 18
+2. Income Tax Returns – Individuals............................................................................. 19
+2.1 | Individual– Gross Total Income (AY 2016-17)........................................................ 20
+2.2 | Individual- Range of Salary Income (AY 2016-17)................................................. 21
+2.3 | Individual- Range of House Property Income (AY 2016-17)................................. 22
+2.4 | Individual- Range of Business Income (AY 2016-17)............................................ 23
+2.5 | Individual- Range of Long Term Capital Gains (AY 2016-17).............................. 24
+2.6 | Individual- Range of Short Term Capital Gains (AY 2016-17).............................. 25
+2.7 | Individual- Range of Other Sources Income (AY 2016-17)................................... 26
+2.8 | Individual- Range of Interest Income (AY 2016-17)............................................... 27
+2.9 | Individual- Range of Total Loss Set off (AY 2016-17)............................................ 28
+2.10 | Individual- Range of Returned Income (AY 2016-17)............................................ 29
+2.11 | Individual- Range of Tax Payable (AY 2016-17)..................................................... 30
+3. Income Tax Returns - HUF......................................................................................... 31
+3.1 | HUF– Gross Total Income (AY 2016-17)................................................................. 32
+3.2 | HUF- Range of House Property Income (AY 2016-17).......................................... 33
+3.3 | HUF- Range of Business Income (AY 2016-17)..................................................... 34
+3.4 | HUF- Range of Long Term Capital Gains (AY 2016-17)....................................... 35
+3.5 | HUF- Range of Short Term Capital Gains (AY 2016-17)...................................... 36
+3.6 | HUF- Range of Other Sources Income (AY 2016-17)............................................ 37
+3.7 | HUF- Range of Interest Income (AY 2016-17)........................................................ 38
+3.8 | HUF- Range of Total Loss Set off (AY 2016-17).................................................... 39
+3.9 | HUF- Range of Returned Income (AY 2016-17)..................................................... 40
+3.10 | HUF- Range of Tax Payable (AY 2016-17)............................................................. 41
+2
+
+===== PAGE 4 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+4. Income Tax Returns - Firms....................................................................................... 42
+4.1 | Firm – Gross Total Income (AY 2016-17)................................................................ 43
+4.2 | Firm- Range of House Property Income (AY 2016-17).......................................... 44
+4.3 | Firm- Range of Business Income (AY 2016-17)..................................................... 45
+4.4 | Firm- Range of Long Term Capital Gains (AY 2016-17)....................................... 46
+4.5 | Firm- Range of Short Term Capital Gains (AY 2016-17)....................................... 47
+4.6 | Firm- Range of Other Sources Income (AY 2016-17)............................................ 48
+4.7 | Firm- Range of Interest Income (AY 2016-17)........................................................ 49
+4.8 | Firm- Range of Total Loss Set off (AY 2016-17)..................................................... 50
+4.9 | Firm- Range of Returned Income (AY 2016-17)..................................................... 51
+4.10 | Firm- Range of Tax Payable (AY 2016-17).............................................................. 52
+5. Income Tax Returns - AOP/BOI................................................................................ 53
+5.1 | AOP/BOI – Gross Total Income (AY 2016-17)........................................................ 54
+5.2 | AOP/BOI- Range of House Property Income (AY 2016-17)................................. 55
+5.3 | AOP/BOI- Range of Business Income (AY 2016-17)............................................. 56
+5.4 | AOP/BOI- Range of Long Term Capital Gains (AY 2016-17)............................... 57
+5.5 | AOP/BOI- Range of Short Term Capital Gains (AY 2016-17).............................. 58
+5.6 | AOP/BOI- Range of Other Sources Income (AY 2016-17)................................... 59
+5.7 | AOP/BOI- Range of Interest Income (AY 2016-17)................................................ 60
+5.8 | AOP/BOI- Range of Total Loss Set off (AY 2016-17)............................................ 61
+5.9 | AOP/BOI- Range of Returned Income (AY 2016-17)............................................. 62
+5.10 | AOP/BOI- Range of Tax Payable (AY 2016-17)..................................................... 63
+6. Income Tax Returns - Company................................................................................ 64
+6.1 | Company – Gross Total Income (AY 2016-17)....................................................... 65
+6.2 | Company- Range of House Property Income (AY 2016-17)................................. 66
+6.3 | Company- Range of Business Income (AY 2016-17)............................................ 67
+6.4 | Company- Range of Long Term Capital Gains (AY 2016-17).............................. 68
+6.5 | Company- Range of Short Term Capital Gains (AY 2016-17).............................. 69
+6.6 | Company- Range of Other Sources Income (AY 2016-17)................................... 70
+6.7 | Company- Range of Interest Income (AY 2016-17)............................................... 71
+6.8 | Company- Range of Total Loss Set off (AY 2016-17)............................................ 72
+6.9 | Company- Range of Returned Income (AY 2016-17)............................................ 73
+6.10 | Company- Range of Tax Payable (AY 2016-17).................................................... 74
+7. Type of Business.......................................................................................................... 75
+7.1 | Type of Business –Corporate and Non- corporate Taxpayers (AY 2016-17)..... 76
+3
+
+===== PAGE 5 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+Overview
+Objective
+The objective of publishing this statistics is to encourage wider use and analysis of Income-tax
+data by Departmental personnel and academicians.
+Methodology Adopted
+The methodology adopted is as under:
+i. | The template for statistics was prepared on the basis of previous statistics published by
+the Department and assessment of information available in various databases of the
+Income Tax Department.
+ii. | The statistics have been generated from e-filed returns (digitally signed, e-verified or
+where ITRV has been received) and paper returns captured in system.
+iii. | In cases where more than one return is submitted, the values in the latest return have
+been considered.
+iv. | Consistency Rules were defined (given below) to eliminate returns with inconsistent data.
+4,95,19,126 returns were checked against consistency rules and 4,94,87,559 returns
+meeting the consistency rules were used for statistical analysis
+v. | Certain statistics have been mentioned in lakh (100 thousand) and crore (10 million).
+vi. | Various terms used in the statistics have been defined below respective tables.
+Consistency Rules
+i. | Rule 1: Total Capital Gains in Part B TI = STCG (including negative) + LTCG (zero and
+positive only)
+ii. | Rule 2: Income from Other Sources (Part B TI)>=Gross Interest Income (Schedule OS)
+iii. | Rule 3: Salary income is shown by Individual category of assesses.
+iv. | Rule 4: Gross Total Income(GTI)>=0
+v. | Rule 5: Gross Total Income (GTI) = salary + income from house property + non-negative
+total income from business/profession + non-negative total capital gain + non-negative
+income from other sources - (brought forward loss setoff + current year loss setoff)
+vi. | Rule 6 : Return Income = Gross Total Income (GTI) - Deduction u/s Chapter VIA –
+Deduction u/s 10A or 10AA (wherever applicable)
+vii. | Rule 7: Aggregate Tax Liability >=0
+viii. | Rule 8: Aggregate Tax Liability <= Higher of Return Income & Deemed Total Income
+under section 115JC/115JB
+4
+
+===== PAGE 6 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+Status wise distribution of returns and key values
+The status wise distribution of 4,94,87,559 returns selected (after applying consistency rules) for
+statistical analysis is as under:
+Individual | 4,63,79,861
+HUF | 10,61,945
+Firm | 10,74,468
+AOP/BOI | 76,151
+Companies | 7,70,092
+Others | 1,25,042
+Total | 4,94,87,559
+Note: Others include Trusts, Cooperative Society, LLP, Local Authority and Artificial Juridical Person.
+The status wise distribution of key values (In INR Crore) is as under:
+Individual | HUF | Firm | AOP/BOI | Companies | Others | Total
+Salary
+13,96,194 | - | - | - | - | - | 13,96,194
+Income
+House
+Property | 30,774 | 319 | 3,309 | 722 | 12,087 | 3,908 | 51,119
+Income
+Business
+7,73,146 | 3,567 | 77,589 | 28,412 | 10,55,171 | 18,223 | 19,56,109
+Income
+Long Term
+94,355
+46,695 | 534 | 2,277 | 1,218 | 41,403 | 2,228
+Capital Gains
+Short Term
+12,373 | 3,782 | 822 | 3,252 | 26,805 | 653 | 47,687
+Capital Gains
+Other
+Sources | 2,87,963 | 2,996 | 3,505 | 5,506 | 1,29,614 | 18,346 | 4,47,929
+Income
+Total
+(Addition of | 25,47,145 | 11,198 | 87,502 | 39,111 | 12,65,080 | 43,359 | 39,93,393
+above)
+Total Loss
+1,42,999
+23,132 | 1,974 | 3,988 | 3,578 | 1,09,917 | 410
+Setoff
+Gross Total
+25,24,013 | 9,224 | 83,513 | 35,533 | 11,55,162 | 42,949 | 38,50,394
+Income
+Return
+21,98,676 | 8,713 | 79,286 | 27,080 | 10,11,540 | 39,387 | 33,64,683
+Income
+Aggregate
+6,23,710
+2,30,158 | 1,948 | 26,853 | 7,930 | 3,53,187 | 3,634
+Tax Liability
+Note: The difference in Gross Total Income from calculated amount is on account of difference in
+representation of setoff of losses. Minor difference is also on account of rounding off of values.
+5
+
+===== PAGE 7 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+Limitations
+The statistics relating to sources of income have been prepared on the basis of values
+mentioned in e-filed returns and values captured from paper returns and the same may contain
+data entry errors on the part of the taxpayers/ return filers. Therefore, the accuracy of the
+statistics is limited by the accuracy of returns.
+Disclaimer
+Whilst the Income Tax Statistics have been prepared in good faith, it is not and does not purport
+to be comprehensive. Neither Income Tax Department, nor any of its officers or employees
+accept any liability or responsibility for the accuracy, reasonableness or completeness of, or for
+any errors, omissions or misstatements, negligent or otherwise, relating to the data or any
+representation or warranty, express or implied, with respect to the information contained in this
+Income Tax Statistics or on the data on which this Statistics is based and liability therefore is
+hereby expressly disclaimed.
+6
+
+===== PAGE 8 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+1. Income Tax Returns - All Taxpayers
+7
+
+===== PAGE 9 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+1.1 All Taxpayers – Gross Total Income (AY 2016-17)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns | Total Income (in | Total Income (in
+Crore INR) | Lakh INR)
+< 0
+- | - | -
+= 0
+9,09,918 | - | -
+>0 and <=1,50,000
+30,99,836 | 22,786 | 0.74
+>150,000 and <= 2,00,000
+15,94,937 | 28,284 | 1.77
+>2,00,000 and <=2,50,000
+38,63,728 | 89,311 | 2.31
+>2,50,000 and <= 3,50,000
+1,63,67,580 | 4,75,786 | 2.91
+>3,50,000 and <= 4,00,000
+37,74,753 | 1,41,003 | 3.74
+>4,00,000 and <= 4,50,000
+34,46,007 | 1,45,878 | 4.23
+>4,50,000 and <= 5,00,000
+24,47,336 | 1,16,010 | 4.74
+>5,00,000 and <= 5,50,000
+20,04,994 | 1,04,987 | 5.24
+>5,50,000 and <= 9,50,000
+74,27,197 | 5,19,971 | 7.00
+>9,50,000 and <= 10,00,000
+4,03,479 | 39,325 | 9.75
+>10,00,000 and <=15,00,000
+21,50,544 | 2,58,581 | 12.02
+>15,00,000 and <= 20,00,000
+8,00,799 | 1,37,507 | 17.17
+>20,00,000 and <= 25,00,000
+3,78,746 | 84,139 | 22.22
+>25,00,000 and <= 50,00,000
+5,18,072 | 1,74,501 | 33.68
+>50,00,000 and <= 1,00,00,000
+1,79,530 | 1,24,220 | 69.19
+>1,00,00,000 and <=5,00,00,000
+99,275 | 1,91,676 | 193.08
+>5,00,00,000 and <=10,00,00,000
+9,892 | 68,501 | 692.49
+>10,00,00,000 and <=25,00,00,000
+6,170 | 95,069 | 1,540.83
+>25,00,00,000 and <=50,00,00,000 | 2,211 | 77,293 | 3,495.84
+>50,00,00,000 and <=100,00,00,000 | 1,202 | 83,975 | 6,986.27
+>100,00,00,000 and <=500,00,00,000 | 1,059 | 2,20,209 | 20,794.05
+>500,00,00,000 | 294 | 6,51,384 | 2,21,559.18
+Total | 4,94,87,559 | 38,50,396
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+4. Apart from the number of taxpayers who filed return of income as above, approximately
+1.59 crore taxpayers paid taxes but did not file return for AY 2016-17.
+8
+
+===== PAGE 10 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+1.2 All Taxpayers - Range of Salary Income (AY 2016-17)
+Sum of Salary | Average Salary
+Range (in INR) | No. of Returns | Income (in Crore | Income (in Lakh
+INR) | INR)
+< 0 | - | - | -
+= 0 | 2,77,80,325 | - | -
+>0 and <=1,50,000 | 18,68,863 | 17,451 | 0.93
+>150,000 and <= 2,00,000 | 11,26,796 | 20,013 | 1.78
+>2,00,000 and <=2,50,000 | 14,37,583 | 32,759 | 2.28
+>2,50,000 and <= 3,50,000 | 30,23,573 | 90,655 | 3.00
+>3,50,000 and <= 4,00,000 | 16,12,189 | 60,455 | 3.75
+>4,00,000 and <= 4,50,000 | 16,95,942 | 71,890 | 4.24
+>4,50,000 and <= 5,00,000 | 13,36,251 | 63,400 | 4.74
+>5,00,000 and <= 5,50,000 | 12,48,189 | 65,486 | 5.25
+>5,50,000 and <= 9,50,000 | 52,75,408 | 3,69,411 | 7.00
+>9,50,000 and <= 10,00,000 | 2,88,432 | 28,108 | 9.75
+>10,00,000 and <=15,00,000 | 15,19,118 | 1,82,939 | 12.04
+>15,00,000 and <= 20,00,000 | 5,89,361 | 1,01,321 | 17.19
+>20,00,000 and <= 25,00,000 | 2,64,950 | 58,797 | 22.19
+>25,00,000 and <= 50,00,000 | 3,05,359 | 1,01,494 | 33.24
+>50,00,000 and <= 1,00,00,000 | 80,217 | 54,379 | 67.79
+>1,00,00,000 and <=5,00,00,000 | 33,124 | 58,070 | 175.31
+>5,00,00,000 and <=10,00,00,000 | 1,353 | 8,953 | 661.71
+>10,00,00,000 and <=25,00,00,000 | 430 | 6,208 | 1,443.72
+>25,00,00,000 and <=50,00,00,000 | 73 | 2,410 | 3,301.37
+>50,00,00,000 and <=100,00,00,000 | 18 | 1,340 | 7,444.44
+>100,00,00,000 and <=500,00,00,000 | 5 | 657 | 13,140.00
+>500,00,00,000 | - | - | -
+Total | 4,94,87,559 | 13,96,196
+Notes
+1. Salary Income is the income under the head “Salaries” as computed in the return of
+income
+2. The “Sum of Salary Income” is the sum of Salary Income of all returns within the value
+range slab.
+3. The “Average Salary Income” is the average Salary Income within the value range slab
+i.e. “Sum of Salary Income” divided by total number of returns within the value range slab
+9
+
+===== PAGE 11 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+1.3 All Taxpayers - Range of House Property Income (AY 2016-17)
+Sum of House | Average House
+Range (in INR) | No. of Returns | Property Income | Property Income
+(in Crore INR) | (in Lakh INR)
+< 0 | 33,24,323 | -33,649 | -1.01
+= 0 | 4,29,45,017 | - | -
+>0 and <=1,50,000 | 19,58,595 | 13,739 | 0.70
+>150,000 and <= 2,00,000 | 3,14,874 | 5,432 | 1.73
+>2,00,000 and <=2,50,000 | 2,22,820 | 4,956 | 2.22
+>2,50,000 and <= 3,50,000 | 2,84,308 | 8,313 | 2.92
+>3,50,000 and <= 4,00,000 | 74,137 | 2,772 | 3.74
+>4,00,000 and <= 4,50,000 | 60,426 | 2,557 | 4.23
+>4,50,000 and <= 5,00,000 | 42,791 | 2,028 | 4.74
+>5,00,000 and <= 5,50,000 | 36,462 | 1,908 | 5.23
+>5,50,000 and <= 9,50,000 | 1,23,929 | 8,578 | 6.92
+>9,50,000 and <= 10,00,000 | 6,272 | 611 | 9.74
+>10,00,000 and <=15,00,000 | 37,437 | 4,540 | 12.13
+>15,00,000 and <= 20,00,000 | 17,236 | 2,968 | 17.22
+>20,00,000 and <= 25,00,000 | 9,873 | 2,198 | 22.26
+>25,00,000 and <= 50,00,000 | 17,517 | 6,009 | 34.30
+7,371 | 5,033 | 68.28
+>50,00,000 and <= 1,00,00,000
+3,773 | 6,942 | 183.99
+>1,00,00,000 and <=5,00,00,000
+248 | 1,727 | 696.37
+>5,00,00,000 and <=10,00,00,000
+107 | 1,527 | 1,427.10
+>10,00,00,000 and <=25,00,00,000
+28 | 1,012 | 3,614.29
+>25,00,00,000 and <=50,00,00,000
+11 | 708 | 6,436.36
+>50,00,00,000 and <=100,00,00,000
+3 | 626 | 20,866.67
+>100,00,00,000 and <=500,00,00,000
+1 | 583 | 58,300.00
+>500,00,00,000
+Total | 4,94,87,559 | 51,118
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income.
+2. Loss under the head “Income from house property” is also included in the House
+Property Income (for ITR-1 & ITR-4S). For other ITRs the same may be adjusted in
+Current Year Loss Adjustment or carried forward to future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e. “Sum of House Property Income” divided by total number of returns
+within the value range slab.
+10
+
+===== PAGE 12 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+1.4 All Taxpayers - Range of Business Income (AY 2016-17)
+Sum of
+Average Business
+No. of | Business
+Range (in INR) | Income (in Lakh
+Returns | Income (in
+INR)
+Crore INR)
+- | - | -
+< 0
+2,60,44,492 | - | -
+= 0
+34,55,391 | 26,538 | 0.77
+>0 and <=1,50,000
+15,26,930 | 26,994 | 1.77
+>150,000 and <= 2,00,000
+29,53,832 | 67,946 | 2.30
+>2,00,000 and <=2,50,000
+94,90,600 | 2,72,869 | 2.88
+>2,50,000 and <= 3,50,000
+14,94,063 | 55,605 | 3.72
+>3,50,000 and <= 4,00,000
+10,66,696 | 45,016 | 4.22
+>4,00,000 and <= 4,50,000
+6,92,864 | 32,825 | 4.74
+>4,50,000 and <= 5,00,000
+4,84,005 | 25,282 | 5.22
+>5,00,000 and <= 5,50,000
+14,08,703 | 97,728 | 6.94
+>5,50,000 and <= 9,50,000
+71,093 | 6,933 | 9.75
+>9,50,000 and <= 10,00,000
+3,43,100 | 41,293 | 12.04
+>10,00,000 and <=15,00,000
+1,33,559 | 22,966 | 17.20
+>15,00,000 and <= 20,00,000
+>20,00,000 and <= 25,00,000 | 70,335 | 15,673 | 22.28
+>25,00,000 and <= 50,00,000 | 1,28,139 | 44,187 | 34.48
+>50,00,000 and <= 1,00,00,000 | 63,813 | 44,850 | 70.28
+>1,00,00,000 and <=5,00,00,000 | 44,814 | 92,580 | 206.59
+>5,00,00,000 and <=10,00,00,000 | 6,569 | 45,914 | 698.95
+>10,00,00,000 and <=25,00,00,000 | 4,592 | 71,351 | 1,553.81
+>25,00,00,000 and <=50,00,00,000 | 1,798 | 62,995 | 3,503.62
+>50,00,00,000 and <=100,00,00,000 | 989 | 69,168 | 6,993.73
+>100,00,00,000 and <=500,00,00,000 | 922 | 1,95,148 | 21,165.73
+>500,00,00,000 | 260 | 5,92,246 | 2,27,786.92
+Total | 4,94,87,559 | 19,56,107
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab
+11
+
+===== PAGE 13 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+1.5 All Taxpayers - Range of Long Term Capital Gains (AY 2016-17)
+Sum of Long
+Average Long Term
+No. of | Term Capital
+Range (in INR) | Capital Gains
+Returns | Gains Income (in
+Income(in Lakh INR)
+Crore INR)
+- | - | -
+< 0
+4,91,83,834 | - | -
+= 0
+1,21,963 | 674 | 0.55
+>0 and <=1,50,000
+20,448 | 356 | 1.74
+>150,000 and <= 2,00,000
+17,656 | 398 | 2.25
+>2,00,000 and <=2,50,000
+24,927 | 734 | 2.94
+>2,50,000 and <= 3,50,000
+7,945 | 297 | 3.74
+>3,50,000 and <= 4,00,000
+6,594 | 280 | 4.25
+>4,00,000 and <= 4,50,000
+5,929 | 282 | 4.76
+>4,50,000 and <= 5,00,000
+4,971 | 261 | 5.25
+>5,00,000 and <= 5,50,000
+25,953 | 1,882 | 7.25
+>5,50,000 and <= 9,50,000
+2,210 | 216 | 9.77
+>9,50,000 and <= 10,00,000
+16,081 | 1,976 | 12.29
+>10,00,000 and <=15,00,000
+9,666 | 1,675 | 17.33
+>15,00,000 and <= 20,00,000
+>20,00,000 and <= 25,00,000 | 6,475 | 1,449 | 22.38
+>25,00,000 and <= 50,00,000 | 15,094 | 5,315 | 35.21
+>50,00,000 and <= 1,00,00,000 | 8,956 | 6,273 | 70.04
+>1,00,00,000 and <=5,00,00,000 | 7,100 | 14,426 | 203.18
+>5,00,00,000 and <=10,00,00,000 | 870 | 6,044 | 694.71
+>10,00,00,000 and <=25,00,00,000 | 567 | 8,722 | 1,538.27
+>25,00,00,000 and <=50,00,00,000 | 171 | 6,026 | 3,523.98
+>50,00,00,000 and <=100,00,00,000 | 68 | 4,636 | 6,817.65
+>100,00,00,000 and <=500,00,00,000 | 66 | 15,345 | 23,250.00
+>500,00,00,000 | 15 | 17,089 | 1,13,926.67
+Total | 4,94,87,559 | 94,356
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s)as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income”
+divided by total number of returns within the value range slab
+12
+
+===== PAGE 14 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+1.6 All Taxpayers - Range of Short Term Capital Gains (AY 2016-17)
+Sum of Short
+Average Short Term
+No. of | Term Capital
+Range (in INR) | Capital Gains Income
+Returns | Gains Income (in
+(in Lakh INR)
+Crore INR)
+- | - | -
+< 0
+4,87,54,383 | - | -
+= 0
+6,00,672 | 1,681 | 0.28
+>0 and <=1,50,000
+23,853 | 415 | 1.74
+>150,000 and <= 2,00,000
+17,605 | 395 | 2.24
+>2,00,000 and <=2,50,000
+22,256 | 656 | 2.95
+>2,50,000 and <= 3,50,000
+7,533 | 282 | 3.74
+>3,50,000 and <= 4,00,000
+6,155 | 261 | 4.24
+>4,00,000 and <= 4,50,000
+5,278 | 251 | 4.76
+>4,50,000 and <= 5,00,000
+4,188 | 219 | 5.23
+>5,00,000 and <= 5,50,000
+18,031 | 1,292 | 7.17
+>5,50,000 and <= 9,50,000
+1,370 | 134 | 9.78
+>9,50,000 and <= 10,00,000
+8,226 | 1,001 | 12.17
+>10,00,000 and <=15,00,000
+4,019 | 695 | 17.29
+>15,00,000 and <= 20,00,000
+>20,00,000 and <= 25,00,000 | 2,508 | 561 | 22.37
+>25,00,000 and <= 50,00,000 | 5,113 | 1,777 | 34.75
+>50,00,000 and <= 1,00,00,000 | 2,802 | 1,961 | 69.99
+>1,00,00,000 and <=5,00,00,000 | 2,555 | 5,424 | 212.29
+>5,00,00,000 and <=10,00,00,000 | 442 | 3,107 | 702.94
+>10,00,00,000 and <=25,00,00,000 | 340 | 5,265 | 1,548.53
+>25,00,00,000 and <=50,00,00,000 | 121 | 4,221 | 3,488.43
+>50,00,00,000 and <=100,00,00,000 | 55 | 3,759 | 6,834.55
+>100,00,00,000 and <=500,00,00,000 | 48 | 8,764 | 18,258.33
+>500,00,00,000 | 6 | 5,565 | 92,750.00
+Total | 4,94,87,559 | 47,686
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”.
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital
+Gains Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab.
+13
+
+===== PAGE 15 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+1.7 All Taxpayers - Range of Other Sources Income (AY 2016-17)
+Sum of Other | Average Other
+Range (in INR) | No. of Returns | Sources Income | Sources Income (in
+(in Crore INR) | Lakh INR)
+- | - | -
+< 0
+2,22,05,356 | - | -
+= 0
+2,08,50,536 | 66,819 | 0.32
+>0 and <=1,50,000
+14,26,790 | 24,838 | 1.74
+>150,000 and <= 2,00,000
+13,16,385 | 29,829 | 2.27
+>2,00,000 and <=2,50,000
+19,70,328 | 56,589 | 2.87
+>2,50,000 and <= 3,50,000
+>3,50,000 and <= 4,00,000 | 3,62,931 | 13,553 | 3.73
+>4,00,000 and <= 4,50,000 | 2,67,406 | 11,321 | 4.23
+>4,50,000 and <= 5,00,000 | 1,93,643 | 9,183 | 4.74
+>5,00,000 and <= 5,50,000 | 1,43,582 | 7,514 | 5.23
+>5,50,000 and <= 9,50,000 | 4,70,569 | 32,965 | 7.01
+>9,50,000 and <= 10,00,000 | 25,624 | 2,497 | 9.74
+>10,00,000 and <=15,00,000 | 1,27,084 | 15,205 | 11.96
+>15,00,000 and <= 20,00,000 | 43,691 | 7,500 | 17.17
+>20,00,000 and <= 25,00,000 | 21,726 | 4,832 | 22.24
+>25,00,000 and <= 50,00,000 | 34,774 | 11,859 | 34.10
+>50,00,000 and <= 1,00,00,000 | 14,217 | 9,729 | 68.43
+>1,00,00,000 and <=5,00,00,000 | 9,701 | 19,577 | 201.80
+>5,00,00,000 and <=10,00,00,000 | 1,413 | 9,883 | 699.43
+>10,00,00,000 and <=25,00,00,000 | 996 | 15,505 | 1,556.73
+380 | 13,216 | 3,477.89
+>25,00,00,000 and <=50,00,00,000
+229 | 16,063 | 7,014.41
+>50,00,00,000 and <=100,00,00,000
+167 | 33,551 | 20,090.42
+>100,00,00,000 and <=500,00,00,000
+31 | 35,900 | 1,15,806.45
+>500,00,00,000
+Total | 4,94,87,559 | 4,47,928
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income.
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab.
+14
+
+===== PAGE 16 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+1.8 All Taxpayers - Range of Interest Income (AY 2016-17)
+Sum of Interest
+Average Interest
+Range (in INR) | No. of Returns | Income (in Crore
+Income (in Lakh INR)
+INR)
+< 0 | - | - | -
+= 0 | 3,93,87,002 | - | -
+>0 and <=1,50,000 | 84,42,409 | 22,035 | 0.26
+>150,000 and <= 2,00,000 | 3,95,940 | 6,873 | 1.74
+>2,00,000 and <=2,50,000 | 2,95,322 | 6,629 | 2.24
+>2,50,000 and <= 3,50,000 | 3,57,347 | 10,476 | 2.93
+>3,50,000 and <= 4,00,000 | 1,02,340 | 3,826 | 3.74
+>4,00,000 and <= 4,50,000 | 77,677 | 3,292 | 4.24
+>4,50,000 and <= 5,00,000 | 61,231 | 2,903 | 4.74
+>5,00,000 and <= 5,50,000 | 47,741 | 2,501 | 5.24
+>5,50,000 and <= 9,50,000 | 1,79,189 | 12,655 | 7.06
+>9,50,000 and <= 10,00,000 | 10,691 | 1,042 | 9.75
+58,188 | 7,009 | 12.05
+>10,00,000 and <=15,00,000
+23,425 | 4,032 | 17.21
+>15,00,000 and <= 20,00,000
+12,427 | 2,769 | 22.28
+>20,00,000 and <= 25,00,000
+20,879 | 7,134 | 34.17
+>25,00,000 and <= 50,00,000
+8,650 | 5,910 | 68.32
+>50,00,000 and <= 1,00,00,000
+5,729 | 11,269 | 196.70
+>1,00,00,000 and <=5,00,00,000
+715 | 4,926 | 688.95
+>5,00,00,000 and <=10,00,00,000
+397 | 6,069 | 1,528.72
+>10,00,00,000 and <=25,00,00,000
+132 | 4,563 | 3,456.82
+>25,00,00,000 and <=50,00,00,000
+67 | 4,332 | 6,465.67
+>50,00,00,000 and <=100,00,00,000
+56 | 11,412 | 20,378.57
+>100,00,00,000 and <=500,00,00,000
+5 | 5,412 | 1,08,240.00
+>500,00,00,000
+4,94,87,559 | 1,47,069
+Total
+Notes
+1. The Interest Income is already included in the Income from Other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The returns in which Income from other sources < Gross interest income, count of such
+returns are displayed under =0 slab.
+4. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+5. The “Average Interest Income” is the average Interest Income within the value range slab
+i.e. “Sum of Interest Income” divided by total number of returns within the value range
+slab.
+15
+
+===== PAGE 17 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+1.9 All Taxpayers- Range of Total Loss Set off (AY 2016-17)
+Sum of Total Loss | Average Total
+No. of Returns | Set Off (in Crore | Loss Set off (in
+Range (in INR)
+INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 4,77,91,170 | - | -
+>0 and <=1,50,000 | 11,40,137 | 6,886 | 0.60
+>150,000 and <= 2,00,000 | 3,16,640 | 5,925 | 1.87
+>2,00,000 and <=2,50,000 | 40,274 | 900 | 2.23
+>2,50,000 and <= 3,50,000 | 52,083 | 1,539 | 2.95
+>3,50,000 and <= 4,00,000 | 17,186 | 643 | 3.74
+>4,00,000 and <= 4,50,000 | 13,693 | 581 | 4.24
+>4,50,000 and <= 5,00,000 | 10,918 | 518 | 4.74
+>5,00,000 and <= 5,50,000 | 8,863 | 465 | 5.25
+>5,50,000 and <= 9,50,000 | 36,534 | 2,604 | 7.13
+>9,50,000 and <= 10,00,000 | 2,566 | 250 | 9.74
+>10,00,000 and <=15,00,000 | 15,930 | 1,942 | 12.19
+>15,00,000 and <= 20,00,000 | 8,566 | 1,481 | 17.29
+>20,00,000 and <= 25,00,000 | 5,193 | 1,159 | 22.32
+11,718 | 4,100 | 34.99
+>25,00,000 and <= 50,00,000
+6,846 | 4,787 | 69.92
+>50,00,000 and <= 1,00,00,000
+6,632 | 13,982 | 210.83
+>1,00,00,000 and <=5,00,00,000
+1,171 | 8,177 | 698.29
+>5,00,00,000 and <=10,00,00,000
+844 | 12,983 | 1,538.27
+>10,00,00,000 and <=25,00,00,000
+289 | 10,182 | 3,523.18
+>25,00,00,000 and <=50,00,00,000
+151 | 10,203 | 6,756.95
+>50,00,00,000 and <=100,00,00,000
+129 | 28,970 | 22,457.36
+>100,00,00,000 and <=500,00,00,000
+26 | 24,722 | 95,084.62
+>500,00,00,000
+Total | 4,94,87,559 | 1,42,999
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses
+set off against current year’s income in the “Computation of total income” Schedule of
+return of income.
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value range
+slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the value
+range slab.
+16
+
+===== PAGE 18 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+1.10 All Taxpayers - Range of Returned Income (AY 2016-17)
+Sum of
+Average Returned
+No. of | Returned
+Range (in INR) | Income (in Lakh
+Returns | Income (in
+INR)
+Crore INR)
+- | - | -
+< 0
+11,03,992 | - | -
+= 0
+33,97,784 | 26,462 | 0.78
+>0 and <=1,50,000
+21,19,882 | 37,693 | 1.78
+>150,000 and <= 2,00,000
+57,13,132 | 1,32,199 | 2.31
+>2,00,000 and <=2,50,000
+2,07,91,436 | 5,87,897 | 2.83
+>2,50,000 and <= 3,50,000
+27,42,864 | 1,02,363 | 3.73
+>3,50,000 and <= 4,00,000
+20,96,501 | 88,885 | 4.24
+>4,00,000 and <= 4,50,000
+19,37,892 | 92,264 | 4.76
+>4,50,000 and <= 5,00,000
+13,44,579 | 70,462 | 5.24
+>5,00,000 and <= 5,50,000
+47,15,567 | 3,32,372 | 7.05
+>5,50,000 and <= 9,50,000
+2,95,774 | 28,840 | 9.75
+>9,50,000 and <= 10,00,000
+15,55,780 | 1,87,581 | 12.06
+>10,00,000 and <=15,00,000
+6,28,907 | 1,08,079 | 17.19
+>15,00,000 and <= 20,00,000
+>20,00,000 and <= 25,00,000 | 3,05,475 | 67,919 | 22.23
+>25,00,000 and <= 50,00,000 | 4,53,896 | 1,53,859 | 33.90
+>50,00,000 and <= 1,00,00,000 | 1,69,609 | 1,18,079 | 69.62
+>1,00,00,000 and <=5,00,00,000 | 94,594 | 1,84,161 | 194.69
+>5,00,00,000 and <=10,00,00,000 | 9,554 | 66,228 | 693.20
+>10,00,00,000 and <=25,00,00,000 | 5,891 | 90,657 | 1,538.91
+>25,00,00,000 and <=50,00,00,000 | 2,099 | 73,523 | 3,502.76
+>50,00,00,000 and <=100,00,00,000 | 1,108 | 77,277 | 6,974.46
+>100,00,00,000 and <=500,00,00,000 | 992 | 2,07,828 | 20,950.40
+>500,00,00,000 | 251 | 5,30,055 | 2,11,177.29
+Total | 4,94,87,559 | 33,64,683
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+17
+
+===== PAGE 19 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+1.11 All Taxpayers - Range of Tax Payable (AY 2016-17)
+Sum of Tax | Average Tax
+Range (in INR) | No. of Returns | Payable (in | Payable (in Lakh
+Crore INR) | INR)
+< 0 | - | - | -
+= 0 | 2,19,51,733 | - | -
+>0 and <=1,50,000 | 2,45,11,405 | 59,414 | 0.24
+>150,000 and <= 2,00,000 | 6,32,031 | 10,945 | 1.73
+>2,00,000 and <=2,50,000 | 4,28,044 | 9,569 | 2.24
+>2,50,000 and <= 3,50,000 | 5,64,814 | 16,711 | 2.96
+>3,50,000 and <= 4,00,000 | 1,92,297 | 7,192 | 3.74
+>4,00,000 and <= 4,50,000 | 1,51,545 | 6,426 | 4.24
+>4,50,000 and <= 5,00,000 | 1,20,548 | 5,715 | 4.74
+>5,00,000 and <= 5,50,000 | 98,054 | 5,140 | 5.24
+>5,50,000 and <= 9,50,000 | 3,91,528 | 27,864 | 7.12
+>9,50,000 and <= 10,00,000 | 25,338 | 2,469 | 9.74
+1,55,389 | 18,857 | 12.14
+>10,00,000 and <=15,00,000
+74,199 | 12,798 | 17.25
+>15,00,000 and <= 20,00,000
+43,135 | 9,625 | 22.31
+>20,00,000 and <= 25,00,000
+74,766 | 25,863 | 34.59
+>25,00,000 and <= 50,00,000
+38,931 | 26,795 | 68.83
+>50,00,000 and <= 1,00,00,000
+26,727 | 52,944 | 198.09
+>1,00,00,000 and <=5,00,00,000
+3,304 | 22,930 | 694.01
+>5,00,00,000 and <=10,00,00,000
+2,152 | 32,747 | 1,521.70
+>10,00,00,000 and <=25,00,00,000
+765 | 26,627 | 3,480.65
+>25,00,00,000 and <=50,00,00,000
+417 | 28,505 | 6,835.73
+>50,00,00,000 and <=100,00,00,000
+351 | 68,465 | 19,505.70
+>100,00,00,000 and <=500,00,00,000
+86 | 1,46,109 | 1,69,894.19
+>500,00,00,000
+Total | 4,94,87,559 | 6,23,710
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after giving
+credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for taxes
+paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+18
+
+===== PAGE 20 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+2. Income Tax Returns – Individuals
+19
+
+===== PAGE 21 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+2.1 Individual– Gross Total Income (AY 2016-17)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns | Total Income (in | Total Income (in
+Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 1,33,355 | - | -
+>0 and <=1,50,000 | 22,48,428 | 18,711 | 0.83
+>150,000 and <= 2,00,000 | 14,64,522 | 26,000 | 1.78
+>2,00,000 and <=2,50,000 | 35,79,315 | 82,653 | 2.31
+>2,50,000 and <= 3,50,000 | 1,60,41,328 | 4,66,428 | 2.91
+>3,50,000 and <= 4,00,000 | 36,97,037 | 1,38,089 | 3.74
+>4,00,000 and <= 4,50,000 | 33,78,447 | 1,43,020 | 4.23
+>4,50,000 and <= 5,00,000 | 23,90,953 | 1,13,328 | 4.74
+>5,00,000 and <= 5,50,000 | 19,59,979 | 1,02,632 | 5.24
+>5,50,000 and <= 9,50,000 | 72,40,954 | 5,06,675 | 7.00
+>9,50,000 and <= 10,00,000 | 3,88,969 | 37,910 | 9.75
+>10,00,000 and <=15,00,000 | 20,69,452 | 2,48,771 | 12.02
+>15,00,000 and <= 20,00,000 | 7,62,370 | 1,30,867 | 17.17
+>20,00,000 and <= 25,00,000 | 3,54,491 | 78,719 | 22.21
+>25,00,000 and <= 50,00,000 | 4,61,648 | 1,54,660 | 33.50
+>50,00,000 and <= 1,00,00,000 | 1,40,830 | 96,473 | 68.50
+>1,00,00,000 and <=5,00,00,000 | 62,759 | 1,13,019 | 180.08
+>5,00,00,000 and <=10,00,00,000 | 3,330 | 22,412 | 673.03
+>10,00,00,000 and <=25,00,00,000 | 1,298 | 19,173 | 1,477.12
+>25,00,00,000 and <=50,00,00,000 | 272 | 9,242 | 3,397.79
+>50,00,00,000 and <=100,00,00,000 | 86 | 5,823 | 6,770.93
+>100,00,00,000 and <=500,00,00,000 | 34 | 6,676 | 19,635.29
+>500,00,00,000 | 4 | 2,730 | 68,250.00
+Total | 4,63,79,861 | 25,24,011
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+20
+
+===== PAGE 22 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+2.2 Individual- Range of Salary Income (AY 2016-17)
+Sum of Salary
+Average Salary
+No. of Returns | Income (in
+Range (in INR)
+Income (in Lakh INR)
+Crore INR)
+< 0 | - | - | -
+= 0 | 2,46,72,627 | - | -
+>0 and <=1,50,000 | 18,68,863 | 17,451 | 0.93
+11,26,796 | 20,013 | 1.78
+>150,000 and <= 2,00,000
+14,37,583 | 32,759 | 2.28
+>2,00,000 and <=2,50,000
+30,23,573 | 90,655 | 3.00
+>2,50,000 and <= 3,50,000
+16,12,189 | 60,455 | 3.75
+>3,50,000 and <= 4,00,000
+16,95,942 | 71,890 | 4.24
+>4,00,000 and <= 4,50,000
+13,36,251 | 63,400 | 4.74
+>4,50,000 and <= 5,00,000
+12,48,189 | 65,486 | 5.25
+>5,00,000 and <= 5,50,000
+52,75,408 | 3,69,411 | 7.00
+>5,50,000 and <= 9,50,000
+2,88,432 | 28,108 | 9.75
+>9,50,000 and <= 10,00,000
+15,19,118 | 1,82,939 | 12.04
+>10,00,000 and <=15,00,000
+5,89,361 | 1,01,321 | 17.19
+>15,00,000 and <= 20,00,000
+2,64,950 | 58,797 | 22.19
+>20,00,000 and <= 25,00,000
+3,05,359 | 1,01,494 | 33.24
+>25,00,000 and <= 50,00,000
+80,217 | 54,379 | 67.79
+>50,00,000 and <= 1,00,00,000
+33,124 | 58,070 | 175.31
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 1,353 | 8,953 | 661.71
+>10,00,00,000 and <=25,00,00,000 | 430 | 6,208 | 1,443.72
+>25,00,00,000 and <=50,00,00,000 | 73 | 2,410 | 3,301.37
+>50,00,00,000 and <=100,00,00,000 | 18 | 1,340 | 7,444.44
+>100,00,00,000 and <=500,00,00,000 | 5 | 657 | 13,140.00
+>500,00,00,000 | - | - | -
+Total | 4,63,79,861 | 13,96,196
+Notes
+1. Salary Income is the income under the head “Salaries” as computed in the return of
+income
+2. The “Sum of Salary Income” is the sum of Salary Income of all returns within the value
+range slab.
+3. The “Average Salary Income” is the average Salary Income within the value range slab
+i.e. “Sum of Salary Income” divided by total number of returns within the value range
+slab.
+21
+
+===== PAGE 23 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+2.3 Individual- Range of House Property Income (AY 2016-17)
+Sum of House
+Average House
+No. of | Property
+Property Income(in
+Range (in INR)
+Returns | Income (in
+Lakh INR)
+Crore INR)
+< 0 | 33,24,017 | -33,645 | -1.01
+= 0 | 4,00,43,456 | - | -
+>0 and <=1,50,000 | 18,66,574 | 13,072 | 0.70
+>150,000 and <= 2,00,000 | 2,96,708 | 5,118 | 1.72
+>2,00,000 and <=2,50,000 | 2,07,328 | 4,610 | 2.22
+>2,50,000 and <= 3,50,000 | 2,64,473 | 7,730 | 2.92
+>3,50,000 and <= 4,00,000 | 68,050 | 2,544 | 3.74
+>4,00,000 and <= 4,50,000 | 54,706 | 2,315 | 4.23
+38,503 | 1,824 | 4.74
+>4,50,000 and <= 5,00,000
+32,388 | 1,695 | 5.23
+>5,00,000 and <= 5,50,000
+1,08,174 | 7,484 | 6.92
+>5,50,000 and <= 9,50,000
+5,357 | 522 | 9.74
+>9,50,000 and <= 10,00,000
+31,129 | 3,769 | 12.11
+>10,00,000 and <=15,00,000
+13,661 | 2,349 | 17.19
+>15,00,000 and <= 20,00,000
+7,614 | 1,694 | 22.25
+>20,00,000 and <= 25,00,000
+12,124 | 4,117 | 33.96
+>25,00,000 and <= 50,00,000
+4,090 | 2,755 | 67.36
+>50,00,000 and <= 1,00,00,000
+1,461 | 2,447 | 167.49
+>1,00,00,000 and <=5,00,00,000
+39 | 257 | 658.97
+>5,00,00,000 and <=10,00,00,000
+9 | 117 | 1,300.00
+>10,00,00,000 and <=25,00,00,000
+- | - | -
+>25,00,00,000 and <=50,00,00,000
+- | - | -
+>50,00,00,000 and <=100,00,00,000
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 4,63,79,861 | 30,774
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House
+Property Income (for ITR-1 & ITR-4S). For other ITRs the same may be adjusted in
+Current Year Loss Adjustment or carried forward for future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e. “Sum of House Property Income” divided by total number of returns
+within the value range slab.
+22
+
+===== PAGE 24 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+2.4 Individual- Range of Business Income (AY 2016-17)
+Sum of
+No. of | Business | Average Business
+Range (in INR)
+Returns | Income (in | Income (in Lakh INR)
+Crore INR)
+< 0 | - | - | -
+= 0 | 2,47,04,070 | - | -
+>0 and <=1,50,000 | 26,70,837 | 22,793 | 0.85
+>150,000 and <= 2,00,000 | 14,09,837 | 24,943 | 1.77
+>2,00,000 and <=2,50,000 | 27,75,670 | 63,834 | 2.30
+>2,50,000 and <= 3,50,000 | 93,21,524 | 2,67,961 | 2.87
+>3,50,000 and <= 4,00,000 | 14,46,450 | 53,820 | 3.72
+>4,00,000 and <= 4,50,000 | 10,28,681 | 43,405 | 4.22
+6,58,918 | 31,211 | 4.74
+>4,50,000 and <= 5,00,000
+4,57,341 | 23,886 | 5.22
+>5,00,000 and <= 5,50,000
+12,89,424 | 89,152 | 6.91
+>5,50,000 and <= 9,50,000
+61,361 | 5,984 | 9.75
+>9,50,000 and <= 10,00,000
+2,85,988 | 34,319 | 12.00
+>10,00,000 and <=15,00,000
+1,01,703 | 17,453 | 17.16
+>15,00,000 and <= 20,00,000
+49,187 | 10,947 | 22.26
+>20,00,000 and <= 25,00,000
+77,418 | 26,340 | 34.02
+>25,00,000 and <= 50,00,000
+28,593 | 19,670 | 68.79
+>50,00,000 and <= 1,00,00,000
+11,727 | 21,470 | 183.08
+>1,00,00,000 and <=5,00,00,000
+711 | 4,805 | 675.81
+>5,00,00,000 and <=10,00,00,000
+318 | 4,830 | 1,518.87
+>10,00,00,000 and <=25,00,00,000
+72 | 2,467 | 3,426.39
+>25,00,00,000 and <=50,00,00,000
+23 | 1,559 | 6,778.26
+>50,00,00,000 and <=100,00,00,000
+>100,00,00,000 and <=500,00,00,000 | 7 | 1,406 | 20,085.71
+>500,00,00,000 | 1 | 892 | 89,200.00
+Total | 4,63,79,861 | 7,73,147
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab.
+23
+
+===== PAGE 25 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+2.5 Individual- Range of Long Term Capital Gains (AY 2016-17)
+Sum of Long | Average Long
+Term Capital | Term Capital
+No. of Returns
+Range (in INR)
+Gains Income | Gains Income
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 4,60,99,364 | - | -
+>0 and <=1,50,000 | 1,14,370 | 633 | 0.55
+>150,000 and <= 2,00,000 | 19,292 | 336 | 1.74
+>2,00,000 and <=2,50,000 | 16,635 | 375 | 2.25
+>2,50,000 and <= 3,50,000 | 23,528 | 693 | 2.95
+>3,50,000 and <= 4,00,000 | 7,500 | 281 | 3.75
+>4,00,000 and <= 4,50,000 | 6,205 | 263 | 4.24
+5,538 | 263 | 4.75
+>4,50,000 and <= 5,00,000
+4,648 | 244 | 5.25
+>5,00,000 and <= 5,50,000
+24,153 | 1,750 | 7.25
+>5,50,000 and <= 9,50,000
+2,048 | 200 | 9.77
+>9,50,000 and <= 10,00,000
+14,834 | 1,822 | 12.28
+>10,00,000 and <=15,00,000
+8,795 | 1,523 | 17.32
+>15,00,000 and <= 20,00,000
+5,851 | 1,309 | 22.37
+>20,00,000 and <= 25,00,000
+13,296 | 4,679 | 35.19
+>25,00,000 and <= 50,00,000
+7,530 | 5,263 | 69.89
+>50,00,000 and <= 1,00,00,000
+5,356 | 10,600 | 197.91
+>1,00,00,000 and <=5,00,00,000
+533 | 3,655 | 685.74
+>5,00,00,000 and <=10,00,00,000
+275 | 4,168 | 1,515.64
+>10,00,00,000 and <=25,00,00,000
+72 | 2,477 | 3,440.28
+>25,00,00,000 and <=50,00,00,000
+23 | 1,473 | 6,404.35
+>50,00,00,000 and <=100,00,00,000
+>100,00,00,000 and <=500,00,00,000 | 12 | 2,950 | 24,583.33
+>500,00,00,000 | 3 | 1,740 | 58,000.00
+Total | 4,63,79,861 | 46,697
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income”
+divided by total number of returns within the value range slab
+24
+
+===== PAGE 26 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+2.6 Individual- Range of Short Term Capital Gains (AY 2016-17)
+Sum of Short
+Average Short Term
+No. of | Term Capital
+Capital Gains Income(in
+Range (in INR)
+Returns | Gains Income
+Lakh INR)
+(in Crore INR)
+< 0 | - | - | -
+= 0 | 4,57,26,105 | - | -
+>0 and <=1,50,000 | 5,45,488 | 1,506 | 0.28
+>150,000 and <= 2,00,000 | 20,897 | 363 | 1.74
+>2,00,000 and <=2,50,000 | 15,105 | 339 | 2.24
+>2,50,000 and <= 3,50,000 | 19,324 | 570 | 2.95
+>3,50,000 and <= 4,00,000 | 6,560 | 246 | 3.75
+>4,00,000 and <= 4,50,000 | 5,273 | 224 | 4.25
+4,500 | 214 | 4.76
+>4,50,000 and <= 5,00,000
+3,562 | 187 | 5.25
+>5,00,000 and <= 5,50,000
+15,071 | 1,079 | 7.16
+>5,50,000 and <= 9,50,000
+1,120 | 109 | 9.73
+>9,50,000 and <= 10,00,000
+6,483 | 787 | 12.14
+>10,00,000 and <=15,00,000
+2,954 | 511 | 17.30
+>15,00,000 and <= 20,00,000
+1,792 | 400 | 22.32
+>20,00,000 and <= 25,00,000
+3,265 | 1,121 | 34.33
+>25,00,000 and <= 50,00,000
+1,397 | 961 | 68.79
+>50,00,000 and <= 1,00,00,000
+847 | 1,631 | 192.56
+>1,00,00,000 and <=5,00,00,000
+68 | 455 | 669.12
+>5,00,00,000 and <=10,00,00,000
+33 | 478 | 1,448.48
+>10,00,00,000 and <=25,00,00,000
+12 | 424 | 3,533.33
+>25,00,00,000 and <=50,00,00,000
+2 | 154 | 7,700.00
+>50,00,00,000 and <=100,00,00,000
+>100,00,00,000 and <=500,00,00,000 | 3 | 613 | 20,433.33
+>500,00,00,000 | - | - | -
+Total | 4,63,79,861 | 12,372
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital
+Gains Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab
+25
+
+===== PAGE 27 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+2.7 Individual- Range of Other Sources Income (AY 2016-17)
+Sum of Other | Average Other
+No. of
+Sources Income | Sources Income (in
+Range (in INR)
+Returns
+(in Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 2,02,79,187 | - | -
+>0 and <=1,50,000 | 2,01,85,623 | 64,035 | 0.32
+13,39,402 | 23,311 | 1.74
+>150,000 and <= 2,00,000
+11,98,028 | 27,104 | 2.26
+>2,00,000 and <=2,50,000
+18,50,700 | 53,142 | 2.87
+>2,50,000 and <= 3,50,000
+3,33,996 | 12,469 | 3.73
+>3,50,000 and <= 4,00,000
+2,43,941 | 10,328 | 4.23
+>4,00,000 and <= 4,50,000
+1,74,838 | 8,289 | 4.74
+>4,50,000 and <= 5,00,000
+1,28,901 | 6,746 | 5.23
+>5,00,000 and <= 5,50,000
+4,17,158 | 29,184 | 7.00
+>5,50,000 and <= 9,50,000
+22,071 | 2,151 | 9.75
+>9,50,000 and <= 10,00,000
+1,09,322 | 13,078 | 11.96
+>10,00,000 and <=15,00,000
+37,269 | 6,394 | 17.16
+>15,00,000 and <= 20,00,000
+17,979 | 3,995 | 22.22
+>20,00,000 and <= 25,00,000
+27,252 | 9,236 | 33.89
+>25,00,000 and <= 50,00,000
+9,570 | 6,487 | 67.78
+>50,00,000 and <= 1,00,00,000
+4,271 | 7,644 | 178.97
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 242 | 1,645 | 679.75
+>10,00,00,000 and <=25,00,00,000 | 84 | 1,275 | 1,517.86
+>25,00,00,000 and <=50,00,00,000 | 18 | 621 | 3,450.00
+>50,00,00,000 and <=100,00,00,000 | 4 | 221 | 5,525.00
+>100,00,00,000 and <=500,00,00,000 | 5 | 606 | 12,120.00
+>500,00,00,000 | - | - | -
+Total | 4,63,79,861 | 2,87,961
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab
+26
+
+===== PAGE 28 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+2.8 Individual- Range of Interest Income (AY 2016-17)
+Sum of
+Average Interest
+No. of | Interest
+Income (in Lakh
+Range (in INR)
+Returns | Income (in
+INR)
+Crore INR)
+< 0 | - | - | -
+= 0 | 3,71,30,252 | - | -
+>0 and <=1,50,000 | 78,97,886 | 19,908 | 0.25
+>150,000 and <= 2,00,000 | 3,33,140 | 5,777 | 1.73
+>2,00,000 and <=2,50,000 | 2,32,361 | 5,201 | 2.24
+>2,50,000 and <= 3,50,000 | 2,92,836 | 8,598 | 2.94
+>3,50,000 and <= 4,00,000 | 85,067 | 3,180 | 3.74
+>4,00,000 and <= 4,50,000 | 64,246 | 2,724 | 4.24
+50,410 | 2,390 | 4.74
+>4,50,000 and <= 5,00,000
+39,451 | 2,067 | 5.24
+>5,00,000 and <= 5,50,000
+1,47,530 | 10,411 | 7.06
+>5,50,000 and <= 9,50,000
+8,710 | 849 | 9.75
+>9,50,000 and <= 10,00,000
+47,059 | 5,664 | 12.04
+>10,00,000 and <=15,00,000
+18,645 | 3,207 | 17.20
+>15,00,000 and <= 20,00,000
+9,524 | 2,120 | 22.26
+>20,00,000 and <= 25,00,000
+15,041 | 5,105 | 33.94
+>25,00,000 and <= 50,00,000
+5,213 | 3,528 | 67.68
+>50,00,000 and <= 1,00,00,000
+2,321 | 4,104 | 176.82
+>1,00,00,000 and <=5,00,00,000
+124 | 824 | 664.52
+>5,00,00,000 and <=10,00,00,000
+36 | 551 | 1,530.56
+>10,00,00,000 and <=25,00,00,000
+7 | 230 | 3,285.71
+>25,00,00,000 and <=50,00,00,000
+1 | 54 | 5,400.00
+>50,00,00,000 and <=100,00,00,000
+>100,00,00,000 and <=500,00,00,000 | 1 | 103 | 10,300.00
+>500,00,00,000 | - | - | -
+Total | 4,63,79,861 | 86,595
+Notes
+1. The Interest Income is already included in the Income from other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The returns in which Income from other sources < Gross interest income, count of such
+returns are displayed under =0 slab.
+4. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+5. The “Average Interest Income” is the average Interest Income within the value range
+slab i.e. “Sum of Interest Income” divided by total number of returns within the value
+range slab
+27
+
+===== PAGE 29 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+2.9 Individual- Range of Total Loss Set off (AY 2016-17)
+Sum of Total
+No. of | Average Total Loss
+Loss Set Off (in
+Range (in INR)
+Returns | Set off (in Lakh INR)
+Crore INR)
+< 0 | - | - | -
+= 0 | 4,49,12,866 | - | -
+>0 and <=1,50,000 | 10,11,958 | 6,388 | 0.63
+3,05,988 | 5,740 | 1.88
+>150,000 and <= 2,00,000
+32,340 | 722 | 2.23
+>2,00,000 and <=2,50,000
+40,565 | 1,197 | 2.95
+>2,50,000 and <= 3,50,000
+12,823 | 479 | 3.74
+>3,50,000 and <= 4,00,000
+9,942 | 421 | 4.23
+>4,00,000 and <= 4,50,000
+7,522 | 356 | 4.73
+>4,50,000 and <= 5,00,000
+5,842 | 306 | 5.24
+>5,00,000 and <= 5,50,000
+21,509 | 1,516 | 7.05
+>5,50,000 and <= 9,50,000
+1,285 | 125 | 9.73
+>9,50,000 and <= 10,00,000
+7,296 | 883 | 12.10
+>10,00,000 and <=15,00,000
+3,273 | 564 | 17.23
+>15,00,000 and <= 20,00,000
+1,638 | 365 | 22.28
+>20,00,000 and <= 25,00,000
+3,071 | 1,053 | 34.29
+>25,00,000 and <= 50,00,000
+1,179 | 809 | 68.62
+>50,00,000 and <= 1,00,00,000
+682 | 1,294 | 189.74
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 56 | 369 | 658.93
+>10,00,00,000 and <=25,00,00,000 | 20 | 328 | 1,640.00
+>25,00,00,000 and <=50,00,00,000 | 6 | 217 | 3,616.67
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 4,63,79,861 | 23,132
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses
+set off against current year’s income in the “Computation of total income” Schedule of
+return of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value
+range slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the
+value range slab
+28
+
+===== PAGE 30 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+2.10 Individual- Range of Returned Income (AY 2016-17)
+Sum of
+Average Returned
+Returned
+No. of Returns | Income (in Lakh
+Range (in INR)
+Income (in
+INR)
+Crore INR)
+< 0 | - | - | -
+= 0 | 2,61,127 | - | -
+>0 and <=1,50,000 | 25,70,216 | 22,373 | 0.87
+>150,000 and <= 2,00,000 | 19,84,183 | 35,313 | 1.78
+>2,00,000 and <=2,50,000 | 53,81,494 | 1,24,403 | 2.31
+>2,50,000 and <= 3,50,000 | 2,04,67,958 | 5,78,630 | 2.83
+>3,50,000 and <= 4,00,000 | 26,78,726 | 99,963 | 3.73
+>4,00,000 and <= 4,50,000 | 20,44,074 | 86,661 | 4.24
+18,84,783 | 89,731 | 4.76
+>4,50,000 and <= 5,00,000
+13,05,275 | 68,405 | 5.24
+>5,00,000 and <= 5,50,000
+45,59,164 | 3,21,151 | 7.04
+>5,50,000 and <= 9,50,000
+2,81,827 | 27,479 | 9.75
+>9,50,000 and <= 10,00,000
+14,86,840 | 1,79,217 | 12.05
+>10,00,000 and <=15,00,000
+5,93,586 | 1,01,970 | 17.18
+>15,00,000 and <= 20,00,000
+2,82,786 | 62,847 | 22.22
+>20,00,000 and <= 25,00,000
+4,00,602 | 1,35,102 | 33.72
+>25,00,000 and <= 50,00,000
+1,32,482 | 91,409 | 69.00
+>50,00,000 and <= 1,00,00,000
+59,783 | 1,08,898 | 182.16
+>1,00,00,000 and <=5,00,00,000
+3,286 | 22,106 | 672.73
+>5,00,00,000 and <=10,00,00,000
+1,278 | 18,882 | 1,477.46
+>10,00,00,000 and <=25,00,00,000
+269 | 9,136 | 3,396.28
+>25,00,00,000 and <=50,00,00,000
+85 | 5,781 | 6,801.18
+>50,00,00,000 and <=100,00,00,000
+>100,00,00,000 and <=500,00,00,000 | 33 | 6,491 | 19,669.70
+>500,00,00,000 | 4 | 2,729 | 68,225.00
+Total | 4,63,79,861 | 21,98,677
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income.
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+29
+
+===== PAGE 31 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+2.11 Individual- Range of Tax Payable (AY 2016-17)
+Sum of Tax
+Average Tax Payable
+No. of Returns | Payable (in Crore
+Range (in INR)
+(in Lakh INR)
+INR)
+< 0 | - | - | -
+= 0 | 2,06,03,495 | - | -
+>0 and <=1,50,000 | 2,31,35,856 | 55,535 | 0.24
+5,77,294 | 9,997 | 1.73
+>150,000 and <= 2,00,000
+3,89,612 | 8,710 | 2.24
+>2,00,000 and <=2,50,000
+5,12,619 | 15,166 | 2.96
+>2,50,000 and <= 3,50,000
+1,74,204 | 6,515 | 3.74
+>3,50,000 and <= 4,00,000
+1,36,069 | 5,769 | 4.24
+>4,00,000 and <= 4,50,000
+1,07,322 | 5,088 | 4.74
+>4,50,000 and <= 5,00,000
+86,765 | 4,548 | 5.24
+>5,00,000 and <= 5,50,000
+3,37,489 | 23,968 | 7.10
+>5,50,000 and <= 9,50,000
+20,995 | 2,046 | 9.75
+>9,50,000 and <= 10,00,000
+1,25,648 | 15,220 | 12.11
+>10,00,000 and <=15,00,000
+56,635 | 9,760 | 17.23
+>15,00,000 and <= 20,00,000
+31,915 | 7,115 | 22.29
+>20,00,000 and <= 25,00,000
+49,946 | 17,251 | 34.54
+>25,00,000 and <= 50,00,000
+22,874 | 15,530 | 67.89
+>50,00,000 and <= 1,00,00,000
+10,325 | 18,293 | 177.17
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 546 | 3,734 | 683.88
+>10,00,00,000 and <=25,00,00,000 | 198 | 2,867 | 1,447.98
+>25,00,00,000 and <=50,00,00,000 | 38 | 1,314 | 3,457.89
+>50,00,00,000 and <=100,00,00,000 | 9 | 636 | 7,066.67
+>100,00,00,000 and <=500,00,00,000 | 7 | 1,098 | 15,685.71
+>500,00,00,000 | - | - | -
+Total | 4,63,79,861 | 2,30,160
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after
+giving credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for
+taxes paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+4. For AY 2016-17, there were the following exemption thresholds for different classes of
+taxpayers- (i) For individuals below 60 years of age- Rs.2,50,000/- (ii) For individuals of
+60 years of age or more but below 80 years of age- Rs.3,00,000/- and (iii) For individuals
+of 80 years of age or more- Rs.5,00,000/-.
+30
+
+===== PAGE 32 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+3. Income Tax Returns - HUF
+31
+
+===== PAGE 33 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+3.1 HUF– Gross Total Income (AY 2016-17)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns | Total Income (in | Total Income (in
+Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 10,876 | - | -
+>0 and <=1,50,000 | 1,59,843 | 1,127 | 0.71
+>150,000 and <= 2,00,000 | 69,610 | 1,229 | 1.77
+>2,00,000 and <=2,50,000 | 2,33,526 | 5,516 | 2.36
+>2,50,000 and <= 3,50,000 | 2,60,145 | 7,400 | 2.84
+>3,50,000 and <= 4,00,000 | 53,909 | 2,023 | 3.75
+>4,00,000 and <= 4,50,000 | 46,818 | 1,978 | 4.22
+>4,50,000 and <= 5,00,000 | 37,768 | 1,798 | 4.76
+>5,00,000 and <= 5,50,000 | 28,793 | 1,505 | 5.23
+>5,50,000 and <= 9,50,000 | 1,03,815 | 7,310 | 7.04
+>9,50,000 and <= 10,00,000 | 6,920 | 675 | 9.75
+>10,00,000 and <=15,00,000 | 30,875 | 3,651 | 11.83
+>15,00,000 and <= 20,00,000 | 7,803 | 1,334 | 17.10
+>20,00,000 and <= 25,00,000 | 3,502 | 779 | 22.24
+>25,00,000 and <= 50,00,000 | 5,055 | 1,715 | 33.93
+>50,00,000 and <= 1,00,00,000 | 1,862 | 1,290 | 69.28
+>1,00,00,000 and <=5,00,00,000 | 723 | 1,324 | 183.13
+>5,00,00,000 and <=10,00,00,000 | 66 | 458 | 693.94
+>10,00,00,000 and <=25,00,00,000 | 25 | 386 | 1,544.00
+>25,00,00,000 and <=50,00,00,000 | 5 | 165 | 3,300.00
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | 6 | 1,288 | 21,466.67
+>500,00,00,000 | - | - | -
+Total | 10,61,945 | 42,951
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+32
+
+===== PAGE 34 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+3.2 HUF- Range of House Property Income (AY 2016-17)
+Sum of House | Average House
+No. of
+Property Income | Property Income(in
+Range (in INR)
+Returns
+(in Crore INR) | Lakh INR)
+< 0 | 292 | -3 | -1.03
+= 0 | 9,19,286 | - | -
+>0 and <=1,50,000 | 74,214 | 545 | 0.73
+14,723 | 255 | 1.73
+>150,000 and <= 2,00,000
+12,491 | 279 | 2.23
+>2,00,000 and <=2,50,000
+14,740 | 431 | 2.92
+>2,50,000 and <= 3,50,000
+4,231 | 158 | 3.73
+>3,50,000 and <= 4,00,000
+3,597 | 152 | 4.23
+>4,00,000 and <= 4,50,000
+2,715 | 129 | 4.75
+>4,50,000 and <= 5,00,000
+2,398 | 125 | 5.21
+>5,00,000 and <= 5,50,000
+8,231 | 563 | 6.84
+>5,50,000 and <= 9,50,000
+374 | 36 | 9.63
+>9,50,000 and <= 10,00,000
+2,150 | 259 | 12.05
+>10,00,000 and <=15,00,000
+902 | 156 | 17.29
+>15,00,000 and <= 20,00,000
+456 | 102 | 22.37
+>20,00,000 and <= 25,00,000
+753 | 257 | 34.13
+>25,00,000 and <= 50,00,000
+273 | 186 | 68.13
+>50,00,000 and <= 1,00,00,000
+108 | 196 | 181.48
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 10 | 70 | 700.00
+>10,00,00,000 and <=25,00,00,000 | 1 | 11 | 1,100.00
+>25,00,00,000 and <=50,00,00,000 | - | - | -
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 10,61,945 | 3,907
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House
+Property Income (for ITR-1 & ITR-4S). For other ITRs the same may be adjusted in
+Current Year Loss Adjustment or carried forward for future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e. “Sum of House Property Income” divided by total number of returns
+within the value range slab.
+33
+
+===== PAGE 35 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+3.3 HUF- Range of Business Income (AY 2016-17)
+Sum of Business
+No. of | Average Business
+Income (in Crore
+Range (in INR)
+Returns | Income (in Lakh INR)
+INR)
+< 0 | - | - | -
+= 0 | 5,46,409 | - | -
+>0 and <=1,50,000 | 92,044 | 827 | 0.90
+58,207 | 1,029 | 1.77
+>150,000 and <= 2,00,000
+1,32,887 | 3,098 | 2.33
+>2,00,000 and <=2,50,000
+1,06,181 | 3,043 | 2.87
+>2,50,000 and <= 3,50,000
+24,517 | 921 | 3.76
+>3,50,000 and <= 4,00,000
+18,232 | 772 | 4.23
+>4,00,000 and <= 4,50,000
+16,155 | 770 | 4.77
+>4,50,000 and <= 5,00,000
+11,077 | 579 | 5.23
+>5,00,000 and <= 5,50,000
+39,075 | 2,750 | 7.04
+>5,50,000 and <= 9,50,000
+2,381 | 232 | 9.74
+>9,50,000 and <= 10,00,000
+8,475 | 1,007 | 11.88
+>10,00,000 and <=15,00,000
+2,411 | 411 | 17.05
+>15,00,000 and <= 20,00,000
+1,151 | 256 | 22.24
+>20,00,000 and <= 25,00,000
+1,784 | 605 | 33.91
+>25,00,000 and <= 50,00,000
+696 | 479 | 68.82
+>50,00,000 and <= 1,00,00,000
+230 | 427 | 185.65
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 22 | 146 | 663.64
+>10,00,00,000 and <=25,00,00,000 | 5 | 69 | 1,380.00
+>25,00,00,000 and <=50,00,00,000 | 1 | 38 | 3,800.00
+>50,00,00,000 and <=100,00,00,000 | 1 | 91 | 9,100.00
+>100,00,00,000 and <=500,00,00,000 | 4 | 670 | 16,750.00
+>500,00,00,000 | - | - | -
+Total | 10,61,945 | 18,220
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab
+34
+
+===== PAGE 36 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+3.4 HUF- Range of Long Term Capital Gains (AY 2016-17)
+Sum of Long Term
+Average Long Term
+No. of | Capital Gains
+Capital Gains
+Range (in INR)
+Returns | Income (in Crore
+Income(in Lakh INR)
+INR)
+< 0 | - | - | -
+= 0 | 10,49,940 | - | -
+>0 and <=1,50,000 | 5,471 | 30 | 0.55
+>150,000 and <= 2,00,000 | 836 | 15 | 1.79
+>2,00,000 and <=2,50,000 | 755 | 17 | 2.25
+>2,50,000 and <= 3,50,000 | 937 | 28 | 2.99
+>3,50,000 and <= 4,00,000 | 276 | 10 | 3.62
+>4,00,000 and <= 4,50,000 | 226 | 10 | 4.42
+235 | 11 | 4.68
+>4,50,000 and <= 5,00,000
+173 | 9 | 5.20
+>5,00,000 and <= 5,50,000
+925 | 67 | 7.24
+>5,50,000 and <= 9,50,000
+77 | 8 | 10.39
+>9,50,000 and <= 10,00,000
+506 | 63 | 12.45
+>10,00,000 and <=15,00,000
+335 | 58 | 17.31
+>15,00,000 and <= 20,00,000
+198 | 44 | 22.22
+>20,00,000 and <= 25,00,000
+509 | 176 | 34.58
+>25,00,000 and <= 50,00,000
+303 | 211 | 69.64
+>50,00,000 and <= 1,00,00,000
+203 | 409 | 201.48
+>1,00,00,000 and <=5,00,00,000
+23 | 163 | 708.70
+>5,00,00,000 and <=10,00,00,000
+13 | 224 | 1,723.08
+>10,00,00,000 and <=25,00,00,000
+2 | 71 | 3,550.00
+>25,00,00,000 and <=50,00,00,000
+- | - | -
+>50,00,00,000 and <=100,00,00,000
+>100,00,00,000 and <=500,00,00,000 | 2 | 605 | 30,250.00
+>500,00,00,000 | - | - | -
+Total | 10,61,945 | 2,229
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income”
+divided by total number of returns within the value range slab
+35
+
+===== PAGE 37 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+3.5 HUF- Range of Short Term Capital Gains (AY 2016-17)
+Sum of Short | Average Short
+No. of | Term Capital | Term Capital
+Range (in INR)
+Returns | Gains Income (in | Gains Income (in
+Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 10,10,635 | - | -
+>0 and <=1,50,000 | 42,932 | 124 | 0.29
+>150,000 and <= 2,00,000 | 1,757 | 31 | 1.76
+>2,00,000 and <=2,50,000 | 1,568 | 35 | 2.23
+>2,50,000 and <= 3,50,000 | 1,548 | 45 | 2.91
+>3,50,000 and <= 4,00,000 | 454 | 17 | 3.74
+>4,00,000 and <= 4,50,000 | 425 | 18 | 4.24
+353 | 17 | 4.82
+>4,50,000 and <= 5,00,000
+276 | 14 | 5.07
+>5,00,000 and <= 5,50,000
+1,020 | 73 | 7.16
+>5,50,000 and <= 9,50,000
+61 | 6 | 9.84
+>9,50,000 and <= 10,00,000
+394 | 48 | 12.18
+>10,00,000 and <=15,00,000
+178 | 30 | 16.85
+>15,00,000 and <= 20,00,000
+78 | 17 | 21.79
+>20,00,000 and <= 25,00,000
+168 | 59 | 35.12
+>25,00,000 and <= 50,00,000
+64 | 45 | 70.31
+>50,00,000 and <= 1,00,00,000
+31 | 54 | 174.19
+>1,00,00,000 and <=5,00,00,000
+3 | 19 | 633.33
+>5,00,00,000 and <=10,00,00,000
+- | - | -
+>10,00,00,000 and <=25,00,00,000
+- | - | -
+>25,00,00,000 and <=50,00,00,000
+- | - | -
+>50,00,00,000 and <=100,00,00,000
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 10,61,945 | 652
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital
+Gains Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab
+36
+
+===== PAGE 38 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+3.6 HUF- Range of Other Sources Income (AY 2016-17)
+Sum of Other | Average Other
+No. of
+Sources Income | Sources Income (in
+Range (in INR)
+Returns
+(in Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 1,39,221 | - | -
+>0 and <=1,50,000 | 4,99,982 | 2,243 | 0.45
+75,883 | 1,326 | 1.75
+>150,000 and <= 2,00,000
+1,06,382 | 2,454 | 2.31
+>2,00,000 and <=2,50,000
+1,07,634 | 3,094 | 2.87
+>2,50,000 and <= 3,50,000
+24,896 | 933 | 3.75
+>3,50,000 and <= 4,00,000
+20,025 | 846 | 4.22
+>4,00,000 and <= 4,50,000
+15,638 | 743 | 4.75
+>4,50,000 and <= 5,00,000
+12,135 | 634 | 5.22
+>5,00,000 and <= 5,50,000
+41,164 | 2,894 | 7.03
+>5,50,000 and <= 9,50,000
+2,543 | 248 | 9.75
+>9,50,000 and <= 10,00,000
+11,035 | 1,301 | 11.79
+>10,00,000 and <=15,00,000
+2,552 | 435 | 17.05
+>15,00,000 and <= 20,00,000
+1,042 | 231 | 22.17
+>20,00,000 and <= 25,00,000
+1,341 | 447 | 33.33
+>25,00,000 and <= 50,00,000
+356 | 241 | 67.70
+>50,00,000 and <= 1,00,00,000
+109 | 171 | 156.88
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 3 | 19 | 633.33
+>10,00,00,000 and <=25,00,00,000 | 3 | 57 | 1,900.00
+>25,00,00,000 and <=50,00,00,000 | 1 | 27 | 2,700.00
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 10,61,945 | 18,344
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab.
+37
+
+===== PAGE 39 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+3.7 HUF- Range of Interest Income (AY 2016-17)
+Sum of
+No. of | Interest | Average Interest
+Range (in INR)
+Returns | Income (in | Income (in Lakh INR)
+Crore INR)
+< 0 | - | - | -
+= 0 | 4,23,647 | - | -
+>0 and <=1,50,000 | 4,07,089 | 1,658 | 0.41
+>150,000 and <= 2,00,000 | 52,944 | 924 | 1.75
+>2,00,000 and <=2,50,000 | 53,502 | 1,216 | 2.27
+>2,50,000 and <= 3,50,000 | 54,820 | 1,592 | 2.90
+>3,50,000 and <= 4,00,000 | 13,884 | 520 | 3.75
+>4,00,000 and <= 4,50,000 | 10,583 | 448 | 4.23
+8,272 | 392 | 4.74
+>4,50,000 and <= 5,00,000
+6,161 | 323 | 5.24
+>5,00,000 and <= 5,50,000
+21,268 | 1,490 | 7.01
+>5,50,000 and <= 9,50,000
+1,143 | 111 | 9.71
+>9,50,000 and <= 10,00,000
+5,411 | 643 | 11.88
+>10,00,000 and <=15,00,000
+1,481 | 253 | 17.08
+>15,00,000 and <= 20,00,000
+631 | 140 | 22.19
+>20,00,000 and <= 25,00,000
+833 | 277 | 33.25
+>25,00,000 and <= 50,00,000
+208 | 139 | 66.83
+>50,00,000 and <= 1,00,00,000
+63 | 97 | 153.97
+>1,00,00,000 and <=5,00,00,000
+2 | 14 | 700.00
+>5,00,00,000 and <=10,00,00,000
+2 | 45 | 2,250.00
+>10,00,00,000 and <=25,00,00,000
+1 | 27 | 2,700.00
+>25,00,00,000 and <=50,00,00,000
+- | - | -
+>50,00,00,000 and <=100,00,00,000
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 10,61,945 | 10,309
+Notes
+1. The Interest Income is already included in the Income from other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The returns in which Income from other sources < Gross interest income, count of such
+returns are displayed under =0 slab.
+4. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+5. The “Average Interest Income” is the average Interest Income within the value range
+slab i.e. “Sum of Interest Income” divided by total number of returns within the value
+range slab
+38
+
+===== PAGE 40 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+3.8 HUF- Range of Total Loss Set off (AY 2016-17)
+No. of | Total Loss Set | Average Total Loss Set
+Range (in INR)
+Returns | Off(in Crore INR) | off (in Lakh INR)
+- | - | -
+< 0
+10,47,272 | - | -
+= 0
+11,032 | 39 | 0.35
+>0 and <=1,50,000
+937 | 17 | 1.81
+>150,000 and <= 2,00,000
+449 | 10 | 2.23
+>2,00,000 and <=2,50,000
+603 | 18 | 2.99
+>2,50,000 and <= 3,50,000
+182 | 7 | 3.85
+>3,50,000 and <= 4,00,000
+160 | 7 | 4.38
+>4,00,000 and <= 4,50,000
+138 | 7 | 5.07
+>4,50,000 and <= 5,00,000
+99 | 5 | 5.05
+>5,00,000 and <= 5,50,000
+515 | 36 | 6.99
+>5,50,000 and <= 9,50,000
+38 | 4 | 10.53
+>9,50,000 and <= 10,00,000
+200 | 24 | 12.00
+>10,00,000 and <=15,00,000
+>15,00,000 and <= 20,00,000 | 106 | 18 | 16.98
+>20,00,000 and <= 25,00,000 | 47 | 10 | 21.28
+>25,00,000 and <= 50,00,000 | 96 | 33 | 34.38
+>50,00,000 and <= 1,00,00,000 | 41 | 28 | 68.29
+>1,00,00,000 and <=5,00,00,000 | 28 | 50 | 178.57
+>5,00,00,000 and <=10,00,00,000 | 1 | 5 | 500.00
+>10,00,00,000 and <=25,00,00,000 | - | - | -
+>25,00,00,000 and <=50,00,00,000 | - | - | -
+>50,00,00,000 and <=100,00,00,000 | 1 | 91 | 9,100.00
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 10,61,945 | 409
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses
+set off against current year’s income in the “Computation of total income” Schedule of
+return of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value
+range slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the
+value range slab
+39
+
+===== PAGE 41 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+3.9 HUF- Range of Returned Income (AY 2016-17)
+Sum of Returned
+No. of | Average Returned
+Income (in Crore
+Range (in INR)
+Returns | Income (in Lakh INR)
+INR)
+< 0 | - | - | -
+= 0 | 32,890 | - | -
+>0 and <=1,50,000 | 1,52,823 | 1,211 | 0.79
+76,912 | 1,360 | 1.77
+>150,000 and <= 2,00,000
+2,82,635 | 6,695 | 2.37
+>2,00,000 and <=2,50,000
+2,60,170 | 7,392 | 2.84
+>2,50,000 and <= 3,50,000
+41,602 | 1,556 | 3.74
+>3,50,000 and <= 4,00,000
+32,662 | 1,386 | 4.24
+>4,00,000 and <= 4,50,000
+35,386 | 1,692 | 4.78
+>4,50,000 and <= 5,00,000
+23,989 | 1,254 | 5.23
+>5,00,000 and <= 5,50,000
+78,371 | 5,557 | 7.09
+>5,50,000 and <= 9,50,000
+6,678 | 652 | 9.76
+>9,50,000 and <= 10,00,000
+21,292 | 2,521 | 11.84
+>10,00,000 and <=15,00,000
+6,263 | 1,073 | 17.13
+>15,00,000 and <= 20,00,000
+3,083 | 687 | 22.28
+>20,00,000 and <= 25,00,000
+4,601 | 1,569 | 34.10
+>25,00,000 and <= 50,00,000
+1,806 | 1,258 | 69.66
+>50,00,000 and <= 1,00,00,000
+683 | 1,269 | 185.80
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 65 | 454 | 698.46
+>10,00,00,000 and <=25,00,00,000 | 23 | 359 | 1,560.87
+>25,00,00,000 and <=50,00,00,000 | 5 | 164 | 3,280.00
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | 6 | 1,280 | 21,333.33
+>500,00,00,000 | - | - | -
+Total | 10,61,945 | 39,389
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income.
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+40
+
+===== PAGE 42 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+3.10 HUF- Range of Tax Payable (AY 2016-17)
+Sum of Tax
+No. of | Average Tax Payable
+Payable(in Crore
+Range (in INR)
+Returns | (in Lakh INR)
+INR)
+< 0 | - | - | -
+= 0 | 5,46,472 | - | -
+>0 and <=1,50,000 | 4,81,698 | 1,103 | 0.23
+8,713 | 150 | 1.72
+>150,000 and <= 2,00,000
+5,358 | 120 | 2.24
+>2,00,000 and <=2,50,000
+6,208 | 182 | 2.93
+>2,50,000 and <= 3,50,000
+1,844 | 69 | 3.74
+>3,50,000 and <= 4,00,000
+1,565 | 66 | 4.22
+>4,00,000 and <= 4,50,000
+1,178 | 56 | 4.75
+>4,50,000 and <= 5,00,000
+957 | 50 | 5.22
+>5,00,000 and <= 5,50,000
+3,897 | 276 | 7.08
+>5,50,000 and <= 9,50,000
+276 | 27 | 9.78
+>9,50,000 and <= 10,00,000
+1,578 | 192 | 12.17
+>10,00,000 and <=15,00,000
+767 | 133 | 17.34
+>15,00,000 and <= 20,00,000
+429 | 95 | 22.14
+>20,00,000 and <= 25,00,000
+582 | 195 | 33.51
+>25,00,000 and <= 50,00,000
+259 | 176 | 67.95
+>50,00,000 and <= 1,00,00,000
+147 | 282 | 191.84
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 9 | 60 | 666.67
+>10,00,00,000 and <=25,00,00,000 | 2 | 25 | 1,250.00
+>25,00,00,000 and <=50,00,00,000 | 2 | 85 | 4,250.00
+>50,00,00,000 and <=100,00,00,000 | 3 | 181 | 6,033.33
+>100,00,00,000 and <=500,00,00,000 | 1 | 109 | 10,900.00
+>500,00,00,000 | - | - | -
+Total | 10,61,945 | 3,632
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after
+giving credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for
+taxes paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+41
+
+===== PAGE 43 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+4. Income Tax Returns - Firms
+42
+
+===== PAGE 44 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+4.1 | Firm – Gross Total Income (AY 2016-17)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns | Total Income (in | Total Income (in
+Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 2,76,339 | - | -
+>0 and <=1,50,000 | 5,01,469 | 2,117 | 0.42
+>150,000 and <= 2,00,000 | 39,750 | 689 | 1.73
+>2,00,000 and <=2,50,000 | 29,217 | 653 | 2.24
+>2,50,000 and <= 3,50,000 | 39,600 | 1,174 | 2.96
+>3,50,000 and <= 4,00,000 | 14,074 | 527 | 3.74
+>4,00,000 and <= 4,50,000 | 12,084 | 512 | 4.24
+>4,50,000 and <= 5,00,000 | 10,599 | 503 | 4.75
+>5,00,000 and <= 5,50,000 | 9,158 | 480 | 5.24
+>5,50,000 and <= 9,50,000 | 44,692 | 3,234 | 7.24
+>9,50,000 and <= 10,00,000 | 4,026 | 393 | 9.76
+>10,00,000 and <=15,00,000 | 25,035 | 3,067 | 12.25
+>15,00,000 and <= 20,00,000 | 14,140 | 2,449 | 17.32
+>20,00,000 and <= 25,00,000 | 9,110 | 2,036 | 22.35
+>25,00,000 and <= 50,00,000 | 20,691 | 7,241 | 35.00
+>50,00,000 and <= 1,00,00,000 | 13,269 | 9,567 | 72.10
+>1,00,00,000 and <=5,00,00,000 | 9,282 | 18,965 | 204.32
+>5,00,00,000 and <=10,00,00,000 | 1,093 | 7,470 | 683.44
+>10,00,00,000 and <=25,00,00,000 | 613 | 9,199 | 1,500.65
+143 | 4,814 | 3,366.43
+>25,00,00,000 and <=50,00,00,000
+58 | 3,964 | 6,834.48
+>50,00,00,000 and <=100,00,00,000
+26 | 4,461 | 17,157.69
+>100,00,00,000 and <=500,00,00,000
+- | - | -
+>500,00,00,000
+10,74,468 | 83,515
+Total
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+43
+
+===== PAGE 45 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+4.2 | Firm- Range of House Property Income (AY 2016-17)
+Sum of House | Average House
+No. of
+Property Income | Property Income(in
+Range (in INR)
+Returns
+(in Crore INR) | Lakh INR)
+< 0 | 14 | - | -
+= 0 | 10,53,857 | - | -
+>0 and <=1,50,000 | 6,877 | 47 | 0.68
+1,169 | 20 | 1.71
+>150,000 and <= 2,00,000
+1,038 | 23 | 2.22
+>2,00,000 and <=2,50,000
+1,720 | 51 | 2.97
+>2,50,000 and <= 3,50,000
+604 | 23 | 3.81
+>3,50,000 and <= 4,00,000
+679 | 29 | 4.27
+>4,00,000 and <= 4,50,000
+485 | 23 | 4.74
+>4,50,000 and <= 5,00,000
+532 | 28 | 5.26
+>5,00,000 and <= 5,50,000
+2,308 | 161 | 6.98
+>5,50,000 and <= 9,50,000
+149 | 14 | 9.40
+>9,50,000 and <= 10,00,000
+1,175 | 144 | 12.26
+>10,00,000 and <=15,00,000
+772 | 134 | 17.36
+>15,00,000 and <= 20,00,000
+486 | 108 | 22.22
+>20,00,000 and <= 25,00,000
+1,285 | 453 | 35.25
+>25,00,000 and <= 50,00,000
+782 | 545 | 69.69
+>50,00,000 and <= 1,00,00,000
+495 | 910 | 183.84
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 27 | 183 | 677.78
+>10,00,00,000 and <=25,00,00,000 | 11 | 171 | 1,554.55
+>25,00,00,000 and <=50,00,00,000 | 1 | 41 | 4,100.00
+>50,00,00,000 and <=100,00,00,000 | 1 | 63 | 6,300.00
+>100,00,00,000 and <=500,00,00,000 | 1 | 137 | 13,700.00
+>500,00,00,000 | - | - | -
+Total | 10,74,468 | 3,308
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House
+Property Income (for ITR-1 & ITR-4S). For other ITRs the same may be adjusted in
+Current Year Loss Adjustment or carried forward for future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e. “Sum of House Property Income” divided by total number of returns
+within the value range slab
+44
+
+===== PAGE 46 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+4.3 | Firm- Range of Business Income (AY 2016-17)
+Sum of Business | Average Business
+No. of
+Income (in Crore | Income (in Lakh
+Range (in INR)
+Returns
+INR) | INR)
+< 0 | - | - | -
+= 0 | 2,72,409 | - | -
+>0 and <=1,50,000 | 5,09,041 | 2,145 | 0.42
+40,296 | 698 | 1.73
+>150,000 and <= 2,00,000
+29,339 | 655 | 2.23
+>2,00,000 and <=2,50,000
+39,622 | 1,174 | 2.96
+>2,50,000 and <= 3,50,000
+14,146 | 529 | 3.74
+>3,50,000 and <= 4,00,000
+12,043 | 511 | 4.24
+>4,00,000 and <= 4,50,000
+10,563 | 501 | 4.74
+>4,50,000 and <= 5,00,000
+9,065 | 475 | 5.24
+>5,00,000 and <= 5,50,000
+44,567 | 3,224 | 7.23
+>5,50,000 and <= 9,50,000
+3,993 | 389 | 9.74
+>9,50,000 and <= 10,00,000
+24,521 | 3,003 | 12.25
+>10,00,000 and <=15,00,000
+13,737 | 2,378 | 17.31
+>15,00,000 and <= 20,00,000
+8,843 | 1,975 | 22.33
+>20,00,000 and <= 25,00,000
+19,676 | 6,878 | 34.96
+>25,00,000 and <= 50,00,000
+12,333 | 8,861 | 71.85
+>50,00,000 and <= 1,00,00,000
+8,507 | 17,400 | 204.54
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 1,012 | 6,923 | 684.09
+>10,00,00,000 and <=25,00,00,000 | 552 | 8,314 | 1,506.16
+>25,00,00,000 and <=50,00,00,000 | 129 | 4,337 | 3,362.02
+>50,00,00,000 and <=100,00,00,000 | 50 | 3,367 | 6,734.00
+>100,00,00,000 and <=500,00,00,000 | 24 | 3,849 | 16,037.50
+>500,00,00,000 | - | - | -
+Total | 10,74,468 | 77,586
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab
+45
+
+===== PAGE 47 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+4.4 | Firm- Range of Long Term Capital Gains (AY 2016-17)
+Sum of Long | Average Long Term
+No. of | Term Capital | Capital Gains
+Range (in INR)
+Returns | Gains Income | Income (in Lakh
+(in Crore INR) | INR)
+< 0 | - | - | -
+= 0 | 10,72,019 | - | -
+>0 and <=1,50,000 | 367 | 2 | 0.54
+>150,000 and <= 2,00,000 | 65 | 1 | 1.54
+>2,00,000 and <=2,50,000 | 46 | 1 | 2.17
+>2,50,000 and <= 3,50,000 | 84 | 3 | 3.57
+>3,50,000 and <= 4,00,000 | 40 | 1 | 2.50
+>4,00,000 and <= 4,50,000 | 39 | 2 | 5.13
+34 | 2 | 5.88
+>4,50,000 and <= 5,00,000
+36 | 2 | 5.56
+>5,00,000 and <= 5,50,000
+188 | 14 | 7.45
+>5,50,000 and <= 9,50,000
+17 | 2 | 11.76
+>9,50,000 and <= 10,00,000
+205 | 25 | 12.20
+>10,00,000 and <=15,00,000
+158 | 28 | 17.72
+>15,00,000 and <= 20,00,000
+117 | 27 | 23.08
+>20,00,000 and <= 25,00,000
+378 | 133 | 35.19
+>25,00,000 and <= 50,00,000
+278 | 193 | 69.42
+>50,00,000 and <= 1,00,00,000
+317 | 672 | 211.99
+>1,00,00,000 and <=5,00,00,000
+40 | 273 | 682.50
+>5,00,00,000 and <=10,00,00,000
+27 | 388 | 1,437.04
+>10,00,00,000 and <=25,00,00,000
+11 | 370 | 3,363.64
+>25,00,00,000 and <=50,00,00,000
+2 | 140 | 7,000.00
+>50,00,00,000 and <=100,00,00,000
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 10,74,468 | 2,279
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income”
+divided by total number of returns within the value range slab
+46
+
+===== PAGE 48 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+4.5 | Firm- Range of Short Term Capital Gains (AY 2016-17)
+Sum of Short Term | Average Short
+No. of | Capital Gains | Term Capital
+Range (in INR)
+Returns | Income (in Crore | Gains Income (in
+INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 10,69,412 | - | -
+>0 and <=1,50,000 | 2,841 | 11 | 0.39
+>150,000 and <= 2,00,000 | 237 | 4 | 1.69
+>2,00,000 and <=2,50,000 | 187 | 4 | 2.14
+>2,50,000 and <= 3,50,000 | 242 | 7 | 2.89
+>3,50,000 and <= 4,00,000 | 95 | 4 | 4.21
+>4,00,000 and <= 4,50,000 | 81 | 3 | 3.70
+71 | 3 | 4.23
+>4,50,000 and <= 5,00,000
+50 | 3 | 6.00
+>5,00,000 and <= 5,50,000
+291 | 21 | 7.22
+>5,50,000 and <= 9,50,000
+23 | 2 | 8.70
+>9,50,000 and <= 10,00,000
+193 | 24 | 12.44
+>10,00,000 and <=15,00,000
+127 | 22 | 17.32
+>15,00,000 and <= 20,00,000
+81 | 18 | 22.22
+>20,00,000 and <= 25,00,000
+246 | 87 | 35.37
+>25,00,000 and <= 50,00,000
+157 | 111 | 70.70
+>50,00,000 and <= 1,00,00,000
+111 | 223 | 200.90
+>1,00,00,000 and <=5,00,00,000
+14 | 98 | 700.00
+>5,00,00,000 and <=10,00,00,000
+6 | 82 | 1,366.67
+>10,00,00,000 and <=25,00,00,000
+3 | 94 | 3,133.33
+>25,00,00,000 and <=50,00,00,000
+- | - | -
+>50,00,00,000 and <=100,00,00,000
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 10,74,468 | 821
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital
+Gains Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab
+47
+
+===== PAGE 49 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+4.6 | Firm- Range of Other Sources Income (AY 2016-17)
+Sum of Other | Average Other
+No. of
+Sources Income (in | Sources Income (in
+Range (in INR)
+Returns
+Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 9,75,206 | - | -
+>0 and <=1,50,000 | 81,128 | 207 | 0.26
+3,205 | 56 | 1.75
+>150,000 and <= 2,00,000
+2,121 | 47 | 2.22
+>2,00,000 and <=2,50,000
+2,871 | 85 | 2.96
+>2,50,000 and <= 3,50,000
+1,018 | 38 | 3.73
+>3,50,000 and <= 4,00,000
+809 | 34 | 4.20
+>4,00,000 and <= 4,50,000
+764 | 36 | 4.71
+>4,50,000 and <= 5,00,000
+574 | 30 | 5.23
+>5,00,000 and <= 5,50,000
+2,716 | 195 | 7.18
+>5,50,000 and <= 9,50,000
+185 | 18 | 9.73
+>9,50,000 and <= 10,00,000
+1,239 | 152 | 12.27
+>10,00,000 and <=15,00,000
+648 | 112 | 17.28
+>15,00,000 and <= 20,00,000
+412 | 93 | 22.57
+>20,00,000 and <= 25,00,000
+819 | 285 | 34.80
+>25,00,000 and <= 50,00,000
+424 | 290 | 68.40
+>50,00,000 and <= 1,00,00,000
+279 | 523 | 187.46
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 26 | 174 | 669.23
+>10,00,00,000 and <=25,00,00,000 | 17 | 235 | 1,382.35
+>25,00,00,000 and <=50,00,00,000 | 3 | 103 | 3,433.33
+>50,00,00,000 and <=100,00,00,000 | 2 | 179 | 8,950.00
+>100,00,00,000 and <=500,00,00,000 | 2 | 610 | 30,500.00
+>500,00,00,000 | - | - | -
+Total | 10,74,468 | 3,502
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab
+48
+
+===== PAGE 50 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+4.7 | Firm- Range of Interest Income (AY 2016-17)
+Sum of Interest Average Interest
+No. of
+Income (in | Income (in Lakh
+Range (in INR)
+Returns
+Crore INR) | INR)
+< 0 | - | - | -
+= 0 | 9,96,089 | - | -
+>0 and <=1,50,000 | 62,992 | 171 | 0.27
+2,731 | 47 | 1.72
+>150,000 and <= 2,00,000
+1,881 | 42 | 2.23
+>2,00,000 and <=2,50,000
+2,440 | 72 | 2.95
+>2,50,000 and <= 3,50,000
+879 | 33 | 3.75
+>3,50,000 and <= 4,00,000
+692 | 29 | 4.19
+>4,00,000 and <= 4,50,000
+663 | 31 | 4.68
+>4,50,000 and <= 5,00,000
+492 | 26 | 5.28
+>5,00,000 and <= 5,50,000
+2,359 | 170 | 7.21
+>5,50,000 and <= 9,50,000
+154 | 15 | 9.74
+>9,50,000 and <= 10,00,000
+1,075 | 132 | 12.28
+>10,00,000 and <=15,00,000
+549 | 95 | 17.30
+>15,00,000 and <= 20,00,000
+348 | 78 | 22.41
+>20,00,000 and <= 25,00,000
+622 | 214 | 34.41
+>25,00,000 and <= 50,00,000
+304 | 207 | 68.09
+>50,00,000 and <= 1,00,00,000
+176 | 326 | 185.23
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 13 | 97 | 746.15
+>10,00,00,000 and <=25,00,00,000 | 7 | 97 | 1,385.71
+>25,00,00,000 and <=50,00,00,000 | 2 | 60 | 3,000.00
+>50,00,00,000 and <=100,00,00,000 | - | - | -
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 10,74,468 | 1,942
+Notes
+1. The Interest Income is already included in the Income from other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The returns in which Income from other sources < Gross interest income, count of such
+returns are displayed under =0 slab.
+4. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+5. The “Average Interest Income” is the average Interest Income within the value range
+slab i.e. “Sum of Interest Income” divided by total number of returns within the value
+range slab
+49
+
+===== PAGE 51 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+4.8 | Firm- Range of Total Loss Set off (AY 2016-17)
+Sum of Total | Average Total
+No. of
+Loss Set Off(in | Loss Set off (in
+Range (in INR)
+Returns
+Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 10,10,899 | - | -
+>0 and <=1,50,000 | 41,785 | 155 | 0.37
+3,012 | 52 | 1.73
+>150,000 and <= 2,00,000
+2,239 | 50 | 2.23
+>2,00,000 and <=2,50,000
+3,136 | 93 | 2.97
+>2,50,000 and <= 3,50,000
+1,107 | 41 | 3.70
+>3,50,000 and <= 4,00,000
+1,033 | 44 | 4.26
+>4,00,000 and <= 4,50,000
+836 | 40 | 4.78
+>4,50,000 and <= 5,00,000
+758 | 40 | 5.28
+>5,00,000 and <= 5,50,000
+3,564 | 256 | 7.18
+>5,50,000 and <= 9,50,000
+251 | 24 | 9.56
+>9,50,000 and <= 10,00,000
+1,733 | 211 | 12.18
+>10,00,000 and <=15,00,000
+989 | 170 | 17.19
+>15,00,000 and <= 20,00,000
+620 | 139 | 22.42
+>20,00,000 and <= 25,00,000
+1,330 | 463 | 34.81
+>25,00,000 and <= 50,00,000
+668 | 464 | 69.46
+>50,00,000 and <= 1,00,00,000
+445 | 880 | 197.75
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 39 | 247 | 633.33
+>10,00,00,000 and <=25,00,00,000 | 17 | 256 | 1,505.88
+>25,00,00,000 and <=50,00,00,000 | 4 | 116 | 2,900.00
+>50,00,00,000 and <=100,00,00,000 | 2 | 121 | 6,050.00
+>100,00,00,000 and <=500,00,00,000 | 1 | 125 | 12,500.00
+>500,00,00,000 | - | - | -
+Total | 10,74,468 | 3,987
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses
+set off against current year’s income in the “Computation of total income” Schedule of
+return of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value
+range slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the
+value range slab
+50
+
+===== PAGE 52 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+4.9 | Firm- Range of Returned Income (AY 2016-17)
+Sum of Returned
+No. of | Average Returned
+Income (in Crore
+Range (in INR)
+Returns | Income (in Lakh INR)
+INR)
+< 0 | - | - | -
+= 0 | 2,80,682 | - | -
+>0 and <=1,50,000 | 4,98,015 | 2,117 | 0.43
+39,773 | 689 | 1.73
+>150,000 and <= 2,00,000
+29,182 | 652 | 2.23
+>2,00,000 and <=2,50,000
+39,603 | 1,174 | 2.96
+>2,50,000 and <= 3,50,000
+14,061 | 526 | 3.74
+>3,50,000 and <= 4,00,000
+12,074 | 512 | 4.24
+>4,00,000 and <= 4,50,000
+10,597 | 503 | 4.75
+>4,50,000 and <= 5,00,000
+9,117 | 478 | 5.24
+>5,00,000 and <= 5,50,000
+44,655 | 3,230 | 7.23
+>5,50,000 and <= 9,50,000
+4,039 | 394 | 9.75
+>9,50,000 and <= 10,00,000
+24,985 | 3,061 | 12.25
+>10,00,000 and <=15,00,000
+14,100 | 2,442 | 17.32
+>15,00,000 and <= 20,00,000
+9,051 | 2,023 | 22.35
+>20,00,000 and <= 25,00,000
+20,563 | 7,197 | 35.00
+>25,00,000 and <= 50,00,000
+13,186 | 9,512 | 72.14
+>50,00,000 and <= 1,00,00,000
+9,003 | 18,345 | 203.77
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 1,024 | 7,009 | 684.47
+>10,00,00,000 and <=25,00,00,000 | 568 | 8,494 | 1,495.42
+>25,00,00,000 and <=50,00,00,000 | 122 | 4,193 | 3,436.89
+>50,00,00,000 and <=100,00,00,000 | 46 | 3,174 | 6,900.00
+>100,00,00,000 and <=500,00,00,000 | 22 | 3,563 | 16,195.45
+>500,00,00,000 | - | - | -
+Total | 10,74,468 | 79,288
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+51
+
+===== PAGE 53 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+4.10 Firm- Range of Tax Payable (AY 2016-17)
+Sum of Tax | Average Tax
+No. of
+Payable(in Crore | Payable (in Lakh
+Range (in INR)
+Returns
+INR) | INR)
+< 0 | - | - | -
+= 0 | 2,80,743 | - | -
+>0 and <=1,50,000 | 6,36,609 | 1,887 | 0.30
+27,179 | 470 | 1.73
+>150,000 and <= 2,00,000
+18,729 | 418 | 2.23
+>2,00,000 and <=2,50,000
+24,784 | 733 | 2.96
+>2,50,000 and <= 3,50,000
+8,317 | 311 | 3.74
+>3,50,000 and <= 4,00,000
+6,898 | 293 | 4.25
+>4,00,000 and <= 4,50,000
+5,901 | 280 | 4.74
+>4,50,000 and <= 5,00,000
+4,842 | 254 | 5.25
+>5,00,000 and <= 5,50,000
+22,308 | 1,604 | 7.19
+>5,50,000 and <= 9,50,000
+1,731 | 169 | 9.76
+>9,50,000 and <= 10,00,000
+11,077 | 1,351 | 12.20
+>10,00,000 and <=15,00,000
+6,190 | 1,068 | 17.25
+>15,00,000 and <= 20,00,000
+3,748 | 839 | 22.39
+>20,00,000 and <= 25,00,000
+7,723 | 2,625 | 33.99
+>25,00,000 and <= 50,00,000
+4,090 | 2,842 | 69.49
+>50,00,000 and <= 1,00,00,000
+3,130 | 6,085 | 194.41
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 305 | 2,058 | 674.75
+>10,00,00,000 and <=25,00,00,000 | 124 | 1,827 | 1,473.39
+>25,00,00,000 and <=50,00,00,000 | 29 | 1,026 | 3,537.93
+>50,00,00,000 and <=100,00,00,000 | 11 | 711 | 6,463.64
+>100,00,00,000 and <=500,00,00,000 | - | - | -
+>500,00,00,000 | - | - | -
+Total | 10,74,468 | 26,851
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after
+giving credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for
+taxes paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+52
+
+===== PAGE 54 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+5. Income Tax Returns - AOP/BOI
+53
+
+===== PAGE 55 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+5.1 AOP/BOI – Gross Total Income (AY 2016-17)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns | Total Income (in | Total Income (in
+Crore INR) | Lakh INR)
+< 0 | - | - | -
+25,800 | - | -
+= 0
+27,452 | 118 | 0.43
+>0 and <=1,50,000
+3,343 | 59 | 1.76
+>150,000 and <= 2,00,000
+5,271 | 122 | 2.31
+>2,00,000 and <=2,50,000
+4,292 | 124 | 2.89
+>2,50,000 and <= 3,50,000
+1,019 | 38 | 3.73
+>3,50,000 and <= 4,00,000
+824 | 35 | 4.25
+>4,00,000 and <= 4,50,000
+855 | 41 | 4.80
+>4,50,000 and <= 5,00,000
+620 | 32 | 5.16
+>5,00,000 and <= 5,50,000
+2,415 | 172 | 7.12
+>5,50,000 and <= 9,50,000
+198 | 19 | 9.60
+>9,50,000 and <= 10,00,000
+1,061 | 129 | 12.16
+>10,00,000 and <=15,00,000
+514 | 88 | 17.12
+>15,00,000 and <= 20,00,000
+363 | 81 | 22.31
+>20,00,000 and <= 25,00,000
+806 | 284 | 35.24
+>25,00,000 and <= 50,00,000
+509 | 360 | 70.73
+>50,00,000 and <= 1,00,00,000
+587 | 1,287 | 219.25
+>1,00,00,000 and <=5,00,00,000
+91 | 642 | 705.49
+>5,00,00,000 and <=10,00,00,000
+76 | 1,220 | 1,605.26
+>10,00,00,000 and <=25,00,00,000
+27 | 918 | 3,400.00
+>25,00,00,000 and <=50,00,00,000
+18 | 1,264 | 7,022.22
+>50,00,00,000 and <=100,00,00,000
+9 | 1,686 | 18,733.33
+>100,00,00,000 and <=500,00,00,000
+1 | 504 | 50,400.00
+>500,00,00,000
+Total | 76,151 | 9,223
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+54
+
+===== PAGE 56 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+5.2 AOP/BOI- Range of House Property Income (AY 2016-17)
+Sum of House | Average House
+No. of
+Property Income | Property Income(in
+Range (in INR)
+Returns
+(in Crore INR) | Lakh INR)
+- | - | -
+< 0
+73,528 | - | -
+= 0
+819 | 5 | 0.61
+>0 and <=1,50,000
+204 | 4 | 1.96
+>150,000 and <= 2,00,000
+183 | 4 | 2.19
+>2,00,000 and <=2,50,000
+266 | 8 | 3.01
+>2,50,000 and <= 3,50,000
+95 | 4 | 4.21
+>3,50,000 and <= 4,00,000
+94 | 4 | 4.26
+>4,00,000 and <= 4,50,000
+84 | 4 | 4.76
+>4,50,000 and <= 5,00,000
+75 | 4 | 5.33
+>5,00,000 and <= 5,50,000
+292 | 21 | 7.19
+>5,50,000 and <= 9,50,000
+21 | 2 | 9.52
+>9,50,000 and <= 10,00,000
+152 | 19 | 12.50
+>10,00,000 and <=15,00,000
+82 | 14 | 17.07
+>15,00,000 and <= 20,00,000
+47 | 10 | 21.28
+>20,00,000 and <= 25,00,000
+101 | 36 | 35.64
+>25,00,000 and <= 50,00,000
+61 | 43 | 70.49
+>50,00,000 and <= 1,00,00,000
+41 | 74 | 180.49
+>1,00,00,000 and <=5,00,00,000
+3 | 19 | 633.33
+>5,00,00,000 and <=10,00,00,000
+3 | 44 | 1,466.67
+>10,00,00,000 and <=25,00,00,000
+- | - | -
+>25,00,00,000 and <=50,00,00,000
+- | - | -
+>50,00,00,000 and <=100,00,00,000
+- | - | -
+>100,00,00,000 and <=500,00,00,000
+- | - | -
+>500,00,00,000
+Total | 76,151 | 319
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House
+Property Income (for ITR-1 & ITR-4S). For other ITRs the same may be adjusted in
+Current Year Loss Adjustment or carried forward for future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e. “Sum of House Property Income” divided by total number of returns
+within the value range slab
+55
+
+===== PAGE 57 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+5.3 AOP/BOI- Range of Business Income (AY 2016-17)
+Sum of Business
+Average Business
+No. of Returns | Income (in Crore
+Range (in INR)
+Income (in Lakh INR)
+INR)
+- | - | -
+< 0
+46,598 | - | -
+= 0
+18,365 | 70 | 0.38
+>0 and <=1,50,000
+1,694 | 30 | 1.77
+>150,000 and <= 2,00,000
+2,091 | 48 | 2.30
+>2,00,000 and <=2,50,000
+2,047 | 60 | 2.93
+>2,50,000 and <= 3,50,000
+520 | 19 | 3.65
+>3,50,000 and <= 4,00,000
+401 | 17 | 4.24
+>4,00,000 and <= 4,50,000
+386 | 18 | 4.66
+>4,50,000 and <= 5,00,000
+314 | 16 | 5.10
+>5,00,000 and <= 5,50,000
+1,229 | 87 | 7.08
+>5,50,000 and <= 9,50,000
+101 | 10 | 9.90
+>9,50,000 and <= 10,00,000
+579 | 71 | 12.26
+>10,00,000 and <=15,00,000
+322 | 55 | 17.08
+>15,00,000 and <= 20,00,000
+211 | 47 | 22.27
+>20,00,000 and <= 25,00,000
+507 | 179 | 35.31
+>25,00,000 and <= 50,00,000
+322 | 231 | 71.74
+>50,00,000 and <= 1,00,00,000
+359 | 770 | 214.48
+>1,00,00,000 and <=5,00,00,000
+53 | 370 | 698.11
+>5,00,00,000 and <=10,00,00,000
+35 | 532 | 1,520.00
+>10,00,00,000 and <=25,00,00,000
+9 | 286 | 3,177.78
+>25,00,00,000 and <=50,00,00,000
+7 | 512 | 7,314.29
+>50,00,00,000 and <=100,00,00,000
+1 | 137 | 13,700.00
+>100,00,00,000 and <=500,00,00,000
+- | - | -
+>500,00,00,000
+Total | 76,151 | 3,565
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab
+56
+
+===== PAGE 58 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+5.4 AOP/BOI- Range of Long Term Capital Gains (AY 2016-17)
+Long Term
+Average Long Term
+Capital Gains
+No. of Returns | Capital Gains
+Range (in INR)
+Income (in Crore
+Income(in Lakh INR)
+INR)
+< 0 | - | - | -
+75,785 | - | -
+= 0
+107 | - | -
+>0 and <=1,50,000
+17 | - | -
+>150,000 and <= 2,00,000
+11 | - | -
+>2,00,000 and <=2,50,000
+17 | 1 | 5.88
+>2,50,000 and <= 3,50,000
+4 | - | -
+>3,50,000 and <= 4,00,000
+3 | - | -
+>4,00,000 and <= 4,50,000
+2 | - | -
+>4,50,000 and <= 5,00,000
+4 | - | -
+>5,00,000 and <= 5,50,000
+29 | 2 | 6.90
+>5,50,000 and <= 9,50,000
+3 | - | -
+>9,50,000 and <= 10,00,000
+23 | 3 | 13.04
+>10,00,000 and <=15,00,000
+14 | 2 | 14.29
+>15,00,000 and <= 20,00,000
+12 | 3 | 25.00
+>20,00,000 and <= 25,00,000
+27 | 10 | 37.04
+>25,00,000 and <= 50,00,000
+20 | 15 | 75.00
+>50,00,000 and <= 1,00,00,000
+48 | 103 | 214.58
+>1,00,00,000 and <=5,00,00,000
+13 | 90 | 692.31
+>5,00,00,000 and <=10,00,00,000
+10 | 186 | 1,860.00
+>10,00,00,000 and <=25,00,00,000
+- | - | -
+>25,00,00,000 and <=50,00,00,000
+2 | 117 | 5,850.00
+>50,00,00,000 and <=100,00,00,000
+- | - | -
+>100,00,00,000 and <=500,00,00,000
+- | - | -
+>500,00,00,000
+Total | 76,151 | 532
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income”
+divided by total number of returns within the value range slab
+57
+
+===== PAGE 59 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+5.5 AOP/BOI- Range of Short Term Capital Gains (AY 2016-17)
+Sum of Short Term
+Average Short Term
+No. of | Capital Gains
+Range (in INR) | Capital Gains
+Returns | Income (in Crore
+Income(in Lakh INR)
+INR)
+- | - | -
+< 0
+75,254 | - | -
+= 0
+386 | 1 | 0.26
+>0 and <=1,50,000
+30 | 1 | 3.33
+>150,000 and <= 2,00,000
+25 | 1 | 4.00
+>2,00,000 and <=2,50,000
+35 | 1 | 2.86
+>2,50,000 and <= 3,50,000
+13 | - | -
+>3,50,000 and <= 4,00,000
+18 | 1 | 5.56
+>4,00,000 and <= 4,50,000
+8 | - | -
+>4,50,000 and <= 5,00,000
+6 | - | -
+>5,00,000 and <= 5,50,000
+44 | 3 | 6.82
+>5,50,000 and <= 9,50,000
+6 | 1 | 16.67
+>9,50,000 and <= 10,00,000
+29 | 4 | 13.79
+>10,00,000 and <=15,00,000
+>15,00,000 and <= 20,00,000 | 19 | 3 | 15.79
+>20,00,000 and <= 25,00,000 | 20 | 5 | 25.00
+>25,00,000 and <= 50,00,000 | 44 | 15 | 34.09
+>50,00,000 and <= 1,00,00,000 | 42 | 30 | 71.43
+>1,00,00,000 and <=5,00,00,000 | 101 | 251 | 248.51
+>5,00,00,000 and <=10,00,00,000 | 31 | 215 | 693.55
+>10,00,00,000 and <=25,00,00,000 | 19 | 306 | 1,610.53
+>25,00,00,000 and <=50,00,00,000 | 13 | 440 | 3,384.62
+>50,00,00,000 and <=100,00,00,000 | 3 | 218 | 7,266.67
+3 | 422 | 14,066.67
+>100,00,00,000 and <=500,00,00,000
+2 | 1,865 | 93,250.00
+>500,00,00,000
+Total | 76,151 | 3,783
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital
+Gains Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab
+58
+
+===== PAGE 60 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+5.6 AOP/BOI- Range of Other Sources Income (AY 2016-17)
+Other Sources | Average Other
+No. of
+Range (in INR) | Income (in Crore | Sources Income (in
+Returns
+INR) | Lakh INR)
+- | - | -
+< 0
+48,631 | - | -
+= 0
+15,509 | 66 | 0.43
+>0 and <=1,50,000
+1,971 | 34 | 1.73
+>150,000 and <= 2,00,000
+3,266 | 75 | 2.30
+>2,00,000 and <=2,50,000
+2,388 | 69 | 2.89
+>2,50,000 and <= 3,50,000
+556 | 21 | 3.78
+>3,50,000 and <= 4,00,000
+431 | 18 | 4.18
+>4,00,000 and <= 4,50,000
+>4,50,000 and <= 5,00,000 | 483 | 23 | 4.76
+>5,00,000 and <= 5,50,000 | 298 | 16 | 5.37
+>5,50,000 and <= 9,50,000 | 1,133 | 82 | 7.24
+>9,50,000 and <= 10,00,000 | 96 | 9 | 9.38
+>10,00,000 and <=15,00,000 | 465 | 56 | 12.04
+>15,00,000 and <= 20,00,000 | 180 | 31 | 17.22
+>20,00,000 and <= 25,00,000 | 149 | 33 | 22.15
+>25,00,000 and <= 50,00,000 | 262 | 92 | 35.11
+>50,00,000 and <= 1,00,00,000 | 135 | 92 | 68.15
+>1,00,00,000 and <=5,00,00,000 | 129 | 285 | 220.93
+>5,00,00,000 and <=10,00,00,000 | 28 | 194 | 692.86
+18 | 283 | 1,572.22
+>10,00,00,000 and <=25,00,00,000
+13 | 471 | 3,623.08
+>25,00,00,000 and <=50,00,00,000
+6 | 411 | 6,850.00
+>50,00,00,000 and <=100,00,00,000
+4 | 634 | 15,850.00
+>100,00,00,000 and <=500,00,00,000
+- | - | -
+>500,00,00,000
+Total | 76,151 | 2,995
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab
+59
+
+===== PAGE 61 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+5.7 AOP/BOI- Range of Interest Income (AY 2016-17)
+Sum of Interest
+No. of | Average Interest
+Income (in Crore
+Range (in INR)
+Returns | Income (in Lakh INR)
+INR)
+< 0 | - | - | -
+54,299 | - | -
+= 0
+13,770 | 57 | 0.41
+>0 and <=1,50,000
+1,548 | 27 | 1.74
+>150,000 and <= 2,00,000
+2,070 | 47 | 2.27
+>2,00,000 and <=2,50,000
+1,548 | 45 | 2.91
+>2,50,000 and <= 3,50,000
+380 | 14 | 3.68
+>3,50,000 and <= 4,00,000
+284 | 12 | 4.23
+>4,00,000 and <= 4,50,000
+258 | 12 | 4.65
+>4,50,000 and <= 5,00,000
+188 | 10 | 5.32
+>5,00,000 and <= 5,50,000
+787 | 57 | 7.24
+>5,50,000 and <= 9,50,000
+66 | 6 | 9.09
+>9,50,000 and <= 10,00,000
+321 | 39 | 12.15
+>10,00,000 and <=15,00,000
+134 | 23 | 17.16
+>15,00,000 and <= 20,00,000
+107 | 24 | 22.43
+>20,00,000 and <= 25,00,000
+192 | 68 | 35.42
+>25,00,000 and <= 50,00,000
+95 | 64 | 67.37
+>50,00,000 and <= 1,00,00,000
+85 | 178 | 209.41
+>1,00,00,000 and <=5,00,00,000
+14 | 92 | 657.14
+>5,00,00,000 and <=10,00,00,000
+2 | 29 | 1,450.00
+>10,00,00,000 and <=25,00,00,000
+3 | 119 | 3,966.67
+>25,00,00,000 and <=50,00,00,000
+- | - | -
+>50,00,00,000 and <=100,00,00,000
+- | - | -
+>100,00,00,000 and <=500,00,00,000
+- | - | -
+>500,00,00,000
+Total | 76,151 | 923
+Notes
+1. The Interest Income is already included in the Income from other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The returns in which Income from other sources < Gross interest income, count of such
+returns are displayed under =0 slab.
+4. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+5. The “Average Interest Income” is the average Interest Income within the value range
+slab i.e. “Sum of Interest Income” divided by total number of returns within the value
+range slab
+60
+
+===== PAGE 62 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+5.8 AOP/BOI- Range of Total Loss Set off (AY 2016-17)
+Average Total Loss
+No. of | Sum of Total Loss
+Set off (in Lakh
+Range (in INR)
+Returns | Set Off(in Crore INR)
+INR)
+< 0 | - | - | -
+70,345 | - | -
+= 0
+3,653 | 13 | 0.36
+>0 and <=1,50,000
+294 | 5 | 1.70
+>150,000 and <= 2,00,000
+229 | 5 | 2.18
+>2,00,000 and <=2,50,000
+309 | 9 | 2.91
+>2,50,000 and <= 3,50,000
+118 | 4 | 3.39
+>3,50,000 and <= 4,00,000
+92 | 4 | 4.35
+>4,00,000 and <= 4,50,000
+88 | 4 | 4.55
+>4,50,000 and <= 5,00,000
+86 | 5 | 5.81
+>5,00,000 and <= 5,50,000
+296 | 21 | 7.09
+>5,50,000 and <= 9,50,000
+25 | 2 | 8.00
+>9,50,000 and <= 10,00,000
+141 | 17 | 12.06
+>10,00,000 and <=15,00,000
+86 | 15 | 17.44
+>15,00,000 and <= 20,00,000
+60 | 13 | 21.67
+>20,00,000 and <= 25,00,000
+130 | 46 | 35.38
+>25,00,000 and <= 50,00,000
+75 | 54 | 72.00
+>50,00,000 and <= 1,00,00,000
+76 | 165 | 217.11
+>1,00,00,000 and <=5,00,00,000
+26 | 170 | 653.85
+>5,00,00,000 and <=10,00,00,000
+13 | 196 | 1,507.69
+>10,00,00,000 and <=25,00,00,000
+5 | 172 | 3,440.00
+>25,00,00,000 and <=50,00,00,000
+3 | 174 | 5,800.00
+>50,00,00,000 and <=100,00,00,000
+- | - | -
+>100,00,00,000 and <=500,00,00,000
+1 | 878 | 87,800.00
+>500,00,00,000
+Total | 76,151 | 1,972
+Notes
+1. Total Loss Set Off is the sum of current year losses set off and brought forward losses
+set off against current year’s income in the “Computation of total income” Schedule of
+return of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value
+range slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the
+value range slab
+61
+
+===== PAGE 63 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+5.9 AOP/BOI- Range of Returned Income (AY 2016-17)
+Sum of Returned
+No. of | Average Returned
+Income (in Crore
+Range (in INR)
+Returns | Income (in Lakh INR)
+INR)
+- | - | -
+< 0
+26,926 | - | -
+= 0
+26,773 | 117 | 0.44
+>0 and <=1,50,000
+3,296 | 58 | 1.76
+>150,000 and <= 2,00,000
+5,231 | 121 | 2.31
+>2,00,000 and <=2,50,000
+4,237 | 123 | 2.90
+>2,50,000 and <= 3,50,000
+990 | 37 | 3.74
+>3,50,000 and <= 4,00,000
+814 | 35 | 4.30
+>4,00,000 and <= 4,50,000
+842 | 40 | 4.75
+>4,50,000 and <= 5,00,000
+604 | 32 | 5.30
+>5,00,000 and <= 5,50,000
+2,343 | 167 | 7.13
+>5,50,000 and <= 9,50,000
+186 | 18 | 9.68
+>9,50,000 and <= 10,00,000
+1,025 | 125 | 12.20
+>10,00,000 and <=15,00,000
+490 | 84 | 17.14
+>15,00,000 and <= 20,00,000
+345 | 77 | 22.32
+>20,00,000 and <= 25,00,000
+786 | 278 | 35.37
+>25,00,000 and <= 50,00,000
+491 | 349 | 71.08
+>50,00,000 and <= 1,00,00,000
+563 | 1,235 | 219.36
+>1,00,00,000 and <=5,00,00,000
+89 | 629 | 706.74
+>5,00,00,000 and <=10,00,00,000
+72 | 1,166 | 1,619.44
+>10,00,00,000 and <=25,00,00,000
+23 | 796 | 3,460.87
+>25,00,00,000 and <=50,00,00,000
+15 | 1,039 | 6,926.67
+>50,00,00,000 and <=100,00,00,000
+9 | 1,685 | 18,722.22
+>100,00,00,000 and <=500,00,00,000
+1 | 504 | 50,400.00
+>500,00,00,000
+Total | 76,151 | 8,715
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income.
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+62
+
+===== PAGE 64 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+5.10 AOP/BOI- Range of Tax Payable (AY 2016-17)
+Sum of Tax
+No. of | Average Tax Payable
+Payable(in Crore
+Range (in INR)
+Returns | (in Lakh INR)
+INR)
+< 0 | - | - | -
+53,793 | - | -
+= 0
+17,497 | 45 | 0.26
+>0 and <=1,50,000
+685 | 12 | 1.75
+>150,000 and <= 2,00,000
+422 | 9 | 2.13
+>2,00,000 and <=2,50,000
+579 | 17 | 2.94
+>2,50,000 and <= 3,50,000
+198 | 7 | 3.54
+>3,50,000 and <= 4,00,000
+196 | 8 | 4.08
+>4,00,000 and <= 4,50,000
+209 | 10 | 4.78
+>4,50,000 and <= 5,00,000
+152 | 8 | 5.26
+>5,00,000 and <= 5,50,000
+675 | 49 | 7.26
+>5,50,000 and <= 9,50,000
+65 | 6 | 9.23
+>9,50,000 and <= 10,00,000
+398 | 49 | 12.31
+>10,00,000 and <=15,00,000
+228 | 40 | 17.54
+>15,00,000 and <= 20,00,000
+161 | 36 | 22.36
+>20,00,000 and <= 25,00,000
+338 | 120 | 35.50
+>25,00,000 and <= 50,00,000
+255 | 180 | 70.59
+>50,00,000 and <= 1,00,00,000
+243 | 501 | 206.17
+>1,00,00,000 and <=5,00,00,000
+32 | 220 | 687.50
+>5,00,00,000 and <=10,00,00,000
+17 | 258 | 1,517.65
+>10,00,00,000 and <=25,00,00,000
+6 | 209 | 3,483.33
+>25,00,00,000 and <=50,00,00,000
+2 | 164 | 8,200.00
+>50,00,00,000 and <=100,00,00,000
+- | - | -
+>100,00,00,000 and <=500,00,00,000
+- | - | -
+>500,00,00,000
+Total | 76,151 | 1,948
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after
+giving credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for
+taxes paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+63
+
+===== PAGE 65 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+6. Income Tax Returns - Company
+64
+
+===== PAGE 66 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+6.1 Company – Gross Total Income (AY 2016-17)
+Sum of Gross | Average Gross
+Range (in INR) | No. of Returns | Total Income (in | Total Income (in
+Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 4,22,498 | - | -
+>0 and <=1,50,000 | 1,27,264 | 539 | 0.42
+>150,000 and <= 2,00,000 | 12,988 | 226 | 1.74
+>2,00,000 and <=2,50,000 | 10,550 | 236 | 2.24
+>2,50,000 and <= 3,50,000 | 16,581 | 493 | 2.97
+>3,50,000 and <= 4,00,000 | 6,648 | 249 | 3.75
+>4,00,000 and <= 4,50,000 | 6,017 | 255 | 4.24
+>4,50,000 and <= 5,00,000 | 5,529 | 263 | 4.76
+>5,00,000 and <= 5,50,000 | 4,976 | 261 | 5.25
+>5,50,000 and <= 9,50,000 | 28,137 | 2,059 | 7.32
+>9,50,000 and <= 10,00,000 | 2,792 | 272 | 9.74
+>10,00,000 and <=15,00,000 | 20,142 | 2,476 | 12.29
+>15,00,000 and <= 20,00,000 | 13,595 | 2,358 | 17.34
+>20,00,000 and <= 25,00,000 | 9,636 | 2,156 | 22.37
+>25,00,000 and <= 50,00,000 | 25,985 | 9,233 | 35.53
+>50,00,000 and <= 1,00,00,000 | 20,575 | 14,762 | 71.75
+>1,00,00,000 and <=5,00,00,000 | 23,532 | 52,055 | 221.21
+>5,00,00,000 and <=10,00,00,000 | 4,904 | 34,649 | 706.55
+>10,00,00,000 and <=25,00,00,000 | 3,896 | 61,041 | 1,566.76
+>25,00,00,000 and <=50,00,00,000 | 1,641 | 57,950 | 3,531.38
+>50,00,00,000 and <=100,00,00,000 | 971 | 68,134 | 7,016.89
+>100,00,00,000 and <=500,00,00,000 | 949 | 1,99,900 | 21,064.28
+>500,00,00,000 | 286 | 6,45,594 | 2,25,732.17
+Total | 7,70,092 | 11,55,161
+Notes
+1. Gross Total Income is the income before chapter VI-A deduction as computed in the
+“Computation of total income” schedule of return of income.
+2. The “Sum of Gross Total Income” is the sum of Gross Total Income of all returns within
+the value range slab.
+3. The “Average Gross Total Income” is the average Gross Total Income within the value
+range slab i.e. “Sum of Gross Total Income” divided by total number of returns within the
+value range slab.
+65
+
+===== PAGE 67 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+6.2 Company- Range of House Property Income (AY 2016-17)
+Sum of House | Average House
+No. of
+Property Income | Property Income
+Range (in INR)
+Returns
+(in Crore INR) | (in Lakh INR)
+< 0 | - | - | -
+= 0 | 7,36,252 | - | -
+>0 and <=1,50,000 | 8,161 | 59 | 0.72
+1,687 | 29 | 1.72
+>150,000 and <= 2,00,000
+1,472 | 33 | 2.24
+>2,00,000 and <=2,50,000
+2,500 | 74 | 2.96
+>2,50,000 and <= 3,50,000
+928 | 35 | 3.77
+>3,50,000 and <= 4,00,000
+1,106 | 47 | 4.25
+>4,00,000 and <= 4,50,000
+792 | 38 | 4.80
+>4,50,000 and <= 5,00,000
+908 | 48 | 5.29
+>5,00,000 and <= 5,50,000
+4,019 | 284 | 7.07
+>5,50,000 and <= 9,50,000
+295 | 29 | 9.83
+>9,50,000 and <= 10,00,000
+2,334 | 288 | 12.34
+>10,00,000 and <=15,00,000
+1,585 | 275 | 17.35
+>15,00,000 and <= 20,00,000
+1,157 | 259 | 22.39
+>20,00,000 and <= 25,00,000
+3,000 | 1,060 | 35.33
+>25,00,000 and <= 50,00,000
+2,042 | 1,418 | 69.44
+>50,00,000 and <= 1,00,00,000
+1,569 | 3,140 | 200.13
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 167 | 1,185 | 709.58
+>10,00,00,000 and <=25,00,00,000 | 79 | 1,128 | 1,427.85
+>25,00,00,000 and <=50,00,00,000 | 26 | 944 | 3,630.77
+>50,00,00,000 and <=100,00,00,000 | 10 | 645 | 6,450.00
+>100,00,00,000 and <=500,00,00,000 | 2 | 489 | 24,450.00
+>500,00,00,000 | 1 | 583 | 58,300.00
+Total | 7,70,092 | 12,090
+Notes
+1. House Property Income is the income under the head “Income from house property” as
+computed in the return of income
+2. Loss under the head “Income from house property” is also included in the House
+Property Income (for ITR-1 & ITR-4S). For other ITRs the same may be adjusted in
+Current Year Loss Adjustment or carried forward for future years.
+3. The “Sum of House Property Income” is the sum of House Property Income of all returns
+within the value range slab.
+4. The “Average House Property Income” is the average House Property Income within the
+value range slab i.e. “Sum of House Property Income” divided by total number of returns
+within the value range slab
+66
+
+===== PAGE 68 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+6.3 Company- Range of Business Income (AY 2016-17)
+Sum of Business | Average Business
+No. of
+Income (in Crore | Income (in Lakh
+Range (in INR)
+Returns
+INR) | INR)
+< 0 | - | - | -
+= 0 | 4,11,789 | - | -
+>0 and <=1,50,000 | 1,38,220 | 580 | 0.42
+13,820 | 240 | 1.74
+>150,000 and <= 2,00,000
+11,169 | 250 | 2.24
+>2,00,000 and <=2,50,000
+17,403 | 518 | 2.98
+>2,50,000 and <= 3,50,000
+6,878 | 258 | 3.75
+>3,50,000 and <= 4,00,000
+6,059 | 257 | 4.24
+>4,00,000 and <= 4,50,000
+5,727 | 272 | 4.75
+>4,50,000 and <= 5,00,000
+5,196 | 272 | 5.23
+>5,00,000 and <= 5,50,000
+29,002 | 2,121 | 7.31
+>5,50,000 and <= 9,50,000
+2,835 | 276 | 9.74
+>9,50,000 and <= 10,00,000
+20,482 | 2,518 | 12.29
+>10,00,000 and <=15,00,000
+13,460 | 2,336 | 17.36
+>15,00,000 and <= 20,00,000
+9,597 | 2,146 | 22.36
+>20,00,000 and <= 25,00,000
+25,491 | 9,033 | 35.44
+>25,00,000 and <= 50,00,000
+19,701 | 14,070 | 71.42
+>50,00,000 and <= 1,00,00,000
+21,927 | 48,156 | 219.62
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 4,415 | 31,184 | 706.32
+>10,00,00,000 and <=25,00,00,000 | 3,470 | 54,331 | 1,565.73
+>25,00,00,000 and <=50,00,00,000 | 1,483 | 52,340 | 3,529.33
+>50,00,00,000 and <=100,00,00,000 | 852 | 59,794 | 7,018.08
+>100,00,00,000 and <=500,00,00,000 | 859 | 1,84,065 | 21,427.82
+>500,00,00,000 | 257 | 5,90,154 | 2,29,631.91
+Total | 7,70,092 | 10,55,171
+Notes
+1. Business Income is the income under the head “Profits and gains of business or
+profession” as computed in the return of income
+2. The “Sum of Business Income” is the sum of Business Income of all returns within the
+value range slab.
+3. The “Average Business Income” is the average Business Income within the value range
+slab i.e. “Sum of Business Income” divided by total number of returns within the value
+range slab
+67
+
+===== PAGE 69 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+6.4 Company- Range of Long Term Capital Gains (AY 2016-17)
+Sum of Long | Average Long Term
+No. of | Term Capital | Capital Gains
+Range (in INR)
+Returns | Gains Income (in | Income(in Lakh
+Crore INR) | INR)
+< 0 | - | - | -
+= 0 | 7,62,114 | - | -
+>0 and <=1,50,000 | 1,535 | 8 | 0.52
+>150,000 and <= 2,00,000 | 228 | 4 | 1.75
+>2,00,000 and <=2,50,000 | 199 | 4 | 2.01
+>2,50,000 and <= 3,50,000 | 348 | 10 | 2.87
+>3,50,000 and <= 4,00,000 | 121 | 5 | 4.13
+>4,00,000 and <= 4,50,000 | 115 | 5 | 4.35
+116 | 6 | 5.17
+>4,50,000 and <= 5,00,000
+107 | 6 | 5.61
+>5,00,000 and <= 5,50,000
+636 | 46 | 7.23
+>5,50,000 and <= 9,50,000
+62 | 6 | 9.68
+>9,50,000 and <= 10,00,000
+480 | 59 | 12.29
+>10,00,000 and <=15,00,000
+353 | 62 | 17.56
+>15,00,000 and <= 20,00,000
+285 | 64 | 22.46
+>20,00,000 and <= 25,00,000
+845 | 305 | 36.09
+>25,00,000 and <= 50,00,000
+782 | 559 | 71.48
+>50,00,000 and <= 1,00,00,000
+1,108 | 2,503 | 225.90
+>1,00,00,000 and <=5,00,00,000
+250 | 1,778 | 711.20
+>5,00,00,000 and <=10,00,00,000
+225 | 3,500 | 1,555.56
+>10,00,00,000 and <=25,00,00,000
+83 | 3,011 | 3,627.71
+>25,00,00,000 and <=50,00,00,000
+39 | 2,725 | 6,987.18
+>50,00,00,000 and <=100,00,00,000
+>100,00,00,000 and <=500,00,00,000 | 49 | 11,388 | 23,240.82
+>500,00,00,000 | 12 | 15,349 | 1,27,908.33
+Total | 7,70,092 | 41,403
+Notes
+1. Long Term Capital Gains Income is the income from the transfer of long-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Long Term Capital Gains Income” is the sum of Long Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Long Term Capital Gains Income” is the average Long Term Capital Gains
+Income within the value range slab i.e. “Sum of Long Term Capital Gains Income”
+divided by total number of returns within the value range slab
+68
+
+===== PAGE 70 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+6.5 Company- Range of Short Term Capital Gains (AY 2016-17)
+Sum of Short
+Average Short Term
+No. of | Term Capital
+Capital Gains
+Range (in INR)
+Returns | Gains Income
+Income(in Lakh INR)
+(in Crore INR)
+< 0 | - | - | -
+= 0 | 7,49,589 | - | -
+>0 and <=1,50,000 | 8,383 | 36 | 0.43
+>150,000 and <= 2,00,000 | 869 | 15 | 1.73
+>2,00,000 and <=2,50,000 | 664 | 15 | 2.26
+>2,50,000 and <= 3,50,000 | 1,047 | 31 | 2.96
+>3,50,000 and <= 4,00,000 | 388 | 15 | 3.87
+>4,00,000 and <= 4,50,000 | 333 | 14 | 4.20
+321 | 15 | 4.67
+>4,50,000 and <= 5,00,000
+278 | 15 | 5.40
+>5,00,000 and <= 5,50,000
+1,507 | 109 | 7.23
+>5,50,000 and <= 9,50,000
+154 | 15 | 9.74
+>9,50,000 and <= 10,00,000
+1,060 | 131 | 12.36
+>10,00,000 and <=15,00,000
+690 | 119 | 17.25
+>15,00,000 and <= 20,00,000
+509 | 114 | 22.40
+>20,00,000 and <= 25,00,000
+1,297 | 461 | 35.54
+>25,00,000 and <= 50,00,000
+1,054 | 751 | 71.25
+>50,00,000 and <= 1,00,00,000
+1,303 | 2,897 | 222.33
+>1,00,00,000 and <=5,00,00,000
+266 | 1,896 | 712.78
+>5,00,00,000 and <=10,00,00,000
+217 | 3,369 | 1,552.53
+>10,00,00,000 and <=25,00,00,000
+75 | 2,663 | 3,550.67
+>25,00,00,000 and <=50,00,00,000
+43 | 2,922 | 6,795.35
+>50,00,00,000 and <=100,00,00,000
+>100,00,00,000 and <=500,00,00,000 | 41 | 7,500 | 18,292.68
+>500,00,00,000 | 4 | 3,701 | 92,525.00
+Total | 7,70,092 | 26,804
+Notes
+1. Short Term Capital Gains Income is the income from the transfer of short-term capital
+asset(s) as computed in the return of income under the head “Capital Gains”
+2. The “Sum of Short Term Capital Gains Income” is the sum of Short Term Capital Gains
+Income of all returns within the value range slab.
+3. The “Average Short Term Capital Gains Income” is the average Short Term Capital
+Gains Income within the value range slab i.e. “Sum of Short Term Capital Gains Income”
+divided by total number of returns within the value range slab
+69
+
+===== PAGE 71 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+6.6 Company- Range of Other Sources Income (AY 2016-17)
+Sum of Other | Average Other
+No. of
+Sources Income | Sources Income (in
+Range (in INR)
+Returns
+(in Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 6,70,026 | - | -
+>0 and <=1,50,000 | 51,336 | 189 | 0.37
+4,111 | 72 | 1.75
+>150,000 and <= 2,00,000
+3,045 | 68 | 2.23
+>2,00,000 and <=2,50,000
+4,566 | 136 | 2.98
+>2,50,000 and <= 3,50,000
+1,775 | 66 | 3.72
+>3,50,000 and <= 4,00,000
+1,564 | 66 | 4.22
+>4,00,000 and <= 4,50,000
+1,397 | 66 | 4.72
+>4,50,000 and <= 5,00,000
+1,218 | 64 | 5.25
+>5,00,000 and <= 5,50,000
+6,520 | 476 | 7.30
+>5,50,000 and <= 9,50,000
+585 | 57 | 9.74
+>9,50,000 and <= 10,00,000
+4,207 | 518 | 12.31
+>10,00,000 and <=15,00,000
+2,620 | 455 | 17.37
+>15,00,000 and <= 20,00,000
+1,875 | 420 | 22.40
+>20,00,000 and <= 25,00,000
+4,582 | 1,620 | 35.36
+>25,00,000 and <= 50,00,000
+3,399 | 2,391 | 70.34
+>50,00,000 and <= 1,00,00,000
+4,620 | 10,351 | 224.05
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 1,076 | 7,590 | 705.39
+>10,00,00,000 and <=25,00,00,000 | 852 | 13,321 | 1,563.50
+>25,00,00,000 and <=50,00,00,000 | 330 | 11,489 | 3,481.52
+>50,00,00,000 and <=100,00,00,000 | 208 | 14,581 | 7,010.10
+>100,00,00,000 and <=500,00,00,000 | 150 | 30,773 | 20,515.33
+>500,00,00,000 | 30 | 34,845 | 1,16,150.00
+Total | 7,70,092 | 1,29,614
+Notes
+1. Other Sources Income is the income under the head “Income from Other Sources” as
+computed in the return of income
+2. The “Sum of Other Sources Income” is the sum of Other Sources Income of all returns
+within the value range slab.
+3. The “Average Other Sources Income” is the average Other Sources Income within the
+value range slab i.e. “Sum of Other Sources Income” divided by total number of returns
+within the value range slab
+70
+
+===== PAGE 72 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+6.7 Company- Range of Interest Income (AY 2016-17)
+Sum of Interest | Average Interest
+No. of
+Income (in Crore | Income (in Lakh
+Range (in INR)
+Returns
+INR) | INR)
+< 0 | - | - | -
+= 0 | 6,83,611 | - | -
+>0 and <=1,50,000 | 46,212 | 173 | 0.37
+3,742 | 65 | 1.74
+>150,000 and <= 2,00,000
+2,826 | 63 | 2.23
+>2,00,000 and <=2,50,000
+4,175 | 124 | 2.97
+>2,50,000 and <= 3,50,000
+1,614 | 60 | 3.72
+>3,50,000 and <= 4,00,000
+1,414 | 60 | 4.24
+>4,00,000 and <= 4,50,000
+1,241 | 59 | 4.75
+>4,50,000 and <= 5,00,000
+1,111 | 58 | 5.22
+>5,00,000 and <= 5,50,000
+5,785 | 422 | 7.29
+>5,50,000 and <= 9,50,000
+512 | 50 | 9.77
+>9,50,000 and <= 10,00,000
+3,656 | 450 | 12.31
+>10,00,000 and <=15,00,000
+2,262 | 393 | 17.37
+>15,00,000 and <= 20,00,000
+1,593 | 356 | 22.35
+>20,00,000 and <= 25,00,000
+3,776 | 1,328 | 35.17
+>25,00,000 and <= 50,00,000
+2,580 | 1,801 | 69.81
+>50,00,000 and <= 1,00,00,000
+2,867 | 6,146 | 214.37
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 539 | 3,742 | 694.25
+>10,00,00,000 and <=25,00,00,000 | 338 | 5,171 | 1,529.88
+>25,00,00,000 and <=50,00,00,000 | 114 | 3,975 | 3,486.84
+>50,00,00,000 and <=100,00,00,000 | 65 | 4,226 | 6,501.54
+>100,00,00,000 and <=500,00,00,000 | 54 | 11,204 | 20,748.15
+>500,00,00,000 | 5 | 5,412 | 1,08,240.00
+Total | 7,70,092 | 45,338
+Notes
+1. The Interest Income is already included in the Income from other sources.
+2. Interest Income is the Gross Interest Income in the “Income from other sources”
+Schedule of Return of Income. Interest Income data is compiled only for those returns
+where it is explicitly stated in the Return of Income.
+3. The returns in which Income from other sources < Gross interest income, count of such
+returns are displayed under =0 slab.
+4. The “Sum of Interest Income” is the sum of Interest Income of all returns within the value
+range slab.
+5. The “Average Interest Income” is the average Interest Income within the value range
+slab i.e. “Sum of Interest Income” divided by total number of returns within the value
+range slab
+71
+
+===== PAGE 73 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+6.8 Company- Range of Total Loss Set off (AY 2016-17)
+Sum of Total | Average Total
+No. of
+Loss Set Off(in | Loss Set off (in
+Range (in INR)
+Returns
+Crore INR) | Lakh INR)
+< 0 | - | - | -
+= 0 | 6,34,479 | - | -
+>0 and <=1,50,000 | 66,458 | 271 | 0.41
+5,942 | 103 | 1.73
+>150,000 and <= 2,00,000
+4,666 | 105 | 2.25
+>2,00,000 and <=2,50,000
+6,928 | 206 | 2.97
+>2,50,000 and <= 3,50,000
+2,737 | 103 | 3.76
+>3,50,000 and <= 4,00,000
+2,268 | 96 | 4.23
+>4,00,000 and <= 4,50,000
+2,187 | 104 | 4.76
+>4,50,000 and <= 5,00,000
+1,934 | 101 | 5.22
+>5,00,000 and <= 5,50,000
+9,982 | 726 | 7.27
+>5,50,000 and <= 9,50,000
+918 | 89 | 9.69
+>9,50,000 and <= 10,00,000
+6,195 | 762 | 12.30
+>10,00,000 and <=15,00,000
+3,876 | 673 | 17.36
+>15,00,000 and <= 20,00,000
+2,688 | 601 | 22.36
+>20,00,000 and <= 25,00,000
+6,770 | 2,394 | 35.36
+>25,00,000 and <= 50,00,000
+4,643 | 3,267 | 70.36
+>50,00,000 and <= 1,00,00,000
+5,146 | 11,035 | 214.44
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 984 | 6,924 | 703.66
+>10,00,00,000 and <=25,00,00,000 | 748 | 11,503 | 1,537.83
+>25,00,00,000 and <=50,00,00,000 | 252 | 8,972 | 3,560.32
+>50,00,00,000 and <=100,00,00,000 | 140 | 9,484 | 6,774.29
+>100,00,00,000 and <=500,00,00,000 | 126 | 28,556 | 22,663.49
+>500,00,00,000 | 25 | 23,844 | 95,376.00
+Total | 7,70,092 | 1,09,919
+Notes
+1. Total Loss Set Off is the amount of brought forward losses set off against current year’s
+income in the “Computation of total income” Schedule of return of income
+2. The “Sum of Total Loss Set Off” is the sum of Total Loss Set Off of all returns within the
+value range slab.
+3. The “Average Total Loss Set Off” is the average Total Loss Set Off within the value
+range slab i.e. “Sum of Total Loss Set Off” divided by total number of returns within the
+value range slab
+72
+
+===== PAGE 74 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+6.9 Company- Range of Returned Income (AY 2016-17)
+Sum of Returned | Average Returned
+No. of
+Income (in Crore | Income (in Lakh
+Range (in INR)
+Returns
+INR) | INR)
+< 0 | - | - | -
+= 0 | 4,23,906 | - | -
+>0 and <=1,50,000 | 1,26,586 | 540 | 0.43
+13,010 | 226 | 1.74
+>150,000 and <= 2,00,000
+10,571 | 237 | 2.24
+>2,00,000 and <=2,50,000
+16,599 | 494 | 2.98
+>2,50,000 and <= 3,50,000
+6,651 | 249 | 3.74
+>3,50,000 and <= 4,00,000
+6,019 | 255 | 4.24
+>4,00,000 and <= 4,50,000
+5,532 | 263 | 4.75
+>4,50,000 and <= 5,00,000
+4,985 | 262 | 5.26
+>5,00,000 and <= 5,50,000
+28,165 | 2,060 | 7.31
+>5,50,000 and <= 9,50,000
+2,805 | 273 | 9.73
+>9,50,000 and <= 10,00,000
+20,162 | 2,479 | 12.30
+>10,00,000 and <=15,00,000
+13,595 | 2,359 | 17.35
+>15,00,000 and <= 20,00,000
+9,641 | 2,158 | 22.38
+>20,00,000 and <= 25,00,000
+25,930 | 9,216 | 35.54
+>25,00,000 and <= 50,00,000
+20,559 | 14,763 | 71.81
+>50,00,000 and <= 1,00,00,000
+23,260 | 51,489 | 221.36
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 4,787 | 33,887 | 707.90
+>10,00,00,000 and <=25,00,00,000 | 3,723 | 58,252 | 1,564.65
+>25,00,00,000 and <=50,00,00,000 | 1,574 | 55,621 | 3,533.74
+>50,00,00,000 and <=100,00,00,000 | 897 | 62,733 | 6,993.65
+>100,00,00,000 and <=500,00,00,000 | 892 | 1,89,433 | 21,236.88
+>500,00,00,000 | 243 | 5,24,289 | 2,15,756.79
+Total | 7,70,092 | 10,11,538
+Notes
+1. Returned Income is the total income after chapter VI-A deduction and deductions u/s
+10A/10AA (wherever applicable) as computed in the “Computation of total income”
+schedule of return of income
+2. The “Sum of Returned Income” is the sum of Returned Income of all returns within the
+value range slab.
+3. The “Average Returned Income” is the average Returned Income within the value range
+slab i.e. “Sum of Returned Income” divided by total number of returns within the value
+range slab.
+73
+
+===== PAGE 75 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+6.10 Company- Range of Tax Payable (AY 2016-17)
+Sum of Tax
+No. of | Average Tax Payable
+Payable(in Crore
+Range (in INR)
+Returns | (in Lakh INR)
+INR)
+< 0 | - | - | -
+= 0 | 3,76,957 | - | -
+>0 and <=1,50,000 | 2,15,473 | 772 | 0.36
+16,799 | 292 | 1.74
+>150,000 and <= 2,00,000
+12,983 | 291 | 2.24
+>2,00,000 and <=2,50,000
+19,304 | 574 | 2.97
+>2,50,000 and <= 3,50,000
+7,288 | 273 | 3.75
+>3,50,000 and <= 4,00,000
+6,440 | 273 | 4.24
+>4,00,000 and <= 4,50,000
+5,631 | 267 | 4.74
+>4,50,000 and <= 5,00,000
+5,061 | 266 | 5.26
+>5,00,000 and <= 5,50,000
+25,732 | 1,864 | 7.24
+>5,50,000 and <= 9,50,000
+2,139 | 209 | 9.77
+>9,50,000 and <= 10,00,000
+15,921 | 1,950 | 12.25
+>10,00,000 and <=15,00,000
+9,921 | 1,717 | 17.31
+>15,00,000 and <= 20,00,000
+6,558 | 1,468 | 22.38
+>20,00,000 and <= 25,00,000
+15,417 | 5,407 | 35.07
+>25,00,000 and <= 50,00,000
+10,853 | 7,638 | 70.38
+>50,00,000 and <= 1,00,00,000
+12,159 | 26,174 | 215.26
+>1,00,00,000 and <=5,00,00,000
+>5,00,00,000 and <=10,00,00,000 | 2,280 | 15,914 | 697.98
+>10,00,00,000 and <=25,00,00,000 | 1,711 | 26,242 | 1,533.72
+>25,00,00,000 and <=50,00,00,000 | 657 | 22,883 | 3,482.95
+>50,00,00,000 and <=100,00,00,000 | 385 | 26,341 | 6,841.82
+>100,00,00,000 and <=500,00,00,000 | 337 | 66,265 | 19,663.20
+>500,00,00,000 | 86 | 1,46,109 | 1,69,894.19
+Total | 7,70,092 | 3,53,189
+Notes
+1. Tax Payable is the aggregate tax liability as computed in the “Computation of tax liability
+on total income” schedule of return of income. Tax, surcharge, cess & interest after
+giving credit u/s 115JAA/115JD and relief u/s 89/90/90A/91 but before giving credit for
+taxes paid (Advance Tax/ TDS/ TCS/ Self-Assessment Tax) constitute Tax Payable.
+2. The “Sum of Tax Payable” is the sum of Tax Payable of all returns within the value range
+slab.
+3. The “Average Tax Payable” is the average Tax Payable within the value range slab i.e.
+“Sum of Tax Payable” divided by total number of returns within the value range slab.
+74
+
+===== PAGE 76 =====
+Income Tax Return Statistics | Assessment Year 2016-17 | Version 1.0
+7. Type of Business
+75
+
+===== PAGE 77 =====
+7.1 | Type of Business –Corporate and Non- corporate Taxpayers (AY 2016-17)
+Non-
+Total
+Corporate
+Code | Type of Business | corporate
+Taxpayers | Taxpayers
+Taxpayers
+101 | Manufacturing Industry [Agro-based industries] | 12,979 | 57,893 | 70,872
+102 | Manufacturing Industry [Automobile and Auto parts] | 5,282 | 22,297 | 27,579
+103 | Manufacturing Industry [Cement] | 817 | 3,402 | 4,219
+104 | Manufacturing Industry [Diamond cutting] | 512 | 23,189 | 23,701
+105 | Manufacturing Industry [Drugs and Pharmaceuticals] | 6,955 | 16,252 | 23,207
+Manufacturing Industry [Electronics including
+106 | 2,951 | 14,250 | 17,201
+Computer Hardware]
+107 | Manufacturing Industry [Engineering goods] | 11,325 | 64,845 | 76,170
+Manufacturing Industry [Fertilizers, Chemicals,
+108 | 4,376 | 9,603 | 13,979
+Paints]
+109 | Manufacturing Industry [Flour and Rice Mills] | 1,863 | 21,285 | 23,148
+110 | Manufacturing Industry [Food Processing units] | 4,164 | 22,093 | 26,257
+111 | Manufacturing Industry [Marble and Granite] | 2,441 | 13,382 | 15,823
+112 | Manufacturing Industry [Paper] | 1,566 | 6,419 | 7,985
+Manufacturing Industry [Petroleum and
+113 | 771 | 3,406 | 4,177
+Petrochemicals]
+114 | Manufacturing Industry [Power and energy] | 6,556 | 2,153 | 8,709
+115 | Manufacturing Industry [Printing and publishing] | 3,156 | 31,935 | 35,091
+116 | Manufacturing Industry [Rubber] | 1,034 | 4,031 | 5,065
+117 | Manufacturing Industry [Steel] | 4,845 | 9,622 | 14,467
+118 | Manufacturing Industry [Sugar] | 428 | 677 | 1,105
+119 | Manufacturing Industry [Tea, Coffee] | 1,241 | 4,494 | 5,735
+Manufacturing Industry [Textiles, Handloom, Power
+120 | 11,048 | 2,18,070 | 2,29,118
+looms]
+121 | Manufacturing Industry [Tobacco] | 318 | 2,130 | 2,448
+122 | Manufacturing Industry [Tyre] | 172 | 1,543 | 1,715
+123 | Manufacturing Industry [Vanaspati and Edible Oils] | 715 | 2,916 | 3,631
+124 | Manufacturing Industry [Others] | 63,410 | 6,95,689 | 7,59,099
+201 | Trading [Chain stores] | 848 | 27,284 | 28,132
+202 | Trading [Retailers] | 22,917 | 50,84,704 | 51,07,621
+203 | Trading [Wholesalers] | 31,252 | 8,92,740 | 9,23,992
+204 | Trading [Others] | 1,17,545 | 35,78,015 | 36,95,560
+301 | Commission Agents [General Commission Agents] | 5,095 | 12,76,034 | 12,81,129
+
+===== PAGE 78 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers
+Taxpayers
+Taxpayers
+401 | Builders [Builders] | 25,585 | 56,794 | 82,379
+402 | Builders [Estate agents] | 5,191 | 30,213 | 35,404
+403 | Builders [Property Developers] | 37,347 | 46,775 | 84,122
+404 | Builders [Others] | 25,462 | 76,132 | 1,01,594
+501 | Contractors [Civil contractors] | 15,678 | 6,46,727 | 6,62,405
+502 | Contractors [Excise contractors] | 40 | 3,599 | 3,639
+503 | Contractors [Forest contractors] | 10 | 2,170 | 2,180
+504 | Contractors [Mining contractors] | 1,237 | 6,268 | 7,505
+505 | Contractors [Others] | 17,005 | 16,39,256 | 16,56,261
+601 | Professionals [Charted Accountants, Auditors, etc.] | 145 | 92,625 | 92,770
+602 | Professionals [Fashion designers] | 126 | 15,615 | 15,741
+603 | Professionals [Legal professionals] | 462 | 2,38,223 | 2,38,685
+604 | Professionals [Medical professionals] | 2,354 | 3,95,013 | 3,97,367
+605 | Professionals [Nursing Homes] | 1,347 | 12,025 | 13,372
+606 | Professionals [Specialty hospitals] | 1,674 | 4,667 | 6,341
+607 | Professionals [Others] | 7,857 | 12,34,674 | 12,42,531
+701 | Service Sector [Advertisement agencies] | 4,051 | 20,432 | 24,483
+702 | Service Sector [Beauty Parlours] | 500 | 1,10,753 | 1,11,253
+703 | Service Sector [Consultancy Services] | 24,888 | 1,89,975 | 2,14,863
+704 | Service Sector [Courier agencies] | 744 | 12,952 | 13,696
+Service Sector [Computer Training/Educational and
+705 | 5,261 | 1,34,381 | 1,39,642
+Coaching institutes]
+706 | Service Sector [Forex Dealers] | 1,097 | 832 | 1,929
+707 | Service Sector [Hospitality services] | 6,687 | 25,860 | 32,547
+708 | Service Sector [Hotels] | 9,121 | 84,342 | 93,463
+Service Sector [I.T. enabled services, BPO service
+709 | 20,922 | 22,495 | 43,417
+provides]
+710 | Service Sector [Security agencies] | 3,065 | 14,810 | 17,875
+711 | Service Sector [Software development agencies] | 16,861 | 12,771 | 29,632
+712 | Service Sector [Transporters] | 5,933 | 3,41,324 | 3,47,257
+713 | Service Sector [Travel agents, tour operators] | 6,506 | 1,05,235 | 1,11,741
+714 | Service Sector [Others] | 98,481 | 29,88,295 | 30,86,776
+801 | Financial Service Sector [Banking Companies] | 272 | 4,217 | 4,489
+77
+
+===== PAGE 79 =====
+Non-
+Corporate | Total
+Code | Type of Business | corporate
+Taxpayers
+Taxpayers
+Taxpayers
+802 | Financial Service Sector [Chit Funds] | 3,906 | 1,418 | 5,324
+803 | Financial Service Sector [Financial Institutions] | 657 | 4,929 | 5,586
+804 | Financial Service Sector [Financial Service providers] | 3,169 | 17,592 | 20,761
+805 | Financial Service Sector [Leasing Companies] | 618 | 558 | 1,176
+806 | Financial Service Sector [Money Lenders] | 399 | 96,420 | 96,819
+Financial Service Sector [Non-Banking Finance
+807 | 9,377 | 1,878 | 11,255
+Companies]
+Financial Service Sector [Share Brokers, sub-
+808 | 4,161 | 14,728 | 18,889
+brokers, etc.]
+809 | Financial Service Sector [Others] | 18,450 | 90,116 | 1,08,566
+901 | Entertainment Industry [Cable T.V. productions] | 523 | 5,601 | 6,124
+902 | Entertainment Industry [Film distribution] | 463 | 1,452 | 1,915
+903 | Entertainment Industry [Film laboratories] | 56 | 500 | 556
+904 | Entertainment Industry [Motion Picture producers] | 934 | 1,497 | 2,431
+905 | Entertainment Industry [Television Channels] | 517 | 1,951 | 2,468
+906 | Entertainment Industry [Others] | 6,066 | 99,663 | 1,05,729
+XXXX | Others | 48,305 | 15,15,795 | 15,64,100
+Total | 7,70,092 | 2,25,33,901 | 2,33,03,993
+78

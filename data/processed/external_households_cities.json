@@ -1,0 +1,856 @@
+{
+ "price_classes": [
+  {
+   "name": "Destitute",
+   "group": "Destitute",
+   "lo_k": 0,
+   "hi_k": 125
+  },
+  {
+   "name": "Aspirers",
+   "group": "Aspirers",
+   "lo_k": 125,
+   "hi_k": 500
+  },
+  {
+   "name": "Seekers",
+   "group": "Middle class",
+   "lo_k": 500,
+   "hi_k": 1500
+  },
+  {
+   "name": "Strivers",
+   "group": "Middle class",
+   "lo_k": 1500,
+   "hi_k": 3000
+  },
+  {
+   "name": "Near Rich",
+   "group": "Rich",
+   "lo_k": 3000,
+   "hi_k": 5000
+  },
+  {
+   "name": "Clear Rich",
+   "group": "Rich",
+   "lo_k": 5000,
+   "hi_k": 10000
+  },
+  {
+   "name": "Sheer Rich",
+   "group": "Rich",
+   "lo_k": 10000,
+   "hi_k": 20000
+  },
+  {
+   "name": "Super Rich",
+   "group": "Rich",
+   "lo_k": 20000,
+   "hi_k": null
+  }
+ ],
+ "india": {
+  "2015-16": {
+   "households_k": 280577,
+   "classes_k": {
+    "Destitute": 46474,
+    "Aspirers": 155984,
+    "Seekers": 61140,
+    "Strivers": 10117,
+    "Near Rich": 2286,
+    "Clear Rich": 2024,
+    "Sheer Rich": 1495,
+    "Super Rich": 1057
+   },
+   "groups_k": {
+    "Destitute": 46474,
+    "Aspirers": 155984,
+    "Middle class": 71257,
+    "Rich": 6862
+   },
+   "median_l": 2.88,
+   "p25_l": 1.54,
+   "p75_l": 5.77,
+   "p90_l": 12.29,
+   "share_middle_plus": 27.8,
+   "share_rich": 2.4,
+   "rich_k": 6862,
+   "super_rich_k": 1057
+  },
+  "2020-21": {
+   "households_k": 307562,
+   "classes_k": {
+    "Destitute": 45171,
+    "Aspirers": 160792,
+    "Seekers": 77128,
+    "Strivers": 13799,
+    "Near Rich": 3263,
+    "Clear Rich": 3171,
+    "Sheer Rich": 2431,
+    "Super Rich": 1807
+   },
+   "groups_k": {
+    "Destitute": 45171,
+    "Aspirers": 160792,
+    "Middle class": 90927,
+    "Rich": 10672
+   },
+   "median_l": 3.19,
+   "p25_l": 1.64,
+   "p75_l": 7.11,
+   "p90_l": 13.72,
+   "share_middle_plus": 33.0,
+   "share_rich": 3.5,
+   "rich_k": 10672,
+   "super_rich_k": 1807
+  },
+  "2030-31 (projected)": {
+   "households_k": 356283,
+   "classes_k": {
+    "Destitute": 19905,
+    "Aspirers": 136171,
+    "Seekers": 135629,
+    "Strivers": 29423,
+    "Near Rich": 7494,
+    "Clear Rich": 9299,
+    "Sheer Rich": 9266,
+    "Super Rich": 9096
+   },
+   "groups_k": {
+    "Destitute": 19905,
+    "Aspirers": 136171,
+    "Middle class": 165052,
+    "Rich": 35155
+   },
+   "median_l": 5.98,
+   "p25_l": 2.53,
+   "p75_l": 12.3,
+   "p90_l": 29.67,
+   "share_middle_plus": 56.2,
+   "share_rich": 9.9,
+   "rich_k": 35155,
+   "super_rich_k": 9096
+  },
+  "2046-47 (projected)": {
+   "households_k": 420325,
+   "classes_k": {
+    "Destitute": 7222,
+    "Aspirers": 49796,
+    "Seekers": 208087,
+    "Strivers": 54743,
+    "Near Rich": 16163,
+    "Clear Rich": 24131,
+    "Sheer Rich": 27463,
+    "Super Rich": 32720
+   },
+   "groups_k": {
+    "Destitute": 7222,
+    "Aspirers": 49796,
+    "Middle class": 262830,
+    "Rich": 100477
+   },
+   "median_l": 11.22,
+   "p25_l": 6.44,
+   "p75_l": 28.3,
+   "p90_l": 158.11,
+   "share_middle_plus": 86.4,
+   "share_rich": 23.9,
+   "rich_k": 100477,
+   "super_rich_k": 32720
+  }
+ },
+ "rural_urban": {
+  "Rural": {
+   "households_k": 195952,
+   "classes_k": {
+    "Destitute": 38589,
+    "Aspirers": 110925,
+    "Seekers": 37473,
+    "Strivers": 5476,
+    "Near Rich": 1255,
+    "Clear Rich": 1035,
+    "Sheer Rich": 818,
+    "Super Rich": 381
+   },
+   "groups_k": {
+    "Destitute": 38589,
+    "Aspirers": 110925,
+    "Middle class": 42949,
+    "Rich": 3489
+   },
+   "median_l": 2.63,
+   "p25_l": 1.42,
+   "p75_l": 4.84,
+   "p90_l": 10.98,
+   "share_middle_plus": 23.7,
+   "share_rich": 1.8,
+   "rich_k": 3489,
+   "super_rich_k": 381
+  },
+  "Urban": {
+   "households_k": 111611,
+   "classes_k": {
+    "Destitute": 6582,
+    "Aspirers": 49867,
+    "Seekers": 39655,
+    "Strivers": 8323,
+    "Near Rich": 2008,
+    "Clear Rich": 2136,
+    "Sheer Rich": 1614,
+    "Super Rich": 1426
+   },
+   "groups_k": {
+    "Destitute": 6582,
+    "Aspirers": 49867,
+    "Middle class": 47978,
+    "Rich": 7184
+   },
+   "median_l": 4.91,
+   "p25_l": 2.26,
+   "p75_l": 10.64,
+   "p90_l": 21.54,
+   "share_middle_plus": 49.4,
+   "share_rich": 6.4,
+   "rich_k": 7184,
+   "super_rich_k": 1426
+  }
+ },
+ "states": {
+  "Maharashtra": {
+   "households_k": 29396,
+   "classes_k": {
+    "Destitute": 2365,
+    "Aspirers": 14347,
+    "Seekers": 8050,
+    "Strivers": 2016,
+    "Near Rich": 588,
+    "Clear Rich": 721,
+    "Sheer Rich": 661,
+    "Super Rich": 648
+   },
+   "groups_k": {
+    "Destitute": 2365,
+    "Aspirers": 14347,
+    "Middle class": 10066,
+    "Rich": 2618
+   },
+   "median_l": 4.12,
+   "p25_l": 2.02,
+   "p75_l": 10.36,
+   "p90_l": 26.86,
+   "share_middle_plus": 43.1,
+   "share_rich": 8.9,
+   "rich_k": 2618,
+   "super_rich_k": 648
+  },
+  "Delhi": {
+   "households_k": 4208,
+   "classes_k": {
+    "Destitute": 14,
+    "Aspirers": 627,
+    "Seekers": 2232,
+    "Strivers": 594,
+    "Near Rich": 169,
+    "Clear Rich": 209,
+    "Sheer Rich": 182,
+    "Super Rich": 181
+   },
+   "groups_k": {
+    "Destitute": 14,
+    "Aspirers": 627,
+    "Middle class": 2826,
+    "Rich": 741
+   },
+   "median_l": 10.27,
+   "p25_l": 6.12,
+   "p75_l": 20.87,
+   "p90_l": 82.56,
+   "share_middle_plus": 84.8,
+   "share_rich": 17.6,
+   "rich_k": 741,
+   "super_rich_k": 181
+  },
+  "Gujarat": {
+   "households_k": 15045,
+   "classes_k": {
+    "Destitute": 1128,
+    "Aspirers": 8129,
+    "Seekers": 4111,
+    "Strivers": 877,
+    "Near Rich": 228,
+    "Clear Rich": 239,
+    "Sheer Rich": 192,
+    "Super Rich": 141
+   },
+   "groups_k": {
+    "Destitute": 1128,
+    "Aspirers": 8129,
+    "Middle class": 4988,
+    "Rich": 800
+   },
+   "median_l": 3.72,
+   "p25_l": 1.96,
+   "p75_l": 8.59,
+   "p90_l": 17.19,
+   "share_middle_plus": 38.5,
+   "share_rich": 5.3,
+   "rich_k": 800,
+   "super_rich_k": 141
+  },
+  "Tamil Nadu": {
+   "households_k": 22411,
+   "classes_k": {
+    "Destitute": 2483,
+    "Aspirers": 12017,
+    "Seekers": 5827,
+    "Strivers": 1181,
+    "Near Rich": 284,
+    "Clear Rich": 279,
+    "Sheer Rich": 203,
+    "Super Rich": 137
+   },
+   "groups_k": {
+    "Destitute": 2483,
+    "Aspirers": 12017,
+    "Middle class": 7008,
+    "Rich": 903
+   },
+   "median_l": 3.42,
+   "p25_l": 1.79,
+   "p75_l": 7.73,
+   "p90_l": 14.56,
+   "share_middle_plus": 35.3,
+   "share_rich": 4.0,
+   "rich_k": 903,
+   "super_rich_k": 137
+  },
+  "Punjab": {
+   "households_k": 6634,
+   "classes_k": {
+    "Destitute": 198,
+    "Aspirers": 2540,
+    "Seekers": 2734,
+    "Strivers": 589,
+    "Near Rich": 159,
+    "Clear Rich": 168,
+    "Sheer Rich": 145,
+    "Super Rich": 101
+   },
+   "groups_k": {
+    "Destitute": 198,
+    "Aspirers": 2540,
+    "Middle class": 3323,
+    "Rich": 573
+   },
+   "median_l": 6.31,
+   "p25_l": 2.77,
+   "p75_l": 12.29,
+   "p90_l": 26.97,
+   "share_middle_plus": 58.7,
+   "share_rich": 8.6,
+   "rich_k": 573,
+   "super_rich_k": 101
+  },
+  "Karnataka": {
+   "households_k": 16299,
+   "classes_k": {
+    "Destitute": 1506,
+    "Aspirers": 7609,
+    "Seekers": 5553,
+    "Strivers": 973,
+    "Near Rich": 223,
+    "Clear Rich": 203,
+    "Sheer Rich": 141,
+    "Super Rich": 91
+   },
+   "groups_k": {
+    "Destitute": 1506,
+    "Aspirers": 7609,
+    "Middle class": 6526,
+    "Rich": 658
+   },
+   "median_l": 4.19,
+   "p25_l": 2.0,
+   "p75_l": 9.25,
+   "p90_l": 15.01,
+   "share_middle_plus": 44.1,
+   "share_rich": 4.0,
+   "rich_k": 658,
+   "super_rich_k": 91
+  },
+  "West Bengal": {
+   "households_k": 24691,
+   "classes_k": {
+    "Destitute": 4978,
+    "Aspirers": 12938,
+    "Seekers": 5254,
+    "Strivers": 909,
+    "Near Rich": 205,
+    "Clear Rich": 189,
+    "Sheer Rich": 130,
+    "Super Rich": 88
+   },
+   "groups_k": {
+    "Destitute": 4978,
+    "Aspirers": 12938,
+    "Middle class": 6163,
+    "Rich": 612
+   },
+   "median_l": 2.75,
+   "p25_l": 1.42,
+   "p75_l": 5.67,
+   "p90_l": 12.3,
+   "share_middle_plus": 27.4,
+   "share_rich": 2.5,
+   "rich_k": 612,
+   "super_rich_k": 88
+  },
+  "Uttar Pradesh": {
+   "households_k": 41826,
+   "classes_k": {
+    "Destitute": 6119,
+    "Aspirers": 22851,
+    "Seekers": 10490,
+    "Strivers": 1556,
+    "Near Rich": 324,
+    "Clear Rich": 251,
+    "Sheer Rich": 165,
+    "Super Rich": 70
+   },
+   "groups_k": {
+    "Destitute": 6119,
+    "Aspirers": 22851,
+    "Middle class": 12046,
+    "Rich": 810
+   },
+   "median_l": 3.07,
+   "p25_l": 1.63,
+   "p75_l": 6.43,
+   "p90_l": 12.4,
+   "share_middle_plus": 30.7,
+   "share_rich": 1.9,
+   "rich_k": 810,
+   "super_rich_k": 70
+  },
+  "Haryana": {
+   "households_k": 6089,
+   "classes_k": {
+    "Destitute": 136,
+    "Aspirers": 2342,
+    "Seekers": 2626,
+    "Strivers": 531,
+    "Near Rich": 136,
+    "Clear Rich": 136,
+    "Sheer Rich": 112,
+    "Super Rich": 70
+   },
+   "groups_k": {
+    "Destitute": 136,
+    "Aspirers": 2342,
+    "Middle class": 3157,
+    "Rich": 454
+   },
+   "median_l": 6.34,
+   "p25_l": 2.84,
+   "p75_l": 11.98,
+   "p90_l": 24.51,
+   "share_middle_plus": 59.3,
+   "share_rich": 7.5,
+   "rich_k": 454,
+   "super_rich_k": 70
+  },
+  "Telangana": {
+   "households_k": 10178,
+   "classes_k": {
+    "Destitute": 977,
+    "Aspirers": 5074,
+    "Seekers": 3227,
+    "Strivers": 554,
+    "Near Rich": 122,
+    "Clear Rich": 108,
+    "Sheer Rich": 72,
+    "Super Rich": 44
+   },
+   "groups_k": {
+    "Destitute": 977,
+    "Aspirers": 5074,
+    "Middle class": 3781,
+    "Rich": 346
+   },
+   "median_l": 3.84,
+   "p25_l": 1.92,
+   "p75_l": 8.57,
+   "p90_l": 14.41,
+   "share_middle_plus": 40.5,
+   "share_rich": 3.4,
+   "rich_k": 346,
+   "super_rich_k": 44
+  }
+ },
+ "cities": {
+  "Mumbai": {
+   "households_k": 4624,
+   "classes_k": {
+    "Destitute": 27,
+    "Aspirers": 1210,
+    "Seekers": 1864,
+    "Strivers": 578,
+    "Near Rich": 183,
+    "Clear Rich": 252,
+    "Sheer Rich": 241,
+    "Super Rich": 269
+   },
+   "groups_k": {
+    "Destitute": 27,
+    "Aspirers": 1210,
+    "Middle class": 2442,
+    "Rich": 945
+   },
+   "median_l": 9.42,
+   "p25_l": 4.56,
+   "p75_l": 23.29,
+   "p90_l": 114.67,
+   "share_middle_plus": 73.2,
+   "share_rich": 20.4,
+   "rich_k": 945,
+   "super_rich_k": 269,
+   "state": "Maharashtra",
+   "hurun_2025": 142000,
+   "per_capita": {
+    "value": 455767,
+    "year": "2023-24",
+    "source": "Per-capita NDDP, Mumbai city + suburban \u00b7 Maharashtra Economic Survey 2024-25"
+   }
+  },
+  "Delhi": {
+   "households_k": 4086,
+   "classes_k": {
+    "Destitute": 12,
+    "Aspirers": 586,
+    "Seekers": 2175,
+    "Strivers": 582,
+    "Near Rich": 166,
+    "Clear Rich": 206,
+    "Sheer Rich": 179,
+    "Super Rich": 180
+   },
+   "groups_k": {
+    "Destitute": 12,
+    "Aspirers": 586,
+    "Middle class": 2757,
+    "Rich": 731
+   },
+   "median_l": 10.37,
+   "p25_l": 6.19,
+   "p75_l": 21.23,
+   "p90_l": 84.63,
+   "share_middle_plus": 85.4,
+   "share_rich": 17.9,
+   "rich_k": 731,
+   "super_rich_k": 180,
+   "state": "Delhi",
+   "hurun_2025": 68200,
+   "per_capita": {
+    "value": 457708,
+    "year": "2023-24",
+    "source": "Per-capita income \u00b7 Economic Survey of Delhi 2025-26"
+   }
+  },
+  "Pune": {
+   "households_k": 1592,
+   "classes_k": {
+    "Destitute": 7,
+    "Aspirers": 464,
+    "Seekers": 620,
+    "Strivers": 191,
+    "Near Rich": 60,
+    "Clear Rich": 83,
+    "Sheer Rich": 79,
+    "Super Rich": 88
+   },
+   "groups_k": {
+    "Destitute": 7,
+    "Aspirers": 464,
+    "Middle class": 811,
+    "Rich": 310
+   },
+   "median_l": 8.89,
+   "p25_l": 4.02,
+   "p75_l": 21.8,
+   "p90_l": 107.08,
+   "share_middle_plus": 70.4,
+   "share_rich": 19.5,
+   "rich_k": 310,
+   "super_rich_k": 88,
+   "state": "Maharashtra",
+   "hurun_2025": 22500,
+   "per_capita": {
+    "value": 374257,
+    "year": "2023-24",
+    "source": "Per-capita NDDP \u00b7 Maharashtra Economic Survey 2024-25"
+   }
+  },
+  "Kolkata": {
+   "households_k": 3712,
+   "classes_k": {
+    "Destitute": 54,
+    "Aspirers": 1733,
+    "Seekers": 1323,
+    "Strivers": 316,
+    "Near Rich": 81,
+    "Clear Rich": 88,
+    "Sheer Rich": 65,
+    "Super Rich": 52
+   },
+   "groups_k": {
+    "Destitute": 54,
+    "Aspirers": 1733,
+    "Middle class": 1639,
+    "Rich": 286
+   },
+   "median_l": 5.29,
+   "p25_l": 2.52,
+   "p75_l": 11.44,
+   "p90_l": 24.89,
+   "share_middle_plus": 51.9,
+   "share_rich": 7.7,
+   "rich_k": 286,
+   "super_rich_k": 52,
+   "state": "West Bengal",
+   "hurun_2025": 26600,
+   "per_capita": {
+    "value": 246110,
+    "year": "2020-21",
+    "source": "Per-capita GDP, Kolkata district \u00b7 older estimate"
+   }
+  },
+  "Chennai": {
+   "households_k": 2651,
+   "classes_k": {
+    "Destitute": 28,
+    "Aspirers": 703,
+    "Seekers": 1353,
+    "Strivers": 310,
+    "Near Rich": 77,
+    "Clear Rich": 80,
+    "Sheer Rich": 57,
+    "Super Rich": 43
+   },
+   "groups_k": {
+    "Destitute": 28,
+    "Aspirers": 703,
+    "Middle class": 1663,
+    "Rich": 257
+   },
+   "median_l": 8.1,
+   "p25_l": 4.37,
+   "p75_l": 13.88,
+   "p90_l": 29.46,
+   "share_middle_plus": 72.4,
+   "share_rich": 9.7,
+   "rich_k": 257,
+   "super_rich_k": 43,
+   "state": "Tamil Nadu",
+   "hurun_2025": 22800,
+   "per_capita": {
+    "value": 646218,
+    "year": "2023-24",
+    "source": "Per-capita income, Chennai district \u00b7 Tamil Nadu DES"
+   }
+  },
+  "Nagpur": {
+   "households_k": 697,
+   "classes_k": {
+    "Destitute": 8,
+    "Aspirers": 209,
+    "Seekers": 263,
+    "Strivers": 82,
+    "Near Rich": 26,
+    "Clear Rich": 36,
+    "Sheer Rich": 34,
+    "Super Rich": 39
+   },
+   "groups_k": {
+    "Destitute": 8,
+    "Aspirers": 209,
+    "Middle class": 345,
+    "Rich": 135
+   },
+   "median_l": 8.66,
+   "p25_l": 3.77,
+   "p75_l": 21.53,
+   "p90_l": 106.96,
+   "share_middle_plus": 68.9,
+   "share_rich": 19.4,
+   "rich_k": 135,
+   "super_rich_k": 39,
+   "state": "Maharashtra",
+   "hurun_2025": null,
+   "per_capita": {
+    "value": 322927,
+    "year": "2023-24",
+    "source": "Per-capita NDDP \u00b7 Maharashtra Economic Survey 2024-25"
+   }
+  },
+  "Ahmedabad": {
+   "households_k": 1653,
+   "classes_k": {
+    "Destitute": 19,
+    "Aspirers": 694,
+    "Seekers": 614,
+    "Strivers": 158,
+    "Near Rich": 43,
+    "Clear Rich": 50,
+    "Sheer Rich": 40,
+    "Super Rich": 35
+   },
+   "groups_k": {
+    "Destitute": 19,
+    "Aspirers": 694,
+    "Middle class": 772,
+    "Rich": 168
+   },
+   "median_l": 6.13,
+   "p25_l": 2.75,
+   "p75_l": 12.83,
+   "p90_l": 30.98,
+   "share_middle_plus": 56.9,
+   "share_rich": 10.2,
+   "rich_k": 168,
+   "super_rich_k": 35,
+   "state": "Gujarat",
+   "hurun_2025": 26800,
+   "per_capita": {
+    "value": 654000,
+    "year": "2024-25",
+    "source": "Per-capita GDP, Ahmedabad district \u00b7 secondary report of state estimate"
+   }
+  },
+  "Surat": {
+   "households_k": 1658,
+   "classes_k": {
+    "Destitute": 24,
+    "Aspirers": 831,
+    "Seekers": 522,
+    "Strivers": 135,
+    "Near Rich": 37,
+    "Clear Rich": 43,
+    "Sheer Rich": 35,
+    "Super Rich": 31
+   },
+   "groups_k": {
+    "Destitute": 24,
+    "Aspirers": 831,
+    "Middle class": 657,
+    "Rich": 146
+   },
+   "median_l": 4.79,
+   "p25_l": 2.4,
+   "p75_l": 11.33,
+   "p90_l": 27.1,
+   "share_middle_plus": 48.4,
+   "share_rich": 8.8,
+   "rich_k": 146,
+   "super_rich_k": 31,
+   "state": "Gujarat",
+   "hurun_2025": 5700,
+   "per_capita": {
+    "value": 407000,
+    "year": "2024-25",
+    "source": "Per-capita GDP, Surat district \u00b7 secondary report, low confidence"
+   }
+  },
+  "Nashik": {
+   "households_k": 538,
+   "classes_k": {
+    "Destitute": 16,
+    "Aspirers": 205,
+    "Seekers": 171,
+    "Strivers": 54,
+    "Near Rich": 17,
+    "Clear Rich": 24,
+    "Sheer Rich": 24,
+    "Super Rich": 27
+   },
+   "groups_k": {
+    "Destitute": 16,
+    "Aspirers": 205,
+    "Middle class": 225,
+    "Rich": 92
+   },
+   "median_l": 6.81,
+   "p25_l": 2.79,
+   "p75_l": 17.39,
+   "p90_l": 92.23,
+   "share_middle_plus": 58.9,
+   "share_rich": 17.1,
+   "rich_k": 92,
+   "super_rich_k": 27,
+   "state": "Maharashtra",
+   "hurun_2025": null,
+   "per_capita": {
+    "value": 249000,
+    "year": "2023-24",
+    "source": "Per-capita NDDP \u00b7 Maharashtra Economic Survey 2024-25"
+   }
+  },
+  "Bengaluru": {
+   "households_k": 3153,
+   "classes_k": {
+    "Destitute": 35,
+    "Aspirers": 1240,
+    "Seekers": 1393,
+    "Strivers": 294,
+    "Near Rich": 67,
+    "Clear Rich": 62,
+    "Sheer Rich": 38,
+    "Super Rich": 24
+   },
+   "groups_k": {
+    "Destitute": 35,
+    "Aspirers": 1240,
+    "Middle class": 1687,
+    "Rich": 191
+   },
+   "median_l": 6.34,
+   "p25_l": 2.9,
+   "p75_l": 11.81,
+   "p90_l": 22.38,
+   "share_middle_plus": 59.6,
+   "share_rich": 6.1,
+   "rich_k": 191,
+   "super_rich_k": 24,
+   "state": "Karnataka",
+   "hurun_2025": 31600,
+   "per_capita": {
+    "value": 780321,
+    "year": "2022-23",
+    "source": "Per-capita income, Bengaluru Urban \u00b7 Karnataka DES"
+   }
+  }
+ },
+ "hurun_2025": {
+  "Mumbai": 142000,
+  "Delhi": 68200,
+  "Bengaluru": 31600,
+  "Ahmedabad": 26800,
+  "Kolkata": 26600,
+  "Chennai": 22800,
+  "Pune": 22500,
+  "Hyderabad": 19800,
+  "Gurugram": 10100,
+  "Surat": 5700
+ },
+ "itr_forms_ay2024_25": {
+  "ITR-1 (salary, one house, other sources; income up to Rs 50L)": 33400000,
+  "ITR-2 (salary + capital gains / more than one house)": 10900000,
+  "ITR-3 (business or profession with books of account)": 9110000,
+  "ITR-4 (presumptive business income, Sec 44AD/44ADA/44AE)": 18800000,
+  "ITR-5 to ITR-7 (firms, trusts, others)": 748000
+ },
+ "sources": {
+  "price": "PRICE ICE 360 Surveys 2014/2016/2021 \u2014 'The Rise of India's Middle Class', executive summary (price360.in)",
+  "hurun": "Mercedes-Benz Hurun India Wealth Report 2025",
+  "pib": "PIB, 'Record 7.28 crore ITRs filed for AY 2024-25 till 31st July, 2024'"
+ }
+}
