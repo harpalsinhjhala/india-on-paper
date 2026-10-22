@@ -2,7 +2,7 @@
 
 *A portfolio project by Harpal Sinh Jhala.*
 
-**Live dashboard:** https://harpalsinhjhala13.github.io/india-on-paper/
+**Live dashboard:** https://harpalsinhjhala.github.io/india-on-paper/
 
 A dashboard built on ten years of India's public income-tax return statistics (AY 2014-15 to AY 2023-24,
 the latest CBDT has published), answering:
